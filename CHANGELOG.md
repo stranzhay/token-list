@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.2.154 (2021-06-27)
+
+
+### Bug Fixes
+
+* add missing "tags" field to renBTC ([#450](https://github.com/solana-labs/token-list/issues/450)) ([acd5bd9](https://github.com/solana-labs/token-list/commit/acd5bd9b594956a66c6083db0a15600e83c0e1cd))
+
 ### 0.2.153 (2021-06-25)
 
 ### 0.2.152 (2021-06-24)
