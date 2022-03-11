@@ -129490,6 +129490,18 @@
         "twitter": "https://twitter.com/codingmiracle",
         "website": "https://codingmiracle.github.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6ywd9eSkajgWf91tSyZxERjNZkFTHY8C37dGH7kkEDWX",
+      "symbol": "RYDE",
+      "name": "Fairyde Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ywd9eSkajgWf91tSyZxERjNZkFTHY8C37dGH7kkEDWX/logo.png",
+      "tags": [
+        "ride-hailing-token",
+        "RYDE"
+      ]
     }
   ],
   "version": {
