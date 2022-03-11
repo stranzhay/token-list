@@ -129398,6 +129398,62 @@
       "name": "Cof Coin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CGtYHv8WgfRBytCkmbFPuTsYTEQe57Gi6hGb4PGKDxXa/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+      "symbol": "SLNA",
+      "name": "Soluna Governance Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+      "extensions": {
+        "website": "https://soluna.money/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "rMDeu774jQqT4fnDm9qcCRWFCm6jvZ7YRfwzqNsSj5j",
+      "symbol": "MIO",
+      "name": "Miomi",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rMDeu774jQqT4fnDm9qcCRWFCm6jvZ7YRfwzqNsSj5j/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "beanZG7tYRxHyTTm9pFSNqStL7AZFo2FirFkH1dLZzc",
+      "symbol": "BEAN",
+      "name": "BEAN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/beanZG7tYRxHyTTm9pFSNqStL7AZFo2FirFkH1dLZzc/logo.jpg",
+      "tags": [
+        "utility-token",
+        "governance-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MagicBeanCoin",
+        "website": "https://magicbean.social/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6AnQyR4fypvEWdArxg6hSpbvLBVwDiMGeYBeb9tHpR2p",
+      "symbol": "SRF",
+      "name": "Solar's Refunding Firm",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Reg1337/RegCoin/main/Webp.net-compress-image.jpg",
+      "tags": [
+        "Refunding",
+        "RefundGod",
+        "Community",
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SW3Bzm2wEJ",
+        "telegram": "https://t.me/SolarRefundingFirm"
+      }
     }
   ],
   "version": {
