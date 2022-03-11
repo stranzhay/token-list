@@ -129597,6 +129597,31 @@
         "twitter": "https://twitter.com/douncommongood",
         "website": "https://douncommongood.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GiF3aStC3TwyaxoHE7UKMPxhCbCg92ar8JXDS8nfLT6U",
+      "symbol": "VSRF",
+      "name": "VS Rewards",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kookej/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4QvgYkBd4XbkHrXXvYW1gPFvy3dMZZSWfC8ctsSp6T5X",
+      "symbol": "MC",
+      "name": "MuscleCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4QvgYkBd4XbkHrXXvYW1gPFvy3dMZZSWfC8ctsSp6T5X/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://musclecoin.is/"
+      }
     }
   ],
   "version": {
