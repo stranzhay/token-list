@@ -129436,6 +129436,24 @@
         "twitter": "https://twitter.com/MagicBeanCoin",
         "website": "https://magicbean.social/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6AnQyR4fypvEWdArxg6hSpbvLBVwDiMGeYBeb9tHpR2p",
+      "symbol": "SRF",
+      "name": "Solar's Refunding Firm",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Reg1337/RegCoin/main/Webp.net-compress-image.jpg",
+      "tags": [
+        "Refunding",
+        "RefundGod",
+        "Community",
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SW3Bzm2wEJ",
+        "telegram": "https://t.me/SolarRefundingFirm"
+      }
     }
   ],
   "version": {
