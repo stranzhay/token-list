@@ -129633,6 +129633,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "TENJmPxVHvGyoN6nNaW2dF3VmJjcgb5jVTSaAaUu6Aa",
+      "symbol": "TNJ",
+      "name": "TENJIN WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TENJmPxVHvGyoN6nNaW2dF3VmJjcgb5jVTSaAaUu6Aa/logo.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/tenjin3dnft",
+        "website": "https://www.projecttenjin.io/"
+      }
     }
   ],
   "version": {
