@@ -129678,6 +129678,17 @@
         "twitter": "https://twitter.com/pen_frens",
         "website": "https://penfrens.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AKdoFM6nBH2pTYqbd1hhe1KSnXN3WRaYjEkGKRTu1y2Z",
+      "symbol": "FTM",
+      "name": "Future Trading Meta",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Aindari/crypto-token-/main/FTM.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
