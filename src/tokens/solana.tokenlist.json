@@ -129313,6 +129313,20 @@
         "Show",
         "Social"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "tpt8Q3PBPbkt8kypMH8P48E5SU13ttRAKTyhYPB8q4X",
+      "symbol": "TPT",
+      "name": "Trashpile Presale Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tpt8Q3PBPbkt8kypMH8P48E5SU13ttRAKTyhYPB8q4X/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://trashpiles.io"
+      }
     }
   ],
   "version": {
