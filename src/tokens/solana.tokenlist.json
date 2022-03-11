@@ -129502,6 +129502,21 @@
         "ride-hailing-token",
         "RYDE"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "JDBfYTBh4FqdrbawJnjHGLhijhwm3HBvjbcUtL9UnyPR",
+      "symbol": "NBLK",
+      "name": "NeonBlocks Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JDBfYTBh4FqdrbawJnjHGLhijhwm3HBvjbcUtL9UnyPR/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/XEV3azMgsB",
+        "twitter": "https://twitter.com/NeonBlocksNFT"
+      }
     }
   ],
   "version": {
