@@ -129368,6 +129368,17 @@
         "twitter": "https://twitter.com/solanabeargang",
         "website": "https://solanabeargang.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A1FmYQ3kXePPxpsnPPYFB8s25m7eWwSQmUzMwHMe9uUx",
+      "symbol": "TCTY",
+      "name": "The City Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ColstonKevin/Crypto/main/detroit-city-skyline-5096060_640.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
