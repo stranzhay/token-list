@@ -129349,6 +129349,36 @@
       "tags": [
         "stablecoin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HDRfVAY8Q54YnxhQPpc1ngHVEswU8k39cegCTZXnY5LE",
+      "symbol": "BERRY",
+      "name": "SBG Berry",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HDRfVAY8Q54YnxhQPpc1ngHVEswU8k39cegCTZXnY5LE/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "In Solana Bear Gang you can earn $BERRY by sending your bears on Missions and more!",
+        "discord": "https://discord.gg/Xn9WHM2RbN",
+        "twitter": "https://twitter.com/solanabeargang",
+        "website": "https://solanabeargang.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "A1FmYQ3kXePPxpsnPPYFB8s25m7eWwSQmUzMwHMe9uUx",
+      "symbol": "TCTY",
+      "name": "The City Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ColstonKevin/Crypto/main/detroit-city-skyline-5096060_640.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
