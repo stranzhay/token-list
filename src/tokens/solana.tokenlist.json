@@ -129517,6 +129517,22 @@
         "discord": "https://discord.gg/XEV3azMgsB",
         "twitter": "https://twitter.com/NeonBlocksNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9RdGrj2x88fCDTpQDiWzvzgYMApoakSCV3eJWR8JLjCK",
+      "symbol": "BBWL",
+      "name": "Begrudged WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/cmgonsalves/wl-token/main/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/9ygPYaw9xN",
+        "twitter": "https://twitter.com/begrudgeddao",
+        "website": "https://www.begrudgedbunnies.com/"
+      }
     }
   ],
   "version": {
