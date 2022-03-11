@@ -129409,6 +129409,17 @@
       "extensions": {
         "website": "https://soluna.money/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "rMDeu774jQqT4fnDm9qcCRWFCm6jvZ7YRfwzqNsSj5j",
+      "symbol": "MIO",
+      "name": "Miomi",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rMDeu774jQqT4fnDm9qcCRWFCm6jvZ7YRfwzqNsSj5j/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
