@@ -129622,6 +129622,17 @@
       "extensions": {
         "website": "https://musclecoin.is/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2JKkkZYHxXvsX6BZac58SrheWN62Jq5Ua3E42NjRmkuL",
+      "symbol": "JYCN",
+      "name": "JoeyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/joemc3/joecoin/main/joeyCoin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
