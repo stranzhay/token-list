@@ -129327,6 +129327,17 @@
       "extensions": {
         "website": "https://trashpiles.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CCDj1SnaEEi5QNBGiBhs2K8yns4NCE9TX5vGg2UN42Ww",
+      "symbol": "DIAC",
+      "name": "Dia Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/xXMrZombie20Xx/DIAC/main/DIAC.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
