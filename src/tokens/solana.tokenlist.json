@@ -129597,6 +129597,17 @@
         "twitter": "https://twitter.com/douncommongood",
         "website": "https://douncommongood.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GiF3aStC3TwyaxoHE7UKMPxhCbCg92ar8JXDS8nfLT6U",
+      "symbol": "VSRF",
+      "name": "VS Rewards",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kookej/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
