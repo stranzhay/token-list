@@ -129454,6 +129454,69 @@
         "discord": "https://discord.gg/SW3Bzm2wEJ",
         "telegram": "https://t.me/SolarRefundingFirm"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GnyQey471sZqakFBR61oGmPyZzJB4JaSCk6H1CQzSf3X",
+      "symbol": "COTA",
+      "name": "Children of the Almighties",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ChildrenoftheAlmighties/cotatoken/main/assets/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "stake-pool-token"
+      ],
+      "extensions": {
+        "description": "Children of the Almighties is the Ultimate Gamers Community on Solana",
+        "discord": "https://discord.gg/BNJfkQGNYM",
+        "twitter": "https://twitter.com/CotA_solana",
+        "website": "https://childrenofthealmighties.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3baWGQ4b6sXwv2daBy3NNTQpwYh9mBXXe71abPx9Mgnw",
+      "symbol": "CODE",
+      "name": "the codingmiracle token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/codingmiracle/Solana-Token/main/token/CODE/code-logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/codingmiracle",
+        "twitter": "https://twitter.com/codingmiracle",
+        "website": "https://codingmiracle.github.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6ywd9eSkajgWf91tSyZxERjNZkFTHY8C37dGH7kkEDWX",
+      "symbol": "RYDE",
+      "name": "Fairyde Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ywd9eSkajgWf91tSyZxERjNZkFTHY8C37dGH7kkEDWX/logo.png",
+      "tags": [
+        "ride-hailing-token",
+        "RYDE"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "JDBfYTBh4FqdrbawJnjHGLhijhwm3HBvjbcUtL9UnyPR",
+      "symbol": "NBLK",
+      "name": "NeonBlocks Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JDBfYTBh4FqdrbawJnjHGLhijhwm3HBvjbcUtL9UnyPR/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/XEV3azMgsB",
+        "twitter": "https://twitter.com/NeonBlocksNFT"
+      }
     }
   ],
   "version": {
