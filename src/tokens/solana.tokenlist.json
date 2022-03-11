@@ -129420,6 +129420,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "beanZG7tYRxHyTTm9pFSNqStL7AZFo2FirFkH1dLZzc",
+      "symbol": "BEAN",
+      "name": "BEAN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/beanZG7tYRxHyTTm9pFSNqStL7AZFo2FirFkH1dLZzc/logo.jpg",
+      "tags": [
+        "utility-token",
+        "governance-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MagicBeanCoin",
+        "website": "https://magicbean.social/"
+      }
     }
   ],
   "version": {
