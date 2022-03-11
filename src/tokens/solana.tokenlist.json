@@ -129338,6 +129338,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DCg5GuAyxRwtM2VcSAJbgHesi1XqSqV1FAtV6T3VatcR",
+      "symbol": "HKDD",
+      "name": "DEFINIS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Definis-HKDD/Smart-Contract-/main/logo.png",
+      "tags": [
+        "stablecoin"
+      ]
     }
   ],
   "version": {
