@@ -129398,6 +129398,17 @@
       "name": "Cof Coin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CGtYHv8WgfRBytCkmbFPuTsYTEQe57Gi6hGb4PGKDxXa/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+      "symbol": "SLNA",
+      "name": "Soluna Governance Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+      "extensions": {
+        "website": "https://soluna.money/"
+      }
     }
   ],
   "version": {
