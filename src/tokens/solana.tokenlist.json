@@ -130042,6 +130042,74 @@
         "twitter": "https://twitter.com/wecap_io",
         "website": "https://wecap.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CYGGn3Pp6BnXJXxvz3Ym4sKHJPgJXVq9UsumyjMJCsnE",
+      "symbol": "SCHK",
+      "name": "SchultzKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/thebartster/schultzcoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5cMLFikqJ6DpFzjD7sQf9CoqTGQVB4ELfPN78NBfBofv",
+      "symbol": "$ONLY",
+      "name": "ONLY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/setoKaibalol/pictures/main/pic/Only_HODLers_PFP.png",
+      "tags": [
+        "Meme-Token",
+        "Commerce"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/OnlyHODLers"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GnrXhsbf2TtHaRr5Fa2UUQEsXzcAX9HnJqrQPUUR6yAx",
+      "symbol": "REWARDS",
+      "name": "MCPREWARDS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GnrXhsbf2TtHaRr5Fa2UUQEsXzcAX9HnJqrQPUUR6yAx/logo.png",
+      "tags": [
+        "NFT",
+        "reward-token",
+        "casino",
+        "game",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/AuwdjCWfVb",
+        "twitter": "https://twitter.com/casino_pandas",
+        "website": "http://millionairecasino.games"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7BXSXbcUxN4jHcnaxh2aA1trCpr9xbcb2q3qywQCurKq",
+      "symbol": "FAIS",
+      "name": "Financial Artificial Intelligence Systems",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7BXSXbcUxN4jHcnaxh2aA1trCpr9xbcb2q3qywQCurKq/FAIS.png",
+      "tags": [
+        "utility-token",
+        "security-token"
+      ],
+      "extensions": {
+        "description": "Financial Artificial Intelligence Systems delivers a user-friendly AI-supported platform for financial and management accounting.",
+        "linkedin": "https://www.linkedin.com/company/faisystems/",
+        "telegram": "https://t.me/fais_discuss",
+        "telegramAnnouncements": "https://t.me/fais_announce",
+        "twitter": "https://twitter.com/fai_systems",
+        "website": "https://www.faisystems.com",
+        "whitepaper": "https://base.faisystems.com/whitepaper.pdf"
+      }
     }
   ],
   "version": {
