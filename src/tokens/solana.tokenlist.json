@@ -130042,6 +130042,17 @@
         "twitter": "https://twitter.com/wecap_io",
         "website": "https://wecap.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CYGGn3Pp6BnXJXxvz3Ym4sKHJPgJXVq9UsumyjMJCsnE",
+      "symbol": "SCHK",
+      "name": "SchultzKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/thebartster/schultzcoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
