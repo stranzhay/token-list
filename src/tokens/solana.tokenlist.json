@@ -130138,6 +130138,17 @@
       "extensions": {
         "discord": "https://discord.gg/NUGkd72SGr"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8pdW1cHbX182TcMTb5hrEPhTimTdDm8ACe7a3TBkkiDG",
+      "symbol": "ACRO",
+      "name": "Atomic Rhino",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Atomiceatscode/cryptoo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
