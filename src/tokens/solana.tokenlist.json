@@ -130228,6 +130228,17 @@
         "twitter": "https://twitter.com/tenjin3dnft",
         "website": "https://www.projecttenjin.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6odZreTZYmgyqe4jJwE1A66CbbUGJpstwYNfMw4FJbQp",
+      "symbol": "May",
+      "name": "May Koin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/steelhitman/Crypto-Token-May/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
