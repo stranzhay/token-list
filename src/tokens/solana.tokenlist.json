@@ -129803,6 +129803,17 @@
         "twitter": "https://twitter.com/HoroikiNFT",
         "website": "https://www.horoikimono.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8WPqBwThv7dtFt3BTgsfDJjM8kPphrhTDHGz3iiqePiB",
+      "symbol": "PARA",
+      "name": "Parabolic",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TylerDurden69420/Parabolically-Token/main/%24PARA%20TOKEN.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
