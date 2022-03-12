@@ -16603,6 +16603,7 @@
         "utility-token"
       ],
       "extensions": {
+        "coingeckoId": "kurobi",
         "github": "https://github.com/KurobiHq/",
         "medium": "https://kurobi.medium.com/",
         "telegram": "https://t.me/kurobi_io",
