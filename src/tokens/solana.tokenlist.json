@@ -130239,6 +130239,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9JqZDg3awhhwZPh83QE2bSkqfJdRuJeUEKPpKWYUDst9",
+      "symbol": "HUF",
+      "name": "Hungarian Forint",
+      "decimals": 9,
+      "logoURI": "https://github.com/BugzumDevAlt/FTlogo/blob/main/ftlogo.png",
+      "tags": [
+        "stablecoin",
+        "cryptocurrency"
+      ]
     }
   ],
   "version": {
