@@ -129814,6 +129814,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "44JT3kt1XRyuD8RfGRMaPnBY3tUS4ZK5FgQH2sQVXtFG",
+      "symbol": "MRTY",
+      "name": "Marty Plunkett",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/shanghaibokchoy/Plunkettlogo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
