@@ -129927,6 +129927,38 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "FCSUDXzfqc393wVcv4tWBU4LgRhJeDi8YA6BGTs3qVPP",
+      "symbol": "tlpSOL",
+      "name": "LP Finance Solana (Devnet)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/lpSOL-min.png",
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/LP_Defi_Official_group",
+        "twitter": "https://twitter.com/LPFinance_"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "AL9fyDTSmJavYxjftxBHxkLtwv9FcsUJfVvEheW6vfdq",
+      "symbol": "tlpUSD",
+      "name": "LP Finance USD (Devnet)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/lpUSD.png",
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/LP_Defi_Official_group",
+        "twitter": "https://twitter.com/LPFinance_"
+      }
     }
   ],
   "version": {
