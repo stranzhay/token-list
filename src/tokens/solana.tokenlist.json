@@ -130259,6 +130259,22 @@
       "name": "everwave",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/33MJjPS6H7P2nwD648uiTiUu8v5fJ1zKyjnVqeWZ344F/logo.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "B1ock8ufjvuEPo4eDhnTHtY1uzk2TLg9zpoLnmMpa3Ht",
+      "symbol": "BLOCK",
+      "name": "BlockParty BLOCK",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B1ock8ufjvuEPo4eDhnTHtY1uzk2TLg9zpoLnmMpa3Ht/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/solblockpartynft",
+        "twitter": "https://twitter.com/solblockparty",
+        "website": "https://www.solblockparty.com"
+      }
     }
   ],
   "version": {
