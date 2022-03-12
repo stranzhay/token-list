@@ -130026,6 +130026,22 @@
       "name": "CAKE",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/mrcl007/cake-token/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Eq6ipM2YvENyuFQmxy1zMAqfdm2dHsd45rDoKteMSRgR",
+      "symbol": "SolPhant",
+      "name": "SolPhant WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Eq6ipM2YvENyuFQmxy1zMAqfdm2dHsd45rDoKteMSRgR/logo.jpg",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/HsHwWGtuaz",
+        "twitter": "https://twitter.com/wecap_io",
+        "website": "https://wecap.io/"
+      }
     }
   ],
   "version": {
