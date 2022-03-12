@@ -129739,6 +129739,31 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "78mxvM1TiRZwjfQjJWwv37tAvXdnKKLTCsf55rVed9WR",
+      "symbol": "WTT",
+      "name": "World Trading Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/jjnorris/worldtradingtoken/main/WorldTradingToken.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CyNoV67G6bmwJS42CpAVkrK6dT4pCjTuZAymL4fSL1fE",
+      "symbol": "CYN",
+      "name": "Official Cynova WL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CyNoV67G6bmwJS42CpAVkrK6dT4pCjTuZAymL4fSL1fE/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/The_Cynova"
+      }
     }
   ],
   "version": {
