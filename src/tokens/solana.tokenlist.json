@@ -130007,6 +130007,17 @@
         "community-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DMrgJoVP6DYyiaL74bCLSbeBxJGVKNoBtyQbuaLnKeDJ",
+      "symbol": "MOD",
+      "name": "Modium",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Donb76e/Donb76e/main/modo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
