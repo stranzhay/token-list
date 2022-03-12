@@ -129916,6 +129916,17 @@
         "twitter": "https://twitter.com/solaris_nft",
         "website": "https://solaris.so/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H7U13y4ZWxG7444tNwcoqcoA3n5ZJrCe5LN6cBG5MigT",
+      "symbol": "ADATOMO",
+      "name": "Ada-Tom-O",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H7U13y4ZWxG7444tNwcoqcoA3n5ZJrCe5LN6cBG5MigT/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
