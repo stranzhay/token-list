@@ -129791,6 +129791,18 @@
         "twitter": "https://twitter.com/Zarnyx_NFT",
         "website": "https://zarnyx.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4ktGVhz9DhUiCj2p4ZYE5foHTtMATtG47PyNqeGHx7ev",
+      "symbol": "HORO",
+      "name": "Horo-Ikimono",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ktGVhz9DhUiCj2p4ZYE5foHTtMATtG47PyNqeGHx7ev/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/HoroikiNFT",
+        "website": "https://www.horoikimono.com/"
+      }
     }
   ],
   "version": {
