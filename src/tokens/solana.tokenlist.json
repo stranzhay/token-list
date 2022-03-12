@@ -130185,6 +130185,20 @@
       "extensions": {
         "website": "http://www.paradoxworld.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ARg9wfeLN4qZTxgYTYeuGtGFMmYdk5zFhBuSnTfXXUvb",
+      "symbol": "CHI",
+      "name": "Project Paradise - CHI Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/benthebape/projekt-paradise-chi-token/main/Moneda_1.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://projektparadise.com/"
+      }
     }
   ],
   "version": {
