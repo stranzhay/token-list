@@ -130089,6 +130089,27 @@
         "twitter": "https://twitter.com/casino_pandas",
         "website": "http://millionairecasino.games"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7BXSXbcUxN4jHcnaxh2aA1trCpr9xbcb2q3qywQCurKq",
+      "symbol": "FAIS",
+      "name": "Financial Artificial Intelligence Systems",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7BXSXbcUxN4jHcnaxh2aA1trCpr9xbcb2q3qywQCurKq/FAIS.png",
+      "tags": [
+        "utility-token",
+        "security-token"
+      ],
+      "extensions": {
+        "description": "Financial Artificial Intelligence Systems delivers a user-friendly AI-supported platform for financial and management accounting.",
+        "linkedin": "https://www.linkedin.com/company/faisystems/",
+        "telegram": "https://t.me/fais_discuss",
+        "telegramAnnouncements": "https://t.me/fais_announce",
+        "twitter": "https://twitter.com/fai_systems",
+        "website": "https://www.faisystems.com",
+        "whitepaper": "https://base.faisystems.com/whitepaper.pdf"
+      }
     }
   ],
   "version": {
