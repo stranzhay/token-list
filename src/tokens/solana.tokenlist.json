@@ -129890,6 +129890,17 @@
       "name": "RCR Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dm9RpBmZz1AA3bQGKBQDukEVCuw2E7GUPqTLVWtAXtBu/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ALL5YrKTfDNCUqoXiWDSHE1ne763eAcvEUMU8VCWdn2W",
+      "symbol": "HPC",
+      "name": "Harry Potter Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/nishadmahmud/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
