@@ -129833,6 +129833,17 @@
       "name": "HONKS",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7yqrmfWprDy1xejzAF9LGmRg8iGP3CiZJHfcA8qvV4QH/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "EzSPBGJkZzGbcRYDMTUcfiH9ecocmzLXjdmXX8X4h2iC",
+      "symbol": "LTZ",
+      "name": "Lumatozer",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Lumatozer/ltz-coin-logo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
