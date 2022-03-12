@@ -130149,6 +130149,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6tAmokk5fqrjm4ho2JerziBsiV3hYzgJZnG6sFXZNXZs",
+      "symbol": "GREPCC",
+      "name": "Grepper Contributor Coin",
+      "decimals": 2,
+      "logoURI": "https://www.codegrepper.com/images/grepper_coin.png",
+      "tags": [
+        "grepper",
+        "grepper-coin",
+        "grepper-contributor",
+        "grepcc",
+        "community-token",
+        "developer"
+      ],
+      "extensions": {
+        "description": "Grepper Contributor Coin is designed to reward contributors that help the Grepper Developer Community.",
+        "github": "https://github.com/CodeGrepper/grepper_contributor_coin_contract",
+        "twitter": "https://twitter.com/codegrepper",
+        "website": "https://www.codegrepper.com"
+      }
     }
   ],
   "version": {
