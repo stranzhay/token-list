@@ -130185,6 +130185,72 @@
       "extensions": {
         "website": "http://www.paradoxworld.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ARg9wfeLN4qZTxgYTYeuGtGFMmYdk5zFhBuSnTfXXUvb",
+      "symbol": "CHI",
+      "name": "Project Paradise - CHI Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/benthebape/projekt-paradise-chi-token/main/Moneda_1.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://projektparadise.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EAMZkD4RwKfKCbAczUxDhRm5a5WJMcjnJsnJy8WWEZVt",
+      "symbol": "FEDC",
+      "name": "fed coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAMZkD4RwKfKCbAczUxDhRm5a5WJMcjnJsnJy8WWEZVt/fedcoin.png",
+      "extensions": {
+        "github": "https://github.com/triptych-labs",
+        "twitter": "https://twitter.com/triptychlabs_io",
+        "website": "https://triptychlabs.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7z6ejELsEWQMUsuCjp9J93WYyhj7UtPFY5GuiTQwfo4a",
+      "symbol": "TNJN",
+      "name": "TENJIN Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TENJmPxVHvGyoN6nNaW2dF3VmJjcgb5jVTSaAaUu6Aa/logo.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/tenjin3dnft",
+        "website": "https://www.projecttenjin.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6odZreTZYmgyqe4jJwE1A66CbbUGJpstwYNfMw4FJbQp",
+      "symbol": "May",
+      "name": "May Koin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/steelhitman/Crypto-Token-May/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9JqZDg3awhhwZPh83QE2bSkqfJdRuJeUEKPpKWYUDst9",
+      "symbol": "HUF",
+      "name": "Hungarian Forint",
+      "decimals": 9,
+      "logoURI": "https://github.com/BugzumDevAlt/FTlogo/blob/main/ftlogo.png",
+      "tags": [
+        "stablecoin",
+        "cryptocurrency"
+      ]
     }
   ],
   "version": {
