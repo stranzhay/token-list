@@ -130199,6 +130199,19 @@
       "extensions": {
         "website": "https://projektparadise.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EAMZkD4RwKfKCbAczUxDhRm5a5WJMcjnJsnJy8WWEZVt",
+      "symbol": "FEDC",
+      "name": "fed coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAMZkD4RwKfKCbAczUxDhRm5a5WJMcjnJsnJy8WWEZVt/fedcoin.png",
+      "extensions": {
+        "github": "https://github.com/triptych-labs",
+        "twitter": "https://twitter.com/triptychlabs_io",
+        "website": "https://triptychlabs.io/"
+      }
     }
   ],
   "version": {
