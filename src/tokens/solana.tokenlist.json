@@ -129704,6 +129704,17 @@
         "twitter": "https://twitter.com/hello_rewards",
         "website": "https://rewards.digital/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7AK7bdmA2GZioA4Z6WdKms4oBa9xmScYzdRRjPnV6iPM",
+      "symbol": "PRTK",
+      "name": "Priceless Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/PriceFB/PixelBabes-website/main/assets/images/Empty-Gold-Coin-PNG-Image.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
