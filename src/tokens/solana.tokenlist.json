@@ -130018,6 +130018,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FS9JmN2AmqsNELUVDKyC2P1cPDk79mhqZZRRryM6hJcF",
+      "symbol": "CKE",
+      "name": "CAKE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mrcl007/cake-token/main/logo.png"
     }
   ],
   "version": {
