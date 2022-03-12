@@ -129975,6 +129975,26 @@
         "twitter": "https://twitter.com/balloonsville_2",
         "website": "https://stake.balloonsville.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "kQFsSGvn4AM5KqkJq4cLHDx1DXyNx7hL4HRJvxrjeNh",
+      "symbol": "TWSW",
+      "name": "Two Side Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CryptoDevHouse/token-list/main/assets/mainnet/kQFsSGvn4AM5KqkJq4cLHDx1DXyNx7hL4HRJvxrjeNh/logo.jpg",
+      "tags": [
+        "whitelist-token",
+        "utility-token",
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Each token gives you access to buy one NFT on https://two-side.io",
+        "discord": "https://discord.gg/twoside",
+        "twitter": "https://twitter.com/TwoSide_NFT",
+        "website": "https://two-side.io"
+      }
     }
   ],
   "version": {
