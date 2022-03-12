@@ -130068,6 +130068,27 @@
       "extensions": {
         "twitter": "https://twitter.com/OnlyHODLers"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GnrXhsbf2TtHaRr5Fa2UUQEsXzcAX9HnJqrQPUUR6yAx",
+      "symbol": "REWARDS",
+      "name": "MCPREWARDS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GnrXhsbf2TtHaRr5Fa2UUQEsXzcAX9HnJqrQPUUR6yAx/logo.png",
+      "tags": [
+        "NFT",
+        "reward-token",
+        "casino",
+        "game",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/AuwdjCWfVb",
+        "twitter": "https://twitter.com/casino_pandas",
+        "website": "http://millionairecasino.games"
+      }
     }
   ],
   "version": {
