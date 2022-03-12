@@ -129728,6 +129728,17 @@
         "utility-coin",
         "NFTs"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H5SkWTvDpxon9Egd9JeVeeYFj97QDGHAmMPmjLpTFvNx",
+      "symbol": "PRJH",
+      "name": "ProjectH",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Slikzy21/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
