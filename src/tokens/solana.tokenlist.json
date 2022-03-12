@@ -129995,6 +129995,18 @@
         "twitter": "https://twitter.com/TwoSide_NFT",
         "website": "https://two-side.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2vf8ZFgKsFskg6KDi62HYAVq4fiMa4ubnV4SHUKHeyrH",
+      "symbol": "MC",
+      "name": "Moschino Coin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2vf8ZFgKsFskg6KDi62HYAVq4fiMa4ubnV4SHUKHeyrH/MoschinoCoin.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
