@@ -129764,6 +129764,17 @@
       "extensions": {
         "twitter": "https://twitter.com/The_Cynova"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DfVYtfj9nMPVFDaSM5vaqFAxucfNA3vgsn4MwyrwWUJZ",
+      "symbol": "AKNWL",
+      "name": "Animal KingNFTWL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DfVYtfj9nMPVFDaSM5vaqFAxucfNA3vgsn4MwyrwWUJZ/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
