@@ -130251,6 +130251,14 @@
         "stablecoin",
         "cryptocurrency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "33MJjPS6H7P2nwD648uiTiUu8v5fJ1zKyjnVqeWZ344F",
+      "symbol": "WVE",
+      "name": "everwave",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/33MJjPS6H7P2nwD648uiTiUu8v5fJ1zKyjnVqeWZ344F/logo.jpg"
     }
   ],
   "version": {
