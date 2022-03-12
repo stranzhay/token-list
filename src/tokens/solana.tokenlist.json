@@ -130171,6 +130171,20 @@
         "twitter": "https://twitter.com/codegrepper",
         "website": "https://www.codegrepper.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "PRDXoZD3WCjgr6xzvTfWo3qQJmmVsR616cX2NM1wnaX",
+      "symbol": "$PRDX",
+      "name": "Paradox World",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PRDXoZD3WCjgr6xzvTfWo3qQJmmVsR616cX2NM1wnaX/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://www.paradoxworld.io"
+      }
     }
   ],
   "version": {
