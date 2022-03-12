@@ -130138,6 +130138,53 @@
       "extensions": {
         "discord": "https://discord.gg/NUGkd72SGr"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8pdW1cHbX182TcMTb5hrEPhTimTdDm8ACe7a3TBkkiDG",
+      "symbol": "ACRO",
+      "name": "Atomic Rhino",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Atomiceatscode/cryptoo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6tAmokk5fqrjm4ho2JerziBsiV3hYzgJZnG6sFXZNXZs",
+      "symbol": "GREPCC",
+      "name": "Grepper Contributor Coin",
+      "decimals": 2,
+      "logoURI": "https://www.codegrepper.com/images/grepper_coin.png",
+      "tags": [
+        "grepper",
+        "grepper-coin",
+        "grepper-contributor",
+        "grepcc",
+        "community-token",
+        "developer"
+      ],
+      "extensions": {
+        "description": "Grepper Contributor Coin is designed to reward contributors that help the Grepper Developer Community.",
+        "github": "https://github.com/CodeGrepper/grepper_contributor_coin_contract",
+        "twitter": "https://twitter.com/codegrepper",
+        "website": "https://www.codegrepper.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "PRDXoZD3WCjgr6xzvTfWo3qQJmmVsR616cX2NM1wnaX",
+      "symbol": "$PRDX",
+      "name": "Paradox World",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PRDXoZD3WCjgr6xzvTfWo3qQJmmVsR616cX2NM1wnaX/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://www.paradoxworld.io"
+      }
     }
   ],
   "version": {
