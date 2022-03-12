@@ -130124,6 +130124,20 @@
       "extensions": {
         "twitter": "https://twitter.com/BochiBones"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EaxUnKBSP18HMvxRyjMogXd3HYzi8JjGzJ4tdWcC2LtY",
+      "symbol": "WAG",
+      "name": "Swagcoin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/Swagcoin-Foundation/swagcoin-token/main/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/NUGkd72SGr"
+      }
     }
   ],
   "version": {
