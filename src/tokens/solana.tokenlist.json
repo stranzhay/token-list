@@ -129825,6 +129825,63 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7yqrmfWprDy1xejzAF9LGmRg8iGP3CiZJHfcA8qvV4QH",
+      "symbol": "HONKS",
+      "name": "HONKS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7yqrmfWprDy1xejzAF9LGmRg8iGP3CiZJHfcA8qvV4QH/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "EzSPBGJkZzGbcRYDMTUcfiH9ecocmzLXjdmXX8X4h2iC",
+      "symbol": "LTZ",
+      "name": "Lumatozer",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Lumatozer/ltz-coin-logo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "kinghrELFNQzWhGaiALF9SCZLf4J7daPQdjvzE146z4",
+      "symbol": "KINGS",
+      "name": "Congo Kings",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/congokings/king_logo/main/token_logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "J7HoxrqyPM5nu2RBUQfM5TKM5vxDmXp76fqt7T1t5pSF",
+      "symbol": "DOLPHIN",
+      "name": "GET DOLPHIN WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J7HoxrqyPM5nu2RBUQfM5TKM5vxDmXp76fqt7T1t5pSF/logo.jpg",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://getdolphin.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FanJWA4yEVUJj1r83tR7XybxmDGF6bNH8M81ag9aeUbF",
+      "symbol": "BMT",
+      "name": "BMT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FanJWA4yEVUJj1r83tR7XybxmDGF6bNH8M81ag9aeUbF/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "exchange-token"
+      ]
     }
   ],
   "version": {
