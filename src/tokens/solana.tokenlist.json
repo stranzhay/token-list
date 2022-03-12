@@ -129855,6 +129855,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "J7HoxrqyPM5nu2RBUQfM5TKM5vxDmXp76fqt7T1t5pSF",
+      "symbol": "DOLPHIN",
+      "name": "GET DOLPHIN WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J7HoxrqyPM5nu2RBUQfM5TKM5vxDmXp76fqt7T1t5pSF/logo.jpg",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://getdolphin.io/"
+      }
     }
   ],
   "version": {
