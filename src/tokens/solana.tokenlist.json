@@ -129995,6 +129995,53 @@
         "twitter": "https://twitter.com/TwoSide_NFT",
         "website": "https://two-side.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2vf8ZFgKsFskg6KDi62HYAVq4fiMa4ubnV4SHUKHeyrH",
+      "symbol": "MC",
+      "name": "Moschino Coin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2vf8ZFgKsFskg6KDi62HYAVq4fiMa4ubnV4SHUKHeyrH/MoschinoCoin.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DMrgJoVP6DYyiaL74bCLSbeBxJGVKNoBtyQbuaLnKeDJ",
+      "symbol": "MOD",
+      "name": "Modium",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Donb76e/Donb76e/main/modo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FS9JmN2AmqsNELUVDKyC2P1cPDk79mhqZZRRryM6hJcF",
+      "symbol": "CKE",
+      "name": "CAKE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mrcl007/cake-token/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Eq6ipM2YvENyuFQmxy1zMAqfdm2dHsd45rDoKteMSRgR",
+      "symbol": "SolPhant",
+      "name": "SolPhant WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Eq6ipM2YvENyuFQmxy1zMAqfdm2dHsd45rDoKteMSRgR/logo.jpg",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/HsHwWGtuaz",
+        "twitter": "https://twitter.com/wecap_io",
+        "website": "https://wecap.io/"
+      }
     }
   ],
   "version": {
