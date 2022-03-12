@@ -130212,6 +130212,22 @@
         "twitter": "https://twitter.com/triptychlabs_io",
         "website": "https://triptychlabs.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7z6ejELsEWQMUsuCjp9J93WYyhj7UtPFY5GuiTQwfo4a",
+      "symbol": "TNJN",
+      "name": "TENJIN Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TENJmPxVHvGyoN6nNaW2dF3VmJjcgb5jVTSaAaUu6Aa/logo.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/tenjin3dnft",
+        "website": "https://www.projecttenjin.io/"
+      }
     }
   ],
   "version": {
