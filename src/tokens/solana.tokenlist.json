@@ -129750,6 +129750,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CyNoV67G6bmwJS42CpAVkrK6dT4pCjTuZAymL4fSL1fE",
+      "symbol": "CYN",
+      "name": "Official Cynova WL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CyNoV67G6bmwJS42CpAVkrK6dT4pCjTuZAymL4fSL1fE/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/The_Cynova"
+      }
     }
   ],
   "version": {
