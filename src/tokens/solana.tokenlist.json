@@ -129791,6 +129791,29 @@
         "twitter": "https://twitter.com/Zarnyx_NFT",
         "website": "https://zarnyx.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4ktGVhz9DhUiCj2p4ZYE5foHTtMATtG47PyNqeGHx7ev",
+      "symbol": "HORO",
+      "name": "Horo-Ikimono",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ktGVhz9DhUiCj2p4ZYE5foHTtMATtG47PyNqeGHx7ev/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/HoroikiNFT",
+        "website": "https://www.horoikimono.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8WPqBwThv7dtFt3BTgsfDJjM8kPphrhTDHGz3iiqePiB",
+      "symbol": "PARA",
+      "name": "Parabolic",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TylerDurden69420/Parabolically-Token/main/%24PARA%20TOKEN.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
