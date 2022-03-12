@@ -130110,6 +130110,34 @@
         "website": "https://www.faisystems.com",
         "whitepaper": "https://base.faisystems.com/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BoChkHxTHhpXFWTAvztbqhPA7qF91Fndp6FygVtKtMa5",
+      "symbol": "BOCH",
+      "name": "BOCHI BONES TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BoChkHxTHhpXFWTAvztbqhPA7qF91Fndp6FygVtKtMa5/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BochiBones"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EaxUnKBSP18HMvxRyjMogXd3HYzi8JjGzJ4tdWcC2LtY",
+      "symbol": "WAG",
+      "name": "Swagcoin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/Swagcoin-Foundation/swagcoin-token/main/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/NUGkd72SGr"
+      }
     }
   ],
   "version": {
