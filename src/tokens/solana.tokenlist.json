@@ -129660,6 +129660,35 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D6B9iXwtaFXXdB2J4k9L2CaY661MdLUyG9u2R2Smokes",
+      "symbol": "SMOKES",
+      "name": "Pen Frens: SMOKES",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/penfrens/token-list/main/assets/mainnet/D6B9iXwtaFXXdB2J4k9L2CaY661MdLUyG9u2R2Smokes/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "trade-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Dd4tDYG5aj",
+        "twitter": "https://twitter.com/pen_frens",
+        "website": "https://penfrens.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AKdoFM6nBH2pTYqbd1hhe1KSnXN3WRaYjEkGKRTu1y2Z",
+      "symbol": "FTM",
+      "name": "Future Trading Meta",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Aindari/crypto-token-/main/FTM.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
