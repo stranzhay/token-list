@@ -129844,6 +129844,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "kinghrELFNQzWhGaiALF9SCZLf4J7daPQdjvzE146z4",
+      "symbol": "KINGS",
+      "name": "Congo Kings",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/congokings/king_logo/main/token_logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
