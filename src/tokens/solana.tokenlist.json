@@ -129739,6 +129739,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "78mxvM1TiRZwjfQjJWwv37tAvXdnKKLTCsf55rVed9WR",
+      "symbol": "WTT",
+      "name": "World Trading Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/jjnorris/worldtradingtoken/main/WorldTradingToken.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
