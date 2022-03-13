@@ -130403,6 +130403,19 @@
       "extensions": {
         "website": "https://tokina.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CHiriKKbYYgxh69MbTk5f3z42jZgqLXAfQX3q9qkXb6E",
+      "symbol": "CHIP",
+      "name": "Chip",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/thechip911/crypto_mach_1/main/logo.png",
+      "tags": [
+        "utility-token",
+        "DeFi",
+        "governance-token"
+      ]
     }
   ],
   "version": {
