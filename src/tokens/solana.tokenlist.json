@@ -130358,6 +130358,36 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3tRxdAT4eSRxemnUWBP17YN778SwN354EiZ79Ci7wrZA",
+      "symbol": "NOS",
+      "name": "NOS Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3tRxdAT4eSRxemnUWBP17YN778SwN354EiZ79Ci7wrZA/logo.png",
+      "tags": [
+        "utility-token",
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://cryptostreetracing.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C6zQtWK5hoEhFgzn8hDmn1MwrYs8QF6ZWopeDTyQub4c",
+      "symbol": "CSR",
+      "name": "Crypto Street Racing Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C6zQtWK5hoEhFgzn8hDmn1MwrYs8QF6ZWopeDTyQub4c/logo.png",
+      "tags": [
+        "utility-token",
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://cryptostreetracing.com/"
+      }
     }
   ],
   "version": {
