@@ -130289,6 +130289,17 @@
         "cryptocurrency",
         "bus-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7V8aTxLBGZwU1sswUeaimS1Xe3c2dJkFMafxJLokLN3C",
+      "symbol": "NUBE",
+      "name": "Nube Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/gansaikhanshur/NubeCoin/main/NubeCoin.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
