@@ -130474,6 +130474,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "APhcurxPQdEfrxLYSRTQgigv1bVFV4xTSsQgwRap9Xfk",
+      "symbol": "RSTM",
+      "name": "Rostam Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/farhadkarimi/rostam/main/logo.png",
+      "tags": [
+        "social-token",
+        "payment-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
