@@ -130388,6 +130388,21 @@
       "extensions": {
         "website": "https://cryptostreetracing.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7iFfsz6qLZezfMUJGc4Laq8N2H5KipFFk6CvEE8ayQiE",
+      "symbol": "TIA",
+      "name": "Tokina",
+      "decimals": 9,
+      "logoURI": "https://tokina.io/logo512.png",
+      "tags": [
+        "exchange-token",
+        "payment-token"
+      ],
+      "extensions": {
+        "website": "https://tokina.io"
+      }
     }
   ],
   "version": {
