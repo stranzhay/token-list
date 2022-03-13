@@ -130424,6 +130424,21 @@
       "name": "HXD-TEST",
       "decimals": 2,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FDqw6afUwC8bXhRDcwyDGUh7MwHPkKahJjbm5ZHEd7BP/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "MAHGKVNJzmGKUA2oHc4QaQtkfdoeKuHgrVGpjdxHhss",
+      "symbol": "MAHO",
+      "name": "MAHO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MAHGKVNJzmGKUA2oHc4QaQtkfdoeKuHgrVGpjdxHhss/logo.png",
+      "tags": [
+        "Utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/mahogenies",
+        "website": "https://www.mahogenies.io/"
+      }
     }
   ],
   "version": {
