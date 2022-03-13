@@ -130526,6 +130526,22 @@
         "social-token",
         "game-currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8w5KKbMATmjWpMq4vJEwDedHEhUdwGWWthBEnunAw5EM",
+      "symbol": "ZGWLV2",
+      "name": "Zpheres Genesis Whitelist Token V2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8w5KKbMATmjWpMq4vJEwDedHEhUdwGWWthBEnunAw5EM/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7t5XxREp55",
+        "twitter": "https://twitter.com/Zarnyx_NFT",
+        "website": "https://zarnyx.com/"
+      }
     }
   ],
   "version": {
