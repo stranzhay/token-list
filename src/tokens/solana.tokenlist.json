@@ -130311,6 +130311,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GgSTrc4B4qGjx4JVSeRDopG5xy1qSf54gFYhW4bm6a2x",
+      "symbol": "$JUNK",
+      "name": "Junkyard Scraps Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GgSTrc4B4qGjx4JVSeRDopG5xy1qSf54gFYhW4bm6a2x/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
