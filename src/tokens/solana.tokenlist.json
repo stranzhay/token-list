@@ -130450,6 +130450,19 @@
       "tags": [
         "music-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ao6oTCHGkLNpPCgyrSHHuZSrxx7AkaEaxoKeYR8ES4hq",
+      "symbol": "DragonMonke$",
+      "name": "WL Dragon Monke",
+      "decimals": 0,
+      "logoURI": "https://imagedelivery.net/aAmca-Po70V1nH4n9cT-uA/4a2e7ca4-1259-4e8e-d819-933f059ca000/public",
+      "extensions": {
+        "discord": "https://discord.gg/scz79P4W5w",
+        "twitter": "https://twitter.com/DragonMonkes",
+        "website": "https://dragonmonke.club"
+      }
     }
   ],
   "version": {
