@@ -130439,6 +130439,17 @@
         "twitter": "https://twitter.com/mahogenies",
         "website": "https://www.mahogenies.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3B7pVd7FX9TPFgtmTSsacoQTcweAnbuSicswoBDrfpTc",
+      "symbol": "HYDRAS",
+      "name": "Hydrasound",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danielboots/hydra-crypto/main/logo.png",
+      "tags": [
+        "music-token"
+      ]
     }
   ],
   "version": {
