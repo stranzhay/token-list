@@ -130570,6 +130570,17 @@
         "exchange-token",
         "payment-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BZRAB3ibkeezgjnrJdvPnadZ2hJWbRKcBe3SEPR8FQiv",
+      "symbol": "MD",
+      "name": "MD20M Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MD20M/MD20M_coin/main/tonka.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
