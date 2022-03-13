@@ -130300,6 +130300,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GCbxbnesg5MGUcmZW6WuAbCqmixqq4P3vw4FNvDKBeMT",
+      "symbol": "VARO",
+      "name": "Varo Mexico",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DigitalVaro/Varo/main/LogoVaro.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
