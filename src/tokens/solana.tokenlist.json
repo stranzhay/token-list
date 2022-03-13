@@ -130558,6 +130558,18 @@
         "twitter": "https://twitter.com/echocore_io",
         "website": "https://echocore.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4JdFQvbd9YQ7TMmvzEohHKpUCKD7wPGMphLhSFgH5gsX",
+      "symbol": "FILM",
+      "name": "Filmira",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/stoyanvelinov/filmira-token/main/logo.png",
+      "tags": [
+        "exchange-token",
+        "payment-token"
+      ]
     }
   ],
   "version": {
