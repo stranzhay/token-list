@@ -130542,6 +130542,22 @@
         "twitter": "https://twitter.com/Zarnyx_NFT",
         "website": "https://zarnyx.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FoWWWzVBdj6VqYfBw7qQZmZtQqCwNxetLbxbBGYb2r54",
+      "symbol": "ECOGRL",
+      "name": "Echocore Genesis Reserve List Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FoWWWzVBdj6VqYfBw7qQZmZtQqCwNxetLbxbBGYb2r54/logo.png",
+      "tags": [
+        "NFT",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/echocore_io",
+        "website": "https://echocore.io"
+      }
     }
   ],
   "version": {
