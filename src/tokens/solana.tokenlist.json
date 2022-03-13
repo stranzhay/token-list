@@ -130503,6 +130503,17 @@
       "extensions": {
         "description": "EarnBot is a new and easy way to earn money. Visit our website (https://earn-bot.herokuapp.com)or join our discord (https://discord.gg/NHnUw4P9Pq) to know more."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7HF4P4pPuDNGDgdGpzXKapnDYC7c4gCWkhMPJMynB5DD",
+      "symbol": "SSZ",
+      "name": "SolSeltzers",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7HF4P4pPuDNGDgdGpzXKapnDYC7c4gCWkhMPJMynB5DD/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
