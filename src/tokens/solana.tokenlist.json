@@ -130315,9 +130315,9 @@
       "chainId": 101,
       "address": "7V8aTxLBGZwU1sswUeaimS1Xe3c2dJkFMafxJLokLN3C",
       "symbol": "NUBE",
-      "name": "Nube Coin",
+      "name": "NubeCoin",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/gansaikhanshur/NubeCoin/main/NubeCoin.jpg",
+      "logoURI": "https://raw.githubusercontent.com/gansaikhanshur/NubeCoin/main/images/NubeCoin_2022.jpg",
       "tags": [
         "social-token"
       ]
