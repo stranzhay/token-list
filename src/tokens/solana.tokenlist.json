@@ -130606,6 +130606,25 @@
         "social-token",
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DtKcjV7SXHEtNSYPJRQ74sJG5fZwRfYz3bEG2t95NqcK",
+      "symbol": "IAMIN",
+      "name": "Amastan Innovation",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DtKcjV7SXHEtNSYPJRQ74sJG5fZwRfYz3bEG2t95NqcK/logo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token",
+        "security-token"
+      ],
+      "extensions": {
+        "medium": "https://amastan-innovation.medium.com/",
+        "twitter": "https://twitter.com/AmastanInnov",
+        "website": "https://amastan-innovation.com"
+      }
     }
   ],
   "version": {
