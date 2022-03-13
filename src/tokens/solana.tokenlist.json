@@ -130322,6 +130322,31 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GDNHmkp8K2yVFskSgjCx9ETv6iqdJYPMgRDrjzqCACqJ",
+      "symbol": "iLQD",
+      "name": "identical LQD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GDNHmkp8K2yVFskSgjCx9ETv6iqdJYPMgRDrjzqCACqJ/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3iepSA15cpm3sbci4fMVeMsWxwXgE9w7kF69Y7KnPJKZ",
+      "symbol": "$ZILLA",
+      "name": "Zilla Family Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3iepSA15cpm3sbci4fMVeMsWxwXgE9w7kF69Y7KnPJKZ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://www.babyzillaclub.com"
+      }
     }
   ],
   "version": {
