@@ -130347,6 +130347,17 @@
       "extensions": {
         "website": "http://www.babyzillaclub.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "esiYxKfzKhoYUmK5mJWG3rvXhPD9BcmfaSSKJwKk1KD",
+      "symbol": "4lt",
+      "name": "4ltcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/4ltBread/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
