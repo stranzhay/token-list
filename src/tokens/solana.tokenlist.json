@@ -130275,6 +130275,20 @@
         "twitter": "https://twitter.com/solblockparty",
         "website": "https://www.solblockparty.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F3XTi3qaJMEiozmmwL1VFMWHoViMeRAMemydQeSvVpvA",
+      "symbol": "BUST",
+      "name": "Bus Token",
+      "decimals": 0,
+      "logoURI": "https://github.com/opulukcu/kryp/blob/main/logo.png",
+      "tags": [
+        "social-token",
+        "stablecoin",
+        "cryptocurrency",
+        "bus-token"
+      ]
     }
   ],
   "version": {
