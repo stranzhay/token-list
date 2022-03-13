@@ -130581,6 +130581,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2WkEFHecypXrpjSEJqccftBAmG7xSPCnQbKEeGpkUyia",
+      "symbol": "APRZEN",
+      "name": "ApertureZEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApertureZEN/ApertureZEN_Token/main/ApertureSTAR.jpg",
+      "tags": [
+        "Utility-token",
+        "NFT",
+        "reward-token"
+      ]
     }
   ],
   "version": {
