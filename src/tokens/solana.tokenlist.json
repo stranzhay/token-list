@@ -130463,6 +130463,17 @@
         "twitter": "https://twitter.com/DragonMonkes",
         "website": "https://dragonmonke.club"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7fXf6Zdk76gtxgbcNohiv4YhuYD1ak6gNMXPMFtZyUm6",
+      "symbol": "XAl",
+      "name": "Xallo",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Donb76e/xallo/main/xallo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
