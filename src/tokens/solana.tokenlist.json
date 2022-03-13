@@ -130450,6 +130450,70 @@
       "tags": [
         "music-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ao6oTCHGkLNpPCgyrSHHuZSrxx7AkaEaxoKeYR8ES4hq",
+      "symbol": "DragonMonke$",
+      "name": "WL Dragon Monke",
+      "decimals": 0,
+      "logoURI": "https://imagedelivery.net/aAmca-Po70V1nH4n9cT-uA/4a2e7ca4-1259-4e8e-d819-933f059ca000/public",
+      "extensions": {
+        "discord": "https://discord.gg/scz79P4W5w",
+        "twitter": "https://twitter.com/DragonMonkes",
+        "website": "https://dragonmonke.club"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7fXf6Zdk76gtxgbcNohiv4YhuYD1ak6gNMXPMFtZyUm6",
+      "symbol": "XAl",
+      "name": "Xallo",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Donb76e/xallo/main/xallo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "APhcurxPQdEfrxLYSRTQgigv1bVFV4xTSsQgwRap9Xfk",
+      "symbol": "RSTM",
+      "name": "Rostam Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/farhadkarimi/rostam/main/logo.png",
+      "tags": [
+        "social-token",
+        "payment-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AgxCnAs8sP1q3zdFvJCWMipbHkCwB8u4vKXmesUtbRfn",
+      "symbol": "EBC",
+      "name": "EarnBot Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/steelhitman/Crypto-Token-EBCoin/main/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "reward-token"
+      ],
+      "extensions": {
+        "description": "EarnBot is a new and easy way to earn money. Visit our website (https://earn-bot.herokuapp.com)or join our discord (https://discord.gg/NHnUw4P9Pq) to know more."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7HF4P4pPuDNGDgdGpzXKapnDYC7c4gCWkhMPJMynB5DD",
+      "symbol": "SSZ",
+      "name": "SolSeltzers",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7HF4P4pPuDNGDgdGpzXKapnDYC7c4gCWkhMPJMynB5DD/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
