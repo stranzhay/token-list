@@ -130724,6 +130724,17 @@
         "collectibles",
         "change-the-world"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8phoATmrxgACo6BGKznLwX9JwRLkhtowyuVhhQKxj1QL",
+      "symbol": "VPFD",
+      "name": "Fiend Tokens",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/VPFiends/tokens/main/VPFiendsIcontrans300x300.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
