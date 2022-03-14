@@ -130992,6 +130992,45 @@
         "twitter": "https://twitter.com/worldofsolana",
         "website": "https://www.worldofsolana.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5NSJG8kEZVCQ1d8sZmXtxnEEJDDBTU7U7DL9NWZKx4Nq",
+      "symbol": "GRAPEZ",
+      "name": "Grapez",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5NSJG8kEZVCQ1d8sZmXtxnEEJDDBTU7U7DL9NWZKx4Nq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/grapezzzzzzz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EGxpZPAtWk13t6mkzfJeUCC3oR1staKLpG4NwTepf6Ez",
+      "symbol": "LAG",
+      "name": "Lag Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EGxpZPAtWk13t6mkzfJeUCC3oR1staKLpG4NwTepf6Ez/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CSuhkkoGvj8sMBFybCJPXaJ2jXUP7svdT39cGgHjcRQp",
+      "symbol": "PDG",
+      "name": "Pedigree Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSuhkkoGvj8sMBFybCJPXaJ2jXUP7svdT39cGgHjcRQp/PLogo.png",
+      "tags": [
+        "social-token",
+        "gaming-token",
+        "nft-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
