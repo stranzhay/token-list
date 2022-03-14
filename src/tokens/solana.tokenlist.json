@@ -130711,6 +130711,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "o8fd6VTHYEsuw8kduumAZ5pYSrGV9ygafuQYeCW1VSm",
+      "symbol": "ANONYMOUS",
+      "name": "Anonymous Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ultimateminds/anon/main/Anonimg.png",
+      "tags": [
+        "social-token",
+        "collectibles",
+        "change-the-world"
+      ]
     }
   ],
   "version": {
