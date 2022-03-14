@@ -130974,6 +130974,24 @@
       "tags": [
         "test-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WoSZYtctzp48xcdsSfGNKUGhjNdPx2qm5J2TUNfd1a1",
+      "symbol": "WOS",
+      "name": "World of Solana",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WoSZYtctzp48xcdsSfGNKUGhjNdPx2qm5J2TUNfd1a1/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/worldofsolana",
+        "twitter": "https://twitter.com/worldofsolana",
+        "website": "https://www.worldofsolana.io/"
+      }
     }
   ],
   "version": {
