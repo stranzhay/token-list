@@ -131031,6 +131031,17 @@
         "nft-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "o2VGoSDNkcv5JWjRi1PDRysnWuZGCrwvzenmR5nv5Bd",
+      "symbol": "EYRA",
+      "name": "The EYRA Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Burnt79/EYRA/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
