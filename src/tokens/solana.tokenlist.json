@@ -131042,6 +131042,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CbjRKEPmw6akAdmhp5ZcCYRRWQf4bHrd3z8XXMCFmWvZ",
+      "symbol": "ZOO",
+      "name": "Zoo",
+      "decimals": 6,
+      "logoURI": "https://user-images.githubusercontent.com/97711508/152678665-9e923dbd-8190-40a8-a910-634881fe3530.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6SF9wrmXxB",
+        "twitter": "https://twitter.com/Kawaii__Zoo"
+      }
     }
   ],
   "version": {
