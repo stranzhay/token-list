@@ -130782,6 +130782,44 @@
         "NFT",
         "Utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CT8zpJM4sVo7Bnm45Mr5rvpUfM2n1LqbMdzHRfyPW3uQ",
+      "symbol": "METG",
+      "name": "MetaGam",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/namtan10t1/solana-metg/main/logo.png",
+      "tags": [
+        "metg-solana"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6g1KdqGYUb9TY5CyzHbyksW5ctGVS4xVewNEobFqD53g",
+      "symbol": "FLO",
+      "name": "FLOW CASH",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BeeckmanW/CRYPTO/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "74nFAubbySetCXAcmqSy5gGEaDLbXVtNNDiQSvPWPz6U",
+      "symbol": "OZDIVE",
+      "name": "OzDive Bucks",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/74nFAubbySetCXAcmqSy5gGEaDLbXVtNNDiQSvPWPz6U/logo.png",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "A bad dive, better than a good day at work.",
+        "twitter": "https://twitter.com/OzDive"
+      }
     }
   ],
   "version": {
