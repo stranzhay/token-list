@@ -130793,6 +130793,17 @@
       "tags": [
         "metg-solana"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6g1KdqGYUb9TY5CyzHbyksW5ctGVS4xVewNEobFqD53g",
+      "symbol": "FLO",
+      "name": "FLOW CASH",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BeeckmanW/CRYPTO/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
