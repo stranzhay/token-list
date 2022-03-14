@@ -130916,6 +130916,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4GuaWLx3n3nhuKjYE7jKY1njJZyKkkEE24nroQbZVCxK",
+      "symbol": "NAK",
+      "name": "NAKITORA",
+      "decimals": 4,
+      "logoURI": "https://i.ibb.co/R9BcpqP/NAK.jpg"
     }
   ],
   "version": {
