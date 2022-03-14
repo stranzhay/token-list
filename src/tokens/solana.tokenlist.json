@@ -131143,6 +131143,22 @@
       "extensions": {
         "website": "https://www.facebook.com/SilentKnightToken"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DAHSwp5jFX9fzgHLWCxXZAjkqm3w4guTkWKA9rNJHx1q",
+      "symbol": "WLDAHS",
+      "name": "DAHS Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DAHSwp5jFX9fzgHLWCxXZAjkqm3w4guTkWKA9rNJHx1q/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/DAHS",
+        "twitter": "https://twitter.com/DAHSNFT",
+        "website": "https://www.dahsnft.com/"
+      }
     }
   ],
   "version": {
