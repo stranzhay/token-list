@@ -130894,6 +130894,50 @@
         "twitter": "https://twitter.com/keylorN36204205",
         "website": "https://safemarsinu.store"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MMTGAktYpgHiUnj1jdMvCSiap84X9bsfWbw11yHWAEm",
+      "symbol": "MMWLT",
+      "name": "Miner Monkeys Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MMTGAktYpgHiUnj1jdMvCSiap84X9bsfWbw11yHWAEm/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "WLQg4eA6duP7mNhcRtquVr5mQoReaTGZiCbR9hYSfvu",
+      "symbol": "AELWL",
+      "name": "Ape Energy Labs Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLQg4eA6duP7mNhcRtquVr5mQoReaTGZiCbR9hYSfvu/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4GuaWLx3n3nhuKjYE7jKY1njJZyKkkEE24nroQbZVCxK",
+      "symbol": "NAK",
+      "name": "NAKITORA",
+      "decimals": 4,
+      "logoURI": "https://i.ibb.co/R9BcpqP/NAK.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "UsTmCn19utRfsjGfS2JBkWcfEs8Jn3UU7SQAAgz52A4",
+      "symbol": "UST",
+      "name": "ustMA PASS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UsTmCn19utRfsjGfS2JBkWcfEs8Jn3UU7SQAAgz52A4/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://ust.ma/"
+      }
     }
   ],
   "version": {
