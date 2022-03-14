@@ -130678,6 +130678,17 @@
         "twitter": "https://twitter.com/DinoLabsNFT",
         "website": "https://dinolabs.gg/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4GuvJDpvvGgzkUi6cASJd5qLGEPbMCLeD5bz2yvHfRMi",
+      "symbol": "SAKT",
+      "name": "Sakura Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/3Luxor/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
