@@ -130736,6 +130736,21 @@
     },
     {
       "chainId": 101,
+      "address": "gJtYNevehYkg9VeEaWWKztWeFt4WXdQFihMXrUMeKd4",
+      "symbol": "ODYSSEUS",
+      "name": "Odysseus Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/gJtYNevehYkg9VeEaWWKztWeFt4WXdQFihMXrUMeKd4/logo.png",
+      "tags": [
+        "DeFi"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/OdysseusCoin",
+        "website": "https://odysseuscoin.net/"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "EKhDvdnC3SPqTuKR5fpkyb4qMNpXJokXvG4SgzaucwNy",
       "symbol": "NMYWL",
       "name": "ENEMY WL",
