@@ -130820,6 +130820,17 @@
         "description": "A bad dive, better than a good day at work.",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "FUtt7TkppLuTayVDyphwkDASXmzT48soUc4HP7zTU26z",
+      "symbol": "SORY",
+      "name": "Sory Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUtt7TkppLuTayVDyphwkDASXmzT48soUc4HP7zTU26z/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
