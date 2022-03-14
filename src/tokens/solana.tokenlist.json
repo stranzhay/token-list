@@ -131059,6 +131059,22 @@
         "discord": "https://discord.gg/6SF9wrmXxB",
         "twitter": "https://twitter.com/Kawaii__Zoo"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "359inGpmLCc4rVK8nqmg8EB7KovAFJq8WYTC98M8inMn",
+      "symbol": "DINO-WL",
+      "name": "Dinolabs WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/359inGpmLCc4rVK8nqmg8EB7KovAFJq8WYTC98M8inMn/Logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/dinolabs",
+        "twitter": "https://twitter.com/DinoLabsNFT",
+        "website": "https://dinolabs.gg/"
+      }
     }
   ],
   "version": {
