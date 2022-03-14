@@ -130938,6 +130938,18 @@
       "extensions": {
         "website": "https://ust.ma/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3VdRMqufa1n9ihehNbkwLztoABwamMVQooHcBf4imhkF",
+      "symbol": "BB",
+      "name": "Bioki Bear WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3VdRMqufa1n9ihehNbkwLztoABwamMVQooHcBf4imhkF/logo.png",
+      "tags": [
+        "WhiteList-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
