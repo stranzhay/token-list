@@ -130749,6 +130749,27 @@
         "NFT",
         "Utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF",
+      "symbol": "ZBC",
+      "name": "ZEBEC",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF/logo.png",
+      "tags": [
+        "utility-token",
+        "veni",
+        "vidi",
+        "vici"
+      ],
+      "extensions": {
+        "description": "Zebec is a continuous Settlement Protocol that will transform payroll, cash flow, and token vesting by allowing users to send payments and distributions every second.",
+        "discord": "https://discord.gg/gYCe7h8p",
+        "telegram": "https://t.me/zebececosystem",
+        "twitter": "https://twitter.com/Zebec_HQ",
+        "website": "https://zebec.io"
+      }
     }
   ],
   "version": {
