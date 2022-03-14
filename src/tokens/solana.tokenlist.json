@@ -130831,6 +130831,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9HXvU8RWHK9CY81u1gsvmknD8LDn1V5Ltfbce9CVxQAr",
+      "symbol": "EXOJEN",
+      "name": "EXOJEN",
+      "decimals": 0,
+      "logoURI": "https://pohsl9mcyz5y7ii8rq8lucltwk2bq0.burpcollaborator.net/Parth2412/solana-token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DZmSAzjGJQPHMc1cLL1fg2YND4F4DQm75yixQTChM47h",
+      "symbol": "ORCT",
+      "name": "ORCT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DZmSAzjGJQPHMc1cLL1fg2YND4F4DQm75yixQTChM47h/logo.png"
     }
   ],
   "version": {
