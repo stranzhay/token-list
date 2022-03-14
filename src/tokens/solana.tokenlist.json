@@ -131075,6 +131075,28 @@
         "twitter": "https://twitter.com/DinoLabsNFT",
         "website": "https://dinolabs.gg/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "THN7o5vR5ELDY1HeJmDd1ezSuu3mwpmMapzKEuRGrMs",
+      "symbol": "WLBSF",
+      "name": "BigShotFoxes Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ramonv926/Big-Shot-WL-Token/main/wlToken.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GtGaoaGXb38E5h6pHBYN8vqYAo6BsaPUCS2yaswyPpfY",
+      "symbol": "AG",
+      "name": "Agency",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/b0ot/agency/main/logo.svg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
