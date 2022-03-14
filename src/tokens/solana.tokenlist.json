@@ -130850,6 +130850,22 @@
       "name": "ORCT",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DZmSAzjGJQPHMc1cLL1fg2YND4F4DQm75yixQTChM47h/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "43wXmDS4Q513mf7hVU1xNchVDbRj77St7iFCRdAiCW3D",
+      "symbol": "BEVO",
+      "name": "BEVO BUCKS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/43wXmDS4Q513mf7hVU1xNchVDbRj77St7iFCRdAiCW3D/logo.png",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "BEVO BUCKS ROCK",
+        "twitter": "https://twitter.com/OzDive"
+      }
     }
   ],
   "version": {
