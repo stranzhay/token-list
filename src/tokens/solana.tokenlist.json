@@ -130689,6 +130689,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3wtZxWZM3udb8ApXKfYdxkkYqAkgF1c4DPCLNE5S2oAq",
+      "symbol": "SIMS",
+      "name": "Simone Verso",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/L34NDRO-S/CRYPTO/main/simone_verso.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
