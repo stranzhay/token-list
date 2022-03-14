@@ -130770,6 +130770,18 @@
         "twitter": "https://twitter.com/Zebec_HQ",
         "website": "https://zebec.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H1cM6JMcL8Wq9MhcGYun5U6T6tVXfZbGUjiX7dUaGbjp",
+      "symbol": "9CPM",
+      "name": "9C Pasti Menang",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/andhra21231/andhra21231/main/logo.png",
+      "tags": [
+        "NFT",
+        "Utility-token"
+      ]
     }
   ],
   "version": {
