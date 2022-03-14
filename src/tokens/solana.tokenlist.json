@@ -131006,6 +131006,17 @@
       "extensions": {
         "twitter": "https://twitter.com/grapezzzzzzz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EGxpZPAtWk13t6mkzfJeUCC3oR1staKLpG4NwTepf6Ez",
+      "symbol": "LAG",
+      "name": "Lag Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EGxpZPAtWk13t6mkzfJeUCC3oR1staKLpG4NwTepf6Ez/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
