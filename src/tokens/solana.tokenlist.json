@@ -130641,6 +130641,17 @@
       "extensions": {
         "website": "https://port.finance"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6Hdoq4uHvyQ7Wvj6P4RsNvDZhDF5Px6Gz3YTwDSYj1bv",
+      "symbol": "USDBTC",
+      "name": "USDbitcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solanausdbtc/solanusdbtc/main/download1.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
