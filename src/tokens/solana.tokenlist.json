@@ -130782,6 +130782,17 @@
         "NFT",
         "Utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CT8zpJM4sVo7Bnm45Mr5rvpUfM2n1LqbMdzHRfyPW3uQ",
+      "symbol": "METG",
+      "name": "MetaGam",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/namtan10t1/solana-metg/main/logo.png",
+      "tags": [
+        "metg-solana"
+      ]
     }
   ],
   "version": {
