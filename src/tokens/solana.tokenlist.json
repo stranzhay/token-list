@@ -130625,6 +130625,22 @@
         "twitter": "https://twitter.com/AmastanInnov",
         "website": "https://amastan-innovation.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ESzkdUN8jvJxMqBjWADUomRxHn2ECxLFeeEvrcteLMnY",
+      "symbol": "pstSOL",
+      "name": "Port Finance Lido Staked SOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ESzkdUN8jvJxMqBjWADUomRxHn2ECxLFeeEvrcteLMnY/pstSOL.svg",
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://port.finance"
+      }
     }
   ],
   "version": {
