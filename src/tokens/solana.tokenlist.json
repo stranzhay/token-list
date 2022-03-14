@@ -130735,6 +130735,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EKhDvdnC3SPqTuKR5fpkyb4qMNpXJokXvG4SgzaucwNy",
+      "symbol": "NMYWL",
+      "name": "ENEMY WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EKhDvdnC3SPqTuKR5fpkyb4qMNpXJokXvG4SgzaucwNy/logo.png",
+      "tags": [
+        "Enemy-token",
+        "WHITELIST",
+        "NFT",
+        "Utility-token"
+      ]
     }
   ],
   "version": {
