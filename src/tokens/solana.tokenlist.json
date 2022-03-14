@@ -131017,6 +131017,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CSuhkkoGvj8sMBFybCJPXaJ2jXUP7svdT39cGgHjcRQp",
+      "symbol": "PDG",
+      "name": "Pedigree Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSuhkkoGvj8sMBFybCJPXaJ2jXUP7svdT39cGgHjcRQp/PLogo.png",
+      "tags": [
+        "social-token",
+        "gaming-token",
+        "nft-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
