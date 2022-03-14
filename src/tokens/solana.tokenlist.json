@@ -130663,6 +130663,21 @@
       "extensions": {
         "twitter": "https://twitter.com/shurikoin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DinoSAHtJFKyuYoKF8tLnojLRSSfYh3tWrsbztQMPxYi",
+      "symbol": "DINO",
+      "name": "DinoLabs WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DinoSAHtJFKyuYoKF8tLnojLRSSfYh3tWrsbztQMPxYi/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DinoLabsNFT",
+        "website": "https://dinolabs.gg/"
+      }
     }
   ],
   "version": {
