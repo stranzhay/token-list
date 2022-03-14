@@ -130625,6 +130625,59 @@
         "twitter": "https://twitter.com/AmastanInnov",
         "website": "https://amastan-innovation.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ESzkdUN8jvJxMqBjWADUomRxHn2ECxLFeeEvrcteLMnY",
+      "symbol": "pstSOL",
+      "name": "Port Finance Lido Staked SOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ESzkdUN8jvJxMqBjWADUomRxHn2ECxLFeeEvrcteLMnY/pstSOL.svg",
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://port.finance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6Hdoq4uHvyQ7Wvj6P4RsNvDZhDF5Px6Gz3YTwDSYj1bv",
+      "symbol": "USDBTC",
+      "name": "USDbitcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solanausdbtc/solanusdbtc/main/download1.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Bs5rtnAennmZhxsmYw4zWexzX4Zjd966xsA4R4HCYnaa",
+      "symbol": "SSKM",
+      "name": "Shurikoin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bs5rtnAennmZhxsmYw4zWexzX4Zjd966xsA4R4HCYnaa/logo.jpg",
+      "extensions": {
+        "twitter": "https://twitter.com/shurikoin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DinoSAHtJFKyuYoKF8tLnojLRSSfYh3tWrsbztQMPxYi",
+      "symbol": "DINO",
+      "name": "DinoLabs WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DinoSAHtJFKyuYoKF8tLnojLRSSfYh3tWrsbztQMPxYi/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DinoLabsNFT",
+        "website": "https://dinolabs.gg/"
+      }
     }
   ],
   "version": {
