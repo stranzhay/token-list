@@ -130924,6 +130924,20 @@
       "name": "NAKITORA",
       "decimals": 4,
       "logoURI": "https://i.ibb.co/R9BcpqP/NAK.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "UsTmCn19utRfsjGfS2JBkWcfEs8Jn3UU7SQAAgz52A4",
+      "symbol": "UST",
+      "name": "ustMA PASS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UsTmCn19utRfsjGfS2JBkWcfEs8Jn3UU7SQAAgz52A4/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://ust.ma/"
+      }
     }
   ],
   "version": {
