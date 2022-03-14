@@ -130992,6 +130992,20 @@
         "twitter": "https://twitter.com/worldofsolana",
         "website": "https://www.worldofsolana.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5NSJG8kEZVCQ1d8sZmXtxnEEJDDBTU7U7DL9NWZKx4Nq",
+      "symbol": "GRAPEZ",
+      "name": "Grapez",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5NSJG8kEZVCQ1d8sZmXtxnEEJDDBTU7U7DL9NWZKx4Nq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/grapezzzzzzz"
+      }
     }
   ],
   "version": {
