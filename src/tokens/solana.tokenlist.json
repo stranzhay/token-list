@@ -131086,6 +131086,17 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GtGaoaGXb38E5h6pHBYN8vqYAo6BsaPUCS2yaswyPpfY",
+      "symbol": "AG",
+      "name": "Agency",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/b0ot/agency/main/logo.svg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
