@@ -130866,6 +130866,34 @@
         "description": "BEVO BUCKS ROCK",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "1ca8XAxZD5zQx8qDLd1piJuVDs4ufkHEJVPjU5QnyCr",
+      "symbol": "SISCOFFEE",
+      "name": "SisCoffee Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EK58dp4mxsKwwuySWQW826i3fwcvUK69jPph22VUcd2H/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "C9PUu1eQe52NeNg3hJGqVfqkTWU9GECVzjMJVuFuAUS4",
+      "symbol": "SMARSI",
+      "name": "Safemars Inu",
+      "decimals": 2,
+      "logoURI": "https://solaboy.github.io/images/safemarsinu.jpeg",
+      "tags": [
+        "meme"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/csoheilaytari30",
+        "telegram": "https://t.me/safemars_inu",
+        "twitter": "https://twitter.com/keylorN36204205",
+        "website": "https://safemarsinu.store"
+      }
     }
   ],
   "version": {
