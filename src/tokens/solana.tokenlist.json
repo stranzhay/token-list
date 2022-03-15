@@ -131184,6 +131184,17 @@
       "extensions": {
         "website": "https://twitter.com/wgmidiot"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DEPzGW5vW9VSCoKTykERiZ3iTGxRmVntPuSZye9mzTBs",
+      "symbol": "IMEN",
+      "name": "Imen Saghrouni Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DEPzGW5vW9VSCoKTykERiZ3iTGxRmVntPuSZye9mzTBs/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
