@@ -131669,6 +131669,20 @@
         "mcsuli",
         "justforgame"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EaGLegtCTBJuVC51xE9zhNoSgesFonM8XMUq6qMveKDY",
+      "symbol": "EAGZ",
+      "name": "OFFICIAL EAGLEZ WL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EaGLegtCTBJuVC51xE9zhNoSgesFonM8XMUq6qMveKDY/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EaglezSOL"
+      }
     }
   ],
   "version": {
