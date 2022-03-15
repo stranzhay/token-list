@@ -131348,6 +131348,17 @@
         "website-currency",
         "member-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "2rFdd5LWCkyEZ68zg3YuDztALWAEdifJW1RRVfn8ZDZh",
+      "symbol": "GOT",
+      "name": "Great Oliv token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/LiudmylaHabit/CryptoTokensLogos/main/MountainToken.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
