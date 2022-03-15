@@ -131263,6 +131263,17 @@
       "extensions": {
         "description": "KIRSTY ROCKS"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "FzN7dvdw7w8Q1KXBHqEmzxYpDhANsjGeW5LoX3EhGBah",
+      "symbol": "EVRY",
+      "name": "EvrynetToken (Wormhole)",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FzN7dvdw7w8Q1KXBHqEmzxYpDhANsjGeW5LoX3EhGBah/logo.png",
+      "tags": [
+        "wormhole"
+      ]
     }
   ],
   "version": {
