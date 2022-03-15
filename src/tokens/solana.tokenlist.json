@@ -131473,6 +131473,17 @@
         "whitelist-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "G5JQhjw4j1kgJKfHJ8wZJxdC2s3c34XGoH8Eh4wQqvhg",
+      "symbol": "SRDC",
+      "name": "SurinameDollarCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/suridcoin/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
