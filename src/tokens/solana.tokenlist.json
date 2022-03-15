@@ -131484,6 +131484,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "THuAo6aDDy5QQABVDvLXhFGPpWuSLp2Qa9ukbmGLir3",
+      "symbol": "TH",
+      "name": "Tiny Title Deeds",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danvernon/tiny-dogz-logo/main/deed-coin.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
