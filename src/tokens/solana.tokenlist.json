@@ -131595,6 +131595,48 @@
         "twitter": "https://twitter.com/the_cynova",
         "website": "https://www.cynova.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "hFZDU52ACazFCk6J9np2ZFHZpBVn1mvXhR6kXRmtAad",
+      "symbol": "LEAT",
+      "name": "LOLALETTEN early access token - LEAT Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Lolaletten/useful/main/LEAT.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/aZwSYrCarY"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "j4cpRFecrtvEbdLYNZb4pg7eTLDSuxUZ1BA2ratQpNa",
+      "symbol": "ATL",
+      "name": "Astraland",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/j4cpRFecrtvEbdLYNZb4pg7eTLDSuxUZ1BA2ratQpNa/logo.png",
+      "tags": [
+        "currency"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "APKLPGdFP3bWjezz1p3YFrRyPjiMWGoNZ3H6uTnjJ7S3",
+      "symbol": "PARA",
+      "name": " Paranoid Android ",
+      "decimals": 6,
+      "logoURI": "https://github.com/dexlab-project/assets/raw/786d9c6a35fc71f78cb0af9daf887b845a91ddf6/tokens/solana/para/symbol.png",
+      "tags": [
+        "NFT",
+        "AMM"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/KaeDRdYxTT",
+        "telegram": "https://t.me/paratoken",
+        "twitter": "https://twitter.com/PARAndroidNFT"
+      }
     }
   ],
   "version": {
