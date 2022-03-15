@@ -131170,6 +131170,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DSFpqenvEpaffRaww8QzkWuAs2NmtJXUJpaHZVbr6EYE",
+      "symbol": "WGMIDIOT",
+      "name": "wgmi",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DSFpqenvEpaffRaww8QzkWuAs2NmtJXUJpaHZVbr6EYE/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/wgmidiot"
+      }
     }
   ],
   "version": {
