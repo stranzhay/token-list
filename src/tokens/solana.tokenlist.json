@@ -131159,6 +131159,17 @@
         "twitter": "https://twitter.com/DAHSNFT",
         "website": "https://www.dahsnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "d3LLMhqHR67Vz24AYVtJ4sdswaJAUhnzkLepm1HMT5a",
+      "symbol": "SALEMGIRLS",
+      "name": "SalemGirls",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/crtyencz/SalemGirls/main/SalemGirls.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
