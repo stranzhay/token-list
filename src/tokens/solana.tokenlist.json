@@ -131359,6 +131359,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2DFF7Vh2TP4Zf8hveM4WbvuFzHHqNmPhxaFLSDJn7ygh",
+      "symbol": "CHO",
+      "name": "ChoToken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2DFF7Vh2TP4Zf8hveM4WbvuFzHHqNmPhxaFLSDJn7ygh/logo.png",
+      "tags": [
+        "Utility-Token"
+      ]
     }
   ],
   "version": {
