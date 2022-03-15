@@ -131211,6 +131211,43 @@
         "facebook": "https://facebook.com/Uminds",
         "twitter": "https://twitter.com/Ultimateminds"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9N6pAzykk711HvBMsBkZ3KDsQMAo5oMrqrj7VpuwwmQT",
+      "symbol": "PLKTN",
+      "name": "Whales Nation Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Ishi727/WN_Whale_House_01/master/Content/Test_01/Whales_Nation_Token_02.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5BjQ8Yf8eZPCVZXUAgUsif8s1nXP85EQC94gf43vER3o",
+      "symbol": "TRUFA",
+      "name": "TrufaCoin",
+      "decimals": 0,
+      "logoURI": "https://github.com/MorisBR/MyCrypto/blob/main/bombom.jpg",
+      "tags": [
+        "utility-token",
+        "capital-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DMEkGutYRD93R7EYf4pULQYzhwjzVeWQbFS9zXGqedqn",
+      "symbol": "CHA1NS",
+      "name": "Chains",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DMEkGutYRD93R7EYf4pULQYzhwjzVeWQbFS9zXGqedqn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.twitter.com/CHA1NS_"
+      }
     }
   ],
   "version": {
