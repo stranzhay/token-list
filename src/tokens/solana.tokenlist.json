@@ -131609,6 +131609,17 @@
       "extensions": {
         "discord": "https://discord.gg/aZwSYrCarY"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "j4cpRFecrtvEbdLYNZb4pg7eTLDSuxUZ1BA2ratQpNa",
+      "symbol": "ATL",
+      "name": "Astraland",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/j4cpRFecrtvEbdLYNZb4pg7eTLDSuxUZ1BA2ratQpNa/logo.png",
+      "tags": [
+        "currency"
+      ]
     }
   ],
   "version": {
