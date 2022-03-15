@@ -131460,6 +131460,19 @@
         "nft",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9Hq27torfYhXJPmMM83Wj6njDEBuJ7FLJ2WNLiQuagnw",
+      "symbol": "SVWL",
+      "name": "Solarverse Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Solarversenft/whitelist_token/main/logo.png",
+      "tags": [
+        "social-token",
+        "whitelist-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
