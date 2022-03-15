@@ -131324,6 +131324,17 @@
         "terra",
         "earth"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EbPv1tqJozMfJR6pvcEcWXFqEidoEsmoAqwhjAfa3Ygk",
+      "symbol": "KPTZE",
+      "name": "Kryptoze",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sarath-ts/kryptoze-new/main/kryptoze-logo-png-cmp.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
