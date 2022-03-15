@@ -131495,6 +131495,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4DxCRywJHs2qXoMrshxwYai26DdcmepBgiyeMcjNm1AH",
+      "symbol": "DSOLE-MWL",
+      "name": "Metta Designsoles Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4DxCRywJHs2qXoMrshxwYai26DdcmepBgiyeMcjNm1AH/blanksoles.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/blanksoles",
+        "twitter": "https://twitter.com/blanksoles",
+        "website": "https://www.blanksoles.com/"
+      }
     }
   ],
   "version": {
