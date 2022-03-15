@@ -131580,6 +131580,21 @@
       "extensions": {
         "twitter": "https://twitter.com/panthersitm"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TodKG4UuPVbuRmQg4byCDuTVq4kuFBXp4oPE66okeB1",
+      "symbol": "NOVAWL",
+      "name": "Nova Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TodKG4UuPVbuRmQg4byCDuTVq4kuFBXp4oPE66okeB1/novapass.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/the_cynova",
+        "website": "https://www.cynova.io/"
+      }
     }
   ],
   "version": {
