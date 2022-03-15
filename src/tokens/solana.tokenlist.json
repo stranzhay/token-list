@@ -131359,6 +131359,36 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2DFF7Vh2TP4Zf8hveM4WbvuFzHHqNmPhxaFLSDJn7ygh",
+      "symbol": "CHO",
+      "name": "ChoToken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2DFF7Vh2TP4Zf8hveM4WbvuFzHHqNmPhxaFLSDJn7ygh/logo.png",
+      "tags": [
+        "Utility-Token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8PBK7R6CkxSWym4L4zLd7S81TS7cwoVn598fHkTYPK15",
+      "symbol": "RSR",
+      "name": "WCC RSR",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8PBK7R6CkxSWym4L4zLd7S81TS7cwoVn598fHkTYPK15/logo.png",
+      "tags": [
+        "rsr",
+        "community",
+        "airdrop",
+        "wcc"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/metawhips",
+        "twitter": "https://twitter.com/wccmetawhips",
+        "website": "https://www.skrrrt.vip"
+      }
     }
   ],
   "version": {
