@@ -131566,6 +131566,20 @@
         "social-token",
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HQaECmN3d5tKMf94jFPquWLr41fRdfrfWEHs8fazqf7A",
+      "symbol": "MEAT",
+      "name": "Panthers in the Metaverse - MEAT Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LinYu1992/pitm-meat-token/main/meat.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/panthersitm"
+      }
     }
   ],
   "version": {
