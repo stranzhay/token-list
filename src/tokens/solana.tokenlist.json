@@ -131715,6 +131715,21 @@
         "twitter": "https://twitter.com/Gods_GalaxyNFT",
         "website": "https://godsofthegalaxy.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A1LwvSDH2v6swHXP9JMxYJVx6YDzdQdnBDvy8VeBA3g1",
+      "symbol": "WKN",
+      "name": "Wakan",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A1LwvSDH2v6swHXP9JMxYJVx6YDzdQdnBDvy8VeBA3g1/logo.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/OldSoulsNFT",
+        "website": "https://oldsouls.art"
+      }
     }
   ],
   "version": {
