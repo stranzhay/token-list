@@ -131248,6 +131248,21 @@
       "extensions": {
         "website": "https://www.twitter.com/CHA1NS_"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gw6t9jMCuqctUXyD8tH3fGa4VXnLaS6ZeLHsQyGdo4jP",
+      "symbol": "KLM",
+      "name": "KIRSTY KOIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gw6t9jMCuqctUXyD8tH3fGa4VXnLaS6ZeLHsQyGdo4jP/logo.png",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "KIRSTY ROCKS"
+      }
     }
   ],
   "version": {
