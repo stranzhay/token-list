@@ -131637,6 +131637,17 @@
         "telegram": "https://t.me/paratoken",
         "twitter": "https://twitter.com/PARAndroidNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "52DNxD3DKm14GhFEHLmG4igvBqK8Dvth1DRVhGxSZvcg",
+      "symbol": "CLBC",
+      "name": "Caleb Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JustinTan7/calebcoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
