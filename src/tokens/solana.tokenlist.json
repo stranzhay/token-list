@@ -131656,6 +131656,19 @@
       "name": "Solana Pixel Elephants WL Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Tof8rSJue77PdagxLqbPmPjDnkM9R2qjyd4y2Uu7NEa/LOGO.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3idv1j9FVF3HDJwTcVdbFBeXhcGU61s8uYdofhfCcBW6",
+      "symbol": "CRED",
+      "name": "CredBank Nyrt",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3idv1j9FVF3HDJwTcVdbFBeXhcGU61s8uYdofhfCcBW6/credbank.png",
+      "tags": [
+        "stock-token",
+        "mcsuli",
+        "justforgame"
+      ]
     }
   ],
   "version": {
