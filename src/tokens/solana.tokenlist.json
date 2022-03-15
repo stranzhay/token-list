@@ -131412,6 +131412,25 @@
       "extensions": {
         "website": "http://omerkaancoskun.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7mL1TFKXfdd8wBoqM7mwXKCi6UecFDhjLq6GgSQHXK1p",
+      "symbol": "BOO",
+      "name": "Spoopy Ghosts Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/spoopyghostsnft/assets/main/256px.png",
+      "tags": [
+        "nft",
+        "community",
+        "airdrop",
+        "casino"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/spoopyghosts",
+        "twitter": "https://twitter.com/spoopyghostsnft",
+        "website": "https://spoopyghosts.com"
+      }
     }
   ],
   "version": {
