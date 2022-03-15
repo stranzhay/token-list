@@ -131170,6 +131170,47 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DSFpqenvEpaffRaww8QzkWuAs2NmtJXUJpaHZVbr6EYE",
+      "symbol": "WGMIDIOT",
+      "name": "wgmi",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DSFpqenvEpaffRaww8QzkWuAs2NmtJXUJpaHZVbr6EYE/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/wgmidiot"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DEPzGW5vW9VSCoKTykERiZ3iTGxRmVntPuSZye9mzTBs",
+      "symbol": "IMEN",
+      "name": "Imen Saghrouni Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DEPzGW5vW9VSCoKTykERiZ3iTGxRmVntPuSZye9mzTBs/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EJHqfk1L8cCiBYLp9sVMU68rkRACXCF6o95R9mPzZo8y",
+      "symbol": "Mind",
+      "name": "UltimateMinds",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ultimateminds/ultimateminds/main/mascot-3.png",
+      "tags": [
+        "social-token",
+        "collectibles"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Uminds",
+        "twitter": "https://twitter.com/Ultimateminds"
+      }
     }
   ],
   "version": {
