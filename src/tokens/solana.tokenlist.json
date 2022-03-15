@@ -131112,6 +131112,53 @@
         "twitter": "https://twitter.com/ZaysanRaptors",
         "website": "https://zaysanraptors.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JD5VXSwNmTatjqJEALW1v1ixoNM7JV4mnVF4h96KpBC6",
+      "symbol": "FATM",
+      "name": "Financial Accounting",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/shlee8313/Assets/main/logo2.png"
+    },
+    {
+      "chainId": 101,
+      "address": "F9spsXKyccFvj34rb6Hf4g9dsqJH3VWW21hcF4bVWUwP",
+      "symbol": "MARU",
+      "name": "Maruchy Arachy",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/shlee8313/Assets/main/entertainment.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FDiJY7TFSjggVru24NNy3mNHVRHXHyg8q2FeBKYQYYq2",
+      "symbol": "SK",
+      "name": "Silent Knight",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/KerronManwaring/sk/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.facebook.com/SilentKnightToken"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DAHSwp5jFX9fzgHLWCxXZAjkqm3w4guTkWKA9rNJHx1q",
+      "symbol": "WLDAHS",
+      "name": "DAHS Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DAHSwp5jFX9fzgHLWCxXZAjkqm3w4guTkWKA9rNJHx1q/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/DAHS",
+        "twitter": "https://twitter.com/DAHSNFT",
+        "website": "https://www.dahsnft.com/"
+      }
     }
   ],
   "version": {
