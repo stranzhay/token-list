@@ -131511,6 +131511,17 @@
         "twitter": "https://twitter.com/blanksoles",
         "website": "https://www.blanksoles.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GQn9aS1V3VonMMcf2GNkoGFCiEZ8r6VMTAkVYen7k5My",
+      "symbol": "STRL",
+      "name": "STRALLON",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Strallon/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
