@@ -131620,6 +131620,23 @@
       "tags": [
         "currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "APKLPGdFP3bWjezz1p3YFrRyPjiMWGoNZ3H6uTnjJ7S3",
+      "symbol": "PARA",
+      "name": " Paranoid Android ",
+      "decimals": 6,
+      "logoURI": "https://github.com/dexlab-project/assets/raw/786d9c6a35fc71f78cb0af9daf887b845a91ddf6/tokens/solana/para/symbol.png",
+      "tags": [
+        "NFT",
+        "AMM"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/KaeDRdYxTT",
+        "telegram": "https://t.me/paratoken",
+        "twitter": "https://twitter.com/PARAndroidNFT"
+      }
     }
   ],
   "version": {
