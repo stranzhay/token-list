@@ -131310,6 +131310,20 @@
         "security-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "A871xaxwLfdYmFGNii3hcc6F6F2kf67L6AP7nZuW95iU",
+      "symbol": "TDITS",
+      "name": "TERRA CREDITS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Rroams/Terra/main/logo.png",
+      "tags": [
+        "social-token",
+        "family",
+        "terra",
+        "earth"
+      ]
     }
   ],
   "version": {
