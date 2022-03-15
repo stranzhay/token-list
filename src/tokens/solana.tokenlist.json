@@ -131234,6 +131234,20 @@
         "utility-token",
         "capital-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DMEkGutYRD93R7EYf4pULQYzhwjzVeWQbFS9zXGqedqn",
+      "symbol": "CHA1NS",
+      "name": "Chains",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DMEkGutYRD93R7EYf4pULQYzhwjzVeWQbFS9zXGqedqn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.twitter.com/CHA1NS_"
+      }
     }
   ],
   "version": {
