@@ -131595,6 +131595,20 @@
         "twitter": "https://twitter.com/the_cynova",
         "website": "https://www.cynova.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "hFZDU52ACazFCk6J9np2ZFHZpBVn1mvXhR6kXRmtAad",
+      "symbol": "LEAT",
+      "name": "LOLALETTEN early access token - LEAT Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Lolaletten/useful/main/LEAT.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/aZwSYrCarY"
+      }
     }
   ],
   "version": {
