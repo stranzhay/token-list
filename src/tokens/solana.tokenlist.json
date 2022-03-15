@@ -131431,6 +131431,20 @@
         "twitter": "https://twitter.com/spoopyghostsnft",
         "website": "https://spoopyghosts.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "72Ad4WezN4J95u4jnTJNTia5FvctQKcRzcKiFs7Vy3JN",
+      "symbol": "PRUA",
+      "name": "ProUkraineCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MihaiCA/crypto-ua/main/logo-prua.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility",
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
