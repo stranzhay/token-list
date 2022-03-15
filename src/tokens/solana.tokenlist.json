@@ -131648,6 +131648,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Tof8rSJue77PdagxLqbPmPjDnkM9R2qjyd4y2Uu7NEa",
+      "symbol": "SPE",
+      "name": "Solana Pixel Elephants WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Tof8rSJue77PdagxLqbPmPjDnkM9R2qjyd4y2Uu7NEa/LOGO.png"
     }
   ],
   "version": {
