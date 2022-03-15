@@ -131222,6 +131222,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5BjQ8Yf8eZPCVZXUAgUsif8s1nXP85EQC94gf43vER3o",
+      "symbol": "TRUFA",
+      "name": "TrufaCoin",
+      "decimals": 0,
+      "logoURI": "https://github.com/MorisBR/MyCrypto/blob/main/bombom.jpg",
+      "tags": [
+        "utility-token",
+        "capital-token"
+      ]
     }
   ],
   "version": {
