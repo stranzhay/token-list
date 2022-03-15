@@ -131195,6 +131195,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EJHqfk1L8cCiBYLp9sVMU68rkRACXCF6o95R9mPzZo8y",
+      "symbol": "Mind",
+      "name": "UltimateMinds",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ultimateminds/ultimateminds/main/mascot-3.png",
+      "tags": [
+        "social-token",
+        "collectibles"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Uminds",
+        "twitter": "https://twitter.com/Ultimateminds"
+      }
     }
   ],
   "version": {
