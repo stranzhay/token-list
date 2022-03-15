@@ -131683,6 +131683,23 @@
       "extensions": {
         "twitter": "https://twitter.com/EaglezSOL"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6yksxHaGkSzJwnWZHqExuJ4KZS61nqR8dDjxs3XLBudV",
+      "symbol": "MISI",
+      "name": "MiskahuszarDAO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/miskahuszar/miska-spl/main/logo.png",
+      "tags": [
+        "community-token",
+        "DAO-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/miskahuszar/",
+        "twitter": "https://twitter.com/miskahuszardao"
+      }
     }
   ],
   "version": {
