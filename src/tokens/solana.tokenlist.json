@@ -131397,6 +131397,21 @@
       "name": "SENSEI Finance",
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SeNXkide9y4AYdc8ztQTUtFFWdiHd4unjNmqistsYvH/logo.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "HHmD2wbQZyxQHyiPdxnbJXkRhx2hSjHJm34a5Y7CGDa8",
+      "symbol": "OKC",
+      "name": "OKCOIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Kazuto-Kawahara/OKCOIN/main/OKC-Logo-tq-nbg.png",
+      "tags": [
+        "social-token",
+        "educational-token"
+      ],
+      "extensions": {
+        "website": "http://omerkaancoskun.com/"
+      }
     }
   ],
   "version": {
