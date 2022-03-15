@@ -131112,6 +131112,22 @@
         "twitter": "https://twitter.com/ZaysanRaptors",
         "website": "https://zaysanraptors.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JD5VXSwNmTatjqJEALW1v1ixoNM7JV4mnVF4h96KpBC6",
+      "symbol": "FATM",
+      "name": "Financial Accounting",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/shlee8313/Assets/main/logo2.png"
+    },
+    {
+      "chainId": 101,
+      "address": "F9spsXKyccFvj34rb6Hf4g9dsqJH3VWW21hcF4bVWUwP",
+      "symbol": "MARU",
+      "name": "Maruchy Arachy",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/shlee8313/Assets/main/entertainment.png"
     }
   ],
   "version": {
