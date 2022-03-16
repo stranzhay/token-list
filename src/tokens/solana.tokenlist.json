@@ -131730,6 +131730,17 @@
         "twitter": "https://twitter.com/OldSoulsNFT",
         "website": "https://oldsouls.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "gbgbSxPAXwQgTp6PyXCeoXqcZf4UHYQKtuYS53qnPtz",
+      "symbol": "PAYX",
+      "name": "PayX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/gbgbSxPAXwQgTp6PyXCeoXqcZf4UHYQKtuYS53qnPtz/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
