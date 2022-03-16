@@ -132156,6 +132156,25 @@
         "blog": "https://blog.me-idea.in.th",
         "website": "https://kajame.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3HwVHE4u66RSHa8L4M1JxSz2Frzwh7j4wpfGbH7912UH",
+      "symbol": "BUBZ",
+      "name": "BUBZEE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3HwVHE4u66RSHa8L4M1JxSz2Frzwh7j4wpfGbH7912UH/logo.png",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Banz Carewear for Kids. Sensitive care. Sensible choice.",
+        "facebook": "https://www.facebook.com/BANZCarewear",
+        "instagram": "https://www.instagram.com/banzaustralia/",
+        "twitter": "https://twitter.com/banzcarewear",
+        "website": "https://www.banzworld.com"
+      }
     }
   ],
   "version": {
