@@ -132141,6 +132141,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4kbuWKMktNRTTdvmAh3WT3quMEgZ3WEpGt5zb4Z9FkyZ",
+      "symbol": "NCX",
+      "name": "NickelCityXwing",
+      "decimals": 0,
+      "logoURI": "https://github.com/gregkash16/crypto/blob/main/NCXCJPG.jpg",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "blog": "https://blog.me-idea.in.th",
+        "website": "https://kajame.xyz"
+      }
     }
   ],
   "version": {
