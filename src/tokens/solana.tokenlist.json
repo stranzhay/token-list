@@ -131763,6 +131763,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3KkYJP3ooWH5J2jaJtYEggAvgncnJ2EtYcEzvAyjMfSP",
+      "symbol": "KIJ",
+      "name": "KIJ",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/kijangtoken/kijang/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
