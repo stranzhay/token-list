@@ -131752,6 +131752,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EaVNKunbgcsdjayCMe9XbkYYxDLUxmp4cR7fH9CnYDsv",
+      "symbol": "GBITS",
+      "name": "Gbit Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/visivoagency/Crypto/main/Gbits_logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
