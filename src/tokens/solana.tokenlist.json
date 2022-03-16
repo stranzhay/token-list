@@ -131700,6 +131700,21 @@
         "github": "https://github.com/miskahuszar/",
         "twitter": "https://twitter.com/miskahuszardao"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GoGwgMnVsRqLUf2vPKxTG6DSyRRSrZCEKQBUCFDUFneU",
+      "symbol": "GOG",
+      "name": "GOG Token",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoGwgMnVsRqLUf2vPKxTG6DSyRRSrZCEKQBUCFDUFneU/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Gods_GalaxyNFT",
+        "website": "https://godsofthegalaxy.io/"
+      }
     }
   ],
   "version": {
