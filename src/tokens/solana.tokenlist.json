@@ -131774,6 +131774,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5Yx5yVEf9oGuxg7sh6nr5WHWkJd6MEUQSeRX292fAmY",
+      "symbol": "CHCO",
+      "name": "ChessCoin",
+      "decimals": 7,
+      "logoURI": "https://github.com/EMATiON/crypto/raw/main/chco.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
