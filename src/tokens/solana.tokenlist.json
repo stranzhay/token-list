@@ -131893,6 +131893,14 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HudUgoEa986hRAgJWPj3cB1c9WoXEmBVw7gwBKTMwikd",
+      "symbol": "PBWL",
+      "name": "Puppy Bullies WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MetaBully/puppy-bullies/main/logo.png"
     }
   ],
   "version": {
