@@ -131998,6 +131998,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "457ewhibDVb5brQP5JZBm28op4jLhGBJHwcLe3c2GADE",
+      "symbol": "WZRD",
+      "name": "Wizardia",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/457ewhibDVb5brQP5JZBm28op4jLhGBJHwcLe3c2GADE/logo.png",
+      "extensions": {
+        "medium": "https://medium.com/@wizardia",
+        "twitter": "https://twitter.com/PlayWizardia",
+        "website": "https://wizardia.io"
+      }
     }
   ],
   "version": {
