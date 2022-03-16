@@ -131963,6 +131963,14 @@
         "twitter": "https://twitter.com/GorillaSC_",
         "website": "https://gorillasocialclub.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2ZamLCGLPSpP2MRbeM2wXRWzTEDhr669cFycVWgzBixi",
+      "symbol": "TBF",
+      "name": "The Big Five",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/thebigfivenft/asset/main/the-big-fiv.png"
     }
   ],
   "version": {
