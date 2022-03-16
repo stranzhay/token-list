@@ -131838,6 +131838,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7DBpAPMYUfrJWrCGJdyv2Z3nTXN28bDGCi4n4xYo8f8w",
+      "symbol": "WW",
+      "name": "Wonder Woman Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Wonder-Woman-Coin/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DCwonderwoman"
+      }
     }
   ],
   "version": {
