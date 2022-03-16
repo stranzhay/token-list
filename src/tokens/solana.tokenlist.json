@@ -132011,6 +132011,23 @@
         "twitter": "https://twitter.com/PlayWizardia",
         "website": "https://wizardia.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "jbyi8caTyxtzw6vPRpZCwRv9k1rZNfxTK9yRDKFgj7P",
+      "symbol": "ThxU",
+      "name": "Thank You Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/jbyi8caTyxtzw6vPRpZCwRv9k1rZNfxTK9yRDKFgj7P/logo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ThxuToken",
+        "website": "https://thxu.life/"
+      }
     }
   ],
   "version": {
