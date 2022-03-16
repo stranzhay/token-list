@@ -132042,6 +132042,20 @@
       "extensions": {
         "twitter": "https://twitter.com/lildegenapeclub"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HmhebATrgvFceCG9qHoqY6c3jYnW4Nx3gPAVzGhkRupy",
+      "symbol": "RISE",
+      "name": "ECORISE DAO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HmhebATrgvFceCG9qHoqY6c3jYnW4Nx3gPAVzGhkRupy/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://ecorise.finance/"
+      }
     }
   ],
   "version": {
