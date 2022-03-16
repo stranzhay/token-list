@@ -131944,6 +131944,25 @@
         "discord": "https://discord.gg/weedheads",
         "website": "https://weedheads.art/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8dXC7QzRimcycR89pT65y3b9FLCmyuKEXPMcNxV7Dem9",
+      "symbol": "GSCWL",
+      "name": "GSC WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8dXC7QzRimcycR89pT65y3b9FLCmyuKEXPMcNxV7Dem9/logo.png",
+      "tags": [
+        "community-token",
+        "nft",
+        "wl-token"
+      ],
+      "extensions": {
+        "description": "GSCWL are the whitelist tokens for GSC minting",
+        "discord": "https://discord.gg/TXfuFEmss4",
+        "twitter": "https://twitter.com/GorillaSC_",
+        "website": "https://gorillasocialclub.io/"
+      }
     }
   ],
   "version": {
