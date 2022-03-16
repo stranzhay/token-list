@@ -132011,6 +132011,66 @@
         "twitter": "https://twitter.com/PlayWizardia",
         "website": "https://wizardia.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "jbyi8caTyxtzw6vPRpZCwRv9k1rZNfxTK9yRDKFgj7P",
+      "symbol": "ThxU",
+      "name": "Thank You Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/jbyi8caTyxtzw6vPRpZCwRv9k1rZNfxTK9yRDKFgj7P/logo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ThxuToken",
+        "website": "https://thxu.life/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "SRMFbAYiA6vxA2KxURziACmtqs1jtiqCVKPPMjNMxmm",
+      "symbol": "SERUM",
+      "name": "LDAC Serum",
+      "decimals": 0,
+      "logoURI": "https://jokerz-sol.s3.amazonaws.com/ldac/serum/0.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/lildegenapeclub"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HmhebATrgvFceCG9qHoqY6c3jYnW4Nx3gPAVzGhkRupy",
+      "symbol": "RISE",
+      "name": "ECORISE DAO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HmhebATrgvFceCG9qHoqY6c3jYnW4Nx3gPAVzGhkRupy/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://ecorise.finance/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CVq2Sfqzx9D43tMbkM84tc4wSwJLe6LUY2e52Jo6ArjC",
+      "symbol": "FEToken",
+      "name": "FEToken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/9dk8/solana/main/FE2_Circle.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Formula Edge Token for testing",
+        "website": "https://formulaedge.org"
+      }
     }
   ],
   "version": {
