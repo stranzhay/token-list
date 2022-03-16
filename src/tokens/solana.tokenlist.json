@@ -132071,6 +132071,32 @@
         "description": "Formula Edge Token for testing",
         "website": "https://formulaedge.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6TJcjucpq8Vp5rHqDXhzQsRxEZUsHWcNH8dUWtpcvaER",
+      "symbol": "PRCN",
+      "name": "PiperCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6TJcjucpq8Vp5rHqDXhzQsRxEZUsHWcNH8dUWtpcvaER/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6PCYef4LDWsFooniF1h2cQtKiB5BPzMobnWDTUkanHpk",
+      "symbol": "NANAS",
+      "name": "Nifty Nanas",
+      "decimals": 3,
+      "logoURI": "https://i.ibb.co/Tr8chSd/PEEL-final.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/NiftyNanas",
+        "website": "https://niftynanas.com/"
+      }
     }
   ],
   "version": {
