@@ -132108,6 +132108,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AicrDDwTZ8toM6hkmEwyvpWNGcXgq1boWVf5BhXDAvEu",
+      "symbol": "DBIC",
+      "name": "(DEV) DBI Cryptocoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/EmpireDesigns007/crypto/main/DBI-Crypto-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
