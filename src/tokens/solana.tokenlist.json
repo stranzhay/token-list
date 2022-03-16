@@ -132028,6 +132028,20 @@
         "twitter": "https://twitter.com/ThxuToken",
         "website": "https://thxu.life/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SRMFbAYiA6vxA2KxURziACmtqs1jtiqCVKPPMjNMxmm",
+      "symbol": "SERUM",
+      "name": "LDAC Serum",
+      "decimals": 0,
+      "logoURI": "https://jokerz-sol.s3.amazonaws.com/ldac/serum/0.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/lildegenapeclub"
+      }
     }
   ],
   "version": {
