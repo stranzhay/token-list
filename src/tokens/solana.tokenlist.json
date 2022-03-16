@@ -131785,6 +131785,48 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9tshp8vPyZZW3wnQmNCDRF5vMggeGSWY291pR7W45KcR",
+      "symbol": "PLATSKU11",
+      "name": "PROJECT SKU11 Platinum Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9tshp8vPyZZW3wnQmNCDRF5vMggeGSWY291pR7W45KcR/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SkullDiv"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CeZoteB9AF7Gy5sXAUKo8h5fbAHHfJiKYyJf8n8WBRTx",
+      "symbol": "DIAMSKU11",
+      "name": "PROJECT SKU11 Diamond Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CeZoteB9AF7Gy5sXAUKo8h5fbAHHfJiKYyJf8n8WBRTx/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SkullDiv"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "d4kbgLD1XPQkuEaBbZtPrYUPCPXZK3YGi8iHYtgEzjg",
+      "symbol": "GOLDSKU11",
+      "name": "PROJECT SKU11 Gold Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/d4kbgLD1XPQkuEaBbZtPrYUPCPXZK3YGi8iHYtgEzjg/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SkullDiv"
+      }
     }
   ],
   "version": {
