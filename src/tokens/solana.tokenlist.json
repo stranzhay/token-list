@@ -132175,6 +132175,21 @@
         "twitter": "https://twitter.com/banzcarewear",
         "website": "https://www.banzworld.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "25YC9dJjKkT4uyVUvL6WHTnpbRXfS8AEXvJp7FQQs9Yj",
+      "symbol": "LADA",
+      "name": "LadderCaster",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/25YC9dJjKkT4uyVUvL6WHTnpbRXfS8AEXvJp7FQQs9Yj/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
     }
   ],
   "version": {
