@@ -131987,6 +131987,17 @@
         "twitter": "https://twitter.com/theDogeTrack",
         "website": "https://dogetrack.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HexEj6QJ2CU1MHYn81wXTrdUj4bk2kZmTDo1hDaDBd2g",
+      "symbol": "BRTT",
+      "name": "Brittcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bbritt83/crypto/main/brittcoin_kansas.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
