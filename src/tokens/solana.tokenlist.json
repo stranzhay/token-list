@@ -132056,6 +132056,21 @@
       "extensions": {
         "website": "https://ecorise.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CVq2Sfqzx9D43tMbkM84tc4wSwJLe6LUY2e52Jo6ArjC",
+      "symbol": "FEToken",
+      "name": "FEToken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/9dk8/solana/main/FE2_Circle.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Formula Edge Token for testing",
+        "website": "https://formulaedge.org"
+      }
     }
   ],
   "version": {
