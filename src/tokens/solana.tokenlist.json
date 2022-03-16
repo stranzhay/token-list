@@ -131865,6 +131865,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BBZbqM7RPKzncqaC26gtq6Z4dkm5ksZXib4nJYjk8L3X",
+      "symbol": "NUGGET",
+      "name": "Degen Islands NUGGET Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BBZbqM7RPKzncqaC26gtq6Z4dkm5ksZXib4nJYjk8L3X/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "NUGGETs are the official tokens for Degen Islands",
+        "discord": "https://discord.gg/dzyMPzmFMe",
+        "twitter": "https://twitter.com/degenislands",
+        "website": "http://degenislands.com/"
+      }
     }
   ],
   "version": {
