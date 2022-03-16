@@ -131741,6 +131741,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4w33ZeFsFzAqjCwLY9igra3khYt5D4TSu8iXXzUA6Vjv",
+      "symbol": "ANON",
+      "name": "ANON Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ultimatemind/UltimateMind/main/01259_00.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
