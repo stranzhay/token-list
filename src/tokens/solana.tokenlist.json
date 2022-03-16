@@ -131838,6 +131838,50 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7DBpAPMYUfrJWrCGJdyv2Z3nTXN28bDGCi4n4xYo8f8w",
+      "symbol": "WW",
+      "name": "Wonder Woman Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Wonder-Woman-Coin/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DCwonderwoman"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FB3quiAeY4cHTESzeo2FbYZt9WnXyoaaTFo3upL2RXjV",
+      "symbol": "SS",
+      "name": "SolanaStage",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FB3quiAeY4cHTESzeo2FbYZt9WnXyoaaTFo3upL2RXjV/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BBZbqM7RPKzncqaC26gtq6Z4dkm5ksZXib4nJYjk8L3X",
+      "symbol": "NUGGET",
+      "name": "Degen Islands NUGGET Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BBZbqM7RPKzncqaC26gtq6Z4dkm5ksZXib4nJYjk8L3X/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "NUGGETs are the official tokens for Degen Islands",
+        "discord": "https://discord.gg/dzyMPzmFMe",
+        "twitter": "https://twitter.com/degenislands",
+        "website": "http://degenislands.com/"
+      }
     }
   ],
   "version": {
