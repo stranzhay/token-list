@@ -131912,6 +131912,22 @@
       "extensions": {
         "twitter": "https://twitter.com/png_fi"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C2xKQ8BUNf6rv1Y1ndKs759QbmsXde8cmcKeRXgh1Y4t",
+      "symbol": "TERL",
+      "name": "Terra Legends",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C2xKQ8BUNf6rv1Y1ndKs759QbmsXde8cmcKeRXgh1Y4t/logo.png",
+      "tags": [
+        "metaverse",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://terralegends.io/"
+      }
     }
   ],
   "version": {
