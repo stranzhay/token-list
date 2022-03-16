@@ -131827,6 +131827,17 @@
       "extensions": {
         "twitter": "https://twitter.com/SkullDiv"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2hnR5wSf2FQmXdX8titYFpHxDBie6chcm2D2wZz2mJb8",
+      "symbol": "DGNZ",
+      "name": "Degenz Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mr365k/DGNZ/main/dgnztoken.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
