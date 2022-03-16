@@ -132190,6 +132190,26 @@
         "twitter": "https://twitter.com/LadderCaster",
         "website": "https://laddercaster.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9hXWYupLxAnZ1t2SSDSr9mishBnDXUti9iWvSYipeVaQ",
+      "symbol": "PAN",
+      "name": "Pantheon Art",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/PantheonNFTs/PantheonToken/main/pantheon%20crypto%20logo.png",
+      "tags": [
+        "nft",
+        "metaverse",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Digital Art of Ancient Gods \u0026 Mythical Creatures from Antiquity",
+        "discord": "https://discord.com/invite/9JsV7ZV3",
+        "facebook": "https://www.facebook.com/ThePantheonArtCollection",
+        "twitter": "https://twitter.com/ThePantheonArt"
+      }
     }
   ],
   "version": {
