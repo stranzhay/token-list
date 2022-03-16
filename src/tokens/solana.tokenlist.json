@@ -132097,6 +132097,17 @@
         "twitter": "https://twitter.com/NiftyNanas",
         "website": "https://niftynanas.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Aj3sU5LeuxXYZ6cCW4PRcm15Lrmhn5dWHY3AcBPtQDGo",
+      "symbol": "JCSB",
+      "name": "JCSanchez",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/juancarlos995/crypto/main/JCSanchez.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
