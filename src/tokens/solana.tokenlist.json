@@ -132119,6 +132119,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CL2VhyUxJ3tBUvE19UMhXukK3YzFinQBH6sDazVmhkjx",
+      "symbol": "PEAK",
+      "name": "Peak Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/luuk180/PEAK/master/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
