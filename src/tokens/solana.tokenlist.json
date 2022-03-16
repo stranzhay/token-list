@@ -131730,6 +131730,28 @@
         "twitter": "https://twitter.com/OldSoulsNFT",
         "website": "https://oldsouls.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "gbgbSxPAXwQgTp6PyXCeoXqcZf4UHYQKtuYS53qnPtz",
+      "symbol": "PAYX",
+      "name": "PayX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/gbgbSxPAXwQgTp6PyXCeoXqcZf4UHYQKtuYS53qnPtz/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4w33ZeFsFzAqjCwLY9igra3khYt5D4TSu8iXXzUA6Vjv",
+      "symbol": "ANON",
+      "name": "ANON Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ultimatemind/UltimateMind/main/01259_00.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
