@@ -131901,6 +131901,17 @@
       "name": "Puppy Bullies WL Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/MetaBully/puppy-bullies/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GQzf8qF7sG1eLyYqk7scFy8HfShhyfqZa4NVwRrDrGcY",
+      "symbol": "BUD_PAI",
+      "name": "BUD/PAI LP Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GQzf8qF7sG1eLyYqk7scFy8HfShhyfqZa4NVwRrDrGcY/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/png_fi"
+      }
     }
   ],
   "version": {
