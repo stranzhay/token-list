@@ -132130,6 +132130,66 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2d4wMzHDAZRFQzVDB2kjRGFMAfVSURh7oZD6df9PoYst",
+      "symbol": "GOOF",
+      "name": "GoofCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/lunarscribe0/goofcoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4kbuWKMktNRTTdvmAh3WT3quMEgZ3WEpGt5zb4Z9FkyZ",
+      "symbol": "NCX",
+      "name": "NickelCityXwing",
+      "decimals": 0,
+      "logoURI": "https://github.com/gregkash16/crypto/blob/main/NCXCJPG.jpg",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "blog": "https://blog.me-idea.in.th",
+        "website": "https://kajame.xyz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3HwVHE4u66RSHa8L4M1JxSz2Frzwh7j4wpfGbH7912UH",
+      "symbol": "BUBZ",
+      "name": "BUBZEE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3HwVHE4u66RSHa8L4M1JxSz2Frzwh7j4wpfGbH7912UH/logo.png",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Banz Carewear for Kids. Sensitive care. Sensible choice.",
+        "facebook": "https://www.facebook.com/BANZCarewear",
+        "instagram": "https://www.instagram.com/banzaustralia/",
+        "twitter": "https://twitter.com/banzcarewear",
+        "website": "https://www.banzworld.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "25YC9dJjKkT4uyVUvL6WHTnpbRXfS8AEXvJp7FQQs9Yj",
+      "symbol": "LADA",
+      "name": "LadderCaster",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/25YC9dJjKkT4uyVUvL6WHTnpbRXfS8AEXvJp7FQQs9Yj/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
     }
   ],
   "version": {
