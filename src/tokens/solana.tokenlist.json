@@ -131882,6 +131882,17 @@
         "twitter": "https://twitter.com/degenislands",
         "website": "http://degenislands.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9MEUevTzP81sRFCKxeJmqfDn7HFMYnBVhXE12rd3jRGt",
+      "symbol": "ROMI",
+      "name": "ROMI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9MEUevTzP81sRFCKxeJmqfDn7HFMYnBVhXE12rd3jRGt/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
