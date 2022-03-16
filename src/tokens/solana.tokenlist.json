@@ -131854,6 +131854,17 @@
       "extensions": {
         "twitter": "https://twitter.com/DCwonderwoman"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FB3quiAeY4cHTESzeo2FbYZt9WnXyoaaTFo3upL2RXjV",
+      "symbol": "SS",
+      "name": "SolanaStage",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FB3quiAeY4cHTESzeo2FbYZt9WnXyoaaTFo3upL2RXjV/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
