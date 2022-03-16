@@ -132071,6 +132071,17 @@
         "description": "Formula Edge Token for testing",
         "website": "https://formulaedge.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6TJcjucpq8Vp5rHqDXhzQsRxEZUsHWcNH8dUWtpcvaER",
+      "symbol": "PRCN",
+      "name": "PiperCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6TJcjucpq8Vp5rHqDXhzQsRxEZUsHWcNH8dUWtpcvaER/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
