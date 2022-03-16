@@ -131971,6 +131971,22 @@
       "name": "The Big Five",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/thebigfivenft/asset/main/the-big-fiv.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DTRK1XRNaL6CxfFWwVLZMxyhiCZnwdP32CgzVDXWy5Td",
+      "symbol": "DTRK",
+      "name": "Doge Track",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DTRK1XRNaL6CxfFWwVLZMxyhiCZnwdP32CgzVDXWy5Td/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/dogetrack",
+        "twitter": "https://twitter.com/theDogeTrack",
+        "website": "https://dogetrack.io/"
+      }
     }
   ],
   "version": {
