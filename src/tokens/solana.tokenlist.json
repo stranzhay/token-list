@@ -132573,6 +132573,19 @@
       "tags": [
         "soland"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ghrvhi62DvBBvbKJu3E9ARaewxH3uwx7DF8rtouPeKR",
+      "symbol": "GHOST",
+      "name": "Gaikoku Ghosts WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/EduardoNicoleit/token-list/main/assets/mainnet/ghrvhi62DvBBvbKJu3E9ARaewxH3uwx7DF8rtouPeKR/logo.png",
+      "tags": [
+        "utility-token",
+        "security-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
