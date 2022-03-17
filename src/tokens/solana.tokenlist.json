@@ -132605,6 +132605,17 @@
       "name": "KKey WL Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/EduardoNicoleit/token-list-1/main/assets/mainnet/keyus512ScDBEBUZvtD9s1wKm6dfeDJt2D9r4w6TNy4/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8BLiujyxu5gJajWBXoZQkwSsamdeHNKWQbu1ApAao8Ps",
+      "symbol": "ACA",
+      "name": "Acacia",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/qubelabsllc/ACALogo/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
