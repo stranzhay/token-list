@@ -132293,6 +132293,17 @@
       "extensions": {
         "website": "https://twitter.com/HODLsolana"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G8N6F1JB4JrxnxYfMHYzx5cxTodB87JgMBEMXsVPemew",
+      "symbol": "RVC",
+      "name": "Rich Vagos Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Piscuis/RV/main/rvCoin-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
