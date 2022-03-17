@@ -132573,6 +132573,30 @@
       "tags": [
         "soland"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ghrvhi62DvBBvbKJu3E9ARaewxH3uwx7DF8rtouPeKR",
+      "symbol": "GHOST",
+      "name": "Gaikoku Ghosts WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/EduardoNicoleit/token-list/main/assets/mainnet/ghrvhi62DvBBvbKJu3E9ARaewxH3uwx7DF8rtouPeKR/logo.png",
+      "tags": [
+        "utility-token",
+        "security-token",
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BitQuuWBbXyGRKAPeefti3R5RgFwuX7mHSxx64xm5yhF",
+      "symbol": "COCK",
+      "name": "The Secret Cockatoo Club",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BitQuuWBbXyGRKAPeefti3R5RgFwuX7mHSxx64xm5yhF/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SecretCockatoos"
+      }
     }
   ],
   "version": {
