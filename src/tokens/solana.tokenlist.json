@@ -132399,6 +132399,21 @@
         "security-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "vBUD5s5PtJoApmQCxPd6yFudUmTgiARkn5SEspuf38w",
+      "symbol": "vBUD",
+      "name": "BunnyDucky Vesting Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/vBUD5s5PtJoApmQCxPd6yFudUmTgiARkn5SEspuf38w/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BunnyDuckyHQ",
+        "website": "https://bunnyducky.com/"
+      }
     }
   ],
   "version": {
