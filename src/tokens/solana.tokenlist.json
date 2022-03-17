@@ -132326,6 +132326,21 @@
       "tags": [
         "tCCC"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7MKpy8PeNjQM3i4xWzGiZjDd97mq6m4QH6Q8jrXnsQ9L",
+      "symbol": "ZORG",
+      "name": "Zorg app",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/ySjGr4K/zorg-removebg.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/zorg_app",
+        "website": "https://zorgapp.tech/"
+      }
     }
   ],
   "version": {
