@@ -132222,6 +132222,49 @@
         "twitter": "https://twitter.com/GooneyToonsNFT",
         "website": "https://gooneytoons.studio"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ECPAcbSNK4xeajfNwECTAd9pykEVz97UGzV7B6G5pmYD",
+      "symbol": "BZTT",
+      "name": "Electons 2 WL PASS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ECPAcbSNK4xeajfNwECTAd9pykEVz97UGzV7B6G5pmYD/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/electonsnft"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2L38dLcLYH8unipx3kuuDoGsfaYP1xEL7jdboLKZmiQx",
+      "symbol": "ENERGY",
+      "name": "Kage Energy",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2L38dLcLYH8unipx3kuuDoGsfaYP1xEL7jdboLKZmiQx/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/KageSociety"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DApPeEgNyhYJe76gGBB88eHpXbeaDLJVQoW1HSHvhsBn",
+      "symbol": "DAH2",
+      "name": "DAHS WL GEN2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DApPeEgNyhYJe76gGBB88eHpXbeaDLJVQoW1HSHvhsBn/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DAHSNFT",
+        "website": "https://www.dahsnft.com/"
+      }
     }
   ],
   "version": {
