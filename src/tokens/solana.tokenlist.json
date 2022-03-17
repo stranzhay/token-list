@@ -132501,6 +132501,23 @@
         "mischief",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6snMV2mz6Wj3Dh4UGZTgNfU2ETXHuU3qdnSYD4BVxE69",
+      "symbol": "ANIMU",
+      "name": "Animu Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6snMV2mz6Wj3Dh4UGZTgNfU2ETXHuU3qdnSYD4BVxE69/logo.png",
+      "tags": [
+        "currency",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/HThus6qpZc",
+        "twitter": "https://twitter.com/animu_chan_",
+        "website": "https://animu.io/"
+      }
     }
   ],
   "version": {
