@@ -132477,6 +132477,30 @@
         "twitter": "https://twitter.com/SugarRealmNFT",
         "website": "https://sugarrealm.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "55toLUwFGutQiJyyFqFDge3uTiRicY5QftDLJrNTyWxC",
+      "symbol": "MSF",
+      "name": "Mischief Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/55toLUwFGutQiJyyFqFDge3uTiRicY5QftDLJrNTyWxC/logo.png",
+      "tags": [
+        "mischief",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "HHZEjFdPym9SRqfddqyGHzvNrpU5PETZqAzYuYtsP8QJ",
+      "symbol": "MSF",
+      "name": "Mischief Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/55toLUwFGutQiJyyFqFDge3uTiRicY5QftDLJrNTyWxC/logo.png",
+      "tags": [
+        "mischief",
+        "utility-token"
+      ]
     }
   ],
   "version": {
