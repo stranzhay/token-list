@@ -132459,6 +132459,24 @@
         "twitter": "https://twitter.com/SOLhouseNFTs",
         "website": "https://solhouse.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AWQGb8miFhJFyM3AHtQ8j7nADD1EmEe61bcYrzhHkRpv",
+      "symbol": "SUGA",
+      "name": "Sugar Realm",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AWQGb8miFhJFyM3AHtQ8j7nADD1EmEe61bcYrzhHkRpv/SUGA.png",
+      "tags": [
+        "SUGA",
+        "sugar_realm"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/sugarrealm",
+        "medium": "https://medium.com/@sugarrealmnft",
+        "twitter": "https://twitter.com/SugarRealmNFT",
+        "website": "https://sugarrealm.io/"
+      }
     }
   ],
   "version": {
