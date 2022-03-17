@@ -132304,6 +132304,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3nweUdP5ZHQmy2wiBV5Y3KFtTxqoVboDVNj3ZRifoYeZ",
+      "symbol": "TLC",
+      "name": "TALCON",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/RaPGoD31/talcon/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "3zTbjG15ynWjTTfBwpHkvTuKzTygBwirvguRmtpFpSFK",
+      "symbol": "tCCC",
+      "name": "test Carbene Chemistry Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/JSLJ23/carbene-chemistry/main/CCC.png",
+      "tags": [
+        "tCCC"
+      ]
     }
   ],
   "version": {
