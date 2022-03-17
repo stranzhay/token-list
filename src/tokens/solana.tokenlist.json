@@ -132375,6 +132375,17 @@
         "twitter": "https://twitter.com/Metagam_org",
         "website": "https://www.metagam.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H8YuWzeMJepYxL4XShSEq5U9Bfa46TNGKTorQyJ5xzGA",
+      "symbol": "SOJ",
+      "name": "Symbol of Justice",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H8YuWzeMJepYxL4XShSEq5U9Bfa46TNGKTorQyJ5xzGA/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
