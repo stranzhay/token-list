@@ -132616,6 +132616,23 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H7WBKY4qs4TEMih4ykQo5X1DDLhM5vGmQ4dHNs6eeNB6",
+      "symbol": "BG",
+      "name": "Boga",
+      "decimals": 0,
+      "logoURI": "https://alaanft.000webhostapp.com/Boga.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "animationUrl": "https://i.imgur.com/I44AstZ.mp4",
+        "description": "For the loving memory of my childhood best friend Boga, this token is to all Border Collies and dog lovers out there, may you stay awesome! ",
+        "imageUrl": "https://alaanft.000webhostapp.com/Boga.png",
+        "website": "http://ingolds.hr/"
+      }
     }
   ],
   "version": {
