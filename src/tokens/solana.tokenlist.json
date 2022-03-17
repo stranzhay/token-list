@@ -132315,6 +132315,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "3zTbjG15ynWjTTfBwpHkvTuKzTygBwirvguRmtpFpSFK",
+      "symbol": "tCCC",
+      "name": "test Carbene Chemistry Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/JSLJ23/carbene-chemistry/main/CCC.png",
+      "tags": [
+        "tCCC"
+      ]
     }
   ],
   "version": {
