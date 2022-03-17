@@ -132357,6 +132357,24 @@
         "twitter": "https://twitter.com/EternalDragons_",
         "website": "https://eternaldragons.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GznZN2S6Nyr7yEH1GJPMjz3tnhRpbiCZDh5B3pcYuFkh",
+      "symbol": "METG",
+      "name": "MetaGamSolana",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/JameWi/logo/main/logometg.png",
+      "tags": [
+        "metg-solana",
+        "main-metg"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/539UeBNT",
+        "telegram": "https://t.me/metg_org",
+        "twitter": "https://twitter.com/Metagam_org",
+        "website": "https://www.metagam.org/"
+      }
     }
   ],
   "version": {
