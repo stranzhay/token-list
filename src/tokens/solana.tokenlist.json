@@ -132279,6 +132279,20 @@
       "extensions": {
         "website": "https://www.penguinlabs.art/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7EMiYyhRBJh4yTX4B5YDux59dw5C2LEf1VRmggY7tHVG",
+      "symbol": "HOE",
+      "name": "HOEDL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7EMiYyhRBJh4yTX4B5YDux59dw5C2LEf1VRmggY7tHVG/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/HODLsolana"
+      }
     }
   ],
   "version": {
