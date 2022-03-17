@@ -132529,6 +132529,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BZHezZxyFD9eXgAMaqMCCoFcrKgNK5LgoACUMTWFTcTM",
+      "symbol": "CALL",
+      "name": "Cryptology",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BZHezZxyFD9eXgAMaqMCCoFcrKgNK5LgoACUMTWFTcTM/logo.png",
+      "tags": [
+        "dao",
+        "meme-token",
+        "Defi",
+        "Gamefi"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/22A3rFCD"
+      }
     }
   ],
   "version": {
