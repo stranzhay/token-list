@@ -132518,6 +132518,17 @@
         "twitter": "https://twitter.com/animu_chan_",
         "website": "https://animu.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "64o3SWWXxeGPMGAwmhkugQ2nV1bHYdq3uHFXiv5QuuKg",
+      "symbol": "XELA",
+      "name": "VPAN Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/print-alex/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
