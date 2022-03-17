@@ -132633,6 +132633,20 @@
         "imageUrl": "https://alaanft.000webhostapp.com/Boga.png",
         "website": "http://ingolds.hr/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DEAD8wD7auAa3yUk15uS5WcgQf9JkqoAmMXjHmHfWaMb",
+      "symbol": "DERE",
+      "name": "Dead Rejects WL PASS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DEAD8wD7auAa3yUk15uS5WcgQf9JkqoAmMXjHmHfWaMb/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DeadRejcts"
+      }
     }
   ],
   "version": {
