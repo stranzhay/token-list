@@ -132236,6 +132236,20 @@
       "extensions": {
         "twitter": "https://twitter.com/electonsnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2L38dLcLYH8unipx3kuuDoGsfaYP1xEL7jdboLKZmiQx",
+      "symbol": "ENERGY",
+      "name": "Kage Energy",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2L38dLcLYH8unipx3kuuDoGsfaYP1xEL7jdboLKZmiQx/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/KageSociety"
+      }
     }
   ],
   "version": {
