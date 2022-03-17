@@ -132386,6 +132386,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4uJPAM9Nfk9kaGyRBcY97EkbverhaYaxMrtEqKsNu7dm",
+      "symbol": "BCXINNO",
+      "name": "BCX Inno Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4uJPAM9Nfk9kaGyRBcY97EkbverhaYaxMrtEqKsNu7dm/bcxinno_coin_logo_80x80.png",
+      "tags": [
+        "utility-token",
+        "security-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
