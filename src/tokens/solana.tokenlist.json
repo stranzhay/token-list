@@ -132546,6 +132546,33 @@
       "extensions": {
         "discord": "https://discord.gg/22A3rFCD"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "9SnxDpAxGKUqMrPbj2LjWT3vavoC7eQ8V12W7MwgZEVj",
+      "symbol": "EURfx",
+      "name": "Coinfx Euro",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9SnxDpAxGKUqMrPbj2LjWT3vavoC7eQ8V12W7MwgZEVj/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "9vXgy2DTeaNB1dCynddcXssF67vWMUzCSBQ7xrsZdbPY",
+      "symbol": "USDx",
+      "name": "Coinfx Mock USDc",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "soLDKcxDXu7Z1iCZxdbYLMup6szxCWsUJKZkVwbv4n2",
+      "symbol": "SOLD",
+      "name": "Soland",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/soLDKcxDXu7Z1iCZxdbYLMup6szxCWsUJKZkVwbv4n2/logo.png",
+      "tags": [
+        "soland"
+      ]
     }
   ],
   "version": {
