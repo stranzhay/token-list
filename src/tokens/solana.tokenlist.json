@@ -132597,6 +132597,42 @@
       "extensions": {
         "twitter": "https://twitter.com/SecretCockatoos"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "keyus512ScDBEBUZvtD9s1wKm6dfeDJt2D9r4w6TNy4",
+      "symbol": "KKey",
+      "name": "KKey WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/EduardoNicoleit/token-list-1/main/assets/mainnet/keyus512ScDBEBUZvtD9s1wKm6dfeDJt2D9r4w6TNy4/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8BLiujyxu5gJajWBXoZQkwSsamdeHNKWQbu1ApAao8Ps",
+      "symbol": "ACA",
+      "name": "Acacia",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/qubelabsllc/ACALogo/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "H7WBKY4qs4TEMih4ykQo5X1DDLhM5vGmQ4dHNs6eeNB6",
+      "symbol": "BG",
+      "name": "Boga",
+      "decimals": 0,
+      "logoURI": "https://alaanft.000webhostapp.com/Boga.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "animationUrl": "https://i.imgur.com/I44AstZ.mp4",
+        "description": "For the loving memory of my childhood best friend Boga, this token is to all Border Collies and dog lovers out there, may you stay awesome! ",
+        "imageUrl": "https://alaanft.000webhostapp.com/Boga.png",
+        "website": "http://ingolds.hr/"
+      }
     }
   ],
   "version": {
