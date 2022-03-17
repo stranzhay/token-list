@@ -132414,6 +132414,19 @@
         "twitter": "https://twitter.com/BunnyDuckyHQ",
         "website": "https://bunnyducky.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6hvzxKpw8qeEtYZ2EMZhVv3LPy5urXo96ZyZSk427uxv",
+      "symbol": "OSCG13",
+      "name": "Oscar G Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ogdood/Oscar-G-Token/main/OG13.png",
+      "tags": [
+        "utility-token",
+        "security-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
