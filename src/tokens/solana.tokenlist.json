@@ -132265,6 +132265,20 @@
         "twitter": "https://twitter.com/DAHSNFT",
         "website": "https://www.dahsnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "KVDY7D1BokuDrXHqxDFf35fGGJWCkuQuMEXJ9gWEyrH",
+      "symbol": "PenLabs",
+      "name": "Penguin Labs whitelist token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KVDY7D1BokuDrXHqxDFf35fGGJWCkuQuMEXJ9gWEyrH/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.penguinlabs.art/"
+      }
     }
   ],
   "version": {
