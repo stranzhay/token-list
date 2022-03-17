@@ -132210,6 +132210,18 @@
         "facebook": "https://www.facebook.com/ThePantheonArtCollection",
         "twitter": "https://twitter.com/ThePantheonArt"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NASTYAhPiC1LnBr8dikyd9KWBMhrzhQQ5Ro8TD1tqf7",
+      "symbol": "NASTY",
+      "name": "Gooney Toons",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NASTYAhPiC1LnBr8dikyd9KWBMhrzhQQ5Ro8TD1tqf7/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/GooneyToonsNFT",
+        "website": "https://gooneytoons.studio"
+      }
     }
   ],
   "version": {
