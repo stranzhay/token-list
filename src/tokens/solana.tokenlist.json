@@ -133301,6 +133301,23 @@
         "facebook": "https://www.facebook.com/a.tech.guy",
         "website": "https://www.mxp.tw/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Heart9dqPteF9TBSReDeqAQ6bFJ61Hsm2zRGTyY2H1QD",
+      "symbol": "HoC",
+      "name": "Heart of Corruption",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Heart9dqPteF9TBSReDeqAQ6bFJ61Hsm2zRGTyY2H1QD/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Heart of Corruption is an holder exclusive token used to mint the Faces of the Village collection",
+        "discord": "https://discord.gg/27Nr25PQd2",
+        "twitter": "https://twitter.com/villageofsol",
+        "website": "https://villageofsol.com/"
+      }
     }
   ],
   "version": {
