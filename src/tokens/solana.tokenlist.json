@@ -133229,6 +133229,34 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CLwUm2ZHJW8DrrDo1ZtprXR5w5Rxndbgc72vysaDVeBj",
+      "symbol": "MEOWL",
+      "name": "Catliens Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/attachments/941805628354093118/954157558724190248/Silver_Platinum_Coin_Queen_Jubilee_Instagram_Post_1.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2aeGdKy65j6t7di7annbckcJsTSg4EkpZnAcBbVCDRed",
+      "symbol": "AR",
+      "name": "Raffa",
+      "decimals": 0,
+      "logoURI": "https://alaanft.000webhostapp.com/logowhale.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "animationUrl": "https://i.imgur.com/LkjnWUY.mp4",
+        "description": "Whales are awesome",
+        "imageUrl": "https://alaanft.000webhostapp.com/Rafa.png",
+        "website": "https://www.gonewhalewatching.com/"
+      }
     }
   ],
   "version": {
