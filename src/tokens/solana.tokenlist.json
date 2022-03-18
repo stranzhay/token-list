@@ -132647,6 +132647,14 @@
       "extensions": {
         "twitter": "https://twitter.com/DeadRejcts"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9Rqy8W97X6uHXKG3haUkndhhYCo6MRoosd5qjYkuA5pZ",
+      "symbol": "ALPHAS",
+      "name": "Alphas Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/EduardoNicoleit/token-list/main/assets/mainnet/9Rqy8W97X6uHXKG3haUkndhhYCo6MRoosd5qjYkuA5pZ/logo.png"
     }
   ],
   "version": {
