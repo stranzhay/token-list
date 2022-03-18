@@ -133135,6 +133135,21 @@
         "twitter": "https://twitter.com/SpareWorld_",
         "website": "https://spareworld.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ALg83KBfzftdBUgeR2QMoARUS8r6sqbBYKzE1J8NrCcq",
+      "symbol": "FEED",
+      "name": "Dapper Ducks Feed",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALg83KBfzftdBUgeR2QMoARUS8r6sqbBYKzE1J8NrCcq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Dapper Ducks Feed is an exclusive Utility Token for the mother of all Cluckers",
+        "website": "https://thedapperducks.com"
+      }
     }
   ],
   "version": {
