@@ -132901,6 +132901,27 @@
       "extensions": {
         "website": "https://www.chattaboxes.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5xhHk4x9z6hCSEr8uAFGx2MFMHNsQeWpwYDoq5VCxt7w",
+      "symbol": "VXL",
+      "name": "Voxel",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5xhHk4x9z6hCSEr8uAFGx2MFMHNsQeWpwYDoq5VCxt7w/logo.png",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "description": "Voxel is the next-gen metaverse token empowering players to create, play, compete, and earn.",
+        "discord": "https://discord.gg/SSTx6JamJh",
+        "twitter": "https://twitter.com/voxelgamesio",
+        "website": "https://www.voxelgames.io/"
+      }
     }
   ],
   "version": {
