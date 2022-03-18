@@ -132978,6 +132978,17 @@
         "game-token",
         "jjcverse"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5ChsTt3g1ohSoppbnkoeXmNnfqcQ6dwP7cg4uTitx2fo",
+      "symbol": "ATXV",
+      "name": "ATXV",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/hoverlive/ATXV/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
