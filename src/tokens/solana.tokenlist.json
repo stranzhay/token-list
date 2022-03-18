@@ -133326,6 +133326,23 @@
       "name": "BC Token",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8kvmAyTwZNCHRxSjbw12jiRAzkfhMTCWaBoSrAR1K7zT/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7ZZXDHWUZgJKDybfPwo2Y2cJQuTeFCAmTFnGaiAFGy4j",
+      "symbol": "HAY",
+      "name": "SLA Hay Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ZZXDHWUZgJKDybfPwo2Y2cJQuTeFCAmTFnGaiAFGy4j/Hay.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/secretllamaagency/",
+        "tiktok": "https://www.tiktok.com/@secretllamaagency",
+        "twitter": "https://twitter.com/SecretLlama_A",
+        "website": "https://secretllamaagency.com/"
+      }
     }
   ],
   "version": {
