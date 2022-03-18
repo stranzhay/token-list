@@ -133073,6 +133073,21 @@
       "extensions": {
         "website": "https://www.sapien.news/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4qsks7mSnQV4LtcCVr5pLeDuW8UD39GyD6cPDoDQCdG6",
+      "symbol": "PANA",
+      "name": "Paranoid Android",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4qsks7mSnQV4LtcCVr5pLeDuW8UD39GyD6cPDoDQCdG6/logo.png",
+      "tags": [
+        "NFT",
+        "AMM"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/PARAndroidNFT"
+      }
     }
   ],
   "version": {
