@@ -133343,6 +133343,21 @@
         "twitter": "https://twitter.com/SecretLlama_A",
         "website": "https://secretllamaagency.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Lj9HzsNJxaRfKWv5MBHY9CBy9wwXAqqT5AhWJqRNw5b",
+      "symbol": "MTI",
+      "name": "MTI token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fabioraf2/logo/main/mti.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Token for Minas Tecnologia e Inovação Hub",
+        "website": "https://mti.work/"
+      }
     }
   ],
   "version": {
