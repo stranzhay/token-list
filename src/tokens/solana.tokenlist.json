@@ -133257,6 +133257,50 @@
         "imageUrl": "https://alaanft.000webhostapp.com/Rafa.png",
         "website": "https://www.gonewhalewatching.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7axckcr2ZgtCDYsoNei7ssNRXRJeWyeZxrpS2Qf43xTq",
+      "symbol": "BUXM",
+      "name": "Buxon Mint",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7axckcr2ZgtCDYsoNei7ssNRXRJeWyeZxrpS2Qf43xTq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BuxonGroup"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6CEH3RdzsubHF94fRuU7DWGNh5XpatXmu6jqJnh7kqfM",
+      "symbol": "BUXX",
+      "name": "BUXX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6CEH3RdzsubHF94fRuU7DWGNh5XpatXmu6jqJnh7kqfM/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BuxonGroup"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FV66ygXAXXs556MQrofx89y2WUGt4G1NWBXL9BZGi7kF",
+      "symbol": "ATGY",
+      "name": "A TECH GUY Token for FUN",
+      "decimals": 9,
+      "logoURI": "https://www.mxp.tw/ATGY.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/a.tech.guy",
+        "website": "https://www.mxp.tw/"
+      }
     }
   ],
   "version": {
