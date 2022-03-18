@@ -132178,11 +132178,11 @@
     },
     {
       "chainId": 101,
-      "address": "25YC9dJjKkT4uyVUvL6WHTnpbRXfS8AEXvJp7FQQs9Yj",
+      "address": "95bzgMCtKw2dwaWufV9iZyu64DQo1eqw6QWnFMUSnsuF",
       "symbol": "LADA",
       "name": "LadderCaster",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/25YC9dJjKkT4uyVUvL6WHTnpbRXfS8AEXvJp7FQQs9Yj/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/95bzgMCtKw2dwaWufV9iZyu64DQo1eqw6QWnFMUSnsuF/logo.png",
       "tags": [
         "utility-token"
       ],
