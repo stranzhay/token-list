@@ -133207,6 +133207,17 @@
         "imageUrl": "https://alaanft.000webhostapp.com/Rafa.png",
         "website": "http://ingolds.hr/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EzLFc5Koqjwq22c5nfyATZNuD5182ANVAGyrYjov3Uyy",
+      "symbol": "KDOLLAR",
+      "name": "Kappa Dollar",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzLFc5Koqjwq22c5nfyATZNuD5182ANVAGyrYjov3Uyy/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
