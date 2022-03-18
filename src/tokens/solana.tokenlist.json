@@ -132831,6 +132831,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WLd7Rr5k1aA8iTKAVgLw7iG1FzqcNiZ3XSzzLyrfVh5",
+      "symbol": "SPHXB",
+      "name": "SphinxLab Beta WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/yazidox/SPHXBETAWL/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
