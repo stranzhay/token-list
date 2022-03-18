@@ -133040,6 +133040,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4cou83YSKEpcAk7AQU27CWYep71mujjCxhzjqQuydBg5",
+      "symbol": "LQD",
+      "name": "Liquid Prime",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4cou83YSKEpcAk7AQU27CWYep71mujjCxhzjqQuydBg5/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
