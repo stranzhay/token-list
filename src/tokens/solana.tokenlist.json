@@ -133175,6 +133175,20 @@
       "extensions": {
         "website": "https://www.mxp.tw/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4hNyREKAWNSHTtzfG7fbyzwYfSe5NiSpxYVuNvNBeMiU",
+      "symbol": "ASTROCOIN",
+      "name": "ASTROCOIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hNyREKAWNSHTtzfG7fbyzwYfSe5NiSpxYVuNvNBeMiU/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/astro_token"
+      }
     }
   ],
   "version": {
