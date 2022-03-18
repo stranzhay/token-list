@@ -133257,6 +133257,35 @@
         "imageUrl": "https://alaanft.000webhostapp.com/Rafa.png",
         "website": "https://www.gonewhalewatching.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7axckcr2ZgtCDYsoNei7ssNRXRJeWyeZxrpS2Qf43xTq",
+      "symbol": "BUXM",
+      "name": "Buxon Mint",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7axckcr2ZgtCDYsoNei7ssNRXRJeWyeZxrpS2Qf43xTq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BuxonGroup"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6CEH3RdzsubHF94fRuU7DWGNh5XpatXmu6jqJnh7kqfM",
+      "symbol": "BUXX",
+      "name": "BUXX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6CEH3RdzsubHF94fRuU7DWGNh5XpatXmu6jqJnh7kqfM/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BuxonGroup"
+      }
     }
   ],
   "version": {
