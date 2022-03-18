@@ -132963,6 +132963,21 @@
         "community-token",
         "stake-pool-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MtT7evLbWBFXdHudR4F9ME32kExs4hYrdCf9Zcw73sL",
+      "symbol": "ZOB",
+      "name": "ZOB",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MtT7evLbWBFXdHudR4F9ME32kExs4hYrdCf9Zcw73sL/logo.png",
+      "tags": [
+        "zob",
+        "social-token",
+        "nft-token",
+        "game-token",
+        "jjcverse"
+      ]
     }
   ],
   "version": {
