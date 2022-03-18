@@ -133116,6 +133116,25 @@
         "twitter": "https://twitter.com/SolanaCatCartel",
         "website": "https://catcartel.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SPRCUm3izDgxSoai1j2Gwk68rUD6qes2nqXh8P3G4Zi",
+      "symbol": "SPRC",
+      "name": "Sparecoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SPRCUm3izDgxSoai1j2Gwk68rUD6qes2nqXh8P3G4Zi/logo.svg",
+      "tags": [
+        "utility-token",
+        "nft",
+        "game"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/2cSXJVVtR2",
+        "instagram": "https://www.instagram.com/spareworld.io",
+        "twitter": "https://twitter.com/SpareWorld_",
+        "website": "https://spareworld.io/"
+      }
     }
   ],
   "version": {
