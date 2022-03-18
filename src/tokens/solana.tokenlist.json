@@ -133116,6 +133116,40 @@
         "twitter": "https://twitter.com/SolanaCatCartel",
         "website": "https://catcartel.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SPRCUm3izDgxSoai1j2Gwk68rUD6qes2nqXh8P3G4Zi",
+      "symbol": "SPRC",
+      "name": "Sparecoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SPRCUm3izDgxSoai1j2Gwk68rUD6qes2nqXh8P3G4Zi/logo.svg",
+      "tags": [
+        "utility-token",
+        "nft",
+        "game"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/2cSXJVVtR2",
+        "instagram": "https://www.instagram.com/spareworld.io",
+        "twitter": "https://twitter.com/SpareWorld_",
+        "website": "https://spareworld.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ALg83KBfzftdBUgeR2QMoARUS8r6sqbBYKzE1J8NrCcq",
+      "symbol": "FEED",
+      "name": "Dapper Ducks Feed",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALg83KBfzftdBUgeR2QMoARUS8r6sqbBYKzE1J8NrCcq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Dapper Ducks Feed is an exclusive Utility Token for the mother of all Cluckers",
+        "website": "https://thedapperducks.com"
+      }
     }
   ],
   "version": {
