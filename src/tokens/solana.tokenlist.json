@@ -132949,6 +132949,20 @@
         "game-token",
         "jjcverse"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EuuaRsgSMM3EEnaYjrWki3yE4Xzv4wNzYMFZ679aVisr",
+      "symbol": "TRS",
+      "name": "TruSwap Token",
+      "decimals": 0,
+      "logoURI": "https://github.com/Msaqib0786/trstruswap/blob/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token",
+        "stake-pool-token"
+      ]
     }
   ],
   "version": {
