@@ -133000,6 +133000,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3477QSU5HYAxo7UzC4DWiSd86LCtiG5wrtmEX9Y23EV7",
+      "symbol": "NUGGIES",
+      "name": "CHICKY NUGGIES",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3477QSU5HYAxo7UzC4DWiSd86LCtiG5wrtmEX9Y23EV7/logo.png",
+      "tags": [
+        "nuggies",
+        "social-token",
+        "utility-token",
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
