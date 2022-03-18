@@ -132949,6 +132949,57 @@
         "game-token",
         "jjcverse"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EuuaRsgSMM3EEnaYjrWki3yE4Xzv4wNzYMFZ679aVisr",
+      "symbol": "TRS",
+      "name": "TruSwap Token",
+      "decimals": 0,
+      "logoURI": "https://github.com/Msaqib0786/trstruswap/blob/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token",
+        "stake-pool-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "MtT7evLbWBFXdHudR4F9ME32kExs4hYrdCf9Zcw73sL",
+      "symbol": "ZOB",
+      "name": "ZOB",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MtT7evLbWBFXdHudR4F9ME32kExs4hYrdCf9Zcw73sL/logo.png",
+      "tags": [
+        "zob",
+        "social-token",
+        "nft-token",
+        "game-token",
+        "jjcverse"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5ChsTt3g1ohSoppbnkoeXmNnfqcQ6dwP7cg4uTitx2fo",
+      "symbol": "ATXV",
+      "name": "ATXV",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/hoverlive/ATXV/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8C46Vk8Vi9M1taUWTwZaFkzNcAzaoRS2cEsHdFrW8A77",
+      "symbol": "GOMD",
+      "name": "GOM Design",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/gomtoken/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
