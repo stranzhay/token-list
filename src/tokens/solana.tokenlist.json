@@ -133318,6 +133318,14 @@
         "twitter": "https://twitter.com/villageofsol",
         "website": "https://villageofsol.com/"
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8kvmAyTwZNCHRxSjbw12jiRAzkfhMTCWaBoSrAR1K7zT",
+      "symbol": "BCT",
+      "name": "BC Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8kvmAyTwZNCHRxSjbw12jiRAzkfhMTCWaBoSrAR1K7zT/logo.png"
     }
   ],
   "version": {
