@@ -133161,6 +133161,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "v4NHnDNKZFGuYHsxQ51iPdKMWw43NmXnFbgDTS8sebm",
+      "symbol": "CHUN",
+      "name": "A TECH GUY TOKEN",
+      "decimals": 9,
+      "logoURI": "https://www.mxp.tw/chun_profile_1024w.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.mxp.tw/"
+      }
     }
   ],
   "version": {
