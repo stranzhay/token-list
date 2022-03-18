@@ -133189,6 +133189,24 @@
       "extensions": {
         "twitter": "https://twitter.com/astro_token"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5Jd9xCy1ygc4BgBw8pqoXJbhjDeeVhnY4CbK6Mjccy5S",
+      "symbol": "RA",
+      "name": "Rafa",
+      "decimals": 0,
+      "logoURI": "https://alaanft.000webhostapp.com/Rafa.png",
+      "tags": [
+        "nft",
+        "utility-token"
+      ],
+      "extensions": {
+        "animationUrl": "https://i.imgur.com/I44AstZ.mp4",
+        "description": "For the loving memory of my childhood best friend, this token is to all Border Collies and dog lovers out there, may you stay awesome! ",
+        "imageUrl": "https://alaanft.000webhostapp.com/Rafa.png",
+        "website": "http://ingolds.hr/"
+      }
     }
   ],
   "version": {
