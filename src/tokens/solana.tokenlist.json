@@ -132887,6 +132887,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ToxmH7qHy53ccSACqyyVyzFZGSM3n74YUdYs3wJWTuk",
+      "symbol": "CTBX",
+      "name": "CHATTABOXES WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToxmH7qHy53ccSACqyyVyzFZGSM3n74YUdYs3wJWTuk/logo.jpg",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://www.chattaboxes.com/"
+      }
     }
   ],
   "version": {
