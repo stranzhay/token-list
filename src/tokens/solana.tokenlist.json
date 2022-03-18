@@ -132853,6 +132853,29 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ALUVnz4ojHEJygsiJZuAufcrQeCh2TrExtZdyUfLoKv7",
+      "symbol": "QUAKE",
+      "name": "Quake III Arena-Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/print-alex/crypto/main/logo4.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "scoaEBxXmfKtwvmEATz8hWHea8XTEQqr8RcVdMBGK3R",
+      "symbol": "SolCase",
+      "name": "FOUNDERS SOLKEY Access Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/EduardoNicoleit/token-list/main/assets/mainnet/scoaEBxXmfKtwvmEATz8hWHea8XTEQqr8RcVdMBGK3R/logo.png",
+      "tags": [
+        "stablecoin",
+        "WhitelistToken"
+      ]
     }
   ],
   "version": {
