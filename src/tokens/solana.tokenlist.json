@@ -133218,6 +133218,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "EDrHayuUVGenfojEEVqqB9mmn1gmbYkrM77WdDHqT2QM",
+      "symbol": "DLBASL",
+      "name": "DLBASL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/javiervq/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
