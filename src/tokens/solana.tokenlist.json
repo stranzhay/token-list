@@ -132842,6 +132842,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2Dg4rVnTtGpdjdJDZ6rY8CWzzdKYqMscJWPsyj9xyMZB",
+      "symbol": "LOCOLUNA",
+      "name": "LocoLunaKoin",
+      "decimals": 0,
+      "logoURI": "https://github.com/oscwiegs/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
