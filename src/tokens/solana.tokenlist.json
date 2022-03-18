@@ -133029,6 +133029,17 @@
       "extensions": {
         "facebook": "https://www.facebook.com/carbonwallet.th"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "DYGHxMwituCaK4uxaJiQbMoarN1LHjekwvY4LeAhXDNn",
+      "symbol": "ULTRA",
+      "name": "ultra coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYGHxMwituCaK4uxaJiQbMoarN1LHjekwvY4LeAhXDNn/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
