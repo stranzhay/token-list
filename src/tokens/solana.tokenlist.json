@@ -133051,6 +133051,28 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "3qq7ExpwRRAAexGNpUVoFkiTfSB1uo8ezsbyAoxhyryo",
+      "symbol": "NEWS",
+      "name": "NEWS TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3qq7ExpwRRAAexGNpUVoFkiTfSB1uo8ezsbyAoxhyryo/Newsdev.png",
+      "extensions": {
+        "website": "https://www.sapien.news/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "FCrUzx3LzTB58UTew7tCkE7jry93x3Fv8TTPzUwzVNZU",
+      "symbol": "SAPIEN",
+      "name": "SAPIEN TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FCrUzx3LzTB58UTew7tCkE7jry93x3Fv8TTPzUwzVNZU/Sapiendev.png",
+      "extensions": {
+        "website": "https://www.sapien.news/"
+      }
     }
   ],
   "version": {
