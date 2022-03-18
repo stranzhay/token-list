@@ -133014,6 +133014,21 @@
         "utility-token",
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "BepmjSonw41vWsUttUT2L5if1FryrLFXZk3c2LDjEzQn",
+      "symbol": "CERO",
+      "name": "CERO Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/vekinadmin/CO2/main/CERO-ICON.png",
+      "tags": [
+        "CERO-token",
+        "Carbon-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/carbonwallet.th"
+      }
     }
   ],
   "version": {
