@@ -133717,6 +133717,38 @@
         "community-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "mvczhpXam2GFTaHMA7dnvgcsSXSXQnbcv6V76KWpqEs",
+      "symbol": "MVCC",
+      "name": "Metavillage Club Council Token",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/AytjvRhPwEjSFxcnWXQySq79as0VXFXFuxZvOtXBWN8",
+      "tags": [
+        "utility-token",
+        "dao-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MetavillageClub",
+        "website": "https://metavillageclub.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "MVCFgjnh9jrqq8WKsw32EPMSW996r4Td89fSceoq9RU",
+      "symbol": "MVCLUB",
+      "name": "Metavillage Club Membership Token",
+      "decimals": 2,
+      "logoURI": "https://arweave.net/AytjvRhPwEjSFxcnWXQySq79as0VXFXFuxZvOtXBWN8",
+      "tags": [
+        "utility-token",
+        "dao-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MetavillageClub",
+        "website": "https://metavillageclub.com/"
+      }
     }
   ],
   "version": {
