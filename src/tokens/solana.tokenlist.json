@@ -133704,6 +133704,19 @@
       "name": "Divocakos",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/alco139/logo/master/communityIcon_lpv78zqg0mo71.png"
+    },
+    {
+      "chainId": 101,
+      "address": "EiRkPVW35RizH1M13zvCmsNV8WCQtRpqv9GLdwf6xGvz",
+      "symbol": "DICK",
+      "name": "Bag of Dicks",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EiRkPVW35RizH1M13zvCmsNV8WCQtRpqv9GLdwf6xGvz/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
