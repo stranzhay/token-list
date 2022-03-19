@@ -133630,6 +133630,20 @@
         "twitter": "https://twitter.com/flumefinancesol",
         "website": "https://flume.fi/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5xuHBKN8QvcZKvwWcKUrcBN5DtnEuuydc6e1FP2NvK5p",
+      "symbol": "FKPT",
+      "name": "Fuck Putin Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Fuck-Putin-Coin/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "meme-token",
+        "FuckPutin-token"
+      ]
     }
   ],
   "version": {
