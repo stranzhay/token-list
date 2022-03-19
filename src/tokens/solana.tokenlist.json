@@ -133546,6 +133546,22 @@
         "twitter": "https://twitter.com/tokamak_solana",
         "website": "https://tkmksolana.gitbook.io/tokamak_token/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2ejweV8NPa1u29cKU8FERiBwCMMNaPxVzhj5Zu9PFK2H",
+      "symbol": "CLMT",
+      "name": "Cursed Labs Micro Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ejweV8NPa1u29cKU8FERiBwCMMNaPxVzhj5Zu9PFK2H/img.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/cursedlabs",
+        "website": "http://cursedlabs.io/"
+      }
     }
   ],
   "version": {
