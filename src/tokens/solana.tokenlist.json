@@ -133511,6 +133511,41 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8kvmAyTwZNCHRxSjbw12jiRAzkfhMTCWaBoSrAR1K7zT",
+      "symbol": "BCT",
+      "name": "BC Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8kvmAyTwZNCHRxSjbw12jiRAzkfhMTCWaBoSrAR1K7zT/logo.png"
+    },
+    {
+      "chainId": 102,
+      "address": "yhffC3as8d3tvR2HeNQMrccii7NDydUVu9gaRoe8ZR9",
+      "symbol": "HTT",
+      "name": "HT Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yhffC3as8d3tvR2HeNQMrccii7NDydUVu9gaRoe8ZR9/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "TKMKgSh3aADsmjr4yFWG52tkCQvmDxsQC1he1aBsi65",
+      "symbol": "TKMK",
+      "name": "TOKAMAK ON SOLANA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TKMKgSh3aADsmjr4yFWG52tkCQvmDxsQC1he1aBsi65/logo.png",
+      "tags": [
+        "community-token",
+        "nft",
+        "dao"
+      ],
+      "extensions": {
+        "description": "TOKAMAK - REACTOR OF SOLANA ECOSYSTEM",
+        "telegram": "https://t.me/tokamaksolana",
+        "twitter": "https://twitter.com/tokamak_solana",
+        "website": "https://tkmksolana.gitbook.io/tokamak_token/"
+      }
     }
   ],
   "version": {
