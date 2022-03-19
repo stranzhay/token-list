@@ -133766,6 +133766,24 @@
         "imageUrl": "https://arwave.art/1XfRXOj7ytymPOGrgZuq47T-nqu-1NVwh3EXdaYgvpg/i7gjwb.jpg",
         "website": "https://solsea.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9KWtmvoCwb65YZPggmFxb82ekBKFJ7YEzzxB5YVzafYM",
+      "symbol": "CHIP",
+      "name": "Solana Devices Chip",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9KWtmvoCwb65YZPggmFxb82ekBKFJ7YEzzxB5YVzafYM/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "dao-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DevicesSolana",
+        "website": "https://solanadevices.com/"
+      }
     }
   ],
   "version": {
