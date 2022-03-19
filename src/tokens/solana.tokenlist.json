@@ -133594,6 +133594,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8jYGq3o5Ruyu3eeuGpgWJUADsFzNN2vnGrBzYC2v7c7r",
+      "symbol": "CUNT",
+      "name": "CUNT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8jYGq3o5Ruyu3eeuGpgWJUADsFzNN2vnGrBzYC2v7c7r/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
