@@ -76772,9 +76772,9 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ACUMENkbnxQPAsN8XrNA11sY3NmXDNKVCqS82EiDqMYB/logo3.svg",
       "extensions": {
         "coingeckoId": "acumen",
-        "serumV3Usdc": "94CZWJMy7Jmc7gSM288WmFfse596H12KCKgwMARkyvhw",
         "discord": "https://discord.com/invite/UXDnngxRmn",
         "medium": "https://acumenofficial.medium.com/",
+        "serumV3Usdc": "94CZWJMy7Jmc7gSM288WmFfse596H12KCKgwMARkyvhw",
         "twitter": "https://twitter.com/acumenofficial",
         "website": "https://acumen.network/"
       }
@@ -133674,6 +133674,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GjdreVe7iUG4hyESSweGyFzgekWufhEwGJqAaa1hr7pf",
+      "symbol": "WATT",
+      "name": "WATT token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GjdreVe7iUG4hyESSweGyFzgekWufhEwGJqAaa1hr7pf/logo.png",
+      "tags": [
+        "stablecoin",
+        "utility-token",
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "description": "The WATT token is fixed to an external asset class, e.g. The total development cost to produce 1 Watt of solar powered energy based in the USA, in US Dollars",
+        "github": "https://github.com/SnaZish/SnaZish",
+        "reddit": "https://www.reddit.com/r/WATTtoken",
+        "telegram": "https://t.me/WATTtoken",
+        "twitter": "https://twitter.com/WATT_token",
+        "website": "https://www.snazish.com"
+      }
     }
   ],
   "version": {
