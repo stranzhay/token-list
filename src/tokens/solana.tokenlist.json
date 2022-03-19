@@ -133454,6 +133454,25 @@
       "name": "DYORNERD WL",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HDutUmTAGspwyw9EqNMgDc8XQVC41iT9Yd3a5JXBa5JY/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3yjCHAThuRTU8vFctU51ept4esSra5aneN9ZqZmQwjWr",
+      "symbol": "TACOS",
+      "name": "TACOS",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3yjCHAThuRTU8vFctU51ept4esSra5aneN9ZqZmQwjWr/logo.png",
+      "tags": [
+        "social-token",
+        "DeFi",
+        "Latinx",
+        "Metaverse",
+        "Tacos"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/cryptolucha",
+        "website": "https://www.getcryptolucha.com"
+      }
     }
   ],
   "version": {
