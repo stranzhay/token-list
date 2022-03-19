@@ -133562,6 +133562,19 @@
         "twitter": "https://twitter.com/cursedlabs",
         "website": "http://cursedlabs.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DrHuWWAwwXoQVaRZwLuHMSLjs7XmNCgoYAS6Xcp2HKRc",
+      "symbol": "RUBY",
+      "name": "RubySol",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/KILL3MALL/Medusa-Token/main/IMG_18032022_110957_(320_x_320_pixel).png",
+      "tags": [
+        "defi-token",
+        "utility-token",
+        "payment-token"
+      ]
     }
   ],
   "version": {
