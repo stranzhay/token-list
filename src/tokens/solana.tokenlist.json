@@ -133663,6 +133663,28 @@
       "name": "Aeto",
       "decimals": 9,
       "logoURI": "https://i.hizliresim.com/piw38my.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2H5iahGjAaWtPW9r2zXEQRTsCpsU9RsjUHu3QNbJLwjr",
+      "symbol": "RMTO",
+      "name": "The Rare Main Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CryptoDevSol/Crypto/main/Coin_R.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "MXTzb9Pns2oJNHYcsvKqp9ybZnvF4XZDETzuBnBmitp",
+      "symbol": "MKWL",
+      "name": "Meka X WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MXTzb9Pns2oJNHYcsvKqp9ybZnvF4XZDETzuBnBmitp/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
