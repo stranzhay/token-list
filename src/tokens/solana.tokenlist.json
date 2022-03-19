@@ -131898,7 +131898,7 @@
       "chainId": 101,
       "address": "GQzf8qF7sG1eLyYqk7scFy8HfShhyfqZa4NVwRrDrGcY",
       "symbol": "BUD_PAI",
-      "name": "BUD/PAI LP Token",
+      "name": "Penguin BUD_PAI LP",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GQzf8qF7sG1eLyYqk7scFy8HfShhyfqZa4NVwRrDrGcY/logo.png",
       "extensions": {
