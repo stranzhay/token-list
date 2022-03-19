@@ -133485,6 +133485,21 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AhVG8VXPjJ37upEg9Wp9FAMHFHwvYBhNrz6cPjtDc2MV",
+      "symbol": "FKC",
+      "name": "FUNKYCOIN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AhVG8VXPjJ37upEg9Wp9FAMHFHwvYBhNrz6cPjtDc2MV/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://funkysquad.io"
+      }
     }
   ],
   "version": {
