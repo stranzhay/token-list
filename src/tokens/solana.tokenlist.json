@@ -133749,6 +133749,23 @@
         "twitter": "https://twitter.com/MetavillageClub",
         "website": "https://metavillageclub.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9ieBBvyYFnQuuC6XxQ2z4WHhog6cmNmPemYgCWL5k2AH",
+      "symbol": "MOTO",
+      "name": "Monster",
+      "decimals": 0,
+      "logoURI": "https://arwave.art/1XfRXOj7ytymPOGrgZuq47T-nqu-1NVwh3EXdaYgvpg/i7gjwb.jpg",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "animationUrl": "https://i.imgur.com/LkjnWUY.mp4",
+        "description": "Motorcycle club, 2022",
+        "imageUrl": "https://arwave.art/1XfRXOj7ytymPOGrgZuq47T-nqu-1NVwh3EXdaYgvpg/i7gjwb.jpg",
+        "website": "https://solsea.io"
+      }
     }
   ],
   "version": {
