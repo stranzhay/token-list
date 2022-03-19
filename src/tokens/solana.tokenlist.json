@@ -133519,6 +133519,14 @@
       "name": "BC Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8kvmAyTwZNCHRxSjbw12jiRAzkfhMTCWaBoSrAR1K7zT/logo.png"
+    },
+    {
+      "chainId": 102,
+      "address": "yhffC3as8d3tvR2HeNQMrccii7NDydUVu9gaRoe8ZR9",
+      "symbol": "HTT",
+      "name": "HT Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yhffC3as8d3tvR2HeNQMrccii7NDydUVu9gaRoe8ZR9/logo.png"
     }
   ],
   "version": {
