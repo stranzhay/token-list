@@ -133663,6 +133663,17 @@
       "name": "Aeto",
       "decimals": 9,
       "logoURI": "https://i.hizliresim.com/piw38my.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2H5iahGjAaWtPW9r2zXEQRTsCpsU9RsjUHu3QNbJLwjr",
+      "symbol": "RMTO",
+      "name": "The Rare Main Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CryptoDevSol/Crypto/main/Coin_R.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
