@@ -133408,6 +133408,30 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2PoFDNtZEzr1bXQYVGtQYJWEPk65wg8nDHKF4BAPt7Ur",
+      "symbol": "PATRIOT",
+      "name": "Patriot Token WWG1WGA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JaySheepdog-N0SR/patriot/main/patriot.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "48FCZmKZw3iJcvuAMMShWRSimJ9DN2BBN4exgRpTp5WG",
+      "symbol": "TRIT",
+      "name": "Trit",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/48FCZmKZw3iJcvuAMMShWRSimJ9DN2BBN4exgRpTp5WG/logo.png",
+      "extensions": {
+        "serumV3Usdc": "5SWZF5PpQcMhVDFduXVGApmvdHNPJRhzYEq3EgbtkvkZ",
+        "website": "https://trit.hr"
+      }
     }
   ],
   "version": {
