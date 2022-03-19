@@ -133607,6 +133607,51 @@
         "community-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6j5jjCmKrg27tHwzWLW2DsdmcF8YsMnbiZB7j5AWk6J4",
+      "symbol": "DJLC",
+      "name": "DennisJLipps Coin",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/dennislipps/crypto/main/cryptocoinlogodjl.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Em6bmzFRYZze7M7bnX42Ea93qTfwQwXQnHpVdzu5UJ6p",
+      "symbol": "FLUME",
+      "name": "Flume",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Em6bmzFRYZze7M7bnX42Ea93qTfwQwXQnHpVdzu5UJ6p/flume.png",
+      "extensions": {
+        "twitter": "https://twitter.com/flumefinancesol",
+        "website": "https://flume.fi/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5xuHBKN8QvcZKvwWcKUrcBN5DtnEuuydc6e1FP2NvK5p",
+      "symbol": "FKPT",
+      "name": "Fuck Putin Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Fuck-Putin-Coin/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "meme-token",
+        "FuckPutin-token"
+      ]
+    },
+    {
+      "chainId": 102,
+      "address": "AET68bw2PfDf7egoiNkzyjax8StLfBm5RgZGKt7u34jR",
+      "symbol": "AET",
+      "name": "Aeto",
+      "decimals": 9,
+      "logoURI": "https://i.hizliresim.com/piw38my.png"
     }
   ],
   "version": {
