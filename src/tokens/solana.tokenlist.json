@@ -133583,6 +133583,17 @@
       "name": "Cogent Cog Whitelist Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CogFXXLHaTPwZMid55TaRLeC8FXyfVaREbNCoVVMCoin/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "EXpbL35F8ZQQgTpMLdgWyvs24iPDP5eH1Vsn6sYn1gn1",
+      "symbol": "VXPL",
+      "name": "Vexpol",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/PolRex/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
