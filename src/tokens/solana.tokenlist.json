@@ -133358,6 +133358,28 @@
         "description": "Token for Minas Tecnologia e Inovação Hub",
         "website": "https://mti.work/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8TTiv4CHzCQH5mqgr9mxJ377De6RbtCeEKaup8kcS3JN",
+      "symbol": "BDRAYDAO",
+      "name": "Baby DAO Guarantee Mint Token",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/benpazzo/babydraygon/main/img/daomint.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9YEt7cMNovKvytcbnJzaJ2kQsqTwhHCBwgTZ13TYXDPS",
+      "symbol": "BDRAY",
+      "name": "Baby Presale Non-Guarantee Mint Token",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/benpazzo/babydraygon/main/img/presalemint.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
