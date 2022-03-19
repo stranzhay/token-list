@@ -133500,6 +133500,17 @@
       "extensions": {
         "website": "https://funkysquad.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GcqzvKiNCJHLzBmTbx3bYCT8jbfCAJRb3K7Xy3bMncWS",
+      "symbol": "DKY",
+      "name": "Dicky Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ghenry22/dicky_coin/master/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
