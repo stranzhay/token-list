@@ -133408,6 +133408,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2PoFDNtZEzr1bXQYVGtQYJWEPk65wg8nDHKF4BAPt7Ur",
+      "symbol": "PATRIOT",
+      "name": "Patriot Token WWG1WGA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JaySheepdog-N0SR/patriot/main/patriot.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
