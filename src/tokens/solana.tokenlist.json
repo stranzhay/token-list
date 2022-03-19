@@ -133696,6 +133696,14 @@
         "twitter": "https://twitter.com/WATT_token",
         "website": "https://www.snazish.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E9FSQGfrLwcdDdNiaD8Chtfdsom91AB5197SY2Ugo8Ge",
+      "symbol": "DVK",
+      "name": "Divocakos",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/alco139/logo/master/communityIcon_lpv78zqg0mo71.png"
     }
   ],
   "version": {
