@@ -133674,6 +133674,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MXTzb9Pns2oJNHYcsvKqp9ybZnvF4XZDETzuBnBmitp",
+      "symbol": "MKWL",
+      "name": "Meka X WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MXTzb9Pns2oJNHYcsvKqp9ybZnvF4XZDETzuBnBmitp/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
