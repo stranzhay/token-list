@@ -133652,6 +133652,17 @@
       "name": "Aeto",
       "decimals": 9,
       "logoURI": "https://i.hizliresim.com/piw38my.png"
+    },
+    {
+      "chainId": 101,
+      "address": "5Q7B6Eh22vQC9pmNekJmRq6qn1fhgEnm7ncYAEt6c3gT",
+      "symbol": "CADZ",
+      "name": "Control Alt Delete",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/Emptyinbox/Crypto/main/crypto.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
