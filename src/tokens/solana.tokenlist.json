@@ -133644,6 +133644,14 @@
         "meme-token",
         "FuckPutin-token"
       ]
+    },
+    {
+      "chainId": 102,
+      "address": "AET68bw2PfDf7egoiNkzyjax8StLfBm5RgZGKt7u34jR",
+      "symbol": "AET",
+      "name": "Aeto",
+      "decimals": 9,
+      "logoURI": "https://i.hizliresim.com/piw38my.png"
     }
   ],
   "version": {
