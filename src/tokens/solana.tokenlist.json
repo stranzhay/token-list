@@ -133446,6 +133446,14 @@
       "extensions": {
         "website": "https://noblelife.mx"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HDutUmTAGspwyw9EqNMgDc8XQVC41iT9Yd3a5JXBa5JY",
+      "symbol": "NWL",
+      "name": "DYORNERD WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HDutUmTAGspwyw9EqNMgDc8XQVC41iT9Yd3a5JXBa5JY/logo.png"
     }
   ],
   "version": {
