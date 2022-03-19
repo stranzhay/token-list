@@ -133380,6 +133380,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FPLLD7wUku1wJsLc3MkGzY6jtpYvSDiNiQEUhkmSd385",
+      "symbol": "DOPEX",
+      "name": "DopeX Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/PumpsCEO/DOPE/main/DOPETOKEN%20BLK%20BG.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "DopeX Token By Dope Labs",
+        "discord": "https://discord.gg/FmmQJ2Xg9U",
+        "twitter": "https://twitter.com/dope_cats",
+        "website": "http://dopecats.com/"
+      }
     }
   ],
   "version": {
