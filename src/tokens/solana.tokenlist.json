@@ -134247,6 +134247,23 @@
         "twitter": "https://twitter.com/DuinoCoin",
         "website": "https://duinocoin.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MoNgFYzYQAY2pCYDkrHzbrcCauCUxJw6jVnk7iFk9Mz",
+      "symbol": "MONG",
+      "name": "Mongomon WL",
+      "decimals": 0,
+      "logoURI": "https://mongomons.com/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Mongomon WL Token",
+        "discord": "https://discord.gg/seAVXtPguU",
+        "twitter": "https://twitter.com/Mongomonsol",
+        "website": "https://mongomons.com"
+      }
     }
   ],
   "version": {
