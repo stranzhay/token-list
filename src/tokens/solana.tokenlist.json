@@ -133797,6 +133797,61 @@
         "Utility-Token",
         "Community-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WLZna3K4SaDxf7ouEweCpXwEEt7g3qJ9ims1bm4CrYs",
+      "symbol": "$WLZ",
+      "name": "Wasted Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLZna3K4SaDxf7ouEweCpXwEEt7g3qJ9ims1bm4CrYs/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wastelanderz",
+        "twitter": "https://twitter.com/wastelanderznft",
+        "website": "https://wastelanderz.com"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "keyNTP5sGmETNyf1hk8GqG31UU7t53S7onj2HKHodFh",
+      "symbol": "SCKEY",
+      "name": "Solforest Castle Key",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/keyNTP5sGmETNyf1hk8GqG31UU7t53S7onj2HKHodFh/solf.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YTa38dYvMC",
+        "instagram": "https://www.instagram.com/solomonsforest/",
+        "medium": "https://solforest.medium.com/",
+        "telegram": "https://t.me/solforest",
+        "twitter": "https://twitter.com/solcastlenft",
+        "website": "https://solforest.games"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "keyNTP5sGmETNyf1hk8GqG31UU7t53S7onj2HKHodFh",
+      "symbol": "SCKEY",
+      "name": "Solforest Castle Key",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/keyNTP5sGmETNyf1hk8GqG31UU7t53S7onj2HKHodFh/solf.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YTa38dYvMC",
+        "instagram": "https://www.instagram.com/solomonsforest/",
+        "medium": "https://solforest.medium.com/",
+        "telegram": "https://t.me/solforest",
+        "twitter": "https://twitter.com/solcastlenft",
+        "website": "https://solforest.games"
+      }
     }
   ],
   "version": {
