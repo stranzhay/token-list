@@ -134302,6 +134302,29 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DKMM4nxe8hAewCnprf3xzr4CPzknAzc6ies5nx65CSji",
+      "symbol": "DKM",
+      "name": "DeadKnight Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DKMM4nxe8hAewCnprf3xzr4CPzknAzc6ies5nx65CSji/dkmlogo.png",
+      "tags": [
+        "Utility-Token",
+        "Stake-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/deadknightmetaverse",
+        "facebook": "https://www.facebook.com/deadknight.metaverse.nft",
+        "medium": "https://medium.com/deadknightmetaverse",
+        "reddit": "https://www.reddit.com/user/DEADKNIGHTOFFICIAL",
+        "telegram": "https://t.me/DeadKnightMeta_Official",
+        "telegramAnnouncements": "https://t.me/DeadKnightMeta_Ann",
+        "twitter": "https://twitter.com/DeadKnight_SOL",
+        "website": "https://deadknight.io",
+        "youtube": "https://www.youtube.com/channel/UCTzFwKLZ6uD8cWoJIMV9v7A"
+      }
     }
   ],
   "version": {
