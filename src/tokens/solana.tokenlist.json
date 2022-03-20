@@ -134354,6 +134354,21 @@
         "tiktok": "https://www.tiktok.com/@rescuethemnft",
         "twitter": "https://twitter.com/RescueThemNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2K56JYgSEMaUvh1RRWGeXJcU44rWGtVwDXzbBHu8sKXD",
+      "symbol": "HEX",
+      "name": "Hexagon Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2K56JYgSEMaUvh1RRWGeXJcU44rWGtVwDXzbBHu8sKXD/hexlogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Just a simple six-sided token",
+        "twitter": "https://twitter.com/Hexagon_Coin"
+      }
     }
   ],
   "version": {
