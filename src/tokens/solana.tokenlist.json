@@ -134325,6 +134325,17 @@
         "website": "https://deadknight.io",
         "youtube": "https://www.youtube.com/channel/UCTzFwKLZ6uD8cWoJIMV9v7A"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGdnAVQGqLT4nkk1H4XU69CGWVwMfEtxgjDCK6wcQUyZ",
+      "symbol": "MARR",
+      "name": "Marreta Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/ivanmarreta/marretacrypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
