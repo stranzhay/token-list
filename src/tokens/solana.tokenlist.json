@@ -134203,6 +134203,22 @@
       "extensions": {
         "twitter": "https://twitter.com/WhirlPool_SOL"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BppidFqGTNbY87cSByYa4LmmTECBysFHKYMvoRukr4LC",
+      "symbol": "SCCR",
+      "name": "SCCR Coin",
+      "decimals": 6,
+      "logoURI": "https://solanasccr.com/wp-content/uploads/2022/01/SCCR-small.png",
+      "tags": [
+        "NFT",
+        "Farming"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolanaApeSC",
+        "website": "https://solanasccr.com/"
+      }
     }
   ],
   "version": {
