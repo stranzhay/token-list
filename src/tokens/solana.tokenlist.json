@@ -134078,6 +134078,18 @@
         "twitter": "https://twitter.com/solcastlenft",
         "website": "https://solforest.games"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9DjTxoKXncspneakW4KmVcEaZCiYfu9osJQupPKMnFgu",
+      "symbol": "$GBV",
+      "name": "GBV Coin",
+      "decimals": 9,
+      "logoURI": "https://github.com/trungnguyentech/token-list/blob/main/assets/mainnet/9DjTxoKXncspneakW4KmVcEaZCiYfu9osJQupPKMnFgu/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
