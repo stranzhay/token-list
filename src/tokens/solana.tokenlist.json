@@ -134264,6 +134264,67 @@
         "twitter": "https://twitter.com/Mongomonsol",
         "website": "https://mongomons.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BbKJYNf1Kdzr1rkhkeLetk2UqPYDvpfCA5VQoJkCCCvD",
+      "symbol": "TIM",
+      "name": "Time Is Money Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BbKJYNf1Kdzr1rkhkeLetk2UqPYDvpfCA5VQoJkCCCvD/timlogo.png",
+      "tags": [
+        "Utility-Token",
+        "NFT-Token"
+      ],
+      "extensions": {
+        "website": "https://timnft.io"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "66AFaxB1NHNaRyjA1WfUEmdi4Ycy5uGbi6Tk5FmBsNK",
+      "symbol": "TANG",
+      "name": "Turbo Angel",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Sarkesuiser/turboangel/main/token/test/66AFaxB1NHNaRyjA1WfUEmdi4Ycy5uGbi6Tk5FmBsNK/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "F1ZWTneaTgXe5529SotdSr47ALQ772iRo5NQByoTGvRG",
+      "symbol": "WHAC",
+      "name": "Whitelist Access Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F1ZWTneaTgXe5529SotdSr47ALQ772iRo5NQByoTGvRG/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DKMM4nxe8hAewCnprf3xzr4CPzknAzc6ies5nx65CSji",
+      "symbol": "DKM",
+      "name": "DeadKnight Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DKMM4nxe8hAewCnprf3xzr4CPzknAzc6ies5nx65CSji/dkmlogo.png",
+      "tags": [
+        "Utility-Token",
+        "Stake-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/deadknightmetaverse",
+        "facebook": "https://www.facebook.com/deadknight.metaverse.nft",
+        "medium": "https://medium.com/deadknightmetaverse",
+        "reddit": "https://www.reddit.com/user/DEADKNIGHTOFFICIAL",
+        "telegram": "https://t.me/DeadKnightMeta_Official",
+        "telegramAnnouncements": "https://t.me/DeadKnightMeta_Ann",
+        "twitter": "https://twitter.com/DeadKnight_SOL",
+        "website": "https://deadknight.io",
+        "youtube": "https://www.youtube.com/channel/UCTzFwKLZ6uD8cWoJIMV9v7A"
+      }
     }
   ],
   "version": {
