@@ -134219,6 +134219,51 @@
         "twitter": "https://twitter.com/SolanaApeSC",
         "website": "https://solanasccr.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FZGStjhDGiLCcA3CMFMK6Frdy49kWEN2ZfjaStZ4YPRK",
+      "symbol": "PERIS",
+      "name": "Perisanpeek Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DNmxHPgeVLSofyAriirHybKoNx1baM2ufiHKs1W7YyPc/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/TMQNCBNFTa"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AsybGxMxwi64XnHwB6oJAHoTzFH4HHHJNN595HVJuV1M",
+      "symbol": "solDUCO",
+      "name": "Duino-Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AsybGxMxwi64XnHwB6oJAHoTzFH4HHHJNN595HVJuV1M/duino.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/kvBkccy",
+        "instagram": "https://www.instagram.com/duino_coin_official",
+        "twitter": "https://twitter.com/DuinoCoin",
+        "website": "https://duinocoin.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "MoNgFYzYQAY2pCYDkrHzbrcCauCUxJw6jVnk7iFk9Mz",
+      "symbol": "MONG",
+      "name": "Mongomon WL",
+      "decimals": 0,
+      "logoURI": "https://mongomons.com/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Mongomon WL Token",
+        "discord": "https://discord.gg/seAVXtPguU",
+        "twitter": "https://twitter.com/Mongomonsol",
+        "website": "https://mongomons.com"
+      }
     }
   ],
   "version": {
