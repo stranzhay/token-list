@@ -134380,6 +134380,53 @@
       "tags": [
         "Utility-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Y7euDj1RtvZvSHJKp25tPcVgx2oPG3MnfRc1vaWdQtA",
+      "symbol": "ANX",
+      "name": "TheAnomalix - WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Y7euDj1RtvZvSHJKp25tPcVgx2oPG3MnfRc1vaWdQtA/anomalix.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheAnomalix",
+        "website": "https://www.theanomalix.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "E4DRAz5D9iMND9PJ7tq1HQbZPxavDWHxmeizUtk68o8S",
+      "symbol": "SAFE",
+      "name": "RadRugs",
+      "decimals": 6,
+      "logoURI": "https://radrugs.io/assets/images/token_logo.png",
+      "tags": [
+        "utility-token",
+        "stake-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/radrugs",
+        "twitter": "https://twitter.com/RadRugsNFT",
+        "website": "https://radrugs.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ZooMLdSMp4ZqxNJTfYua3AaJ9wqPpUAvygc4Q3QvrzH",
+      "symbol": "ZOOM",
+      "name": "Zaysan Raptors ZOOM WL",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img924/6098/0xp90o.jpg",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZaysanRaptors",
+        "website": "https://zaysanraptors.io/"
+      }
     }
   ],
   "version": {
