@@ -134395,6 +134395,23 @@
         "twitter": "https://twitter.com/TheAnomalix",
         "website": "https://www.theanomalix.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E4DRAz5D9iMND9PJ7tq1HQbZPxavDWHxmeizUtk68o8S",
+      "symbol": "SAFE",
+      "name": "RadRugs",
+      "decimals": 6,
+      "logoURI": "https://radrugs.io/assets/images/token_logo.png",
+      "tags": [
+        "utility-token",
+        "stake-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/radrugs",
+        "twitter": "https://twitter.com/RadRugsNFT",
+        "website": "https://radrugs.io"
+      }
     }
   ],
   "version": {
