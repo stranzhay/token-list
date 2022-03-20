@@ -134488,6 +134488,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GBYQr9a6J742YJPzgRY2t9aJs4ZBg3qsTxxCNbpJwjLe",
+      "symbol": "Congress",
+      "name": "Sol Congress",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/55806764/159190877-0f4cfcaa-ec0c-4836-b253-c641d180b0b0.png",
+      "tags": [
+        "dao-token"
+      ],
+      "extensions": {
+        "description": "Solmander Dao Token Swap",
+        "twitter": "https://twitter.com/solamandersnft"
+      }
     }
   ],
   "version": {
