@@ -134291,6 +134291,17 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F1ZWTneaTgXe5529SotdSr47ALQ772iRo5NQByoTGvRG",
+      "symbol": "WHAC",
+      "name": "Whitelist Access Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F1ZWTneaTgXe5529SotdSr47ALQ772iRo5NQByoTGvRG/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
