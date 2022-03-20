@@ -134369,6 +134369,17 @@
         "description": "Just a simple six-sided token",
         "twitter": "https://twitter.com/Hexagon_Coin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6qQnzsoH89TWZirgZS9AJN3NrxS7Y4K7oNt5N93E6QDR",
+      "symbol": "PCPC",
+      "name": "PYROCHILL PYROCOIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/WayTo1Million/Pyrochill/main/Logof.png",
+      "tags": [
+        "Utility-Token"
+      ]
     }
   ],
   "version": {
