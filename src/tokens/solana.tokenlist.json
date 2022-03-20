@@ -134460,6 +134460,23 @@
       "extensions": {
         "website": "https://sunny.ag"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HGYo7hi6zDz3sVghBtqNtF7xb4tzrUWTebs9sZ8QBnjZ",
+      "symbol": "BUGZ",
+      "name": "Duck Dudes Bugz",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HGYo7hi6zDz3sVghBtqNtF7xb4tzrUWTebs9sZ8QBnjZ/Logo.png",
+      "tags": [
+        "utility-token",
+        "stake-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/c6mHj6UHzG",
+        "twitter": "https://twitter.com/DuckDudes_NFT",
+        "website": "https://www.duckdudes.io/"
+      }
     }
   ],
   "version": {
