@@ -134279,6 +134279,18 @@
       "extensions": {
         "website": "https://timnft.io"
       }
+    },
+    {
+      "chainId": 102,
+      "address": "66AFaxB1NHNaRyjA1WfUEmdi4Ycy5uGbi6Tk5FmBsNK",
+      "symbol": "TANG",
+      "name": "Turbo Angel",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Sarkesuiser/turboangel/main/token/test/66AFaxB1NHNaRyjA1WfUEmdi4Ycy5uGbi6Tk5FmBsNK/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
