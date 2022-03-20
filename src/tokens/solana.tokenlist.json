@@ -134219,6 +134219,17 @@
         "twitter": "https://twitter.com/SolanaApeSC",
         "website": "https://solanasccr.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FZGStjhDGiLCcA3CMFMK6Frdy49kWEN2ZfjaStZ4YPRK",
+      "symbol": "PERIS",
+      "name": "Perisanpeek Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DNmxHPgeVLSofyAriirHybKoNx1baM2ufiHKs1W7YyPc/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/TMQNCBNFTa"
+      }
     }
   ],
   "version": {
