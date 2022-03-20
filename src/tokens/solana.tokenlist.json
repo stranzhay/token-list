@@ -134146,6 +134146,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FvkG9zijA1RNhy1hbidpgNgjJomZZw4igjPLKcBUq75u",
+      "symbol": "EXB",
+      "name": "exitB Service Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/exitbgmbh/exb-token-content/master/logo/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
