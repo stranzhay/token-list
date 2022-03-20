@@ -134264,6 +134264,21 @@
         "twitter": "https://twitter.com/Mongomonsol",
         "website": "https://mongomons.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BbKJYNf1Kdzr1rkhkeLetk2UqPYDvpfCA5VQoJkCCCvD",
+      "symbol": "TIM",
+      "name": "Time Is Money Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BbKJYNf1Kdzr1rkhkeLetk2UqPYDvpfCA5VQoJkCCCvD/timlogo.png",
+      "tags": [
+        "Utility-Token",
+        "NFT-Token"
+      ],
+      "extensions": {
+        "website": "https://timnft.io"
+      }
     }
   ],
   "version": {
