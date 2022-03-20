@@ -134380,6 +134380,21 @@
       "tags": [
         "Utility-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Y7euDj1RtvZvSHJKp25tPcVgx2oPG3MnfRc1vaWdQtA",
+      "symbol": "ANX",
+      "name": "TheAnomalix - WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Y7euDj1RtvZvSHJKp25tPcVgx2oPG3MnfRc1vaWdQtA/anomalix.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheAnomalix",
+        "website": "https://www.theanomalix.com/"
+      }
     }
   ],
   "version": {
