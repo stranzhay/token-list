@@ -134427,6 +134427,39 @@
         "twitter": "https://twitter.com/ZaysanRaptors",
         "website": "https://zaysanraptors.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2",
+      "symbol": "sunSBR",
+      "name": "sunSBR",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2/logo.svg",
+      "extensions": {
+        "website": "https://sunny.ag"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "sunxSBRH867pEGc5D4UFR7D6RQULsmjkXZT3SQ8XqwS",
+      "symbol": "yiSunSBR",
+      "name": "yiSunSBR",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sunxSBRH867pEGc5D4UFR7D6RQULsmjkXZT3SQ8XqwS/logo.svg",
+      "extensions": {
+        "website": "https://sunny.ag"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BaconSBRjNckjeQCi6E2Ndg8wSmAwPgmfmZnF6ZmyFhz",
+      "symbol": "baconSBR",
+      "name": "Bacon SBR (sunSBR Token of Appreciation)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BaconSBRjNckjeQCi6E2Ndg8wSmAwPgmfmZnF6ZmyFhz/logo.svg",
+      "extensions": {
+        "website": "https://sunny.ag"
+      }
     }
   ],
   "version": {
