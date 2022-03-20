@@ -134168,6 +134168,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BtME1F4vvdtLhKE8ceUaPqQy6yZVTagPMAfcpCEhsXh1",
+      "symbol": "SLMENC",
+      "name": "solluminati x encrypted",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/r-00-tencrypted/solluminati-x-encrypted/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
