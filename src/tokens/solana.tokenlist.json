@@ -133852,6 +133852,17 @@
         "twitter": "https://twitter.com/solcastlenft",
         "website": "https://solforest.games"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CBudQApyvYRAFPt6fHqVztf9UraSZwfgepNDzM7g7P5h",
+      "symbol": "AKGK",
+      "name": "AngryKittyG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/billbartbud/crypto-id/main/AngryKittyG.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
