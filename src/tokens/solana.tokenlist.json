@@ -134336,6 +134336,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CgZipVXx81to76Cx27MFbzAAt4yvfxm11nxZKxVyetAg",
+      "symbol": "RTT",
+      "name": "Rescue Them Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CgZipVXx81to76Cx27MFbzAAt4yvfxm11nxZKxVyetAg/LogoRTT.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/pSWAvCQQ9m",
+        "instagram": "https://www.instagram.com/rescuethemnft",
+        "telegram": "https://t.me/rescuethemnftofficial",
+        "tiktok": "https://www.tiktok.com/@rescuethemnft",
+        "twitter": "https://twitter.com/RescueThemNFT"
+      }
     }
   ],
   "version": {
