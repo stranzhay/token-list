@@ -133863,6 +133863,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5nfqJfG8wzXx7myjX8k5gHeP3mDJK1EBi4Xrhn28kcCy",
+      "symbol": "SKAZ",
+      "name": "Skitter Koin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SpikerAZ61/Crypto/main/SkittersAZ.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
