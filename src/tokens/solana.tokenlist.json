@@ -133874,6 +133874,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "A2TBEDnxc1uwQc3W45odTvHebBdHxB1SS3fxqbwGJdK9",
+      "symbol": "DIVE",
+      "name": "DIVE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A2TBEDnxc1uwQc3W45odTvHebBdHxB1SS3fxqbwGJdK9/logo.png",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "A bad dive, better than a good day at work.",
+        "twitter": "https://twitter.com/OzDive"
+      }
     }
   ],
   "version": {
