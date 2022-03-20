@@ -134187,6 +134187,22 @@
       "name": "Solana Baby Bunny Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToSmQ75ydVzccTkzUKWxJYCpfXS9jwGLB8XBW49uGWF/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "J8UegP7q46VB3QTpmdhrMd5z6EAaWdxpEjHja17w9fdV",
+      "symbol": "WHIRL",
+      "name": "WhirlPool Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J8UegP7q46VB3QTpmdhrMd5z6EAaWdxpEjHja17w9fdV/logo.png",
+      "tags": [
+        "Utility-Token",
+        "NFT-Token",
+        "Stake-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/WhirlPool_SOL"
+      }
     }
   ],
   "version": {
