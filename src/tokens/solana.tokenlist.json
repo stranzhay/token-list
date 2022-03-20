@@ -133901,6 +133901,30 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 102,
+      "address": "DKMJPcro48BkoJjZNzyqc8hSxiiForzpTbQcMsDSoks6",
+      "symbol": "SQUID",
+      "name": "Red Squid",
+      "decimals": 0,
+      "logoURI": "https://avatars.githubusercontent.com/u/99765025",
+      "tags": [
+        "beer-token",
+        "collectibles"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GE7gd8QvbgRH82D5Zy4vPk76VLuXmiN3pNSD2PL9Rj4s",
+      "symbol": "LAYAN",
+      "name": "Layan Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ultimateminds/ultimateminds/main/Layan-1.png",
+      "tags": [
+        "social-token",
+        "collectibles"
+      ]
     }
   ],
   "version": {
