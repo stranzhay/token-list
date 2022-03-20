@@ -134230,6 +134230,23 @@
       "extensions": {
         "discord": "https://discord.gg/TMQNCBNFTa"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AsybGxMxwi64XnHwB6oJAHoTzFH4HHHJNN595HVJuV1M",
+      "symbol": "solDUCO",
+      "name": "Duino-Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AsybGxMxwi64XnHwB6oJAHoTzFH4HHHJNN595HVJuV1M/duino.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/kvBkccy",
+        "instagram": "https://www.instagram.com/duino_coin_official",
+        "twitter": "https://twitter.com/DuinoCoin",
+        "website": "https://duinocoin.com"
+      }
     }
   ],
   "version": {
