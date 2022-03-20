@@ -134101,6 +134101,51 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "KinDesK3dYWo3R2wDk6Ucaf31tvQCCSYyL8Fuqp33GX",
+      "symbol": "KIN",
+      "name": "KIN",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6/logo.png",
+      "extensions": {
+        "coingeckoId": "kin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CJhtP5E21BeALSLxpUoNmd2eGt616hoYcZV3hUpXGBHt",
+      "symbol": "Cutiepie",
+      "name": "Cutiepie",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/vox117/birthday/main/3211994.png",
+      "tags": [
+        "Birthday",
+        "Hama"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "B8M2yBkdHC2WDiVU9iDTxgiy31ojP4n8BoW5ERLwBBt1",
+      "symbol": "BADRAYDAO",
+      "name": "Baby DAOGuarantee Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/benpazzo/babydraygon/main/img/daomint2.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6tC7i5aVU2Gw2Bdj3WdC4WKj2DXUt31DdHz3AEbBCxp5",
+      "symbol": "BADRAY",
+      "name": "Baby Presale Non-Guarantee Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/benpazzo/babydraygon/main/img/presalemint2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
