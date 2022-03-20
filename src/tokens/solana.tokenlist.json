@@ -133784,6 +133784,19 @@
         "twitter": "https://twitter.com/DevicesSolana",
         "website": "https://solanadevices.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E8iucdmeQP3LaJqsfKCUE9u8yD7X45PApKSpcoeoya3C",
+      "symbol": "CARMC",
+      "name": "CARMA COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/esco213/crypt/main/CC_LOGO.png",
+      "tags": [
+        "social-token",
+        "Utility-Token",
+        "Community-Token"
+      ]
     }
   ],
   "version": {
