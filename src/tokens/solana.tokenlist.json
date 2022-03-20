@@ -133890,6 +133890,17 @@
         "description": "A bad dive, better than a good day at work.",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "86aZvB8vbdHVkkFz72gAdM3iWi9H74n8oQUq4PQEVccu",
+      "symbol": "DENT",
+      "name": "DentalCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/happytheclam/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
