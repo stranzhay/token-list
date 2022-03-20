@@ -133952,6 +133952,132 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "seedG7Nc6VMdTzeKxhFxdNaBRUVzGFaJqcKFqgCKdtp",
+      "symbol": "SEED",
+      "name": "Solforest SEED",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/seedG7Nc6VMdTzeKxhFxdNaBRUVzGFaJqcKFqgCKdtp/solf.svg",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YTa38dYvMC",
+        "instagram": "https://www.instagram.com/solomonsforest/",
+        "medium": "https://solforest.medium.com/",
+        "telegram": "https://t.me/solforest",
+        "twitter": "https://twitter.com/solcastlenft",
+        "website": "https://solforest.games"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "seedG7Nc6VMdTzeKxhFxdNaBRUVzGFaJqcKFqgCKdtp",
+      "symbol": "SEED",
+      "name": "Solforest SEED",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/seedG7Nc6VMdTzeKxhFxdNaBRUVzGFaJqcKFqgCKdtp/solf.svg",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YTa38dYvMC",
+        "instagram": "https://www.instagram.com/solomonsforest/",
+        "medium": "https://solforest.medium.com/",
+        "telegram": "https://t.me/solforest",
+        "twitter": "https://twitter.com/solcastlenft",
+        "website": "https://solforest.games"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "seedG7Nc6VMdTzeKxhFxdNaBRUVzGFaJqcKFqgCKdtp",
+      "symbol": "SEED",
+      "name": "Solforest SEED",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/seedG7Nc6VMdTzeKxhFxdNaBRUVzGFaJqcKFqgCKdtp/solf.svg",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YTa38dYvMC",
+        "instagram": "https://www.instagram.com/solomonsforest/",
+        "medium": "https://solforest.medium.com/",
+        "telegram": "https://t.me/solforest",
+        "twitter": "https://twitter.com/solcastlenft",
+        "website": "https://solforest.games"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "1eafKP3mrB9SHnmZRxXksyM1kqhDKSctqZp4r8npiGL",
+      "symbol": "LEAF",
+      "name": "Solforest LEAF",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/1eafKP3mrB9SHnmZRxXksyM1kqhDKSctqZp4r8npiGL/solg.svg",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YTa38dYvMC",
+        "instagram": "https://www.instagram.com/solomonsforest/",
+        "medium": "https://solforest.medium.com/",
+        "telegram": "https://t.me/solforest",
+        "twitter": "https://twitter.com/solcastlenft",
+        "website": "https://solforest.games"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "1eafKP3mrB9SHnmZRxXksyM1kqhDKSctqZp4r8npiGL",
+      "symbol": "LEAF",
+      "name": "Solforest LEAF",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/1eafKP3mrB9SHnmZRxXksyM1kqhDKSctqZp4r8npiGL/solg.svg",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YTa38dYvMC",
+        "instagram": "https://www.instagram.com/solomonsforest/",
+        "medium": "https://solforest.medium.com/",
+        "telegram": "https://t.me/solforest",
+        "twitter": "https://twitter.com/solcastlenft",
+        "website": "https://solforest.games"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "1eafKP3mrB9SHnmZRxXksyM1kqhDKSctqZp4r8npiGL",
+      "symbol": "LEAF",
+      "name": "Solforest LEAF",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/1eafKP3mrB9SHnmZRxXksyM1kqhDKSctqZp4r8npiGL/solg.svg",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YTa38dYvMC",
+        "instagram": "https://www.instagram.com/solomonsforest/",
+        "medium": "https://solforest.medium.com/",
+        "telegram": "https://t.me/solforest",
+        "twitter": "https://twitter.com/solcastlenft",
+        "website": "https://solforest.games"
+      }
     }
   ],
   "version": {
