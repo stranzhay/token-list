@@ -133901,6 +133901,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 102,
+      "address": "DKMJPcro48BkoJjZNzyqc8hSxiiForzpTbQcMsDSoks6",
+      "symbol": "SQUID",
+      "name": "Red Squid",
+      "decimals": 0,
+      "logoURI": "https://avatars.githubusercontent.com/u/99765025",
+      "tags": [
+        "beer-token",
+        "collectibles"
+      ]
     }
   ],
   "version": {
