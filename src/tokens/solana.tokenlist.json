@@ -134325,6 +134325,50 @@
         "website": "https://deadknight.io",
         "youtube": "https://www.youtube.com/channel/UCTzFwKLZ6uD8cWoJIMV9v7A"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGdnAVQGqLT4nkk1H4XU69CGWVwMfEtxgjDCK6wcQUyZ",
+      "symbol": "MARR",
+      "name": "Marreta Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/ivanmarreta/marretacrypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CgZipVXx81to76Cx27MFbzAAt4yvfxm11nxZKxVyetAg",
+      "symbol": "RTT",
+      "name": "Rescue Them Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CgZipVXx81to76Cx27MFbzAAt4yvfxm11nxZKxVyetAg/LogoRTT.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/pSWAvCQQ9m",
+        "instagram": "https://www.instagram.com/rescuethemnft",
+        "telegram": "https://t.me/rescuethemnftofficial",
+        "tiktok": "https://www.tiktok.com/@rescuethemnft",
+        "twitter": "https://twitter.com/RescueThemNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2K56JYgSEMaUvh1RRWGeXJcU44rWGtVwDXzbBHu8sKXD",
+      "symbol": "HEX",
+      "name": "Hexagon Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2K56JYgSEMaUvh1RRWGeXJcU44rWGtVwDXzbBHu8sKXD/hexlogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Just a simple six-sided token",
+        "twitter": "https://twitter.com/Hexagon_Coin"
+      }
     }
   ],
   "version": {
