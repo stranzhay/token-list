@@ -133940,6 +133940,18 @@
       "extensions": {
         "description": "Its a new MONEY"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "76852YV7cVHtcu3R9zwixyk5XWED56ViYitCVSWuGKBT",
+      "symbol": "$KKC",
+      "name": "Kempton Krew Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dakkz/Crypto/main/!.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
