@@ -133925,6 +133925,21 @@
         "social-token",
         "collectibles"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F7sFF53SJiPmFCE9rAiFeP6Mmz1Ejtvh1vu7j6mBMZpS",
+      "symbol": "CUNTS",
+      "name": "CUNTS COIN",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F7sFF53SJiPmFCE9rAiFeP6Mmz1Ejtvh1vu7j6mBMZpS/logo.png",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Its a new MONEY"
+      }
     }
   ],
   "version": {
