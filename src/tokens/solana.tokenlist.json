@@ -134157,6 +134157,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3Ldy4b4VvPr4RKiPbZp2LvtgUvUpqEgWQKYHnFibNJaf",
+      "symbol": "FRZT",
+      "name": "friz Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/helifriz/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
