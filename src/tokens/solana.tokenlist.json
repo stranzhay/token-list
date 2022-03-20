@@ -134112,6 +134112,18 @@
       "extensions": {
         "coingeckoId": "kin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CJhtP5E21BeALSLxpUoNmd2eGt616hoYcZV3hUpXGBHt",
+      "symbol": "Cutiepie",
+      "name": "Cutiepie",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/vox117/birthday/main/3211994.png",
+      "tags": [
+        "Birthday",
+        "Hama"
+      ]
     }
   ],
   "version": {
