@@ -134696,6 +134696,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BAMKCkryTSqb97AQgYc6YkdMV8gbNUmc7X3ZkQ4M7nTB",
+      "symbol": "SQR",
+      "name": "StarPunk Quasar",
+      "decimals": 0,
+      "logoURI": "https://meta-data.starpunk.io/quasar.png",
+      "tags": [
+        "ultility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Hello_Starpad",
+        "website": "https://starpunk.io/"
+      }
     }
   ],
   "version": {
