@@ -134967,6 +134967,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Be8mVzNjWutFuRNAdiTL7QiQ6paEidepc5UNBHM7f7jZ",
+      "symbol": "INR",
+      "name": "INR(D)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/inrd.jpeg",
+      "extensions": {
+        "medium": "https://medium.com/@INRDcoin",
+        "twitter": "https://twitter.com/INRDcoin"
+      }
     }
   ],
   "version": {
