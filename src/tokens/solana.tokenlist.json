@@ -134477,6 +134477,17 @@
         "twitter": "https://twitter.com/DuckDudes_NFT",
         "website": "https://www.duckdudes.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9cAuTGiGcaAt7jFymMHCKRKttEmEmHz2J95SyjesEgoZ",
+      "symbol": "RON",
+      "name": "RonCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/yeysus/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
