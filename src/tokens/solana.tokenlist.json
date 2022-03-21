@@ -134503,6 +134503,17 @@
         "description": "Solmander Dao Token Swap",
         "twitter": "https://twitter.com/solamandersnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HSjzhJe6zFMj4jV7WzdjXo8ZXSjiN7FsBkq5CZUWtJZa",
+      "symbol": "HIPE",
+      "name": "HIPE Token",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/attachments/603807467364941825/955273506302591026/CNR.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
