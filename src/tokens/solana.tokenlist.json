@@ -134514,6 +134514,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8MZhcpGk8NvzrybvZ31SMgUG4Fm6hkdYzLQRRHoiwvre",
+      "symbol": "LIFT",
+      "name": "Lift Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/EduardoNicoleit/token-list/main/assets/mainnet/8MZhcpGk8NvzrybvZ31SMgUG4Fm6hkdYzLQRRHoiwvre/logo.png",
+      "tags": [
+        "utility"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/fostermarketplace/",
+        "twitter": "https://twitter.com/fosternfts",
+        "website": "https://www.fostermarketplace.io/"
+      }
     }
   ],
   "version": {
