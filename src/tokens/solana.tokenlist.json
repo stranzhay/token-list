@@ -134782,6 +134782,17 @@
         "twitter": "https://twitter.com/AlderMages",
         "website": "https://aldermages.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8btg1akyvVNqkDjftALYMRDqG9QfWvS7sy96KpLAMZny",
+      "symbol": "VEXWL",
+      "name": "Vex Cheetahs WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rabindrarajawat/arr-solana/main/vex.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
