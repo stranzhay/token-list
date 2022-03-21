@@ -134934,6 +134934,17 @@
       "tags": [
         "test-social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Fi85Mhb7oc3Gw2vtxrXDvZ7sef7i5kyrjMugRwxSMioC",
+      "symbol": "KARROT",
+      "name": "Karrot",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Karrottoken/Karrot/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
