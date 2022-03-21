@@ -134900,6 +134900,17 @@
         "twitter": "https://twitter.com/the_cynova",
         "website": "https://www.cynova.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4LD1KiLYsWHYUScBQd2vdeh6Uecb7TTyGUxQAVoyCCZD",
+      "symbol": "DLVT",
+      "name": "DeliveryToken",
+      "decimals": 9,
+      "logoURI": "https://github.com/SamiRiok2/DeliveryToken/blob/main/delivery%20token2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
