@@ -134837,6 +134837,17 @@
       "extensions": {
         "website": "https://solanadevices.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AgRxuSjKDsd1fqksuB5dNTwCzUzmJQ9fNBL129oN8qo6",
+      "symbol": "HAVOC",
+      "name": "HAVOC Token",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh//DDougies/images/DougFord-HAVOC-Logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/DDougies"
+      }
     }
   ],
   "version": {
