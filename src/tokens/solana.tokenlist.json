@@ -134804,6 +134804,113 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8Esjda8Tn9XGgLw55RLJzUYuM64fQM9NJuhVHW3RwbYZ",
+      "symbol": "CHIP",
+      "name": "CHIP (Solana Devices)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Esjda8Tn9XGgLw55RLJzUYuM64fQM9NJuhVHW3RwbYZ/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "dao-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DevicesSolana",
+        "website": "https://solanadevices.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5bFvtLN3kP34sas77XvWgoY4b5CFjQ7qAUJsKUSomLUJ",
+      "symbol": "SDEVWL",
+      "name": "WL (Solana Devices)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5bFvtLN3kP34sas77XvWgoY4b5CFjQ7qAUJsKUSomLUJ/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solanadevices.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AgRxuSjKDsd1fqksuB5dNTwCzUzmJQ9fNBL129oN8qo6",
+      "symbol": "HAVOC",
+      "name": "HAVOC Token",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh//DDougies/images/DougFord-HAVOC-Logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/DDougies"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "SPiXWTmxrrUAe8ukZ79Bz9zjY5L8kR1bQ4S51M4C83V",
+      "symbol": "SPIX",
+      "name": "SolanaPrime Index Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SPiXWTmxrrUAe8ukZ79Bz9zjY5L8kR1bQ4S51M4C83V/logo.png",
+      "tags": [
+        "launchpad",
+        "ido",
+        "rewards",
+        "index-pool"
+      ],
+      "extensions": {
+        "description": "SolanaPrime index token for staking rewards",
+        "discord": "https://discord.gg/FfDjmQJ9ZH",
+        "twitter": "https://twitter.com/solana_prime",
+        "website": "https://solanaprime.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "PRiME7gDoiG1vGr95a3CRMv9xHY7UGjd4JKvfSkmQu2",
+      "symbol": "PRIME",
+      "name": "SolanaPrime",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PRiME7gDoiG1vGr95a3CRMv9xHY7UGjd4JKvfSkmQu2/logo.png",
+      "tags": [
+        "launchpad",
+        "ido",
+        "staking",
+        "utility"
+      ],
+      "extensions": {
+        "description": "SolanaPrime utility token",
+        "discord": "https://discord.gg/FfDjmQJ9ZH",
+        "twitter": "https://twitter.com/solana_prime",
+        "website": "https://solanaprime.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "NovNrxPNjmLVFscH5rjMbec7C4BdAHms9WK21xjsP3p",
+      "symbol": "NOVAX",
+      "name": "NOVAX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NovNrxPNjmLVFscH5rjMbec7C4BdAHms9WK21xjsP3p/clogo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/the_cynova",
+        "website": "https://www.cynova.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4LD1KiLYsWHYUScBQd2vdeh6Uecb7TTyGUxQAVoyCCZD",
+      "symbol": "DLVT",
+      "name": "DeliveryToken",
+      "decimals": 9,
+      "logoURI": "https://github.com/SamiRiok2/DeliveryToken/blob/main/delivery%20token2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
