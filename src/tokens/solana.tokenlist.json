@@ -134610,6 +134610,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "37JTDbcZfdJZcdBP9q1SYFB1o7fVZHUrkVKQEvjc1Kr5",
+      "symbol": "SRPT",
+      "name": "StarPunk Test",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/37JTDbcZfdJZcdBP9q1SYFB1o7fVZHUrkVKQEvjc1Kr5/logo.png",
+      "tags": [
+        "fungible-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Hello_Starpad",
+        "website": "https://starpunk.io/"
+      }
     }
   ],
   "version": {
