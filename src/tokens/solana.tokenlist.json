@@ -134625,6 +134625,20 @@
         "twitter": "https://twitter.com/Hello_Starpad",
         "website": "https://starpunk.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "49nyHUT4U1egBqyQ9D9WdmS4vDhN9syTeay74rp5iXRq",
+      "symbol": "ODYSSEUS-SOL",
+      "name": "Raydium LP Token (ODYSSEUS-SOL)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/49nyHUT4U1egBqyQ9D9WdmS4vDhN9syTeay74rp5iXRq/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://raydium.io"
+      }
     }
   ],
   "version": {
