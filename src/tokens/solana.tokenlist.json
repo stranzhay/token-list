@@ -134503,6 +134503,44 @@
         "description": "Solmander Dao Token Swap",
         "twitter": "https://twitter.com/solamandersnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HSjzhJe6zFMj4jV7WzdjXo8ZXSjiN7FsBkq5CZUWtJZa",
+      "symbol": "HIPE",
+      "name": "HIPE Token",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/attachments/603807467364941825/955273506302591026/CNR.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8MZhcpGk8NvzrybvZ31SMgUG4Fm6hkdYzLQRRHoiwvre",
+      "symbol": "LIFT",
+      "name": "Lift Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/EduardoNicoleit/token-list/main/assets/mainnet/8MZhcpGk8NvzrybvZ31SMgUG4Fm6hkdYzLQRRHoiwvre/logo.png",
+      "tags": [
+        "utility"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/fostermarketplace/",
+        "twitter": "https://twitter.com/fosternfts",
+        "website": "https://www.fostermarketplace.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BWNsNmVXJX72xEwg6xCbPTnmpgHvyR17s9SjhmPKvMMk",
+      "symbol": "NGYU",
+      "name": "NGGYU Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/128U4NbjWptP3GTg1NdgDRdeGVZpiiqvTgdELffYngaR/cutekawalilogo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
