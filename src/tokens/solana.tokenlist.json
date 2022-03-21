@@ -134990,6 +134990,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "E8KnxQFzRGbTWX4mhysYYQgoEs2iCpew73sLKTLKFHt9",
+      "symbol": "CHEWY",
+      "name": "Whookie the Whoodle",
+      "decimals": 0,
+      "logoURI": "https://github.com/aim-wealth/chew/blob/main/ChewyNFT%20(2).png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
