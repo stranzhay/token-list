@@ -134656,6 +134656,20 @@
         "twitter": "https://twitter.com/tigerbeing_io",
         "website": "https://tigerbeing.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HQ48nDtrtn3mjPyYBZczq85kXMM2Mv8dyNYLPEvzREJA",
+      "symbol": "HIPE",
+      "name": "HIPE",
+      "decimals": 6,
+      "logoURI": "https://cdn.discordapp.com/attachments/603807467364941825/955273506302591026/CNR.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://bh-mall.com"
+      }
     }
   ],
   "version": {
