@@ -134888,6 +134888,18 @@
         "twitter": "https://twitter.com/solana_prime",
         "website": "https://solanaprime.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NovNrxPNjmLVFscH5rjMbec7C4BdAHms9WK21xjsP3p",
+      "symbol": "NOVAX",
+      "name": "NOVAX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NovNrxPNjmLVFscH5rjMbec7C4BdAHms9WK21xjsP3p/clogo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/the_cynova",
+        "website": "https://www.cynova.io/"
+      }
     }
   ],
   "version": {
