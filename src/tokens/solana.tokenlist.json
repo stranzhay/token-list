@@ -134848,6 +134848,46 @@
       "extensions": {
         "twitter": "https://twitter.com/DDougies"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SPiXWTmxrrUAe8ukZ79Bz9zjY5L8kR1bQ4S51M4C83V",
+      "symbol": "SPIX",
+      "name": "SolanaPrime Index Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SPiXWTmxrrUAe8ukZ79Bz9zjY5L8kR1bQ4S51M4C83V/logo.png",
+      "tags": [
+        "launchpad",
+        "ido",
+        "rewards",
+        "index-pool"
+      ],
+      "extensions": {
+        "description": "SolanaPrime index token for staking rewards",
+        "discord": "https://discord.gg/FfDjmQJ9ZH",
+        "twitter": "https://twitter.com/solana_prime",
+        "website": "https://solanaprime.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "PRiME7gDoiG1vGr95a3CRMv9xHY7UGjd4JKvfSkmQu2",
+      "symbol": "PRIME",
+      "name": "SolanaPrime",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PRiME7gDoiG1vGr95a3CRMv9xHY7UGjd4JKvfSkmQu2/logo.png",
+      "tags": [
+        "launchpad",
+        "ido",
+        "staking",
+        "utility"
+      ],
+      "extensions": {
+        "description": "SolanaPrime utility token",
+        "discord": "https://discord.gg/FfDjmQJ9ZH",
+        "twitter": "https://twitter.com/solana_prime",
+        "website": "https://solanaprime.com/"
+      }
     }
   ],
   "version": {
