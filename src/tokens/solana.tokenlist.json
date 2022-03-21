@@ -134530,6 +134530,17 @@
         "twitter": "https://twitter.com/fosternfts",
         "website": "https://www.fostermarketplace.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BWNsNmVXJX72xEwg6xCbPTnmpgHvyR17s9SjhmPKvMMk",
+      "symbol": "NGYU",
+      "name": "NGGYU Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/128U4NbjWptP3GTg1NdgDRdeGVZpiiqvTgdELffYngaR/cutekawalilogo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
