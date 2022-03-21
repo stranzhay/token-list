@@ -135001,6 +135001,17 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BWRc7FFKQwMvHqS2AHbG6VX1v4nSi9QgMHXD3vwc5aZp",
+      "symbol": "SPN",
+      "name": "Supernova",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ethna123/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
