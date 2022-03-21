@@ -134741,6 +134741,18 @@
         "twitter": "https://twitter.com/SolSnatchersNFT",
         "website": "https://solsnatchers.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Tofo8GkHHUsQB7o8y4wk68A7vKHPUFo88YchqoD3yRC",
+      "symbol": "LLB-WL",
+      "name": "LoLaben Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Tofo8GkHHUsQB7o8y4wk68A7vKHPUFo88YchqoD3yRC/logo.jpg",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
