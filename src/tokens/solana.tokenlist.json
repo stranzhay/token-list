@@ -134639,6 +134639,23 @@
       "extensions": {
         "website": "https://raydium.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EJuxV21M169aeHQzgtbyvtgmZH4rWcK2YPD1pGh6Wt77",
+      "symbol": "TWL",
+      "name": "TigerBeing Whitelist",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/dtrMgdRPaWXCmfKHRB87aSvYDwGt3GAB3HC1cYWa7rk",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/jXfANfzkFb",
+        "instagram": "http://instagram.com/tigerbeing_io",
+        "twitter": "https://twitter.com/tigerbeing_io",
+        "website": "https://tigerbeing.io/"
+      }
     }
   ],
   "version": {
