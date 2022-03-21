@@ -134711,6 +134711,17 @@
         "twitter": "https://twitter.com/Hello_Starpad",
         "website": "https://starpunk.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DipHAYHTE9ZAPfjQhXt9CAXMSABeRB6eYqk54A9TjkYZ",
+      "symbol": "TXC",
+      "name": "TecXra Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/alihaider123go/tecxra-token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
