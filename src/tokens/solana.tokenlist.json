@@ -134670,6 +134670,32 @@
       "extensions": {
         "website": "http://bh-mall.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BoNgZThjDxHmPJYT4Pt9QXqhoA18SYCetciJYaM6UpKi",
+      "symbol": "BONG",
+      "name": "BONGHEAD WL PASS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BoNgZThjDxHmPJYT4Pt9QXqhoA18SYCetciJYaM6UpKi/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BongHeadsNFT",
+        "website": "https://bongheads.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2PP82VASGfiAQajhFUg6QvcA1cUzganQGJ7ovDMv5FBN",
+      "symbol": "AHLO",
+      "name": "AhloCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/VivianDoesntCode/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
