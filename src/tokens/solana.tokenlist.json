@@ -134541,6 +134541,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CodeJ8UWDuAtD6EEqp9KZPaZYPKvttgkAg9qDkkewx85",
+      "symbol": "code",
+      "name": "code",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CodeJ8UWDuAtD6EEqp9KZPaZYPKvttgkAg9qDkkewx85/logo.png",
+      "tags": [
+        "code"
+      ]
     }
   ],
   "version": {
