@@ -134610,6 +134610,52 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "37JTDbcZfdJZcdBP9q1SYFB1o7fVZHUrkVKQEvjc1Kr5",
+      "symbol": "SRPT",
+      "name": "StarPunk Test",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/37JTDbcZfdJZcdBP9q1SYFB1o7fVZHUrkVKQEvjc1Kr5/logo.png",
+      "tags": [
+        "fungible-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Hello_Starpad",
+        "website": "https://starpunk.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "49nyHUT4U1egBqyQ9D9WdmS4vDhN9syTeay74rp5iXRq",
+      "symbol": "ODYSSEUS-SOL",
+      "name": "Raydium LP Token (ODYSSEUS-SOL)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/49nyHUT4U1egBqyQ9D9WdmS4vDhN9syTeay74rp5iXRq/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://raydium.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EJuxV21M169aeHQzgtbyvtgmZH4rWcK2YPD1pGh6Wt77",
+      "symbol": "TWL",
+      "name": "TigerBeing Whitelist",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/dtrMgdRPaWXCmfKHRB87aSvYDwGt3GAB3HC1cYWa7rk",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/jXfANfzkFb",
+        "instagram": "http://instagram.com/tigerbeing_io",
+        "twitter": "https://twitter.com/tigerbeing_io",
+        "website": "https://tigerbeing.io/"
+      }
     }
   ],
   "version": {
