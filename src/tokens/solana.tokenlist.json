@@ -134685,6 +134685,17 @@
         "twitter": "https://twitter.com/BongHeadsNFT",
         "website": "https://bongheads.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2PP82VASGfiAQajhFUg6QvcA1cUzganQGJ7ovDMv5FBN",
+      "symbol": "AHLO",
+      "name": "AhloCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/VivianDoesntCode/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
