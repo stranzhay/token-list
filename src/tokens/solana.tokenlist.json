@@ -134711,6 +134711,36 @@
         "twitter": "https://twitter.com/Hello_Starpad",
         "website": "https://starpunk.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DipHAYHTE9ZAPfjQhXt9CAXMSABeRB6eYqk54A9TjkYZ",
+      "symbol": "TXC",
+      "name": "TecXra Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/alihaider123go/tecxra-token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ga1FE6vviZcUhnYWv1pdQHYt5geVq299hdcjfxigDBcJ",
+      "symbol": "UWC",
+      "name": "Underworld Cash",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ga1FE6vviZcUhnYWv1pdQHYt5geVq299hdcjfxigDBcJ/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SolSnatchers",
+        "twitter": "https://twitter.com/SolSnatchersNFT",
+        "website": "https://solsnatchers.com/"
+      }
     }
   ],
   "version": {
