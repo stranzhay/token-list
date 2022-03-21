@@ -134552,6 +134552,37 @@
       "tags": [
         "code"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4F2yutcbkabE5MJoDvrDLa5U2re5HPABSCVKA7vqrKcH",
+      "symbol": "REJECT",
+      "name": "REJECT Token",
+      "decimals": 2,
+      "logoURI": "https://ri6fdpqu6asrle3koykcepmdyd6m5eu2sfwb34vjfoxl2cvb.arweave.net/ijxRvhTwJRWTanYUI-j2DwPzOkpqRbB3y-qSuuvQqhQ",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/MonkeRejects",
+        "twitter": "https://twitter.com/MonkeRejects",
+        "website": "https://solmonkerejects.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BwDSLozKTfoB4Zimx48coQrCRyKoEcCrzJ6hyoM499XD",
+      "symbol": "DAG",
+      "name": "DAG WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BwDSLozKTfoB4Zimx48coQrCRyKoEcCrzJ6hyoM499XD/logo.png",
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DAG_Bartender"
+      }
     }
   ],
   "version": {
