@@ -134923,6 +134923,17 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DeTVa1BuxZDYvFtY315ZEZ9ddoe69wLzhLmxi9nhBxSF",
+      "symbol": "PJTT",
+      "name": "preJTTver0",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/catblue88/token-test/main/kitten0.png",
+      "tags": [
+        "test-social-token"
+      ]
     }
   ],
   "version": {
