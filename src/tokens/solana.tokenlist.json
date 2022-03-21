@@ -134764,6 +134764,35 @@
       "tags": [
         "governing-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D8VVNvc6EmjHLJE1vgzZSyMEAH6CZvD3wVaeY6RZHuj8",
+      "symbol": "DTome",
+      "name": "Dark Tome",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/onuraladi/DarkTome/main/darktome.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/sJfTBaY3K6",
+        "twitter": "https://twitter.com/AlderMages",
+        "website": "https://aldermages.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8btg1akyvVNqkDjftALYMRDqG9QfWvS7sy96KpLAMZny",
+      "symbol": "VEXWL",
+      "name": "Vex Cheetahs WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rabindrarajawat/arr-solana/main/vex.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
