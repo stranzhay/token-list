@@ -134793,6 +134793,17 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5uKRWeSpcQ7D1AZjXyx2MBX6MiTHaRkDm7BFXDo4ATxe",
+      "symbol": "OMC",
+      "name": "Om Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/code2029/crypto/main/123fv-vector-34007.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
