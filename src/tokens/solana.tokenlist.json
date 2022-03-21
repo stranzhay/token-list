@@ -134569,6 +134569,20 @@
         "twitter": "https://twitter.com/MonkeRejects",
         "website": "https://solmonkerejects.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BwDSLozKTfoB4Zimx48coQrCRyKoEcCrzJ6hyoM499XD",
+      "symbol": "DAG",
+      "name": "DAG WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BwDSLozKTfoB4Zimx48coQrCRyKoEcCrzJ6hyoM499XD/logo.png",
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DAG_Bartender"
+      }
     }
   ],
   "version": {
