@@ -134599,6 +134599,17 @@
         "twitter": "https://twitter.com/metahelixio",
         "website": "https://metahelix.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4h3RKVY2QYYseqDibRUe4aCq6xkfB8Tc9gw8y9mjciWk",
+      "symbol": "KWL",
+      "name": "KillerWL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solanacoder005/KillerWL/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
