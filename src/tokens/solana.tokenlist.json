@@ -134945,6 +134945,28 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6kF36NhYT72ax4LvjBDRppa672tqQU6219vF5cD5UyR6",
+      "symbol": "SMY",
+      "name": "SammyToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6kF36NhYT72ax4LvjBDRppa672tqQU6219vF5cD5UyR6/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "KeeXNee3oU933sbyAo9A1H71zT4ZWZrdrSMxnfDgvMk",
+      "symbol": "KEEP",
+      "name": "Keeper",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KeeXNee3oU933sbyAo9A1H71zT4ZWZrdrSMxnfDgvMk/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
