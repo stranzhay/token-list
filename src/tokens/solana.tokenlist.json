@@ -135335,6 +135335,30 @@
       "extensions": {
         "twitter": "https://twitter.com/BubbaChimps_NFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FCP14kyGeg9BYfBUZFtcEAt5sLe7BfyjLvBoqnL2WcQV",
+      "symbol": "DAFM",
+      "name": "Doomed Free Mint",
+      "decimals": 0,
+      "logoURI": "https://mint.thearmadillos.io/da-freemint-token.jpg",
+      "tags": [
+        "whitelist",
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "PSPdfYZVDrrYaWh5F7XDdQPeMPsLpisnE5VD4E3JGtp",
+      "symbol": "DWLT",
+      "name": "Doomed WL Token",
+      "decimals": 0,
+      "logoURI": "https://mint.thearmadillos.io/da-presale-token.jpg",
+      "tags": [
+        "whitelist",
+        "nft"
+      ]
     }
   ],
   "version": {
