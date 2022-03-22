@@ -135050,6 +135050,17 @@
         "utility-token",
         "whitelist-ticket"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2x2KZjzegwyYzDioJc91cRGgXmnvhGYSXpSCjzq6LaMz",
+      "symbol": "LIOR",
+      "name": "Lior Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2x2KZjzegwyYzDioJc91cRGgXmnvhGYSXpSCjzq6LaMz/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
