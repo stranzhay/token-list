@@ -135072,6 +135072,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 102,
+      "address": "4BkjovMi18bewok4wadVGv22b8wewq88mw7GbUkJ2ETe",
+      "symbol": "SPEP",
+      "name": "PEPE Meme",
+      "decimals": 6,
+      "logoURI": "https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/3f/f4/c4/3ff4c46c-63c1-ed08-b711-d409d0e7e645/source/512x512bb.jpg",
+      "tags": [
+        "fungible-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CmF8ayabCdjMQRammrHR91iRHH3Y6XVTe2AtnZxPdzid",
+      "symbol": "GSWL",
+      "name": "Gangsta Swans WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rabindrarajawat/arr-solana/main/gangstaswans.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
