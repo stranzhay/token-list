@@ -135261,6 +135261,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DGjrbCznR8gviTJEswA5f6KZPU2JNHJseHqz16eW7nQq",
+      "symbol": "MUJ",
+      "name": "Mujib Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/iamrasheeq/MujibCoinCrypto/main/mujibCoinLogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
