@@ -135239,6 +135239,39 @@
         "whitelist",
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AyJiCcYWA4b7u61FkY4RTawtbTd91r22cE1Wc6gAL5LS",
+      "symbol": "NUWA",
+      "name": "NUWA Rex Token",
+      "decimals": 3,
+      "logoURI": "https://media.discordapp.net/attachments/926535226820276264/954723796252753971/coin.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HEyd4WBCBKeCWMsFx9rjDjzt72rsMzQ36CoP8GkCDj4T",
+      "symbol": "FFC",
+      "name": "FoneFanClub",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/ffc/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DGjrbCznR8gviTJEswA5f6KZPU2JNHJseHqz16eW7nQq",
+      "symbol": "MUJ",
+      "name": "Mujib Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/iamrasheeq/MujibCoinCrypto/main/mujibCoinLogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
