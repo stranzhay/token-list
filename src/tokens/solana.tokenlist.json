@@ -135192,6 +135192,29 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SLCLww7nc1PD2gQPQdGayHviVVcpMthnqUz2iWKhNQV",
+      "symbol": "SLCL",
+      "name": "Solcial token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLCLww7nc1PD2gQPQdGayHviVVcpMthnqUz2iWKhNQV/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "nfts"
+      ],
+      "extensions": {
+        "blog": "http://blog.solcial.io/",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/solcial/",
+        "description": "The first uncensorable, permissionless and truly open social network",
+        "discord": "https://discord.gg/solcial",
+        "telegram": "https://t.me/solcial",
+        "twitter": "https://twitter.com/solcialofficial",
+        "website": "https://solcial.io/"
+      }
     }
   ],
   "version": {
