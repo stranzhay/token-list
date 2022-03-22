@@ -135447,6 +135447,17 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SMKfVDwViTiwuQkwaZdwUkvq2MXyxF75UXaYkFPfgPG",
+      "symbol": "SMK",
+      "name": "SMK",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img923/9223/l8sa9k.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SamuraiMkeys"
+      }
     }
   ],
   "version": {
