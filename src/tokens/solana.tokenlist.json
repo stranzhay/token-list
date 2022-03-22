@@ -135480,6 +135480,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MAGf4MnUUkkAUUdiYbNFcDnE4EBGHJYLk9foJ2ae7BV",
+      "symbol": "MAGAI",
+      "name": "Magnum Token",
+      "decimals": 0,
+      "logoURI": "https://github.com/tomekregulski/magnum-token-logo/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
