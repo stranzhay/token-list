@@ -135370,6 +135370,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4SsBoLmKGWdVWfuJ5DU1TmM2BxxWBx44eMDuh6nhYgHf",
+      "symbol": "$HILLS",
+      "name": "Solana Hills",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/CMHayden/crypto/master/solanahills.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solanahills"
+      }
     }
   ],
   "version": {
