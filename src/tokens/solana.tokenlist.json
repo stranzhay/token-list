@@ -135313,6 +135313,63 @@
       "name": "Lost in Metaverse WL1",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/r4h01/LostInMetaverse/main/assets/LIM.png"
+    },
+    {
+      "chainId": 101,
+      "address": "4ANPmEsoZ24EjrvXP7Z7vfjqEgBm7G8Ex5ccZ23t9xiA",
+      "symbol": "JHRC",
+      "name": "JacobsCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jacobhreed/crypto/main/J-logos_transparent_ccexpress.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "86stxk9NfjwHyfHaMTRS6DftzZoq33Usf1KbWZS42XBs",
+      "symbol": "BUBBA",
+      "name": "Bubba Chimp Crew TOKEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Randomkushh/assets/master/tokens/solana/bubba/bubba%20token.png",
+      "extensions": {
+        "twitter": "https://twitter.com/BubbaChimps_NFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FCP14kyGeg9BYfBUZFtcEAt5sLe7BfyjLvBoqnL2WcQV",
+      "symbol": "DAFM",
+      "name": "Doomed Free Mint",
+      "decimals": 0,
+      "logoURI": "https://mint.thearmadillos.io/da-freemint-token.jpg",
+      "tags": [
+        "whitelist",
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "PSPdfYZVDrrYaWh5F7XDdQPeMPsLpisnE5VD4E3JGtp",
+      "symbol": "DWLT",
+      "name": "Doomed WL Token",
+      "decimals": 0,
+      "logoURI": "https://mint.thearmadillos.io/da-presale-token.jpg",
+      "tags": [
+        "whitelist",
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "PPTfK8sQwH5485Fvjg5edAFG3aoQdEhxaTe9kthhTy6",
+      "symbol": "PPWLT",
+      "name": "Pixxel Parrots Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PPTfK8sQwH5485Fvjg5edAFG3aoQdEhxaTe9kthhTy6/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
