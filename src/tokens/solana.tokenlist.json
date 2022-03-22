@@ -135294,6 +135294,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H85VKejRaDRGUoiKhpNyjC7RF2vtuztN51ztLGq6rgtt",
+      "symbol": "GC",
+      "name": "GameChangers",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H85VKejRaDRGUoiKhpNyjC7RF2vtuztN51ztLGq6rgtt/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
