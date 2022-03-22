@@ -134979,6 +134979,17 @@
         "medium": "https://medium.com/@INRDcoin",
         "twitter": "https://twitter.com/INRDcoin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CWyEdhdTbUaWJNKzX3NnE1t7oBq7rEihBs9y21HHxWxH",
+      "symbol": "BHGR",
+      "name": "Bahooger",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bahooger/crypto/main/bahooger.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
