@@ -135283,6 +135283,17 @@
       "extensions": {
         "twitter": "https://twitter.com/DDougies"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BbdgdtrkdABiATqKUeFEx6Qmcwz6TTx3EjzDcNUC1bhU",
+      "symbol": "MONGUILOD",
+      "name": "Sir Monguilod Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mikim83/sir-monguilod-token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
