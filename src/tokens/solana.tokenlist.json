@@ -135491,6 +135491,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HVWUENskPh5bYq4Fdpv4hTwkbVbS4XAbCJ49Gev3WYEX",
+      "symbol": "HVWWL",
+      "name": "High Voltage Worlds Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HVWUENskPh5bYq4Fdpv4hTwkbVbS4XAbCJ49Gev3WYEX/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/hvworldsnft",
+        "twitter": "https://twitter.com/hvWorldsNFT_",
+        "website": "https://www.highvoltageworlds.io/"
+      }
     }
   ],
   "version": {
