@@ -135037,6 +135037,30 @@
       "extensions": {
         "twitter": "https://twitter.com/TheArmadillos"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BFMdpkqN7ZSCxFu9PREb67cMNgv4gA6uuN4VquKXpjE7",
+      "symbol": "GoNPFM",
+      "name": "Gangs of New Pork Free Mint Ticket",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BFMdpkqN7ZSCxFu9PREb67cMNgv4gA6uuN4VquKXpjE7/logo.png",
+      "tags": [
+        "presale",
+        "utility-token",
+        "whitelist-ticket"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2x2KZjzegwyYzDioJc91cRGgXmnvhGYSXpSCjzq6LaMz",
+      "symbol": "LIOR",
+      "name": "Lior Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2x2KZjzegwyYzDioJc91cRGgXmnvhGYSXpSCjzq6LaMz/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
