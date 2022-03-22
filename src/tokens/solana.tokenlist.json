@@ -135239,6 +135239,17 @@
         "whitelist",
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AyJiCcYWA4b7u61FkY4RTawtbTd91r22cE1Wc6gAL5LS",
+      "symbol": "NUWA",
+      "name": "NUWA Rex Token",
+      "decimals": 3,
+      "logoURI": "https://media.discordapp.net/attachments/926535226820276264/954723796252753971/coin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
