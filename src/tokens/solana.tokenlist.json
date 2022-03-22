@@ -135384,6 +135384,69 @@
       "extensions": {
         "twitter": "https://twitter.com/solanahills"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8TWt7HSKJXwiD5C9k1CqTQFT6ieNFdJvFAwWf46EcHa3",
+      "symbol": "JAWN",
+      "name": "JawnCoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8TWt7HSKJXwiD5C9k1CqTQFT6ieNFdJvFAwWf46EcHa3/jawncoin.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GdVYQYnYV8zNFuQcMMEb1RQFBR14mdJUVVWHVTzU3AHq",
+      "symbol": "ZOKER",
+      "name": "Zoker",
+      "decimals": 9,
+      "logoURI": "https://media.zoker.com/media/logo.png",
+      "tags": [
+        "game-token",
+        "meta-verse",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZokerGame",
+        "website": "https://zoker.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ratioMVg27rSZbSvBopUvsdrGUzeALUfFma61mpxc8J",
+      "symbol": "RATIO",
+      "name": "Ratio Protocol",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ratioMVg27rSZbSvBopUvsdrGUzeALUfFma61mpxc8J/logo.svg",
+      "extensions": {
+        "telegram": "https://t.me/ratiofinance",
+        "twitter": "https://twitter.com/RatioFinance",
+        "website": "https://ratio.finance/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Bt8vnAZYaTBcoF4i6K8ANuuKwLbzbPUF1c7g6an6KKJt",
+      "symbol": "ICY",
+      "name": "Icury token",
+      "decimals": 0,
+      "logoURI": "https://github.com/MoneshROR/icury_token/blob/main/logo.png",
+      "tags": [
+        "icury-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4o3j9LaMoxrxvk1BB8QaRPT62RHguUUZ1bmHJ1M2msVk",
+      "symbol": "CHWY",
+      "name": "Chewbacca the Whoodle",
+      "decimals": 0,
+      "logoURI": "https://github.com/aim-wealth/public/blob/main/Chewbacca%20the%20Whoodle.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
