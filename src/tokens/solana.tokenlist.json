@@ -135272,6 +135272,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7KKccqpnBYJUMBjuh6QY4h1sZvzp5XAgXnSvGEbci5W",
+      "symbol": "DDWL",
+      "name": "DDougies WL Token",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh//DDougies/images/DougFord-DD-Coin-Logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/DDougies"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BbdgdtrkdABiATqKUeFEx6Qmcwz6TTx3EjzDcNUC1bhU",
+      "symbol": "MONGUILOD",
+      "name": "Sir Monguilod Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mikim83/sir-monguilod-token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
