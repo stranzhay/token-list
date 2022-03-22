@@ -135250,6 +135250,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HEyd4WBCBKeCWMsFx9rjDjzt72rsMzQ36CoP8GkCDj4T",
+      "symbol": "FFC",
+      "name": "FoneFanClub",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/ffc/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
