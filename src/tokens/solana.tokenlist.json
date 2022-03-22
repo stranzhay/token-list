@@ -135157,6 +135157,17 @@
       "extensions": {
         "twitter": "https://twitter.com/FFloateesNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JCBSxd9TAecuG6JN68kSFgvUoLLWqpXaJH8VqFXrvjtj",
+      "symbol": "JCBS",
+      "name": "Jacobs",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JCBSxd9TAecuG6JN68kSFgvUoLLWqpXaJH8VqFXrvjtj/logo.png",
+      "extensions": {
+        "website": "https://jcbscoin.com"
+      }
     }
   ],
   "version": {
