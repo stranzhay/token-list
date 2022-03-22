@@ -135102,6 +135102,14 @@
       "name": "Star Chain",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EXGqHqvKBs4Z1mCwhiGE7kT2TXGFirAjvQzPSQP8nvuw/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "9eUyxnMoPCM89z98TRJvkpFkLBtZbwphydLYHLwRNkJH",
+      "symbol": "RCR",
+      "name": "Recursion",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9eUyxnMoPCM89z98TRJvkpFkLBtZbwphydLYHLwRNkJH/logo.svg"
     }
   ],
   "version": {
