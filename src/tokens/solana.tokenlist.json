@@ -134979,6 +134979,39 @@
         "medium": "https://medium.com/@INRDcoin",
         "twitter": "https://twitter.com/INRDcoin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CWyEdhdTbUaWJNKzX3NnE1t7oBq7rEihBs9y21HHxWxH",
+      "symbol": "BHGR",
+      "name": "Bahooger",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bahooger/crypto/main/bahooger.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "E8KnxQFzRGbTWX4mhysYYQgoEs2iCpew73sLKTLKFHt9",
+      "symbol": "CHEWY",
+      "name": "Whookie the Whoodle",
+      "decimals": 0,
+      "logoURI": "https://github.com/aim-wealth/chew/blob/main/ChewyNFT%20(2).png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BWRc7FFKQwMvHqS2AHbG6VX1v4nSi9QgMHXD3vwc5aZp",
+      "symbol": "SPN",
+      "name": "Supernova",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ethna123/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
