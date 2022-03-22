@@ -135313,6 +135313,17 @@
       "name": "Lost in Metaverse WL1",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/r4h01/LostInMetaverse/main/assets/LIM.png"
+    },
+    {
+      "chainId": 101,
+      "address": "4ANPmEsoZ24EjrvXP7Z7vfjqEgBm7G8Ex5ccZ23t9xiA",
+      "symbol": "JHRC",
+      "name": "JacobsCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jacobhreed/crypto/main/J-logos_transparent_ccexpress.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
