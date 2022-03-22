@@ -135324,6 +135324,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "86stxk9NfjwHyfHaMTRS6DftzZoq33Usf1KbWZS42XBs",
+      "symbol": "BUBBA",
+      "name": "Bubba Chimp Crew TOKEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Randomkushh/assets/master/tokens/solana/bubba/bubba%20token.png",
+      "extensions": {
+        "twitter": "https://twitter.com/BubbaChimps_NFT"
+      }
     }
   ],
   "version": {
