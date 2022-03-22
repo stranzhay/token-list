@@ -135469,6 +135469,17 @@
       "tags": [
         "Utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GmEwrWwya2Q7jtHcTzCWRcWDtF74ceqJbTBwDgb6zvKG",
+      "symbol": "CLWL",
+      "name": "Curse Lab Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solanacoder005/Cursed-Lab-Token/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
