@@ -135168,6 +135168,19 @@
       "extensions": {
         "website": "https://jcbscoin.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DQBaMSFBz4BF7r5TYEr5db25kKKhzKNWo8HSppX7tLZ3",
+      "symbol": "FOO",
+      "name": "Foogle",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DQBaMSFBz4BF7r5TYEr5db25kKKhzKNWo8HSppX7tLZ3/logo.png",
+      "tags": [
+        "utility-token",
+        "meta-verse",
+        "community-token"
+      ]
     }
   ],
   "version": {
