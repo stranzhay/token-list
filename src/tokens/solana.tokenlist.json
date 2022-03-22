@@ -135083,6 +135083,17 @@
       "tags": [
         "fungible-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CmF8ayabCdjMQRammrHR91iRHH3Y6XVTe2AtnZxPdzid",
+      "symbol": "GSWL",
+      "name": "Gangsta Swans WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rabindrarajawat/arr-solana/main/gangstaswans.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
