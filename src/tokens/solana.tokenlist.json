@@ -135110,6 +135110,17 @@
       "name": "Recursion",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9eUyxnMoPCM89z98TRJvkpFkLBtZbwphydLYHLwRNkJH/logo.svg"
+    },
+    {
+      "chainId": 101,
+      "address": "AZjFodHTbd8TQhhFujJAXLmaQpYwNEhYMTATbmwHQxi4",
+      "symbol": "JOLI",
+      "name": "Joli Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JoliWoli/crypto/main/businesstux.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
