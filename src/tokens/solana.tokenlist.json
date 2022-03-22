@@ -135094,6 +135094,14 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EXGqHqvKBs4Z1mCwhiGE7kT2TXGFirAjvQzPSQP8nvuw",
+      "symbol": "STAR",
+      "name": "Star Chain",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EXGqHqvKBs4Z1mCwhiGE7kT2TXGFirAjvQzPSQP8nvuw/logo.png"
     }
   ],
   "version": {
