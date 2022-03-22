@@ -135023,6 +135023,20 @@
       "tags": [
         "Haiser-coin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ArMaNzqBWB4Ugz7DqQzchrB4oDnCi48rFDYSwdaJ33qQ",
+      "symbol": "ARMA",
+      "name": "The Armadillos Gen 2 WL Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ArMaNzqBWB4Ugz7DqQzchrB4oDnCi48rFDYSwdaJ33qQ/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheArmadillos"
+      }
     }
   ],
   "version": {
