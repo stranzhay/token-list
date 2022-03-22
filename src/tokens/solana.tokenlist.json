@@ -135436,6 +135436,17 @@
       "tags": [
         "icury-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4o3j9LaMoxrxvk1BB8QaRPT62RHguUUZ1bmHJ1M2msVk",
+      "symbol": "CHWY",
+      "name": "Chewbacca the Whoodle",
+      "decimals": 0,
+      "logoURI": "https://github.com/aim-wealth/public/blob/main/Chewbacca%20the%20Whoodle.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
