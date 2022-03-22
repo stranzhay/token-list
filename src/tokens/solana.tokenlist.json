@@ -135142,6 +135142,79 @@
         "twitter": "https://twitter.com/solventprotocol",
         "website": "https://solvent.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ENNuzbdv7MiT9fjg7ApC2Fyf2F67PWww5Trm6A7W1BSn",
+      "symbol": "QUACK",
+      "name": "QUACKOIN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ENNuzbdv7MiT9fjg7ApC2Fyf2F67PWww5Trm6A7W1BSn/logo.png",
+      "tags": [
+        "community",
+        "token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/FFloateesNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "JCBSxd9TAecuG6JN68kSFgvUoLLWqpXaJH8VqFXrvjtj",
+      "symbol": "JCBS",
+      "name": "Jacobs",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JCBSxd9TAecuG6JN68kSFgvUoLLWqpXaJH8VqFXrvjtj/logo.png",
+      "extensions": {
+        "website": "https://jcbscoin.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DQBaMSFBz4BF7r5TYEr5db25kKKhzKNWo8HSppX7tLZ3",
+      "symbol": "FOO",
+      "name": "Foogle",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DQBaMSFBz4BF7r5TYEr5db25kKKhzKNWo8HSppX7tLZ3/logo.png",
+      "tags": [
+        "utility-token",
+        "meta-verse",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "66FLirmJtD13VMwCQywKZfa1TG97Zj182966zh63XERf",
+      "symbol": "sFFC",
+      "name": "staked FoneFanClub",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "SLCLww7nc1PD2gQPQdGayHviVVcpMthnqUz2iWKhNQV",
+      "symbol": "SLCL",
+      "name": "Solcial token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLCLww7nc1PD2gQPQdGayHviVVcpMthnqUz2iWKhNQV/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "nfts"
+      ],
+      "extensions": {
+        "blog": "http://blog.solcial.io/",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/solcial/",
+        "description": "The first uncensorable, permissionless and truly open social network",
+        "discord": "https://discord.gg/solcial",
+        "telegram": "https://t.me/solcial",
+        "twitter": "https://twitter.com/solcialofficial",
+        "website": "https://solcial.io/"
+      }
     }
   ],
   "version": {
