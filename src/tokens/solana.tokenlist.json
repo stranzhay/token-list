@@ -135181,6 +135181,17 @@
         "meta-verse",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "66FLirmJtD13VMwCQywKZfa1TG97Zj182966zh63XERf",
+      "symbol": "sFFC",
+      "name": "staked FoneFanClub",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
