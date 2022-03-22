@@ -135395,6 +135395,23 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GdVYQYnYV8zNFuQcMMEb1RQFBR14mdJUVVWHVTzU3AHq",
+      "symbol": "ZOKER",
+      "name": "Zoker",
+      "decimals": 9,
+      "logoURI": "https://media.zoker.com/media/logo.png",
+      "tags": [
+        "game-token",
+        "meta-verse",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZokerGame",
+        "website": "https://zoker.com"
+      }
     }
   ],
   "version": {
