@@ -135215,6 +135215,30 @@
         "twitter": "https://twitter.com/solcialofficial",
         "website": "https://solcial.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FZiMRKG25BUgZQjgzizy775duZLKiEoPhsyYQaktvEed",
+      "symbol": "METAWL",
+      "name": "Metawares WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FZiMRKG25BUgZQjgzizy775duZLKiEoPhsyYQaktvEed/logo.png",
+      "tags": [
+        "whitelist",
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7zmJ9hiA54py8HTgKtSjv9fVbX6HxwSqdGvMKSuzodWC",
+      "symbol": "METAPASS",
+      "name": "Metawares Redemption Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7zmJ9hiA54py8HTgKtSjv9fVbX6HxwSqdGvMKSuzodWC/logo.png",
+      "tags": [
+        "whitelist",
+        "nft"
+      ]
     }
   ],
   "version": {
