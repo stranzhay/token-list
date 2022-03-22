@@ -29793,6 +29793,7 @@
         "stablecoin"
       ],
       "extensions": {
+        "coingeckoId": "cashio-dollar",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
         "twitter": "https://twitter.com/CashioApp",
