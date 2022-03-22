@@ -135012,6 +135012,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5LSdqtc5hjU4vRoxq1gPktndxQE4bkH3S7o9t47ZwRBe",
+      "symbol": "HR",
+      "name": "Haiser coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5LSdqtc5hjU4vRoxq1gPktndxQE4bkH3S7o9t47ZwRBe/logo.png",
+      "tags": [
+        "Haiser-coin"
+      ]
     }
   ],
   "version": {
