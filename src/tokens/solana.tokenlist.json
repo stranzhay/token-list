@@ -135759,6 +135759,49 @@
       "extensions": {
         "twitter": "https://twitter.com/SolRarity_"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BKDzpDfsWo8zMPh477pgMgffB1nxwkTXpstD9GRV9jBU",
+      "symbol": "XPAC",
+      "name": "Xpace",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BKDzpDfsWo8zMPh477pgMgffB1nxwkTXpstD9GRV9jBU/logo.png",
+      "tags": [
+        "community-token",
+        "NFT"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FSeME2TS4xmMScwDy4j53cApTEi9eHr9MRJSXmR29mov",
+      "symbol": "AWC",
+      "name": "AwakeCoin",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/random-stuff-do-not-delete/crypto-coins/awake.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Awake is a content creators website"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GxbSCU2go1MsLPM9ZJFSWuvsYCN4ZBRtCFSmcy5VehmX",
+      "symbol": "MLS",
+      "name": "Moonland Stardust",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GxbSCU2go1MsLPM9ZJFSWuvsYCN4ZBRtCFSmcy5VehmX/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/moonland",
+        "twitter": "https://twitter.com/MoonlandVerse",
+        "website": "https://www.moonland.world"
+      }
     }
   ],
   "version": {
