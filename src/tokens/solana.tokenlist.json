@@ -135863,6 +135863,42 @@
         "security-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CrwkrbSDnjbsc34iY3gwjUKXZHwM71LCsC2Kn76fsvG5",
+      "symbol": "TOG",
+      "name": "TokenOfGratitude",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Kurrios/tokenOfGratitudeIMG/main/TOG.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GENR71rjoC56vFf8RzfMTutEEHcQV8mr5kSsUzs7kHbc",
+      "symbol": "SPACEROBOTS",
+      "name": "Generous Robots Mission",
+      "decimals": 0,
+      "logoURI": "https://jokerz-sol.s3.amazonaws.com/gen-robots/space-robots/token/0.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/generousrobots"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "TMbabNY9UwnGsYTYus7tGHUcDKkVhZ2gFbF9ucqjXqc",
+      "symbol": "SOLNFT",
+      "name": "SLOTHS NFT WHITELIST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TMbabNY9UwnGsYTYus7tGHUcDKkVhZ2gFbF9ucqjXqc/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
