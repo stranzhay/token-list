@@ -135696,6 +135696,17 @@
       "tags": [
         "icury-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Gqv2cFatnYbPAuuTYMaiB9AXpD8BY9tqoMoFKgZKND4D",
+      "symbol": "BANAC",
+      "name": "BaNaNaa Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/will3479/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
