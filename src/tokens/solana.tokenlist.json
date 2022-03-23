@@ -135611,6 +135611,23 @@
       "extensions": {
         "twitter": "https://twitter.com/nubstick27"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "oRCSKFhkpeeCPEziCXLBn9SR8qtM1WjvAJeRPKBbPWv",
+      "symbol": "ORCS",
+      "name": "The Orcs WL PASS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/TheOrcs/token-list/main/assets/mainnet/2WWK14D4cdWuc9TtUPwbXMUZGyk1PrQYej1NVsPNsBeS/logo.png",
+      "tags": [
+        "NFT",
+        "whitlist-pass"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/theorcs",
+        "twitter": "https://twitter.com/TheOrcsNFT",
+        "website": "https://theorcs.io"
+      }
     }
   ],
   "version": {
