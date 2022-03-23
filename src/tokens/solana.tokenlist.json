@@ -135685,6 +135685,66 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "Bt8vnAZYaTBcoF4i6K8ANuuKwLbzbPUF1c7g6an6KKJt",
+      "symbol": "ICY",
+      "name": "Icury token",
+      "decimals": 0,
+      "logoURI": "https://github.com/MoneshROR/icury_token/blob/main/logo.png",
+      "tags": [
+        "icury-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Gqv2cFatnYbPAuuTYMaiB9AXpD8BY9tqoMoFKgZKND4D",
+      "symbol": "BANAC",
+      "name": "BaNaNaa Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/will3479/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GoQDVRK1vso9gSGJ2D8hfeGGYnqjarEVqCoFv888guG6",
+      "symbol": "SLOTH",
+      "name": "Sloth Souls",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoQDVRK1vso9gSGJ2D8hfeGGYnqjarEVqCoFv888guG6/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Sloth souls are an extremely important thing when it comes to Sloth Evolution...",
+        "discord": "https://discord.gg/xN7fTBwrjc",
+        "medium": "https://medium.com/@theslowpatrol",
+        "twitter": "https://twitter.com/TheSlowPatrol",
+        "website": "https://www.theslowpatrol.com/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "GoQDVRK1vso9gSGJ2D8hfeGGYnqjarEVqCoFv888guG6",
+      "symbol": "SLOTH",
+      "name": "Sloth Souls",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoQDVRK1vso9gSGJ2D8hfeGGYnqjarEVqCoFv888guG6/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Sloth souls are an extremely important thing when it comes to Sloth Evolution...",
+        "discord": "https://discord.gg/xN7fTBwrjc",
+        "medium": "https://medium.com/@theslowpatrol",
+        "twitter": "https://twitter.com/TheSlowPatrol",
+        "website": "https://www.theslowpatrol.com/"
+      }
     }
   ],
   "version": {
