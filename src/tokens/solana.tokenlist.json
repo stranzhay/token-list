@@ -135759,6 +135759,18 @@
       "extensions": {
         "twitter": "https://twitter.com/SolRarity_"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BKDzpDfsWo8zMPh477pgMgffB1nxwkTXpstD9GRV9jBU",
+      "symbol": "XPAC",
+      "name": "Xpace",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BKDzpDfsWo8zMPh477pgMgffB1nxwkTXpstD9GRV9jBU/logo.png",
+      "tags": [
+        "community-token",
+        "NFT"
+      ]
     }
   ],
   "version": {
