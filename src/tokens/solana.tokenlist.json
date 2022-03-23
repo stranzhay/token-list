@@ -136091,6 +136091,23 @@
       "name": "Zebra Whitelist",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/91AkDgMBMpGGBv1Uqt5K1gC2HSdoR6qfzksKF5sykxVb/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6a1LUJuDe8G6XKQbpiXsDjHVJpq1hbvQ5axf7rXzBzpg",
+      "symbol": "NCTR",
+      "name": "Nectar",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MonarchButterflySquad/NFTMonarchsGeneral/main/6a1LUJuDe8G6XKQbpiXsDjHVJpq1hbvQ5axf7rXzBzpg/nectardrop.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "NFT Monarch in-game currency and utility token.",
+        "discord": "https://discord.gg/nftmonarchs",
+        "twitter": "https://twitter.com/NFTMonarchs",
+        "website": "https://www.nftmonarchs.com"
+      }
     }
   ],
   "version": {
