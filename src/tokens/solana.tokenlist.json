@@ -135628,6 +135628,39 @@
         "twitter": "https://twitter.com/TheOrcsNFT",
         "website": "https://theorcs.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BavXjyWCy85c6T7WVsDfibkbNmg2SkwdZy8JhFcKdYvk",
+      "symbol": "BBWL",
+      "name": "Baked Bots WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solanacoder005/Baked-Bots-WL/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AKBHskt7LUfvzysUS8hZQDypjW4Zz3C4zaZzK7paX4vb",
+      "symbol": "BRGY",
+      "name": "BERGY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bergy700/crypto/main/images.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4U3f8vfoCe5ifbQ5j5CkSnUruhM2vxxcEbAN6H1sLi6r",
+      "symbol": "RCB",
+      "name": "RCB Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ryebreadseeds/RCBpic/main/RCB%20Good.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
