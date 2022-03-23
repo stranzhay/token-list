@@ -135650,6 +135650,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4U3f8vfoCe5ifbQ5j5CkSnUruhM2vxxcEbAN6H1sLi6r",
+      "symbol": "RCB",
+      "name": "RCB Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ryebreadseeds/RCBpic/main/RCB%20Good.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
