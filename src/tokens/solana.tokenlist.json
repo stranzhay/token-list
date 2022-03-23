@@ -136005,6 +136005,60 @@
         "discord": "https://discord.com/ACDealerNFT",
         "twitter": "https://twitter.com/TigerLegacyNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "L3Uy1CbJMre4NQaXmaNvaQDwjw7iwVoy2h5yLSj5TiJ",
+      "symbol": "LUMT",
+      "name": "Launchlabs Unlimited Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUaAb8dKBd3oye8PdSZtCmr3wQJbcXop4P3bCm434xc/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://launchlabs.app/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "L3RtBNTumKfH9Pe5zUpK9zhYZXVazw15YrDjGwistJ6",
+      "symbol": "LRMT",
+      "name": "Launchlabs Regular Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LHTZ1E5tcZRK786zwrpcUsGivU6vemQaKBeXuiVD6tP/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://launchlabs.app/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "TWL3qkjRXomK4fFViXA86csuYAfphTQiKCfxXTYjB7K",
+      "symbol": "TOAWL",
+      "name": "Towers Of Astraa Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TWL3qkjRXomK4fFViXA86csuYAfphTQiKCfxXTYjB7K/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FFTwhd4pEZoGCbocV1PMqkb2MCebskz8MoKiNugyCpAd",
+      "symbol": "FUNK",
+      "name": "Multidimensional Funky Mirian",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FFTwhd4pEZoGCbocV1PMqkb2MCebskz8MoKiNugyCpAd/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
