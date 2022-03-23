@@ -135802,6 +135802,39 @@
         "twitter": "https://twitter.com/MoonlandVerse",
         "website": "https://www.moonland.world"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FeEdorXhQh5jsr89XtD1s6txNkmXTPu9hhNpaYvPiQGJ",
+      "symbol": "ZUKI",
+      "name": "Zuki Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SnowballedNoot/SPLAkatzuki/main/tokenlogo520.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CJiyMgq41YYH9McFQANw69KWyj74H8NjgVauaS1mfs39",
+      "symbol": "EXPG",
+      "name": "Exploit Gods",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Anonymous-Pentester/crypto/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 102,
+      "address": "C7PCjVH11ViAhxvFDqXUuRq5afkijVDgVEaeJYuihaRk",
+      "symbol": "ICY",
+      "name": "Icury token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MoneshROR/icury_token/main/logo.png",
+      "tags": [
+        "icury-token"
+      ]
     }
   ],
   "version": {
