@@ -135899,6 +135899,43 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EkTmcVRhGU9Z2YPCNYW4KUuRUiCUVc1r4vVnTCmWwFW",
+      "symbol": "FFCt",
+      "name": "FoneFanClub token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/ffct/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Bots8GcuhxrZ1XBGHx3qvzMEq3xfBZHSCxHX5EukGuis",
+      "symbol": "BBW",
+      "name": "Baked Bots WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bots8GcuhxrZ1XBGHx3qvzMEq3xfBZHSCxHX5EukGuis/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bakedbots420",
+        "website": "https://bakedbots420.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ELXRYrf8wd4DcyXDU9QPnMdD8jn2twg7o7qEtf5z2GBW",
+      "symbol": "ELIXIR",
+      "name": "ELIXIR",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/zaptors/image/main/elixir.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
