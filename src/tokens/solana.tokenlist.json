@@ -135813,6 +135813,17 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CJiyMgq41YYH9McFQANw69KWyj74H8NjgVauaS1mfs39",
+      "symbol": "EXPG",
+      "name": "Exploit Gods",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Anonymous-Pentester/crypto/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
