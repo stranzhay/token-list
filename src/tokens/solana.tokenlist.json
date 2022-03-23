@@ -135521,6 +135521,82 @@
       "extensions": {
         "website": "https://soluna.money/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BGLa4XwmsRcLDBKEtUgxAzKTkHYm4qgxEtkGwJKT7gEF",
+      "symbol": "MHAWL",
+      "name": "MetaHelix Alpha WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BGLa4XwmsRcLDBKEtUgxAzKTkHYm4qgxEtkGwJKT7gEF/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/metahelix",
+        "twitter": "https://twitter.com/metahelixio",
+        "website": "https://metahelix.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GpkezdzsMoerjxCviax6rSPN6suTpSTg9eFzaRBGwLtf",
+      "symbol": "DISCO",
+      "name": "Disco Protocol",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GpkezdzsMoerjxCviax6rSPN6suTpSTg9eFzaRBGwLtf/logo.jpg",
+      "tags": [
+        "Utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DISCO_Protocol",
+        "website": "https://disco.foundation/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "GpkezdzsMoerjxCviax6rSPN6suTpSTg9eFzaRBGwLtf",
+      "symbol": "DISCO",
+      "name": "Disco Protocol",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GpkezdzsMoerjxCviax6rSPN6suTpSTg9eFzaRBGwLtf/logo.jpg",
+      "tags": [
+        "Utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DISCO_Protocol",
+        "website": "https://disco.foundation/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AiRWExaAjZyyt7jCs9wEGzdNL68pEpa66BUXF6zVP3JT",
+      "symbol": "ARCC",
+      "name": "Acrona Credits",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/AiRWExaAjZyyt7jCs9wEGzdNL68pEpa66BUXF6zVP3JT/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "FwT5PEo4BTPLMPex88EakwdXceJWe3ZSF5XhxZjHwhXe",
+      "symbol": "cDusk",
+      "name": "Cosmik Dusk",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/cosmik-dust/cosmik-dust/main/cosmikdust.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HAps7qmQmfZE5beoLUXtqvSGURP5AXsiiU6fKccn7swm",
+      "symbol": "GPKC",
+      "name": "GlobalKeyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/incharta/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
