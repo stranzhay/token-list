@@ -135567,6 +135567,14 @@
         "twitter": "https://twitter.com/DISCO_Protocol",
         "website": "https://disco.foundation/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AiRWExaAjZyyt7jCs9wEGzdNL68pEpa66BUXF6zVP3JT",
+      "symbol": "ARCC",
+      "name": "Acrona Credits",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/AiRWExaAjZyyt7jCs9wEGzdNL68pEpa66BUXF6zVP3JT/logo.png?raw=true"
     }
   ],
   "version": {
