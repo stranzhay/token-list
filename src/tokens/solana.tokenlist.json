@@ -136072,6 +136072,17 @@
         "community-token",
         "nft-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HVb5epReoJrfgoSNwBLCgN2WLLuUQBgstYY7cNJKBc6r",
+      "symbol": "DLBASL",
+      "name": "DEL BUENO ASL TECH SUPERMARKETS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/javiervq/DLBASL/main/logo3.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
