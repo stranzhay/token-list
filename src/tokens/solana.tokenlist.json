@@ -135586,6 +135586,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HAps7qmQmfZE5beoLUXtqvSGURP5AXsiiU6fKccn7swm",
+      "symbol": "GPKC",
+      "name": "GlobalKeyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/incharta/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
