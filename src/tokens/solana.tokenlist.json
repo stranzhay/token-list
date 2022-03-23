@@ -135952,6 +135952,18 @@
         "twitter": "https://twitter.com/MH_Multiverse",
         "website": "https://milehighmultiverse.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "t1CCCUJmHX4czeSjmu6TLyrvRznSmcnA9QySQXaMn5D",
+      "symbol": "t1CCC",
+      "name": "test1 Carbene Chemisty Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/t1CCCUJmHX4czeSjmu6TLyrvRznSmcnA9QySQXaMn5D/t1CCC.png",
+      "tags": [
+        "t1CCC",
+        "utility-token"
+      ]
     }
   ],
   "version": {
