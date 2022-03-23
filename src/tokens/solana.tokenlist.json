@@ -135936,6 +135936,60 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "M1LEuEmGhZfiiCcrVfutWuiYzzodDnatyFw63Xmg2g9",
+      "symbol": "MILE",
+      "name": "MILE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/M1LEuEmGhZfiiCcrVfutWuiYzzodDnatyFw63Xmg2g9/MileHighMultiverseToken.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/WtpzxsBTGF",
+        "twitter": "https://twitter.com/MH_Multiverse",
+        "website": "https://milehighmultiverse.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "t1CCCUJmHX4czeSjmu6TLyrvRznSmcnA9QySQXaMn5D",
+      "symbol": "t1CCC",
+      "name": "test1 Carbene Chemisty Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/t1CCCUJmHX4czeSjmu6TLyrvRznSmcnA9QySQXaMn5D/t1CCC.png",
+      "tags": [
+        "t1CCC",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "34XxQ23XCitmpUuDnLeS49H9R7Q6NV3zGSGMjqy43xhJ",
+      "symbol": "FOREST",
+      "name": "FOREST",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ForestFrenz/forest/main/frenzforest.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3QyJgynKp4aiMt4RJy5HrYSSBzuanU3ZwQ7RRdAni1rQ",
+      "symbol": "RichWL",
+      "name": "Rich Arab WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3QyJgynKp4aiMt4RJy5HrYSSBzuanU3ZwQ7RRdAni1rQ/logo.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/pSUhqNKFeg",
+        "twitter": "https://twitter.com/RichArabDAO"
+      }
     }
   ],
   "version": {
