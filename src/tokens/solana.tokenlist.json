@@ -135597,6 +135597,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "BhWwL5K6k98xvy2vndXLVvq6vRsnCq9RSM6sCHNPSGMe",
+      "symbol": "JUNI",
+      "name": "Juni's Personal Tokens",
+      "decimals": 0,
+      "logoURI": "https://res.cloudinary.com/dbsyktgpl/image/upload/c_limit,h_1000,q_100/aXBmczovL1FtZFdWZkpyVXQ2SjI1WWZicFVKdVdzQllGMVdMNldESHFMajViejNWbUV5eGs%3D",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nubstick27"
+      }
     }
   ],
   "version": {
