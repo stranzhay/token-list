@@ -135674,6 +135674,17 @@
         "twitter": "https://twitter.com/SCF4b",
         "whitepaper": "https://scf4b.com/wp/SCF4B_WP_EN.pdf"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "4kCxL4vRtbXNVqojpdgkd6yGQwhkP2noRhBqakLwpVAd",
+      "symbol": "TG",
+      "name": "TrueGold",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/masnun-siam/crypto/main/truegold.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
