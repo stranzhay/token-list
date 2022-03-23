@@ -135874,6 +135874,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GENR71rjoC56vFf8RzfMTutEEHcQV8mr5kSsUzs7kHbc",
+      "symbol": "SPACEROBOTS",
+      "name": "Generous Robots Mission",
+      "decimals": 0,
+      "logoURI": "https://jokerz-sol.s3.amazonaws.com/gen-robots/space-robots/token/0.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/generousrobots"
+      }
     }
   ],
   "version": {
