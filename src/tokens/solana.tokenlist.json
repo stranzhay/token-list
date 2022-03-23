@@ -136160,6 +136160,17 @@
         "twitter": "https://twitter.com/PlayWizardia",
         "website": "https://wizardia.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3dLsoauTtH9BkZxPvfgaNQvyiLoqkiXCszM8LHDaf28e",
+      "symbol": "FLOPP",
+      "name": "Floppa",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fli671/crypto1/main/Gregory_Caracal.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
