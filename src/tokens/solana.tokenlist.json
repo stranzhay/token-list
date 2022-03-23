@@ -135888,6 +135888,17 @@
       "extensions": {
         "twitter": "https://twitter.com/generousrobots"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TMbabNY9UwnGsYTYus7tGHUcDKkVhZ2gFbF9ucqjXqc",
+      "symbol": "SOLNFT",
+      "name": "SLOTHS NFT WHITELIST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TMbabNY9UwnGsYTYus7tGHUcDKkVhZ2gFbF9ucqjXqc/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
