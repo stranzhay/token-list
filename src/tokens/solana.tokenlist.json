@@ -135685,6 +135685,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "Bt8vnAZYaTBcoF4i6K8ANuuKwLbzbPUF1c7g6an6KKJt",
+      "symbol": "ICY",
+      "name": "Icury token",
+      "decimals": 0,
+      "logoURI": "https://github.com/MoneshROR/icury_token/blob/main/logo.png",
+      "tags": [
+        "icury-token"
+      ]
     }
   ],
   "version": {
