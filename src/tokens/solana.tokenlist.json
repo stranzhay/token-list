@@ -136136,6 +136136,17 @@
         "twitter": "https://twitter.com/solcraftgame",
         "website": "https://solcraft.online/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5P14yGZH2kZegsaxv3XDauoq8ZUFxKBbaLXFMG6cj5iP",
+      "symbol": "SoF",
+      "name": "Solji on Fire WL TOken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5P14yGZH2kZegsaxv3XDauoq8ZUFxKBbaLXFMG6cj5iP/logo.png",
+      "tags": [
+        "Whitelist-token"
+      ]
     }
   ],
   "version": {
