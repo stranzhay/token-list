@@ -135628,6 +135628,17 @@
         "twitter": "https://twitter.com/TheOrcsNFT",
         "website": "https://theorcs.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BavXjyWCy85c6T7WVsDfibkbNmg2SkwdZy8JhFcKdYvk",
+      "symbol": "BBWL",
+      "name": "Baked Bots WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solanacoder005/Baked-Bots-WL/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
