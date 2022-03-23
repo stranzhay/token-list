@@ -136136,6 +136136,57 @@
         "twitter": "https://twitter.com/solcraftgame",
         "website": "https://solcraft.online/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5P14yGZH2kZegsaxv3XDauoq8ZUFxKBbaLXFMG6cj5iP",
+      "symbol": "SoF",
+      "name": "Solji on Fire WL TOken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5P14yGZH2kZegsaxv3XDauoq8ZUFxKBbaLXFMG6cj5iP/logo.png",
+      "tags": [
+        "Whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GuLCixNS3St1PgBRYesQUX1M7oANL3APK2LFEv1a7dWA",
+      "symbol": "WZRD",
+      "name": "Wizardia Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GuLCixNS3St1PgBRYesQUX1M7oANL3APK2LFEv1a7dWA/logo.png",
+      "extensions": {
+        "medium": "https://medium.com/@wizardia",
+        "twitter": "https://twitter.com/PlayWizardia",
+        "website": "https://wizardia.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3dLsoauTtH9BkZxPvfgaNQvyiLoqkiXCszM8LHDaf28e",
+      "symbol": "FLOPP",
+      "name": "Floppa",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fli671/crypto1/main/Gregory_Caracal.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BaKEdMuqQduNkc3enqMfsbQaDnYmWChobiBFciZsQwui",
+      "symbol": "BABO",
+      "name": "Baked Bots Official WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BaKEdMuqQduNkc3enqMfsbQaDnYmWChobiBFciZsQwui/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/bakedbots_420",
+        "twitter": "https://twitter.com/bakedbots420",
+        "website": "https://bakedbots420.com/"
+      }
     }
   ],
   "version": {
