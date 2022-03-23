@@ -135990,6 +135990,21 @@
         "discord": "https://discord.com/invite/pSUhqNKFeg",
         "twitter": "https://twitter.com/RichArabDAO"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6f6ZEB6GApv7QFot9n8t1i579AZkNhKcJ7JhQvZkhEc8",
+      "symbol": "FreeML",
+      "name": "Monkey Legacy",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6f6ZEB6GApv7QFot9n8t1i579AZkNhKcJ7JhQvZkhEc8/logo.png",
+      "tags": [
+        "free-mint"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/ACDealerNFT",
+        "twitter": "https://twitter.com/TigerLegacyNFT"
+      }
     }
   ],
   "version": {
