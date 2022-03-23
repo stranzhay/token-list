@@ -131913,11 +131913,11 @@
     },
     {
       "chainId": 101,
-      "address": "9W5HdR4qJaYP7osXsrf55csdEenXkDApRoEUjWg5WtnJ",
+      "address": "G6CFsk54ewgkRQqj5pDVQJsDystRQXZZpqF8CfgZoUq4",
       "symbol": "WEEH",
       "name": "WeehCoin",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9W5HdR4qJaYP7osXsrf55csdEenXkDApRoEUjWg5WtnJ/logo.png",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G6CFsk54ewgkRQqj5pDVQJsDystRQXZZpqF8CfgZoUq4/logo.png",
       "tags": [
         "utility-token"
       ],
