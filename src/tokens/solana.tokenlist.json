@@ -135925,6 +135925,17 @@
         "twitter": "https://twitter.com/bakedbots420",
         "website": "https://bakedbots420.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ELXRYrf8wd4DcyXDU9QPnMdD8jn2twg7o7qEtf5z2GBW",
+      "symbol": "ELIXIR",
+      "name": "ELIXIR",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/zaptors/image/main/elixir.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
