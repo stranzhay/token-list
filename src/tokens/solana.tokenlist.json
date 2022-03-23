@@ -134305,11 +134305,11 @@
     },
     {
       "chainId": 101,
-      "address": "DKMM4nxe8hAewCnprf3xzr4CPzknAzc6ies5nx65CSji",
+      "address": "HtbhBYdcfXbbD2JiH6jtsTt2m2FXjn7h4k6iXfz98k5W",
       "symbol": "DKM",
       "name": "DeadKnight Token",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DKMM4nxe8hAewCnprf3xzr4CPzknAzc6ies5nx65CSji/dkmlogo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HtbhBYdcfXbbD2JiH6jtsTt2m2FXjn7h4k6iXfz98k5W/dkmlogo.png",
       "tags": [
         "Utility-Token",
         "Stake-Token"
