@@ -135785,6 +135785,23 @@
       "extensions": {
         "description": "Awake is a content creators website"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GxbSCU2go1MsLPM9ZJFSWuvsYCN4ZBRtCFSmcy5VehmX",
+      "symbol": "MLS",
+      "name": "Moonland Stardust",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GxbSCU2go1MsLPM9ZJFSWuvsYCN4ZBRtCFSmcy5VehmX/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/moonland",
+        "twitter": "https://twitter.com/MoonlandVerse",
+        "website": "https://www.moonland.world"
+      }
     }
   ],
   "version": {
