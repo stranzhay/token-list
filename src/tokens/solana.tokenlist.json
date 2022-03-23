@@ -135899,6 +135899,17 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EkTmcVRhGU9Z2YPCNYW4KUuRUiCUVc1r4vVnTCmWwFW",
+      "symbol": "FFCt",
+      "name": "FoneFanClub token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/ffct/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
