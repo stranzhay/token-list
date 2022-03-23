@@ -136187,6 +136187,17 @@
         "twitter": "https://twitter.com/bakedbots420",
         "website": "https://bakedbots420.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "yRYbFDLRAaaQRMJeeuqxKHyAFLKXUTVWx8FR1jsA8yV",
+      "symbol": "VIY",
+      "name": "Variety",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dorp43/VarietyToken/main/VarietyLogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
