@@ -136171,6 +136171,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BaKEdMuqQduNkc3enqMfsbQaDnYmWChobiBFciZsQwui",
+      "symbol": "BABO",
+      "name": "Baked Bots Official WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BaKEdMuqQduNkc3enqMfsbQaDnYmWChobiBFciZsQwui/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/bakedbots_420",
+        "twitter": "https://twitter.com/bakedbots420",
+        "website": "https://bakedbots420.com/"
+      }
     }
   ],
   "version": {
