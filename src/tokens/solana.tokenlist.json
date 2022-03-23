@@ -135537,6 +135537,36 @@
         "twitter": "https://twitter.com/metahelixio",
         "website": "https://metahelix.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GpkezdzsMoerjxCviax6rSPN6suTpSTg9eFzaRBGwLtf",
+      "symbol": "DISCO",
+      "name": "Disco Protocol",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GpkezdzsMoerjxCviax6rSPN6suTpSTg9eFzaRBGwLtf/logo.jpg",
+      "tags": [
+        "Utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DISCO_Protocol",
+        "website": "https://disco.foundation/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "GpkezdzsMoerjxCviax6rSPN6suTpSTg9eFzaRBGwLtf",
+      "symbol": "DISCO",
+      "name": "Disco Protocol",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GpkezdzsMoerjxCviax6rSPN6suTpSTg9eFzaRBGwLtf/logo.jpg",
+      "tags": [
+        "Utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DISCO_Protocol",
+        "website": "https://disco.foundation/"
+      }
     }
   ],
   "version": {
