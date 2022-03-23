@@ -135802,6 +135802,17 @@
         "twitter": "https://twitter.com/MoonlandVerse",
         "website": "https://www.moonland.world"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FeEdorXhQh5jsr89XtD1s6txNkmXTPu9hhNpaYvPiQGJ",
+      "symbol": "ZUKI",
+      "name": "Zuki Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SnowballedNoot/SPLAkatzuki/main/tokenlogo520.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
