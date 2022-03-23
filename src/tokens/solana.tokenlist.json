@@ -135771,6 +135771,20 @@
         "community-token",
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FSeME2TS4xmMScwDy4j53cApTEi9eHr9MRJSXmR29mov",
+      "symbol": "AWC",
+      "name": "AwakeCoin",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/random-stuff-do-not-delete/crypto-coins/awake.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Awake is a content creators website"
+      }
     }
   ],
   "version": {
