@@ -136119,6 +136119,23 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GLrFNhFr9kmAi2maE4nPAd3AEc5BPakgDz78ogQKYxEF",
+      "symbol": "SLN",
+      "name": "SOLANITE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GLrFNhFr9kmAi2maE4nPAd3AEc5BPakgDz78ogQKYxEF/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
     }
   ],
   "version": {
