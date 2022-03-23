@@ -135661,6 +135661,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "57at8PHwvg8AWZAZAvxUUShEFyhPgwd7LfGF5oTzG85t",
+      "symbol": "SCF",
+      "name": "SCF4B",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/57at8PHwvg8AWZAZAvxUUShEFyhPgwd7LfGF5oTzG85t/logo.png",
+      "extensions": {
+        "telegram": "https://t.me/SCFOfficial",
+        "twitter": "https://twitter.com/SCF4b",
+        "whitepaper": "https://scf4b.com/wp/SCF4B_WP_EN.pdf"
+      }
     }
   ],
   "version": {
