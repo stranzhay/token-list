@@ -135507,6 +135507,20 @@
         "twitter": "https://twitter.com/hvWorldsNFT_",
         "website": "https://www.highvoltageworlds.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9",
+      "symbol": "yiSolUST",
+      "name": "Staked solUST",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9/icon.svg",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://soluna.money/"
+      }
     }
   ],
   "version": {
