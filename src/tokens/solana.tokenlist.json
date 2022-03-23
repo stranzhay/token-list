@@ -135936,6 +135936,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "M1LEuEmGhZfiiCcrVfutWuiYzzodDnatyFw63Xmg2g9",
+      "symbol": "MILE",
+      "name": "MILE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/M1LEuEmGhZfiiCcrVfutWuiYzzodDnatyFw63Xmg2g9/MileHighMultiverseToken.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/WtpzxsBTGF",
+        "twitter": "https://twitter.com/MH_Multiverse",
+        "website": "https://milehighmultiverse.io"
+      }
     }
   ],
   "version": {
