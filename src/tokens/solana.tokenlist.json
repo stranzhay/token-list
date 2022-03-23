@@ -136147,6 +136147,19 @@
       "tags": [
         "Whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GuLCixNS3St1PgBRYesQUX1M7oANL3APK2LFEv1a7dWA",
+      "symbol": "WZRD",
+      "name": "Wizardia Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GuLCixNS3St1PgBRYesQUX1M7oANL3APK2LFEv1a7dWA/logo.png",
+      "extensions": {
+        "medium": "https://medium.com/@wizardia",
+        "twitter": "https://twitter.com/PlayWizardia",
+        "website": "https://wizardia.io"
+      }
     }
   ],
   "version": {
