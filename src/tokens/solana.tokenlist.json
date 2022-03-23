@@ -135521,6 +135521,22 @@
       "extensions": {
         "website": "https://soluna.money/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BGLa4XwmsRcLDBKEtUgxAzKTkHYm4qgxEtkGwJKT7gEF",
+      "symbol": "MHAWL",
+      "name": "MetaHelix Alpha WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BGLa4XwmsRcLDBKEtUgxAzKTkHYm4qgxEtkGwJKT7gEF/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/metahelix",
+        "twitter": "https://twitter.com/metahelixio",
+        "website": "https://metahelix.io/"
+      }
     }
   ],
   "version": {
