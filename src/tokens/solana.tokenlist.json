@@ -135850,6 +135850,19 @@
       "extensions": {
         "facebook": "https://www.facebook.com/carbonwallet.th"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C2LZUMY8tf6HJEZ3EzzWW6Fc7aJtcomf1VC2jBNQcKoE",
+      "symbol": "DNT",
+      "name": "Deez Nuts Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C2LZUMY8tf6HJEZ3EzzWW6Fc7aJtcomf1VC2jBNQcKoE/logo.png",
+      "tags": [
+        "utility-token",
+        "security-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
