@@ -135745,6 +135745,20 @@
         "twitter": "https://twitter.com/TheSlowPatrol",
         "website": "https://www.theslowpatrol.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "RAriRG5GhRhTJRsvoGAwNAhcY3mpLguC8p1d9kQVKT6",
+      "symbol": "RARI",
+      "name": "Official RariKeys WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RAriRG5GhRhTJRsvoGAwNAhcY3mpLguC8p1d9kQVKT6/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolRarity_"
+      }
     }
   ],
   "version": {
