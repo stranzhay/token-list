@@ -136186,6 +136186,35 @@
         "twitter": "https://twitter.com/bakedbots420",
         "website": "https://bakedbots420.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "yRYbFDLRAaaQRMJeeuqxKHyAFLKXUTVWx8FR1jsA8yV",
+      "symbol": "VIY",
+      "name": "Variety",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dorp43/VarietyToken/main/VarietyLogo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5bp6Ke3rtTnUJST9n3Ejf5GwysjxC1yA7FzxKoT7AcqE",
+      "symbol": "LVIP",
+      "name": "VIP Access Solana Zoo Mint",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5bp6Ke3rtTnUJST9n3Ejf5GwysjxC1yA7FzxKoT7AcqE/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/gBphrYNF8B",
+        "instagram": "https://www.instagram.com/solanazoo/",
+        "twitter": "https://twitter.com/SolanaZoo_NFT",
+        "website": "https://www.zoosolana.com/",
+        "whitepaper": "https://www.zoosolana.com/_files/ugd/ac6553_9b6777afc91e4c239f4a57a5f0b9bbc1.pdf?index=true"
+      }
     }
   ],
   "version": {
