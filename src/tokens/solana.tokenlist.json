@@ -135835,6 +135835,34 @@
       "tags": [
         "icury-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2MsuJCKJMa1e77c2TfhwsT9oaqM43FNCW7twYpdweizp",
+      "symbol": "CERO",
+      "name": "CERO Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2MsuJCKJMa1e77c2TfhwsT9oaqM43FNCW7twYpdweizp/logo.png",
+      "tags": [
+        "cero-token",
+        "carbon-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/carbonwallet.th"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C2LZUMY8tf6HJEZ3EzzWW6Fc7aJtcomf1VC2jBNQcKoE",
+      "symbol": "DNT",
+      "name": "Deez Nuts Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C2LZUMY8tf6HJEZ3EzzWW6Fc7aJtcomf1VC2jBNQcKoE/logo.png",
+      "tags": [
+        "utility-token",
+        "security-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
