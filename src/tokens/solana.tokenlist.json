@@ -135975,6 +135975,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3QyJgynKp4aiMt4RJy5HrYSSBzuanU3ZwQ7RRdAni1rQ",
+      "symbol": "RichWL",
+      "name": "Rich Arab WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3QyJgynKp4aiMt4RJy5HrYSSBzuanU3ZwQ7RRdAni1rQ/logo.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/pSUhqNKFeg",
+        "twitter": "https://twitter.com/RichArabDAO"
+      }
     }
   ],
   "version": {
