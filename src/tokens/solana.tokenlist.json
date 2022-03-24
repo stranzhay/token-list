@@ -136883,6 +136883,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9yM42HMJnN69rhMGr8nCYSRtFxjWTWm5Z6GeucyLBEHg",
+      "symbol": "RAMENF",
+      "name": "Ramen Feast Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9yM42HMJnN69rhMGr8nCYSRtFxjWTWm5Z6GeucyLBEHg/logo.png",
+      "tags": [
+        "utility-token",
+        "nfts"
+      ],
+      "extensions": {
+        "discord": "https://www.discord.gg/kamakuranft",
+        "twitter": "https://twitter.com/kamakura_nft"
+      }
     }
   ],
   "version": {
