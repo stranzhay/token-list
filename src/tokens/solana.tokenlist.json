@@ -136269,6 +136269,17 @@
         "game-token",
         "De-Glory"
       ]
+    },
+    {
+      "chainId": 102,
+      "address": "DQ2bmRqXY8wgVgqzNY73YTTmDq1NAwHhEfgpVMxhxgzc",
+      "symbol": "Ay",
+      "name": "Aayush",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Moneshsoni/crypto_token/main/logo.png",
+      "tags": [
+        "icury-token"
+      ]
     }
   ],
   "version": {
