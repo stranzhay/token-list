@@ -136365,6 +136365,17 @@
         "twitter": "https://twitter.com/lasvegas_vp",
         "website": "https://nft.lasvegasvp.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ToF3JR3FVKggXEVCVrYTkz85MAopjNGT6cE7hxJ9a9A",
+      "symbol": "AXO",
+      "name": "Axolotl WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/charlesvargas8234/crypto/main/Newlogo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
