@@ -136793,6 +136793,20 @@
       "extensions": {
         "website": "https://twitter.com/Raisinzzzz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CSsWu6rdrJUjuTozXgk3uWNPyqsE3hW54mAeNYjDxYPv",
+      "symbol": "SLH",
+      "name": "SweetLandHub",
+      "decimals": 2,
+      "logoURI": "https://sweetlandhub.com/SLH.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://sweetlandhub.com"
+      }
     }
   ],
   "version": {
