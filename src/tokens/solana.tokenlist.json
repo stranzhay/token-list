@@ -135817,10 +135817,10 @@
     {
       "chainId": 101,
       "address": "CJiyMgq41YYH9McFQANw69KWyj74H8NjgVauaS1mfs39",
-      "symbol": "EXPG",
-      "name": "Exploit Gods",
+      "symbol": "DEST",
+      "name": "Destiny",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/Anonymous-Pentester/crypto/main/logo.jpg",
+      "logoURI": "https://raw.githubusercontent.com/Anonymous-Pentester/logo/main/logo1.png",
       "tags": [
         "social-token"
       ]
