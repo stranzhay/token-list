@@ -136223,6 +136223,17 @@
       "name": "MT1 token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5hTcHUaPwMaTE5ApWVtvkjTZ6fKSBsKowJuvsKgPCV2P/MT1LOGO.png"
+    },
+    {
+      "chainId": 101,
+      "address": "EH8wCubDZ8nFvy8xv9T3j5EGZ9AaJXvNAxjpqXiSvqEX",
+      "symbol": "MHCSWAP",
+      "name": "Most Hyped Crypto Swap Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EH8wCubDZ8nFvy8xv9T3j5EGZ9AaJXvNAxjpqXiSvqEX/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
