@@ -136353,6 +136353,18 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hn4gYjpTvfo5KpJ9Dfm3oBEMuYduMmaSp3JZyA13CwHi",
+      "symbol": "VPWL",
+      "name": "VP Bunny Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hn4gYjpTvfo5KpJ9Dfm3oBEMuYduMmaSp3JZyA13CwHi/vplogo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/lasvegas_vp",
+        "website": "https://nft.lasvegasvp.com"
+      }
     }
   ],
   "version": {
