@@ -136807,6 +136807,14 @@
       "extensions": {
         "website": "https://sweetlandhub.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4LWf2HT44JMw6w7mckHmXKyHAHL6KkgcJVG2X48uaqCU",
+      "symbol": "WLBAHC",
+      "name": "WL Bored Ape History Club",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LWf2HT44JMw6w7mckHmXKyHAHL6KkgcJVG2X48uaqCU/logo.png"
     }
   ],
   "version": {
