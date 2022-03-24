@@ -136342,6 +136342,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2savLpc2scbPdpnrK33KExXfpLMrMvJr1rmzDJ3o7Bf6",
+      "symbol": "SNOW",
+      "name": "SNOW TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2savLpc2scbPdpnrK33KExXfpLMrMvJr1rmzDJ3o7Bf6/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
