@@ -136609,6 +136609,14 @@
       "extensions": {
         "website": "https://moravska-obchodni.cz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3oRbrJ7HTgErq6nSkhuaCRXsmDRh92kPHp4r3DaGXZyz",
+      "symbol": "MT2",
+      "name": "MT2 token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3oRbrJ7HTgErq6nSkhuaCRXsmDRh92kPHp4r3DaGXZyz/logo1.png"
     }
   ],
   "version": {
