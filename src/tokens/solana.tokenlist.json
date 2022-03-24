@@ -136245,6 +136245,17 @@
       "tags": [
         "nft-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2t8QV7KmZU7kCNtKfBa3YYb7pJortKB7tYqLdAxBoVtw",
+      "symbol": "RSDAO",
+      "name": "Royal Society Dao",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MarkyyMarkNFT/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
