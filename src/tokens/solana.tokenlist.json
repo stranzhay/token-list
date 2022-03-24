@@ -136485,6 +136485,26 @@
       "name": "Zamka WL",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/ra1yuga/ZamkaWLtoken/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "G6Y7oujw17anSbn5maHj5qUxBYzvTt5frrBLm6fHfAon",
+      "symbol": "WOLF",
+      "name": "Wolf house",
+      "decimals": 9,
+      "logoURI": "https://github.com/WolfHousee/Asset/blob/main/Pngtreecartoon_wolf_head_2943333.png",
+      "tags": [
+        "utility-token",
+        "metaverse",
+        "nfts",
+        "solana-ecosystem",
+        "staking",
+        "DeFi-token",
+        "web3-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/F6jJmX5b"
+      }
     }
   ],
   "version": {
