@@ -136556,6 +136556,59 @@
       "tags": [
         "WLTH"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4eimkrkYx1Er6bbvbVp8xY4uMZcHViWZ7EdNCroXMeCT",
+      "symbol": "TKOA",
+      "name": "TKOACOIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/kingalpacas2005/cryptooo/main/TH_25094221_25187221_001.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9mLQpAvyDeX1S4aYL7yskNQRxSqsNLXyzqPDSQVBd3WN",
+      "symbol": "JCT",
+      "name": "JOB COOPERATION TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9mLQpAvyDeX1S4aYL7yskNQRxSqsNLXyzqPDSQVBd3WN/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://job-cooperation.cz/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CwEe4fmKXgJCRcqrByaeueTu6MSk5Tir4R3KkEcgLRez",
+      "symbol": "AAT",
+      "name": "ARVO ASSET TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CwEe4fmKXgJCRcqrByaeueTu6MSk5Tir4R3KkEcgLRez/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://aa-management.cz/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4nt2s5FpwHFZw3Hcaq72BqWDQmFnuYugCG67CFsnGAhW",
+      "symbol": "PMT",
+      "name": "Prvni Moravsky TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4nt2s5FpwHFZw3Hcaq72BqWDQmFnuYugCG67CFsnGAhW/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://moravska-obchodni.cz/"
+      }
     }
   ],
   "version": {
