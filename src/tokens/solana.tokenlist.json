@@ -136815,6 +136815,21 @@
       "name": "WL Bored Ape History Club",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LWf2HT44JMw6w7mckHmXKyHAHL6KkgcJVG2X48uaqCU/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FDqVe2wP8WPJ2aWR1uUXWJsyMeB72mNkvDRjQPbmuyHE",
+      "symbol": "MYRIEN",
+      "name": "Myths of Myrien",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FDqVe2wP8WPJ2aWR1uUXWJsyMeB72mNkvDRjQPbmuyHE/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.mythsofmyrien.com"
+      }
     }
   ],
   "version": {
