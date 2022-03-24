@@ -136916,6 +136916,17 @@
         "twitter": "https://twitter.com/PappatazWarrior",
         "website": "https://www.pappataz.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MM7s2bggZvq2DBFyBVKBBHb9DYAo3A2WGkP6L5cPzxC",
+      "symbol": "NEST",
+      "name": "Nest Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Beario/crypto/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
