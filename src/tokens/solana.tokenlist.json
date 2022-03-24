@@ -136742,6 +136742,24 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "jZo4Efd5sqdx8Thbnq2N5sW9buZXYSg7eYbusgsdfv9",
+      "symbol": "LGC",
+      "name": "LERN Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/OdiGames/crypto/main/LogoLern.png",
+      "tags": [
+        "utility-token",
+        "metaverse",
+        "solana-ecosystem",
+        "DeFi-token",
+        "web3-token"
+      ],
+      "extensions": {
+        "website": "https://lernglobal.co.uk/"
+      }
     }
   ],
   "version": {
