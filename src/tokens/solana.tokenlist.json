@@ -136643,6 +136643,17 @@
         "twitter": "https://twitter.com/Skleton_Tony",
         "website": "https://skletontony.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AJXtZx9GFVc6sQaqbChg7zEDK3NC1iByjxxJsctyZsTU",
+      "symbol": "CARYPTO",
+      "name": "Carypto Carbon Token ",
+      "decimals": 0,
+      "logoURI": "https://github.com/StefanPapp/carypto/blob/main/carypto.png",
+      "tags": [
+        "carbon-token"
+      ]
     }
   ],
   "version": {
