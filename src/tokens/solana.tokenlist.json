@@ -136760,6 +136760,17 @@
       "extensions": {
         "website": "https://lernglobal.co.uk/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8nrNJB2w4ZuoiZz6QzgURSZsARuMGPspK4wz8MoBrM1H",
+      "symbol": "PHT",
+      "name": "PhantomToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/joca11/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
