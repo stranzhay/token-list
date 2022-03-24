@@ -136505,6 +136505,57 @@
       "extensions": {
         "discord": "https://discord.gg/F6jJmX5b"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5s4BYUXLuvs9ZcVDTxkTpKhThWFSpaU8GG55q2iySe2N",
+      "symbol": "ENRX",
+      "name": "Enrex",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5s4BYUXLuvs9ZcVDTxkTpKhThWFSpaU8GG55q2iySe2N/logo.png",
+      "tags": [
+        "carbon-offsetting",
+        "renewable-energy",
+        "green-commodities",
+        "defi"
+      ],
+      "extensions": {
+        "description": "Solution that allows to have exposure to crypto in an environmentally friendly way. One-stop-shop to calculate your crypto CO2 emissions and offset it",
+        "discord": "https://discord.com/invite/enrex",
+        "facebook": "https://www.facebook.com/enrex.io",
+        "github": "https://github.com/Enrex-io",
+        "instagram": "https://www.instagram.com/enrex.io",
+        "linkedin": "https://www.linkedin.com/company/enrex",
+        "medium": "https://medium.com/@enrex",
+        "telegram": "https://t.me/enrex_community",
+        "telegramAnnouncements": "https://t.me/enrex_io",
+        "twitter": "https://twitter.com/enrex_crypto",
+        "website": "https://www.enrex.io",
+        "whitepaper": "https://wp.enrex.io",
+        "youtube": "https://www.youtube.com/channel/UClY1GH83dVoTM_uZs4PstIg"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2UgW5e86z3wHYRT4jnXRLgJheSKM8yCz3sn9rMpbWdCy",
+      "symbol": "DUCKS",
+      "name": "Ducks Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2UgW5e86z3wHYRT4jnXRLgJheSKM8yCz3sn9rMpbWdCy/logo.jpg",
+      "tags": [
+        "nft-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "WLTHduNcwf9K2XF7MtTfAHqLNcE3o3HvxEh6kQXmAdh",
+      "symbol": "WLTH",
+      "name": "WEALTH",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTHduNcwf9K2XF7MtTfAHqLNcE3o3HvxEh6kQXmAdh/logo.png",
+      "tags": [
+        "WLTH"
+      ]
     }
   ],
   "version": {
