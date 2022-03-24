@@ -136703,6 +136703,133 @@
         "twitter": "https://twitter.com/sudarshansk0",
         "website": "https://www.sudarshansk.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GDWdE6uktfrfPT5TnF4cCdJ4eneYe8ZDw1iDJ3Faju22",
+      "symbol": "SPHXOG",
+      "name": "Sphinx Lab OG",
+      "decimals": 0,
+      "logoURI": "https://github.com/yazidox/SPHXBETAWL/blob/main/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://sphinx-lab.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "SWLXCGbDk7PkwU9b4GzRgQMy1HgPHwcfe2vTWCXRqSy",
+      "symbol": "SPHXWL",
+      "name": "Sphinx Lab WL",
+      "decimals": 0,
+      "logoURI": "https://github.com/yazidox/SPHXBETAWL/blob/main/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://sphinx-lab.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8c23rzPueFYTj8Fh876M1Zw91W3bK3qEjSEH4iXJthTN",
+      "symbol": "HAT",
+      "name": "Human Attention Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/socialvibe/human_attention_token/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "jZo4Efd5sqdx8Thbnq2N5sW9buZXYSg7eYbusgsdfv9",
+      "symbol": "LGC",
+      "name": "LERN Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/OdiGames/crypto/main/LogoLern.png",
+      "tags": [
+        "utility-token",
+        "metaverse",
+        "solana-ecosystem",
+        "DeFi-token",
+        "web3-token"
+      ],
+      "extensions": {
+        "website": "https://lernglobal.co.uk/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8nrNJB2w4ZuoiZz6QzgURSZsARuMGPspK4wz8MoBrM1H",
+      "symbol": "PHT",
+      "name": "PhantomToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/joca11/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AgWL46DMnUL4j66c6qLRhBce3PXtiAnd889fXCbyR5pb",
+      "symbol": "AGWL",
+      "name": "Ahegao Gang WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AgWL46DMnUL4j66c6qLRhBce3PXtiAnd889fXCbyR5pb/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BHiqsyoXypYme4eQAb6zv5RquMhikM2dGM7xtzrmyACo",
+      "symbol": "RAZN",
+      "name": "Raisinz",
+      "decimals": 9,
+      "logoURI": "https://github.com/qudo-code/assets/blob/master/solana/tokens/RAZN/RAZN.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/Raisinzzzz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CSsWu6rdrJUjuTozXgk3uWNPyqsE3hW54mAeNYjDxYPv",
+      "symbol": "SLH",
+      "name": "SweetLandHub",
+      "decimals": 2,
+      "logoURI": "https://sweetlandhub.com/SLH.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://sweetlandhub.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4LWf2HT44JMw6w7mckHmXKyHAHL6KkgcJVG2X48uaqCU",
+      "symbol": "WLBAHC",
+      "name": "WL Bored Ape History Club",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LWf2HT44JMw6w7mckHmXKyHAHL6KkgcJVG2X48uaqCU/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FDqVe2wP8WPJ2aWR1uUXWJsyMeB72mNkvDRjQPbmuyHE",
+      "symbol": "MYRIEN",
+      "name": "Myths of Myrien",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FDqVe2wP8WPJ2aWR1uUXWJsyMeB72mNkvDRjQPbmuyHE/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.mythsofmyrien.com"
+      }
     }
   ],
   "version": {
