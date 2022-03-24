@@ -136398,6 +136398,23 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "54VdWW4LYc4reEUPkyJ3Aif7D8Equ5WFWo9BUCqdnbmc",
+      "symbol": "1xbit",
+      "name": "1xbit token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/54VdWW4LYc4reEUPkyJ3Aif7D8Equ5WFWo9BUCqdnbmc/logo.png",
+      "tags": [
+        "utility-token",
+        "gambling-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/1xbit",
+        "telegram": "https://t.me/sportsbook_1xBit",
+        "twitter": "https://twitter.com/1x_bit"
+      }
     }
   ],
   "version": {
