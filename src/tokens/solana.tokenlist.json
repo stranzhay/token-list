@@ -136628,6 +136628,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "93jRu2Rv8bh9RrnwLHdnFaky91QuG9CQVGiysbifbaWD",
+      "symbol": "SKLT",
+      "name": "Skleton Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/93jRu2Rv8bh9RrnwLHdnFaky91QuG9CQVGiysbifbaWD/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Skleton_Tony",
+        "website": "https://skletontony.com"
+      }
     }
   ],
   "version": {
