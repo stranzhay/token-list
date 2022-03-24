@@ -136316,6 +136316,21 @@
         "twitter": "https://twitter.com/project_hive_io",
         "website": "https://project-hive.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HyUD3Vkfp4zsVXVbAfSrpSZqvEuMysF1zLSFyCcHybkt",
+      "symbol": "WARI-WL",
+      "name": "Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HyUD3Vkfp4zsVXVbAfSrpSZqvEuMysF1zLSFyCcHybkt/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/xQRTBcxb",
+        "twitter": "https://twitter.com/OpportunitiesIO"
+      }
     }
   ],
   "version": {
