@@ -136687,6 +136687,21 @@
         "twitter": "https://twitter.com/FunGuyzNFT",
         "website": "https://www.funguyz.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EDudX4WivJX7vt7Enx9WHzJoeu2FiTsGx1ujQKrnRXN1",
+      "symbol": "SNT",
+      "name": "Sudarshan Nation Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SuperMonstor/Sudarshan-Nation-Token/main/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/sudarshansk0",
+        "website": "https://www.sudarshansk.com/"
+      }
     }
   ],
   "version": {
