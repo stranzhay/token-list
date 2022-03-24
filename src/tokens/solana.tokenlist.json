@@ -136556,6 +136556,17 @@
       "tags": [
         "WLTH"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4eimkrkYx1Er6bbvbVp8xY4uMZcHViWZ7EdNCroXMeCT",
+      "symbol": "TKOA",
+      "name": "TKOACOIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/kingalpacas2005/cryptooo/main/TH_25094221_25187221_001.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
