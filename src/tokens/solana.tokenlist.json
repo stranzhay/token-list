@@ -136365,6 +136365,56 @@
         "twitter": "https://twitter.com/lasvegas_vp",
         "website": "https://nft.lasvegasvp.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ToF3JR3FVKggXEVCVrYTkz85MAopjNGT6cE7hxJ9a9A",
+      "symbol": "AXO",
+      "name": "Axolotl WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/charlesvargas8234/crypto/main/Newlogo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4stkBpKm22xAJ9pwAyPiJPutzTLYFC52QEVV66KWkPuR",
+      "symbol": "OTK",
+      "name": "OTAKU",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Sibisen/CRYPTO/main/LOGO.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AzZMJEE1u5cM2fVtPFp5K4jyL5988i72WiwQhLCXQTr2",
+      "symbol": "MHCNWS",
+      "name": "Most Hyped Crypto News Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AzZMJEE1u5cM2fVtPFp5K4jyL5988i72WiwQhLCXQTr2/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "54VdWW4LYc4reEUPkyJ3Aif7D8Equ5WFWo9BUCqdnbmc",
+      "symbol": "1xbit",
+      "name": "1xbit token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/54VdWW4LYc4reEUPkyJ3Aif7D8Equ5WFWo9BUCqdnbmc/logo.png",
+      "tags": [
+        "utility-token",
+        "gambling-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/1xbit",
+        "telegram": "https://t.me/sportsbook_1xBit",
+        "twitter": "https://twitter.com/1x_bit"
+      }
     }
   ],
   "version": {
