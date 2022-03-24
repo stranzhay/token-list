@@ -136234,6 +136234,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3pErr2gHeNic4PLrTuSPEbax3BHMpsTnGHPNPiZP2hw2",
+      "symbol": "MHCNFT",
+      "name": "Most Hyped Crypto NFTS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3pErr2gHeNic4PLrTuSPEbax3BHMpsTnGHPNPiZP2hw2/logo.png",
+      "tags": [
+        "nft-token"
+      ]
     }
   ],
   "version": {
