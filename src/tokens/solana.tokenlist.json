@@ -136872,6 +136872,17 @@
         "discord": "https://www.discord.gg/millionairemafiaclub",
         "twitter": "https://twitter.com/nftmmc"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EAWTaWzSPGwyatZ3NQgyyDgoVWpwtPk7s4JMvm1Lv3sK",
+      "symbol": "DERP",
+      "name": "Derpy Pets Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAWTaWzSPGwyatZ3NQgyyDgoVWpwtPk7s4JMvm1Lv3sK/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
