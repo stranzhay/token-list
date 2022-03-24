@@ -136771,6 +136771,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AgWL46DMnUL4j66c6qLRhBce3PXtiAnd889fXCbyR5pb",
+      "symbol": "AGWL",
+      "name": "Ahegao Gang WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AgWL46DMnUL4j66c6qLRhBce3PXtiAnd889fXCbyR5pb/logo.png"
     }
   ],
   "version": {
