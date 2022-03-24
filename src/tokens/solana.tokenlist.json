@@ -136477,6 +136477,14 @@
         "instagram": "http://instagram.com/invalienspecies",
         "twitter": "https://twitter.com/invalienspecies"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8KBZyCpvZJ26nAp6A44zZiVevgsbkF3wakTAUa1yVBpL",
+      "symbol": "ZWL",
+      "name": "Zamka WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ra1yuga/ZamkaWLtoken/main/logo.png"
     }
   ],
   "version": {
