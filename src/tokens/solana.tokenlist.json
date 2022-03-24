@@ -136856,6 +136856,22 @@
         "twitter": "https://twitter.com/ZaysanRaptors",
         "website": "https://zaysanraptors.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "26nPfD9S6Eiqm6f27ob74uQ5u6BDmMWFKbRoMPZKgNjF",
+      "symbol": "MMC",
+      "name": "Millionaire Mafia Club Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nftmmc/MMCTOKEN/main/logowl.png",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "description": "Credits to Millionaire Mafia Club",
+        "discord": "https://www.discord.gg/millionairemafiaclub",
+        "twitter": "https://twitter.com/nftmmc"
+      }
     }
   ],
   "version": {
