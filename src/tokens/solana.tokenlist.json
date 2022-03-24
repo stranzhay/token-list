@@ -136654,6 +136654,22 @@
       "tags": [
         "carbon-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9uKdGskJYMzaYfR7eQEjG1oBeW91nRGyuNcCEXN1DP11",
+      "symbol": "OBAMIUM",
+      "name": "Obamium Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ObamiumCoin/crypto/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/obamiumcoin"
+      }
     }
   ],
   "version": {
