@@ -136457,6 +136457,26 @@
         "serumV3Usdc": "DQY2Sjm3bEbrXhyGgHsXqLHU2EybBPVPLDTCrEHq9KpL",
         "twitter": "https://twitter.com/BohemiaArtFair"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CiAS2EUR6qDmUEHtLoJtXQ4XoLWLVuxsPX3F74smXnez",
+      "symbol": "CIAS",
+      "name": "Coin Invasive Alien Species",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CiAS2EUR6qDmUEHtLoJtXQ4XoLWLVuxsPX3F74smXnez/logo.png",
+      "tags": [
+        "utility-token",
+        "metaverse",
+        "nfts",
+        "solana-ecosystem",
+        "staking"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/VEVJJTjxKD",
+        "instagram": "http://instagram.com/invalienspecies",
+        "twitter": "https://twitter.com/invalienspecies"
+      }
     }
   ],
   "version": {
