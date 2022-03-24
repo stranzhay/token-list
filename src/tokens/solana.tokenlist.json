@@ -136617,6 +136617,17 @@
       "name": "MT2 token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3oRbrJ7HTgErq6nSkhuaCRXsmDRh92kPHp4r3DaGXZyz/logo1.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3dxDbp6zEcWLeEMcxriLqnVbp82qdpzGjo1ke7GAYEkM",
+      "symbol": "MUNSON",
+      "name": "Munson Token",
+      "decimals": 0,
+      "logoURI": "https://live.staticflickr.com/52/158791296_15d9660138_b.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
