@@ -136387,6 +136387,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AzZMJEE1u5cM2fVtPFp5K4jyL5988i72WiwQhLCXQTr2",
+      "symbol": "MHCNWS",
+      "name": "Most Hyped Crypto News Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AzZMJEE1u5cM2fVtPFp5K4jyL5988i72WiwQhLCXQTr2/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
