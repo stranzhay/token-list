@@ -136830,6 +136830,17 @@
       "extensions": {
         "website": "https://www.mythsofmyrien.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GPyj8JXL9NDaG7iR1gfKSeJP1H98h7JGraDNqv8ASK9i",
+      "symbol": "GUNC",
+      "name": "Gunia Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dennis9819/crypto/main/guniaserv.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
