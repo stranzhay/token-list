@@ -136927,6 +136927,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6DzRG51nRXkD5JmTj7P8ELTwBgExMGUoa9cyvi9vEPUK",
+      "symbol": "SPPWL",
+      "name": "SPP Mint Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/virdagreat147/SPP-Dog/main/kj.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
