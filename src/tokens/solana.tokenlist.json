@@ -136430,6 +136430,17 @@
         "description": "Kingdom Pass Mint",
         "website": "https://www.kingdompass.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "zoomAe6zBJsgB23puRkVxgPAC8WETUb6AApaBUM7y1M",
+      "symbol": "ZOOM",
+      "name": "Zaptors WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zoomAe6zBJsgB23puRkVxgPAC8WETUb6AApaBUM7y1M/Raptor-WL.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
