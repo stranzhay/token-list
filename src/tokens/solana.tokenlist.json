@@ -136703,6 +136703,34 @@
         "twitter": "https://twitter.com/sudarshansk0",
         "website": "https://www.sudarshansk.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GDWdE6uktfrfPT5TnF4cCdJ4eneYe8ZDw1iDJ3Faju22",
+      "symbol": "SPHXOG",
+      "name": "Sphinx Lab OG",
+      "decimals": 0,
+      "logoURI": "https://github.com/yazidox/SPHXBETAWL/blob/main/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://sphinx-lab.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "SWLXCGbDk7PkwU9b4GzRgQMy1HgPHwcfe2vTWCXRqSy",
+      "symbol": "SPHXWL",
+      "name": "Sphinx Lab WL",
+      "decimals": 0,
+      "logoURI": "https://github.com/yazidox/SPHXBETAWL/blob/main/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://sphinx-lab.io/"
+      }
     }
   ],
   "version": {
