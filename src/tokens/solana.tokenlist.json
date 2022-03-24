@@ -136281,6 +136281,56 @@
       "tags": [
         "icury-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "92ueLLpG9sFQkaGd8qkr7k4VmdRh7tUfKzcBmXYux5sm",
+      "symbol": "WORLD",
+      "name": "Better World Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/zjeffreys/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "vba5JtMaGeKt2eN5v5mRDsB5pH32ehWNv4Sf9tviyMp",
+      "symbol": "VBAWL",
+      "name": "VBAGAME OFFICIAL ML TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/yoyo-ca/token-list/main/assets/mainnet/vba5JtMaGeKt2eN5v5mRDsB5pH32ehWNv4Sf9tviyMp/vba.png",
+      "extensions": {
+        "twitter": "https://twitter.com/vbagame",
+        "website": "https://www.vbagame.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "hivekAB8ofmqxLpCMFXnoTYzAK4UVGfXJwJXQfEjosU",
+      "symbol": "PHWL",
+      "name": "PROJECT HIVE OFFICIAL WL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/yoyo-ca/token-list/main/assets/mainnet/hivekAB8ofmqxLpCMFXnoTYzAK4UVGfXJwJXQfEjosU/hive.png",
+      "extensions": {
+        "twitter": "https://twitter.com/project_hive_io",
+        "website": "https://project-hive.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HyUD3Vkfp4zsVXVbAfSrpSZqvEuMysF1zLSFyCcHybkt",
+      "symbol": "WARI-WL",
+      "name": "Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HyUD3Vkfp4zsVXVbAfSrpSZqvEuMysF1zLSFyCcHybkt/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/xQRTBcxb",
+        "twitter": "https://twitter.com/OpportunitiesIO"
+      }
     }
   ],
   "version": {
