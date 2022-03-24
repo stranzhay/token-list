@@ -136779,6 +136779,20 @@
       "name": "Ahegao Gang WL",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AgWL46DMnUL4j66c6qLRhBce3PXtiAnd889fXCbyR5pb/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BHiqsyoXypYme4eQAb6zv5RquMhikM2dGM7xtzrmyACo",
+      "symbol": "RAZN",
+      "name": "Raisinz",
+      "decimals": 9,
+      "logoURI": "https://github.com/qudo-code/assets/blob/master/solana/tokens/RAZN/RAZN.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/Raisinzzzz"
+      }
     }
   ],
   "version": {
