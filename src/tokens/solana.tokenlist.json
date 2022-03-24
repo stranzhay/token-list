@@ -136215,6 +136215,14 @@
         "website": "https://www.zoosolana.com/",
         "whitepaper": "https://www.zoosolana.com/_files/ugd/ac6553_9b6777afc91e4c239f4a57a5f0b9bbc1.pdf?index=true"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5hTcHUaPwMaTE5ApWVtvkjTZ6fKSBsKowJuvsKgPCV2P",
+      "symbol": "MT1",
+      "name": "MT1 token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5hTcHUaPwMaTE5ApWVtvkjTZ6fKSBsKowJuvsKgPCV2P/MT1LOGO.png"
     }
   ],
   "version": {
