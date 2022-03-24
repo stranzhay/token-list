@@ -136830,6 +136830,59 @@
       "extensions": {
         "website": "https://www.mythsofmyrien.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GPyj8JXL9NDaG7iR1gfKSeJP1H98h7JGraDNqv8ASK9i",
+      "symbol": "GUNC",
+      "name": "Gunia Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dennis9819/crypto/main/guniaserv.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "zayS9RM57gJbFQioWA4EW6NiZ45abGSzsxLan7A1gjh",
+      "symbol": "ZAYS",
+      "name": "Zaysan Raptors WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zayS9RM57gJbFQioWA4EW6NiZ45abGSzsxLan7A1gjh/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZaysanRaptors",
+        "website": "https://zaysanraptors.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "26nPfD9S6Eiqm6f27ob74uQ5u6BDmMWFKbRoMPZKgNjF",
+      "symbol": "MMC",
+      "name": "Millionaire Mafia Club Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nftmmc/MMCTOKEN/main/logowl.png",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "description": "Credits to Millionaire Mafia Club",
+        "discord": "https://www.discord.gg/millionairemafiaclub",
+        "twitter": "https://twitter.com/nftmmc"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EAWTaWzSPGwyatZ3NQgyyDgoVWpwtPk7s4JMvm1Lv3sK",
+      "symbol": "DERP",
+      "name": "Derpy Pets Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAWTaWzSPGwyatZ3NQgyyDgoVWpwtPk7s4JMvm1Lv3sK/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
