@@ -136331,6 +136331,40 @@
         "discord": "https://discord.gg/xQRTBcxb",
         "twitter": "https://twitter.com/OpportunitiesIO"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HsZHzbqSe3wm5SHmTyD7y9TQJyyRt27GQDjkqXvLahb9",
+      "symbol": "OBWL",
+      "name": "Occult Balls Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HsZHzbqSe3wm5SHmTyD7y9TQJyyRt27GQDjkqXvLahb9/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2savLpc2scbPdpnrK33KExXfpLMrMvJr1rmzDJ3o7Bf6",
+      "symbol": "SNOW",
+      "name": "SNOW TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2savLpc2scbPdpnrK33KExXfpLMrMvJr1rmzDJ3o7Bf6/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hn4gYjpTvfo5KpJ9Dfm3oBEMuYduMmaSp3JZyA13CwHi",
+      "symbol": "VPWL",
+      "name": "VP Bunny Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hn4gYjpTvfo5KpJ9Dfm3oBEMuYduMmaSp3JZyA13CwHi/vplogo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/lasvegas_vp",
+        "website": "https://nft.lasvegasvp.com"
+      }
     }
   ],
   "version": {
