@@ -136731,6 +136731,17 @@
       "extensions": {
         "website": "https://sphinx-lab.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8c23rzPueFYTj8Fh876M1Zw91W3bK3qEjSEH4iXJthTN",
+      "symbol": "HAT",
+      "name": "Human Attention Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/socialvibe/human_attention_token/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
