@@ -136545,6 +136545,17 @@
       "tags": [
         "nft-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WLTHduNcwf9K2XF7MtTfAHqLNcE3o3HvxEh6kQXmAdh",
+      "symbol": "WLTH",
+      "name": "WEALTH",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTHduNcwf9K2XF7MtTfAHqLNcE3o3HvxEh6kQXmAdh/logo.png",
+      "tags": [
+        "WLTH"
+      ]
     }
   ],
   "version": {
