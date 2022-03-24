@@ -136899,6 +136899,23 @@
         "discord": "https://www.discord.gg/kamakuranft",
         "twitter": "https://twitter.com/kamakura_nft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8NngPwTJD9FW6LNxEf8CPL7d8Fx3iisjiCVM7ngHra9G",
+      "symbol": "SPIRIT-WL",
+      "name": "Spirits of Pappataz WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8NngPwTJD9FW6LNxEf8CPL7d8Fx3iisjiCVM7ngHra9G/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/zJWZyRjcMJ",
+        "twitter": "https://twitter.com/PappatazWarrior",
+        "website": "https://www.pappataz.com/"
+      }
     }
   ],
   "version": {
