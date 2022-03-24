@@ -136256,6 +136256,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "S8x4KYumVSJ2qadD2wY6yKQkLxSEbFuMWYKFNNavdHP",
+      "symbol": "DEGS",
+      "name": "DEGA Glory Shard",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/S8x4KYumVSJ2qadD2wY6yKQkLxSEbFuMWYKFNNavdHP/logo.png",
+      "tags": [
+        "game-currency",
+        "game-token",
+        "De-Glory"
+      ]
     }
   ],
   "version": {
