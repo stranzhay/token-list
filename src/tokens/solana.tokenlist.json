@@ -136841,6 +136841,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "zayS9RM57gJbFQioWA4EW6NiZ45abGSzsxLan7A1gjh",
+      "symbol": "ZAYS",
+      "name": "Zaysan Raptors WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zayS9RM57gJbFQioWA4EW6NiZ45abGSzsxLan7A1gjh/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZaysanRaptors",
+        "website": "https://zaysanraptors.io/"
+      }
     }
   ],
   "version": {
