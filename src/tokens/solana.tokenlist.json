@@ -136534,6 +136534,17 @@
         "whitepaper": "https://wp.enrex.io",
         "youtube": "https://www.youtube.com/channel/UClY1GH83dVoTM_uZs4PstIg"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2UgW5e86z3wHYRT4jnXRLgJheSKM8yCz3sn9rMpbWdCy",
+      "symbol": "DUCKS",
+      "name": "Ducks Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2UgW5e86z3wHYRT4jnXRLgJheSKM8yCz3sn9rMpbWdCy/logo.jpg",
+      "tags": [
+        "nft-token"
+      ]
     }
   ],
   "version": {
