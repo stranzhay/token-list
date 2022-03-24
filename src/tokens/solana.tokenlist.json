@@ -136670,6 +136670,23 @@
       "extensions": {
         "twitter": "https://twitter.com/obamiumcoin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8zqeAcLQKv9qqovonj9exEei4mUNKhnFUAfAHQhuj7Ea",
+      "symbol": "FUNZ",
+      "name": "FunGuyz",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/LSrYJsws79XdkrVfCkIINQmRUs5mtvnQJ5uj3xWZY60",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/funguyz",
+        "twitter": "https://twitter.com/FunGuyzNFT",
+        "website": "https://www.funguyz.io/"
+      }
     }
   ],
   "version": {
