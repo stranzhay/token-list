@@ -136415,6 +136415,21 @@
         "telegram": "https://t.me/sportsbook_1xBit",
         "twitter": "https://twitter.com/1x_bit"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9qcLbAanoAo461yf19epr6GXGyAwHQn8asKGUaoRRB47",
+      "symbol": "KPM",
+      "name": "Kingdom Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/GaitanaruAndrei/assets/main/pass.png",
+      "tags": [
+        "mint-token"
+      ],
+      "extensions": {
+        "description": "Kingdom Pass Mint",
+        "website": "https://www.kingdompass.io/"
+      }
     }
   ],
   "version": {
