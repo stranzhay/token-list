@@ -137360,6 +137360,40 @@
       "extensions": {
         "website": "http://tex.com.br/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WarsFNc1gd5P9eLKhszjopCZNvvHyB4kmUbavP3eA1i",
+      "symbol": "WARS",
+      "name": "gm Groundhog Hog Wars",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/86862714/159833574-f7d22e3e-46df-4f8c-96d3-4a0257115613.png",
+      "tags": [
+        "apparel-token",
+        "ecommerce-token",
+        "fashion-token"
+      ],
+      "extensions": {
+        "description": "WARS is a token for the gm Groundhogs Hog Wars event",
+        "twitter": "https://twitter.com/gmGroundhogs",
+        "website": "https://remilabs.xyz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "cPQm9UM1ekMeAgRcYGLfNcBC65SLA8o2BVTaBUA7kTg",
+      "symbol": "API",
+      "name": "API Coin",
+      "decimals": 9,
+      "logoURI": "https://theblockchainapi-website.s3.amazonaws.com/logo512.png",
+      "tags": [
+        "community-token",
+        "platform"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/_BlockX_",
+        "website": "https://blockchainapi.com/"
+      }
     }
   ],
   "version": {
