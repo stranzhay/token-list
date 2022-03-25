@@ -137004,6 +137004,21 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F6wb8jEnjJrZVfMDj7z1NYPiYhWsdEBShrBQkfNq9FZz",
+      "symbol": "SIMT",
+      "name": "Simba Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bukieldios/Simba/main/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Simba_Token"
+      }
     }
   ],
   "version": {
