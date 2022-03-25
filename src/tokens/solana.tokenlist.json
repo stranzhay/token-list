@@ -137266,6 +137266,28 @@
       "extensions": {
         "website": "https://swapoo.ai/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BLkedSoxJsytxWFqrRZj5vJZ8w3sva3f7Wmm1iYxsAZw",
+      "symbol": "BLDWL",
+      "name": "Bots Life Deviant Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLkedSoxJsytxWFqrRZj5vJZ8w3sva3f7Wmm1iYxsAZw/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://botslifenft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J9NBUALQvMAJsNb97QGWwHdRVWvL5Mc3923jVGFDf89D",
+      "symbol": "WLZEBRA",
+      "name": "Whitelist Zebra",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J9NBUALQvMAJsNb97QGWwHdRVWvL5Mc3923jVGFDf89D/logo.png"
     }
   ],
   "version": {
