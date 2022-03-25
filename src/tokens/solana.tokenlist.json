@@ -137088,6 +137088,17 @@
       "extensions": {
         "twitter": "https://twitter.com/sakcnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EartHq4cviNGBaqS6dq1b1mENRVS6jV5tj1k3WMChykV",
+      "symbol": "EARTH",
+      "name": "Refined Crystal Earth",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bitcoinblack482/logo/main/white.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
