@@ -136938,6 +136938,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DLvMHnA6ehWDPobqDMpFcsTSiwpFu2y5D8hEtxsd7zUT",
+      "symbol": "SNKN",
+      "name": "SnakeKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jakeenea51/SnakeKoin-Logo/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
