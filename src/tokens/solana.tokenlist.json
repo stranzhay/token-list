@@ -137394,6 +137394,22 @@
         "twitter": "https://twitter.com/_BlockX_",
         "website": "https://blockchainapi.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HkCrU2Vk5kGvvPUUR2dirjgAx3TbyCPYXRZbefwzCyCp",
+      "symbol": "LFI",
+      "name": "Luffy Inu",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HkCrU2Vk5kGvvPUUR2dirjgAx3TbyCPYXRZbefwzCyCp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.io/luffyinu_sol",
+        "twitter": "https://twitter.com/luffyinu_sol",
+        "website": "https://luffyinu.live"
+      }
     }
   ],
   "version": {
