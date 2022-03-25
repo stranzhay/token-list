@@ -136971,6 +136971,14 @@
       "extensions": {
         "website": "https://twitter.com/solpuffss"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3D8mQf27DQbo1GWJJPsXwFas5u4cewKzCNMH5VpUcgFX",
+      "symbol": "3DACWL",
+      "name": "3D Apes Club WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3D8mQf27DQbo1GWJJPsXwFas5u4cewKzCNMH5VpUcgFX/logo.png"
     }
   ],
   "version": {
