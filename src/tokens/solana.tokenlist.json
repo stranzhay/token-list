@@ -137280,6 +137280,14 @@
       "extensions": {
         "website": "http://botslifenft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J9NBUALQvMAJsNb97QGWwHdRVWvL5Mc3923jVGFDf89D",
+      "symbol": "WLZEBRA",
+      "name": "Whitelist Zebra",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J9NBUALQvMAJsNb97QGWwHdRVWvL5Mc3923jVGFDf89D/logo.png"
     }
   ],
   "version": {
