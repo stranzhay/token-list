@@ -137004,6 +137004,61 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F6wb8jEnjJrZVfMDj7z1NYPiYhWsdEBShrBQkfNq9FZz",
+      "symbol": "SIMT",
+      "name": "Simba Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bukieldios/Simba/main/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Simba_Token"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "H8p6D7kGAh8MnNTW17C2chRfbpQro4E23xJqziA14H8n",
+      "symbol": "AVY",
+      "name": "AVORY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ryebreadseeds/AvoryPic/main/Avory%20Background.jpg"
+    },
+    {
+      "chainId": 103,
+      "address": "D17PtjrzxNANtGDacNMRNwxtBU59phYCQXLMJWL5K1DW",
+      "symbol": "WGBTC",
+      "name": "GreenBitcoin",
+      "decimals": 8,
+      "logoURI": "https://ipfs.safewatch.care/ipns/Qmcojiocs93jWj9yVqCcqZTBNr8yjiTcb55pfrZPPNuBGv/assets/gbitcoin.svg",
+      "tags": [
+        "FNFT",
+        "community-token",
+        "color-coin"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "website": "https://duckduckgo.com/?q=greener+bitcoin+on+solana+!g"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4bAsJ44rDiFi31SqNV6tyrgYBUcqkdhmx65LLgdta3gQ",
+      "symbol": "EKG",
+      "name": "EKG NFT HRS 2022",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4bAsJ44rDiFi31SqNV6tyrgYBUcqkdhmx65LLgdta3gQ/logo.png",
+      "tags": [
+        "EKG",
+        "NFT"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BishoyHannaMD"
+      }
     }
   ],
   "version": {
