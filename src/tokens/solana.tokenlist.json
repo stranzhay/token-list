@@ -137335,6 +137335,17 @@
       "extensions": {
         "website": "http://metasouvenirs.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "XeomDrjzsFuJLSSTDzrxbSkfYJHLeLVgmLUgA4cWArx",
+      "symbol": "OOUM",
+      "name": "OOU Meta V1 Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/XeomDrjzsFuJLSSTDzrxbSkfYJHLeLVgmLUgA4cWArx/oou.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
