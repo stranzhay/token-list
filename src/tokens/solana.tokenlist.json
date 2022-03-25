@@ -136971,6 +136971,39 @@
       "extensions": {
         "website": "https://twitter.com/solpuffss"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3D8mQf27DQbo1GWJJPsXwFas5u4cewKzCNMH5VpUcgFX",
+      "symbol": "3DACWL",
+      "name": "3D Apes Club WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3D8mQf27DQbo1GWJJPsXwFas5u4cewKzCNMH5VpUcgFX/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "SC3o3s72Ecpr8Dovt6zzakUZ4ewesAFz8Hyj119hLER",
+      "symbol": "SKCLWL",
+      "name": "Skull Club Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SC3o3s72Ecpr8Dovt6zzakUZ4ewesAFz8Hyj119hLER/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://skullclubnft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5b6oa5VhzJMeC9eFiFPpJtAwnKvzEPHAnUTajRyKiMDf",
+      "symbol": "APCM",
+      "name": "Whitelist APC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5b6oa5VhzJMeC9eFiFPpJtAwnKvzEPHAnUTajRyKiMDf/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
