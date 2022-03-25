@@ -137526,6 +137526,26 @@
       "extensions": {
         "website": "https://oddkey.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FExy4ZgUdvJeAcb7E2kciNEfz8wzvr4uVUufvX6jMHX7",
+      "symbol": "LIQ-RAY-BATTERY-USDC",
+      "name": "BATTERY USDC Raydium Liquidity Pair",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/faction-cards/assets/main/images/coins/SFC-BATTERY-USDC-POOL/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Solana Faction Cards enables staking, governance and cross-chain multiverse.",
+        "discord": "https://discord.com/invite/Wkjp3DhJuZ",
+        "github": "https://github.com/faction-cards",
+        "twitter": "https://twitter.com/faction_cards",
+        "website": "https://faction.cards"
+      }
     }
   ],
   "version": {
