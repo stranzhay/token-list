@@ -137557,6 +137557,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4dGfhcjNAQojhTXqaWnn4VmgqBwaRFyXHcbS299yrfdM",
+      "symbol": "TDEV",
+      "name": "trevdev",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/45wdSjpSqZCk9mkqmq5Nh7beCEqqUJMJcVduwYCip5eq/logo.svg",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
