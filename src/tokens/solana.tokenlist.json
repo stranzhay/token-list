@@ -137288,6 +137288,14 @@
       "name": "Whitelist Zebra",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J9NBUALQvMAJsNb97QGWwHdRVWvL5Mc3923jVGFDf89D/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "To5os14QBUk2As5emuUmWbSvRpW9kUjT3W28B66WMah",
+      "symbol": "HSC",
+      "name": "Hippy Solana Crew Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/To5os14QBUk2As5emuUmWbSvRpW9kUjT3W28B66WMah/logo.png"
     }
   ],
   "version": {
