@@ -137446,6 +137446,61 @@
         "twitter": "https://twitter.com/YakuCorp",
         "website": "https://www.yakushima.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ABZQ8Mx9WPDvkK5B9fWVTVSiL6E8KXjbk8FjimBBA5wm",
+      "symbol": "MIMIC",
+      "name": "Mimic",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/Valygore/Mimic/main/Mimic%20Logo%20Black%20-%20White%20Background.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "game-token"
+      ],
+      "extensions": {
+        "description": "Mimic Project Token",
+        "twitter": "https://twitter.com/MimicToken"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4hehqMkv8oNXCjicnzZJ6s84Ew7JXGadJk9uzFxWg2QR",
+      "symbol": "AKARI",
+      "name": "Akari Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hehqMkv8oNXCjicnzZJ6s84Ew7JXGadJk9uzFxWg2QR/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5zryMjwaGbfLNnpCyeohVyjXAFap4RGEdHhaAzVMqB8t",
+      "symbol": "AKVT",
+      "name": "Akari Vault Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5zryMjwaGbfLNnpCyeohVyjXAFap4RGEdHhaAzVMqB8t/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Nej2Nvgvfjm8uRtsJgQe4UeA1ycoSn6dDLruSKxNrz8",
+      "symbol": "SNORT",
+      "name": "Snortcoin",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Nej2Nvgvfjm8uRtsJgQe4UeA1ycoSn6dDLruSKxNrz8/SNORTcoin.png",
+      "tags": [
+        "social-token",
+        "share-with-a-friend"
+      ],
+      "extensions": {
+        "description": "Share a SNORT with a friend",
+        "website": "https://snort.zedazi.com"
+      }
     }
   ],
   "version": {
