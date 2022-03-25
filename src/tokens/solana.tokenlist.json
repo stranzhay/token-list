@@ -137568,6 +137568,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D5BYCgj9ATrgtPBvac1eXBF7T87Bfi85JdtvCnTKZZb9",
+      "symbol": "DD44",
+      "name": "Domestic Disorder",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/paddysc/crypto/main/DD44.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
