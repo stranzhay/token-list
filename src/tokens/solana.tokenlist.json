@@ -137235,6 +137235,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SWLXP14ev2gFc3TTJaHP5o8SMq1Zu5isREYKE4UTdo3",
+      "symbol": "SWLX",
+      "name": "Sphinx Lab WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SWLXP14ev2gFc3TTJaHP5o8SMq1Zu5isREYKE4UTdo3/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LabSphinx",
+        "website": "https://sphinx-lab.io/"
+      }
     }
   ],
   "version": {
