@@ -137059,6 +137059,20 @@
       "extensions": {
         "twitter": "https://twitter.com/BishoyHannaMD"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9P45hmWU9TMmHzjX2gxmvYxuucrVYbkVt77k561y5sYE",
+      "symbol": "GIFT",
+      "name": "Giftcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/techgiftcoin/spl-token-giftcoin/main/giftcoin-logo.png",
+      "tags": [
+        "social-token",
+        "gift",
+        "gift-token",
+        "reward"
+      ]
     }
   ],
   "version": {
