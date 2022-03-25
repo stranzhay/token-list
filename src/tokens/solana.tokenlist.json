@@ -137346,6 +137346,20 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "m7AYiyDGVzV4bGuV3R6iT3Psmj9GaU5s4WLqtL3VL9H",
+      "symbol": "TEX",
+      "name": "TEX Coin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/MorisBR/MyCrypto/main/TEXLogo3D.jpg",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://tex.com.br/"
+      }
     }
   ],
   "version": {
