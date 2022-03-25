@@ -137434,6 +137434,18 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3DYAkudDzEjoio5rSdGw8F5E79aqanAoWzsiXrShdbXY",
+      "symbol": "YakuX",
+      "name": "3D Yaku avatarX WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3DYAkudDzEjoio5rSdGw8F5E79aqanAoWzsiXrShdbXY/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/YakuCorp",
+        "website": "https://www.yakushima.io"
+      }
     }
   ],
   "version": {
