@@ -137059,6 +137059,35 @@
       "extensions": {
         "twitter": "https://twitter.com/BishoyHannaMD"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9P45hmWU9TMmHzjX2gxmvYxuucrVYbkVt77k561y5sYE",
+      "symbol": "GIFT",
+      "name": "Giftcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/techgiftcoin/spl-token-giftcoin/main/giftcoin-logo.png",
+      "tags": [
+        "social-token",
+        "gift",
+        "gift-token",
+        "reward"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8AN7mWuw6M81w3gDcxvvQR2Kr5RGKJjzh7ZKAPPmrcJG",
+      "symbol": "SAKC",
+      "name": "Sakura Collective",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8AN7mWuw6M81w3gDcxvvQR2Kr5RGKJjzh7ZKAPPmrcJG/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/sakcnft"
+      }
     }
   ],
   "version": {
