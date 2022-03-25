@@ -137099,6 +137099,108 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FrHe1NUX2hRgnpZCTcxDEh8LU9uYEGU1uWhyYjvXLdFe",
+      "symbol": "$BOING",
+      "name": "BOING Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FrHe1NUX2hRgnpZCTcxDEh8LU9uYEGU1uWhyYjvXLdFe/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolWabbits",
+        "website": "https://wabbits.co/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2Dm1zu8ERJGBs3NLXt8s8Vor3YHwJye5E2pYhLiMHU4L",
+      "symbol": "REAP",
+      "name": "REAP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Dm1zu8ERJGBs3NLXt8s8Vor3YHwJye5E2pYhLiMHU4L/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dakureapersnft"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "rvxo8t7TKeSmAgpdqK1CY9ddZi3NyowRCh1m2d7KrUc",
+      "symbol": "SMRAI",
+      "name": "SMRAI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rvxo8t7TKeSmAgpdqK1CY9ddZi3NyowRCh1m2d7KrUc/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SamuraiWarriorz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EKuYvkDkNxkvGgpnmDJtFyp7bpaeKffMPp5DoTSJpHjs",
+      "symbol": "XNU",
+      "name": "XEANU",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EKuYvkDkNxkvGgpnmDJtFyp7bpaeKffMPp5DoTSJpHjs/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/XeanusMonkeysN",
+        "website": "https://xeanusmonkeys.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8XUTstViEpLfhxaA88A6oWKraHm8V444bnSq6hm79vYh",
+      "symbol": "RUGZ",
+      "name": "RUGZ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8XUTstViEpLfhxaA88A6oWKraHm8V444bnSq6hm79vYh/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ProbRug"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "32Fwn7VL1CsDoZv4H33tZhkK7eudofG7oijNtfQpEuww",
+      "symbol": "NURS",
+      "name": "NurseDeck",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ev0lvE212/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Community engagement based social points for nursing professionals and nursing students",
+        "facebook": "https://www.facebook.com/nursedeck",
+        "instagram": "https://www.instagram.com/nursedeck",
+        "linkedin": "https://www.linkedin.com/company/nursedeck",
+        "twitter": "https://twitter.com/thenursedeck",
+        "website": "https://nursedeck.com",
+        "youtube": "https://www.youtube.com/channel/UCe6DHqdCDczRjQSs7R_2G3g"
+      }
     }
   ],
   "version": {
