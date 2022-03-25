@@ -136993,6 +136993,17 @@
       "extensions": {
         "website": "https://skullclubnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5b6oa5VhzJMeC9eFiFPpJtAwnKvzEPHAnUTajRyKiMDf",
+      "symbol": "APCM",
+      "name": "Whitelist APC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5b6oa5VhzJMeC9eFiFPpJtAwnKvzEPHAnUTajRyKiMDf/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
