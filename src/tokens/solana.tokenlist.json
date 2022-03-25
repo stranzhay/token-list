@@ -137546,6 +137546,17 @@
         "twitter": "https://twitter.com/faction_cards",
         "website": "https://faction.cards"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8Q6hdoeaCsEA6N26SMwfQd3D1nAskkbjzdzsCWcen1fV",
+      "symbol": "AEK",
+      "name": "Amberlyn Electric Kitten",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/De-veloper/token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
