@@ -137320,6 +137320,21 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hw2JDWPm35DheBXoovHWJhVsqQJBVoEqZUayEpFVctqk",
+      "symbol": "SUVNR",
+      "name": "Metas",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hw2JDWPm35DheBXoovHWJhVsqQJBVoEqZUayEpFVctqk/logo.png",
+      "tags": [
+        "meta",
+        "souvenir"
+      ],
+      "extensions": {
+        "website": "http://metasouvenirs.io/"
+      }
     }
   ],
   "version": {
