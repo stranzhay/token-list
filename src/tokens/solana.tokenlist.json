@@ -137201,6 +137201,18 @@
         "website": "https://nursedeck.com",
         "youtube": "https://www.youtube.com/channel/UCe6DHqdCDczRjQSs7R_2G3g"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dk1HXZkE5tUn8EvNeT8GoB1JqcYioFp5LCPxGq8tTa7s",
+      "symbol": "HAIR",
+      "name": "HAIR",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dk1HXZkE5tUn8EvNeT8GoB1JqcYioFp5LCPxGq8tTa7s/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/soldiamondheads",
+        "website": "https://diamondtownheads.io"
+      }
     }
   ],
   "version": {
