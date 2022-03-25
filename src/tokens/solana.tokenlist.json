@@ -137027,6 +137027,23 @@
       "name": "AVORY",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/Ryebreadseeds/AvoryPic/main/Avory%20Background.jpg"
+    },
+    {
+      "chainId": 103,
+      "address": "D17PtjrzxNANtGDacNMRNwxtBU59phYCQXLMJWL5K1DW",
+      "symbol": "WGBTC",
+      "name": "GreenBitcoin",
+      "decimals": 8,
+      "logoURI": "https://ipfs.safewatch.care/ipns/Qmcojiocs93jWj9yVqCcqZTBNr8yjiTcb55pfrZPPNuBGv/assets/gbitcoin.svg",
+      "tags": [
+        "FNFT",
+        "community-token",
+        "color-coin"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "website": "https://duckduckgo.com/?q=greener+bitcoin+on+solana+!g"
+      }
     }
   ],
   "version": {
