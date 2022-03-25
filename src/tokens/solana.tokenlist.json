@@ -137421,6 +137421,19 @@
       "tags": [
         "energy-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8R5pSiFD1YaABPf8EpkFPYcVgW1domzJEMRgFUwmFeKd",
+      "symbol": "SEZ",
+      "name": "Seokazer",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MirProg/crypto/main/anchy-art-scale-6_00x-gigapixel_800x800.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
