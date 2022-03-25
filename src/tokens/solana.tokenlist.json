@@ -137213,6 +137213,28 @@
         "twitter": "https://twitter.com/soldiamondheads",
         "website": "https://diamondtownheads.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9DxD8kewV6qyLEgAv2bPHsfuJUxJumu9wkbj4JmkNzJu",
+      "symbol": "VACT",
+      "name": "Very Angry Chicken Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/boyanM/Other/master/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Bg6GueVWbvP3S4xLGQRSW94Vcy1vp6xW3zFYykqFxoeu",
+      "symbol": "BLVCK",
+      "name": "BLVCK",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BLVCKDEVIL/crypto/main/images.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
