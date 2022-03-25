@@ -137378,6 +137378,22 @@
         "twitter": "https://twitter.com/gmGroundhogs",
         "website": "https://remilabs.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "cPQm9UM1ekMeAgRcYGLfNcBC65SLA8o2BVTaBUA7kTg",
+      "symbol": "API",
+      "name": "API Coin",
+      "decimals": 9,
+      "logoURI": "https://theblockchainapi-website.s3.amazonaws.com/logo512.png",
+      "tags": [
+        "community-token",
+        "platform"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/_BlockX_",
+        "website": "https://blockchainapi.com/"
+      }
     }
   ],
   "version": {
