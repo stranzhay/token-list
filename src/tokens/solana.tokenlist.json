@@ -137181,6 +137181,26 @@
       "extensions": {
         "twitter": "https://twitter.com/ProbRug"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "32Fwn7VL1CsDoZv4H33tZhkK7eudofG7oijNtfQpEuww",
+      "symbol": "NURS",
+      "name": "NurseDeck",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ev0lvE212/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Community engagement based social points for nursing professionals and nursing students",
+        "facebook": "https://www.facebook.com/nursedeck",
+        "instagram": "https://www.instagram.com/nursedeck",
+        "linkedin": "https://www.linkedin.com/company/nursedeck",
+        "twitter": "https://twitter.com/thenursedeck",
+        "website": "https://nursedeck.com",
+        "youtube": "https://www.youtube.com/channel/UCe6DHqdCDczRjQSs7R_2G3g"
+      }
     }
   ],
   "version": {
