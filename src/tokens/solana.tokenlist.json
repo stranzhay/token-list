@@ -137463,6 +137463,28 @@
         "description": "Mimic Project Token",
         "twitter": "https://twitter.com/MimicToken"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4hehqMkv8oNXCjicnzZJ6s84Ew7JXGadJk9uzFxWg2QR",
+      "symbol": "AKARI",
+      "name": "Akari Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hehqMkv8oNXCjicnzZJ6s84Ew7JXGadJk9uzFxWg2QR/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5zryMjwaGbfLNnpCyeohVyjXAFap4RGEdHhaAzVMqB8t",
+      "symbol": "AKVT",
+      "name": "Akari Vault Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5zryMjwaGbfLNnpCyeohVyjXAFap4RGEdHhaAzVMqB8t/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
