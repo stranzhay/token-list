@@ -137512,6 +137512,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EYV1w4tZDqC7TkBKTmLwx2r5y8no2W6EFnNFmedsugWa",
+      "symbol": "ODKYV2",
+      "name": "OddKey V2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EYV1w4tZDqC7TkBKTmLwx2r5y8no2W6EFnNFmedsugWa/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://oddkey.com"
+      }
     }
   ],
   "version": {
