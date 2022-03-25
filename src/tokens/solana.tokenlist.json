@@ -137224,6 +137224,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Bg6GueVWbvP3S4xLGQRSW94Vcy1vp6xW3zFYykqFxoeu",
+      "symbol": "BLVCK",
+      "name": "BLVCK",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BLVCKDEVIL/crypto/main/images.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
