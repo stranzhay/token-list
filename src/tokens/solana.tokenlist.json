@@ -136938,6 +136938,39 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DLvMHnA6ehWDPobqDMpFcsTSiwpFu2y5D8hEtxsd7zUT",
+      "symbol": "SNKN",
+      "name": "SnakeKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jakeenea51/SnakeKoin-Logo/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AvTYakqgKLAUJucjymMpVmgDdeT4PfDSW4wpqynNCyLk",
+      "symbol": "YakuAv",
+      "name": "Yaku Avatar WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AvTYakqgKLAUJucjymMpVmgDdeT4PfDSW4wpqynNCyLk/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "CS9bXG9HE6LoJz1SMpjnaH86XLNEitLubUS3ap3q7y1N",
+      "symbol": "PUFFS",
+      "name": "Puffs",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/qudo-code/assets/master/solana/tokens/PUFFS/PUFFS.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/solpuffss"
+      }
     }
   ],
   "version": {
