@@ -137446,6 +137446,23 @@
         "twitter": "https://twitter.com/YakuCorp",
         "website": "https://www.yakushima.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ABZQ8Mx9WPDvkK5B9fWVTVSiL6E8KXjbk8FjimBBA5wm",
+      "symbol": "MIMIC",
+      "name": "Mimic",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/Valygore/Mimic/main/Mimic%20Logo%20Black%20-%20White%20Background.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "game-token"
+      ],
+      "extensions": {
+        "description": "Mimic Project Token",
+        "twitter": "https://twitter.com/MimicToken"
+      }
     }
   ],
   "version": {
