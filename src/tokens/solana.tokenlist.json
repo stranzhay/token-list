@@ -137866,6 +137866,17 @@
         "twitter": "https://twitter.com/Japanese_Wave",
         "website": "https://japanesewave.netlify.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "VCNnsZ8ZSHExJzhavmfg8aPZ93WxmRhELMLq8K3HwYy",
+      "symbol": "VCN",
+      "name": "Vercinia",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/VCNnsZ8ZSHExJzhavmfg8aPZ93WxmRhELMLq8K3HwYy/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/VerciniaNFT"
+      }
     }
   ],
   "version": {
