@@ -137781,6 +137781,17 @@
         "twitter": "https://twitter.com/hello_btcubi",
         "website": "https://bitcoinubi.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "27oGLMCDP57DE77rfVfe35oJaAnimFasJs3HyuaDUuuU",
+      "symbol": "BKSP",
+      "name": "Blackspot coin",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/BahamaGov/assets/main/gold_PNG11020.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
