@@ -137922,6 +137922,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "G5EsRrog1WAgxUVJdLzS137wU1TjPtcDqMd1LHfvUCXB",
+      "symbol": "KHN",
+      "name": "KushCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/alexkush35/crypto/main/kush.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
