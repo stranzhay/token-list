@@ -137792,6 +137792,25 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SSSCzT3yBad6GsSAcftqbbdcwBnLaBtXU6gYgDUMUAT",
+      "symbol": "SSS",
+      "name": "SolSkies WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SSSCzT3yBad6GsSAcftqbbdcwBnLaBtXU6gYgDUMUAT/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SolSkiesNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "JYxEEzuxzZhUybcbBSV126jaqzEvqPT1TC5NVWaYgWy",
+      "symbol": "JY",
+      "name": "JOY153",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JYxEEzuxzZhUybcbBSV126jaqzEvqPT1TC5NVWaYgWy/logo.png"
     }
   ],
   "version": {
