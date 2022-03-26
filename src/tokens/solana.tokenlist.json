@@ -137631,6 +137631,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3wZ9hVw26xRkBcDjgNfUGaQgFsRhqVaZh19ZU2uyg6eo",
+      "symbol": "LVWL",
+      "name": "Lazy Villains WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/KingpinFisk/Lazy-Villains-WL-Token/main/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/thelazyverse",
+        "twitter": "https://twitter.com/thelazyverse",
+        "website": "https://www.thelazyverse.com/"
+      }
     }
   ],
   "version": {
