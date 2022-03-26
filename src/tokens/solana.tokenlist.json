@@ -137675,6 +137675,17 @@
         "whitepaper": "https://musii-app.gitbook.io/musii-connecting-people-through-music",
         "youtube": "https://www.youtube.com/channel/UCxD2lOQWGDVkgKXWCXriyQw"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HGE4xSAfuRZgpYZnt6GZ1vyqbdFafRESLE1AQFGEbBk9",
+      "symbol": "XDN",
+      "name": "XeDeen",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/j2deen/crypto-xdn/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
