@@ -137631,6 +137631,61 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3wZ9hVw26xRkBcDjgNfUGaQgFsRhqVaZh19ZU2uyg6eo",
+      "symbol": "LVWL",
+      "name": "Lazy Villains WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/KingpinFisk/Lazy-Villains-WL-Token/main/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/thelazyverse",
+        "twitter": "https://twitter.com/thelazyverse",
+        "website": "https://www.thelazyverse.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CCJvffKRwhEEZZUzCwXPgjwZ24EpKJq3WTQt1ntaqZtR",
+      "symbol": "MSI",
+      "name": "musii token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CCJvffKRwhEEZZUzCwXPgjwZ24EpKJq3WTQt1ntaqZtR/logo.png",
+      "tags": [
+        "music",
+        "music-token",
+        "social-token",
+        "community-token",
+        "play-to-earn",
+        "nft"
+      ],
+      "extensions": {
+        "description": "The musical social media on blockchain, a commnunity of a music enthusiasts! A place to exchange musial experience and to connect people through music.",
+        "discord": "https://discord.gg/pF4cEccH",
+        "instagram": "https://instagram.com/musii.app",
+        "linkedin": "https://br.linkedin.com/company/musii-app",
+        "telegram": "https://t.me/channelappmusii",
+        "telegramAnnouncements": "https://t.me/appmusii",
+        "twitter": "https://twitter.com/musiiapp",
+        "website": "http://musii.app/",
+        "whitepaper": "https://musii-app.gitbook.io/musii-connecting-people-through-music",
+        "youtube": "https://www.youtube.com/channel/UCxD2lOQWGDVkgKXWCXriyQw"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HGE4xSAfuRZgpYZnt6GZ1vyqbdFafRESLE1AQFGEbBk9",
+      "symbol": "XDN",
+      "name": "XeDeen",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/j2deen/crypto-xdn/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
