@@ -137579,6 +137579,36 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "TombLgeWCentYMpgGZHxqUG6KiPcACXWfeVAuwrVC11",
+      "symbol": "THS",
+      "name": "TombStoned High Society WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TombLgeWCentYMpgGZHxqUG6KiPcACXWfeVAuwrVC11/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TombStonedHS",
+        "website": "https://www.tombstoned.xyz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CELeSTbECuuPkTtSZ9pSUw6Z3CPxm1ggbrhmdhVpxzwD",
+      "symbol": "CLZ",
+      "name": "CELESTIALZ WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CELeSTbECuuPkTtSZ9pSUw6Z3CPxm1ggbrhmdhVpxzwD/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CELESTIALZ777",
+        "website": "https://www.celestialznft.io"
+      }
     }
   ],
   "version": {
