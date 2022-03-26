@@ -137724,6 +137724,17 @@
       "extensions": {
         "website": "https://www.mathieulefebvre.dev"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GjKfZatPZijAJJEPMQ9rXJX7foTb2943xAxQgiPfjZoy",
+      "symbol": "FC",
+      "name": "fish coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Nonfungiblestuff/cryptofish/main/fish_crypto_crop.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
