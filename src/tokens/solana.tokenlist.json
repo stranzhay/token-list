@@ -137609,6 +137609,17 @@
         "twitter": "https://twitter.com/CELESTIALZ777",
         "website": "https://www.celestialznft.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BoFxKXdyiEYJReWGZAT4tavuAo3D1BmDyXK5VFSXd4EF",
+      "symbol": "BOFx",
+      "name": "BitOptionsFx",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BoFxKXdyiEYJReWGZAT4tavuAo3D1BmDyXK5VFSXd4EF/logo.png",
+      "tags": [
+        "BitOptionsFx"
+      ]
     }
   ],
   "version": {
