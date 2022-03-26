@@ -137826,6 +137826,22 @@
       "extensions": {
         "twitter": "https://twitter.com/AstolfoFindom"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ToibiuwmaQVvbTdJ7Bor837TvXeKs7LG8CGhsqHLG46",
+      "symbol": "TF-Pre",
+      "name": "TwoFace-Pre",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToibiuwmaQVvbTdJ7Bor837TvXeKs7LG8CGhsqHLG46/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/yX4pMPsz",
+        "twitter": "https://twitter.com/TwoFace_SOL",
+        "website": "https://www.twofaceportraits.io/"
+      }
     }
   ],
   "version": {
