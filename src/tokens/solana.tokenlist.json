@@ -137811,6 +137811,21 @@
       "name": "JOY153",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JYxEEzuxzZhUybcbBSV126jaqzEvqPT1TC5NVWaYgWy/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3DCMhZ6aDVGjMYYhehYrvCEPxmvuvCLfqhCmMQRYeDy4",
+      "symbol": "BUSSY",
+      "name": "BussyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/QTAnimeWaifu/crypto/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AstolfoFindom"
+      }
     }
   ],
   "version": {
