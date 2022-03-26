@@ -137735,6 +137735,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8G9zfZHLPCrrowGWj5RV5WYq2uKgAQSwsAe7NWZS8JVt",
+      "symbol": "CUNY",
+      "name": "CunnyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/QTAnimeWaifu/crypto/main/CunnyCoinFinal.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/2DFDAbigail"
+      }
     }
   ],
   "version": {
