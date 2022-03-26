@@ -137735,6 +137735,52 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8G9zfZHLPCrrowGWj5RV5WYq2uKgAQSwsAe7NWZS8JVt",
+      "symbol": "CUNY",
+      "name": "CunnyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/QTAnimeWaifu/crypto/main/CunnyCoinFinal.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/2DFDAbigail"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9MVgPE22LCr91QWuZvJrnPXggMi9GsEqt9coWEW3BAbe",
+      "symbol": "MSDT",
+      "name": "MS Delta Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MS-Delta-Token/crypto/main/Delta%20Token-logos%20png.png",
+      "tags": [
+        "community-token",
+        "meme-token",
+        "whitelist-token",
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/G4rQUZ75gv",
+        "instagram": "https://www.instagram.com/msdeltatoken/",
+        "twitter": "https://twitter.com/MSDeltaToken"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HZBxUY5Hu9HNm6HSXrPQ77ABf9ZLqzUigCbTQiarBR2v",
+      "symbol": "BTCUBI",
+      "name": "Bitcoin UBI",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZBxUY5Hu9HNm6HSXrPQ77ABf9ZLqzUigCbTQiarBR2v/robot-logo.jpg",
+      "extensions": {
+        "twitter": "https://twitter.com/hello_btcubi",
+        "website": "https://bitcoinubi.com/"
+      }
     }
   ],
   "version": {
