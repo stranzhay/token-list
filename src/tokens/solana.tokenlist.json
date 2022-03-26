@@ -137877,6 +137877,23 @@
       "extensions": {
         "twitter": "https://twitter.com/VerciniaNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HMaAwHa6AxDSvV6w3NGsSP7FNGx3MtGUErBGji7mRARZ",
+      "symbol": "ZENERGY",
+      "name": "ZENERGY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/donaldlee725/som-pfp/main/zenergy.png",
+      "tags": [
+        "GOAT"
+      ],
+      "extensions": {
+        "animationUrl": "https://raw.githubusercontent.com/donaldlee725/som-pfp/main/zenergy.gif",
+        "description": "Spiritual Goats Passive Income Token",
+        "twitter": "https://twitter.com/spiritualgoats",
+        "website": "https://www.spiritualgoats.com/"
+      }
     }
   ],
   "version": {
