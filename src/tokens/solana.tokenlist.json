@@ -137894,6 +137894,23 @@
         "twitter": "https://twitter.com/spiritualgoats",
         "website": "https://www.spiritualgoats.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "USDV47taduJQSPePwGsFR9GPbYRbmRt8BCx2fRRYJEt",
+      "symbol": "USDV",
+      "name": "Virtual USD",
+      "decimals": 4,
+      "logoURI": "https://media.atellix.net/token/usdv.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "description": "Virtual USD® Stablecoin from Atellix",
+        "discord": "https://discord.gg/qC9azB6BeP",
+        "twitter": "https://twitter.com/atellix",
+        "website": "https://atellix.com/"
+      }
     }
   ],
   "version": {
