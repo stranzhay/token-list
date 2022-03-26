@@ -137750,6 +137750,25 @@
       "extensions": {
         "twitter": "https://twitter.com/2DFDAbigail"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9MVgPE22LCr91QWuZvJrnPXggMi9GsEqt9coWEW3BAbe",
+      "symbol": "MSDT",
+      "name": "MS Delta Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MS-Delta-Token/crypto/main/Delta%20Token-logos%20png.png",
+      "tags": [
+        "community-token",
+        "meme-token",
+        "whitelist-token",
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/G4rQUZ75gv",
+        "instagram": "https://www.instagram.com/msdeltatoken/",
+        "twitter": "https://twitter.com/MSDeltaToken"
+      }
     }
   ],
   "version": {
