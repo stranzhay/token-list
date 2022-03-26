@@ -137944,6 +137944,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F6GSD1MjUAyS4KbnoMsUBsXuyimPH61e2Y8ytQWAAwFH",
+      "symbol": "QMR",
+      "name": "Qamar",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ibbe13/crypto/main/Untitled-1.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
