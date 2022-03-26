@@ -137842,6 +137842,17 @@
         "twitter": "https://twitter.com/TwoFace_SOL",
         "website": "https://www.twofaceportraits.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DPwMbbfgAYoUzvwnY7S9ZTwcmTdKiL3GufPbU3sSn7Zt",
+      "symbol": "OLVC",
+      "name": "Olivcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rodrix1/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
