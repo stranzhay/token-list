@@ -137686,6 +137686,29 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7BPCwgL97UMWcSuyUmDdNTzGnDvruyfGKTmUaSbLzohP",
+      "symbol": "CHEF",
+      "name": "ChefCoin",
+      "decimals": 0,
+      "logoURI": "https://metakitchen.io/static/media/mk.66f4827037442397afe6.jpeg",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "description": "Inspired by our favorite chef competitions, our P2E cooking game will bring the mK NFT collections into the metaverse. Building a community of foodies on Solana.",
+        "discord": "https://discord.gg/metakitchen",
+        "instagram": "https://www.instagram.com/metakitchennft/",
+        "medium": "https://medium.com/@metaKitchen",
+        "twitter": "https://twitter.com/meta_Kitchen",
+        "website": "https://metakitchen.io/"
+      }
     }
   ],
   "version": {
