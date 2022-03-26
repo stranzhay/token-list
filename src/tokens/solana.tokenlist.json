@@ -137866,6 +137866,51 @@
         "twitter": "https://twitter.com/Japanese_Wave",
         "website": "https://japanesewave.netlify.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "VCNnsZ8ZSHExJzhavmfg8aPZ93WxmRhELMLq8K3HwYy",
+      "symbol": "VCN",
+      "name": "Vercinia",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/VCNnsZ8ZSHExJzhavmfg8aPZ93WxmRhELMLq8K3HwYy/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/VerciniaNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HMaAwHa6AxDSvV6w3NGsSP7FNGx3MtGUErBGji7mRARZ",
+      "symbol": "ZENERGY",
+      "name": "ZENERGY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/donaldlee725/som-pfp/main/zenergy.png",
+      "tags": [
+        "GOAT"
+      ],
+      "extensions": {
+        "animationUrl": "https://raw.githubusercontent.com/donaldlee725/som-pfp/main/zenergy.gif",
+        "description": "Spiritual Goats Passive Income Token",
+        "twitter": "https://twitter.com/spiritualgoats",
+        "website": "https://www.spiritualgoats.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "USDV47taduJQSPePwGsFR9GPbYRbmRt8BCx2fRRYJEt",
+      "symbol": "USDV",
+      "name": "Virtual USD",
+      "decimals": 4,
+      "logoURI": "https://media.atellix.net/token/usdv.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "description": "Virtual USD® Stablecoin from Atellix",
+        "discord": "https://discord.gg/qC9azB6BeP",
+        "twitter": "https://twitter.com/atellix",
+        "website": "https://atellix.com/"
+      }
     }
   ],
   "version": {
