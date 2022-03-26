@@ -137853,6 +137853,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DqPwxiqS9ooPZftazpNUU8hM4wPdhZ6W94Pcyig1SQFL",
+      "symbol": "JPNS",
+      "name": "Japanese",
+      "decimals": 3,
+      "logoURI": "https://japanesewave.netlify.app/static/media/face.8bf18402cd3f3784c76e.png",
+      "extensions": {
+        "discord": "https://t.co/B41RzZZJGf",
+        "twitter": "https://twitter.com/Japanese_Wave",
+        "website": "https://japanesewave.netlify.app/"
+      }
     }
   ],
   "version": {
