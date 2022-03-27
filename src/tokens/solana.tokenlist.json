@@ -138129,6 +138129,17 @@
         "twitter": "https://twitter.com/dao_stream",
         "website": "https://streamdao.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "VVKNtVuJJ1fYPAh2tRbZWVssiRVY6Z8hari5DbR9omy",
+      "symbol": "VPASS",
+      "name": "Verdant Pass",
+      "decimals": 0,
+      "logoURI": "https://i.ibb.co/hgQmnRj/icon-fix.png",
+      "tags": [
+        "wl-token"
+      ]
     }
   ],
   "version": {
