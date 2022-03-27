@@ -137969,6 +137969,25 @@
       "extensions": {
         "website": "https://dazedducks.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fuj1gZHrGu7x3W5uab7CrSXuy9cZ3qqc1me5LjGykt4d",
+      "symbol": "ApesPlanet",
+      "name": "Apes Planet",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/affankhan43/crypto/master/apes-logo.png",
+      "tags": [
+        "nft",
+        "metaverse",
+        "P2e",
+        "Gaming"
+      ],
+      "extensions": {
+        "description": "Apes Planet is a civilization where 7,777 Ape Warriors live mastering the art of war",
+        "discord": "https://discord.com/invite/apesplanet",
+        "twitter": "https://twitter.com/apesplanet"
+      }
     }
   ],
   "version": {
