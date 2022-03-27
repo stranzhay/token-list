@@ -138412,6 +138412,17 @@
       "extensions": {
         "website": "http://certifiedcitric.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8iWMXSUViPHYZDEpXiXZFiMo956VDCKMij1VUiE3VbDF",
+      "symbol": "JBKA",
+      "name": "Ben Dover",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/PavleSavic90/KriptoSlika/main/SamoZdravoBajoMoj.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
