@@ -138140,6 +138140,42 @@
       "tags": [
         "wl-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3MZsyU7GqgXyg4R6fDM6bGCqAqMCcPbiBGeyNvXCCt6v",
+      "symbol": "SPEAK",
+      "name": "SPEAK",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SolidityDevs/Solana-Peak/main/solopeak.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8bkxAiCsAsM3iPaEhqCjhjKU3XNuGAqgAAuCG6o8eW24",
+      "symbol": "BUXO",
+      "name": "Buxon Development Group",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8bkxAiCsAsM3iPaEhqCjhjKU3XNuGAqgAAuCG6o8eW24/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BuxonGroup"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GpdFKHRW23verFBHWRMAmvmwQmkwfyUiJFAALwcrUt8y",
+      "symbol": "CC",
+      "name": "Child Coins",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ChildCoins/crypto/main/child_coins_logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
