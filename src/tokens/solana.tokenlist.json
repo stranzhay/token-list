@@ -138471,6 +138471,17 @@
         "twitter": "https://twitter.com/TheGoldAlpha",
         "website": "https://thegoldalpha.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6xnUqAfxvDTZepHNWK1NsxXkjhFdTvuaGVXh3z29wRhx",
+      "symbol": "BONEZ",
+      "name": "Bonez",
+      "decimals": 6,
+      "logoURI": "https://i.ibb.co/Wk2BhWS/lastskull.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
