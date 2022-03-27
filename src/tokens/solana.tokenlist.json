@@ -138345,6 +138345,59 @@
       "extensions": {
         "website": "https://smartgems.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6NdLV4H1BUwKSFK51S6XhVUGVXNseZtmGi1vgqs27HHN",
+      "symbol": "B0YZ",
+      "name": "The Boyz Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/theboyzyeg/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "22KcF82BzNg14X2eWMKLYPEykQz3mZPLe7fun3R3vq72",
+      "symbol": "Rabbit",
+      "name": "RTO-Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/edmontana77/crypto2/main/RTO.png",
+      "tags": [
+        "social-token",
+        "nft",
+        "metaverse"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7Cn6jmWSDZguFDizQURcLVGJf6Ct7i2RSo5d11A7Egix",
+      "symbol": "GoNPWL",
+      "name": "Gangs of New Pork White List Ticket",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Cn6jmWSDZguFDizQURcLVGJf6Ct7i2RSo5d11A7Egix/logo.png",
+      "tags": [
+        "utility-token",
+        "whitelist-ticket"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AefuNcVikKudanCHGRB5KkjdUoen9QBL4fFX6q1kGsRe",
+      "symbol": "GEEXOWL",
+      "name": "GEEXO Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AefuNcVikKudanCHGRB5KkjdUoen9QBL4fFX6q1kGsRe/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/exfYm6uJay",
+        "instagram": "https://www.instagram.com/geexolotls/",
+        "twitter": "https://twitter.com/geexolotls",
+        "website": "https://www.geexolotls.com/"
+      }
     }
   ],
   "version": {
