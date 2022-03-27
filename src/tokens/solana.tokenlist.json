@@ -138187,6 +138187,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GTFBBcnRCT6Pa7rxDQHyYW4KMMebvkhB17dKBRkcHw78",
+      "symbol": "AML",
+      "name": "AmalThea Protocol",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GTFBBcnRCT6Pa7rxDQHyYW4KMMebvkhB17dKBRkcHw78/logo.jpg",
+      "tags": [
+        "Game-Token",
+        "AML"
+      ]
     }
   ],
   "version": {
