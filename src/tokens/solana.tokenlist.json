@@ -138055,6 +138055,17 @@
         "twitter": "https://twitter.com/monkainft",
         "website": "https://monkainft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "41QDYHN8UKDt4iJiBLgYDDZ22aF6pBFgX7kto2djERNf",
+      "symbol": "DOTBUCKX",
+      "name": "DotBuckx",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Player172/DotBuckx/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
