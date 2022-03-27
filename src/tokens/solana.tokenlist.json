@@ -138345,6 +138345,17 @@
       "extensions": {
         "website": "https://smartgems.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6NdLV4H1BUwKSFK51S6XhVUGVXNseZtmGi1vgqs27HHN",
+      "symbol": "B0YZ",
+      "name": "The Boyz Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/theboyzyeg/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
