@@ -138140,6 +138140,17 @@
       "tags": [
         "wl-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3MZsyU7GqgXyg4R6fDM6bGCqAqMCcPbiBGeyNvXCCt6v",
+      "symbol": "SPEAK",
+      "name": "SPEAK",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SolidityDevs/Solana-Peak/main/solopeak.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
