@@ -138066,6 +138066,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7rrJLRar2WjZwRoF3iJKHKnA7d7d9YJT1X9HAJnwUH3Z",
+      "symbol": "WIZE",
+      "name": "Project Wisdom",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7rrJLRar2WjZwRoF3iJKHKnA7d7d9YJT1X9HAJnwUH3Z/logo.png"
     }
   ],
   "version": {
