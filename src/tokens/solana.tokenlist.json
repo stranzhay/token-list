@@ -138438,6 +138438,23 @@
         "twitter": "https://twitter.com/TheArmadillos",
         "website": "https://angrydillos.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GENRi6N2JvqRxLhcE89EK2ZPpiRQBg6D68Z25kK4RgcE",
+      "symbol": "GENR",
+      "name": "Generous Robots Dutch Auction Presale Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img924/7092/CTMJJy.jpg",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/generous_robots",
+        "twitter": "https://twitter.com/GenerousRobots",
+        "website": "https://generousrobots.com/"
+      }
     }
   ],
   "version": {
