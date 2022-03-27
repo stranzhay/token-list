@@ -138210,6 +138210,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AASZr8AE3AK6nuSv7vJSdMgAUhKhsbg4iuRb1M81ETMN",
+      "symbol": "PSG",
+      "name": "ProSport Guru Token",
+      "decimals": 0,
+      "logoURI": "https://github.com/faugan2/psg-new-token/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
