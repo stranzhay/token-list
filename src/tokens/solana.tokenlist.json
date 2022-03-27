@@ -138356,6 +138356,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "22KcF82BzNg14X2eWMKLYPEykQz3mZPLe7fun3R3vq72",
+      "symbol": "Rabbit",
+      "name": "RTO-Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/edmontana77/crypto2/main/RTO.png",
+      "tags": [
+        "social-token",
+        "nft",
+        "metaverse"
+      ]
     }
   ],
   "version": {
