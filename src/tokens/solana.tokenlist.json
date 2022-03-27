@@ -138251,6 +138251,50 @@
         "twitter": "https://twitter.com/Furr_Sols",
         "website": "https://furrsols.io/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "FfnsNNWAx7xKTKFAjzD7m7uSi5n6MF1w8zj75J4ErFXS",
+      "symbol": "USDT",
+      "name": "xldUSDT (Devnet)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "8d1CoyqxTbvhcwdN2eBmqQChrmodHyVsLE96GnZmr2W6",
+      "symbol": "SLP",
+      "name": "xldSLP (Devnet)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4/logo.png",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "CWGqLA6zaRvJvVgz7NimdvHe8BmkscjmAa9fiYgqdiXJ",
+      "symbol": "DAI",
+      "name": "xldDai (Devnet)",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o/logo.png",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CThP76CAbtqBZEgqHWf5W9eSkDj7JGaBoz6dVbnWA7hE",
+      "symbol": "BFFC100$b",
+      "name": "Bank of Fone Fan Club",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/BFFC100-b/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
