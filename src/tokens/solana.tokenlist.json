@@ -138187,6 +138187,29 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GTFBBcnRCT6Pa7rxDQHyYW4KMMebvkhB17dKBRkcHw78",
+      "symbol": "AML",
+      "name": "AmalThea Protocol",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GTFBBcnRCT6Pa7rxDQHyYW4KMMebvkhB17dKBRkcHw78/logo.jpg",
+      "tags": [
+        "Game-Token",
+        "AML"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "52ndEqJE9nrTkUWoADWHzPgKsFD1RvJdNgL9x6JnL1zo",
+      "symbol": "MPC",
+      "name": "M P Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/He1senberg11/MPCoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
