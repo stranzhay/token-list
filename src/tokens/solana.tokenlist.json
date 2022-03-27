@@ -138151,6 +138151,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8bkxAiCsAsM3iPaEhqCjhjKU3XNuGAqgAAuCG6o8eW24",
+      "symbol": "BUXO",
+      "name": "Buxon Development Group",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8bkxAiCsAsM3iPaEhqCjhjKU3XNuGAqgAAuCG6o8eW24/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BuxonGroup"
+      }
     }
   ],
   "version": {
