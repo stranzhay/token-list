@@ -138398,6 +138398,20 @@
         "twitter": "https://twitter.com/geexolotls",
         "website": "https://www.geexolotls.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HBfHbAuCFCP34rSkPMXEt5UuLf8HH3SbuvH7DPA6aX8Q",
+      "symbol": "CITRUS",
+      "name": "CITRUS Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBfHbAuCFCP34rSkPMXEt5UuLf8HH3SbuvH7DPA6aX8Q/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://certifiedcitric.com"
+      }
     }
   ],
   "version": {
