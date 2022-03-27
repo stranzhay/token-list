@@ -138381,6 +138381,23 @@
         "utility-token",
         "whitelist-ticket"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AefuNcVikKudanCHGRB5KkjdUoen9QBL4fFX6q1kGsRe",
+      "symbol": "GEEXOWL",
+      "name": "GEEXO Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AefuNcVikKudanCHGRB5KkjdUoen9QBL4fFX6q1kGsRe/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/exfYm6uJay",
+        "instagram": "https://www.instagram.com/geexolotls/",
+        "twitter": "https://twitter.com/geexolotls",
+        "website": "https://www.geexolotls.com/"
+      }
     }
   ],
   "version": {
