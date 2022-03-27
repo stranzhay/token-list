@@ -138210,6 +138210,47 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AASZr8AE3AK6nuSv7vJSdMgAUhKhsbg4iuRb1M81ETMN",
+      "symbol": "PSG",
+      "name": "ProSport Guru Token",
+      "decimals": 0,
+      "logoURI": "https://github.com/faugan2/psg-new-token/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "2GRf3hnKg3Cpbpt2PSzYeaKcoQXLnG87Yei6DWbKX2xC",
+      "symbol": "USDT",
+      "name": "xldUSDT (XLD Devnet)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/XLDFinance",
+        "website": "https://xld.finance/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "4HK5XDLp6EkduexYYjwDErMTWBmrSbGYPYSLiho9U1Xu",
+      "symbol": "FURR",
+      "name": "FurrSols Governance Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/furrsols/assets/main/FURR_GIF.gif",
+      "tags": [
+        "governance-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Furr_Sols",
+        "website": "https://furrsols.io/"
+      }
     }
   ],
   "version": {
