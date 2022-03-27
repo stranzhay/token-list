@@ -138015,6 +138015,14 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DAM8b7iGuMCo5oaAP7BRh41NMBC6Ni7t4fg37zBRq6Q4",
+      "symbol": "DAM",
+      "name": "DAN AND MITCHY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DAM8b7iGuMCo5oaAP7BRh41NMBC6Ni7t4fg37zBRq6Q4/logo.png"
     }
   ],
   "version": {
