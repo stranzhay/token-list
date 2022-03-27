@@ -138165,6 +138165,17 @@
       "extensions": {
         "twitter": "https://twitter.com/BuxonGroup"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GpdFKHRW23verFBHWRMAmvmwQmkwfyUiJFAALwcrUt8y",
+      "symbol": "CC",
+      "name": "Child Coins",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ChildCoins/crypto/main/child_coins_logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
