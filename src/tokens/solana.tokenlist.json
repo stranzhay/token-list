@@ -138320,6 +138320,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "86PgpRgnhojD5b4ExVSNZ8QFc3WjcnTxChr35cuJU2yx",
+      "symbol": "TCOIN",
+      "name": "TJ COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tjgill1/cryptopng/main/Baby.tux-800x800.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
