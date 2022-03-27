@@ -138398,6 +138398,63 @@
         "twitter": "https://twitter.com/geexolotls",
         "website": "https://www.geexolotls.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HBfHbAuCFCP34rSkPMXEt5UuLf8HH3SbuvH7DPA6aX8Q",
+      "symbol": "CITRUS",
+      "name": "CITRUS Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBfHbAuCFCP34rSkPMXEt5UuLf8HH3SbuvH7DPA6aX8Q/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://certifiedcitric.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8iWMXSUViPHYZDEpXiXZFiMo956VDCKMij1VUiE3VbDF",
+      "symbol": "JBKA",
+      "name": "Ben Dover",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/PavleSavic90/KriptoSlika/main/SamoZdravoBajoMoj.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7Nz4gAXydZcWHPN1EBxM1Rqzoaz7btyRVFhLN7PkfoJR",
+      "symbol": "DILLO",
+      "name": "DILLO",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/JaxSolana/dillo/Logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheArmadillos",
+        "website": "https://angrydillos.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GENRi6N2JvqRxLhcE89EK2ZPpiRQBg6D68Z25kK4RgcE",
+      "symbol": "GENR",
+      "name": "Generous Robots Dutch Auction Presale Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img924/7092/CTMJJy.jpg",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/generous_robots",
+        "twitter": "https://twitter.com/GenerousRobots",
+        "website": "https://generousrobots.com/"
+      }
     }
   ],
   "version": {
