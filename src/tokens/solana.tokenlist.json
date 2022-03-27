@@ -138236,6 +138236,21 @@
         "twitter": "https://twitter.com/XLDFinance",
         "website": "https://xld.finance/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "4HK5XDLp6EkduexYYjwDErMTWBmrSbGYPYSLiho9U1Xu",
+      "symbol": "FURR",
+      "name": "FurrSols Governance Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/furrsols/assets/main/FURR_GIF.gif",
+      "tags": [
+        "governance-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Furr_Sols",
+        "website": "https://furrsols.io/"
+      }
     }
   ],
   "version": {
