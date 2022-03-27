@@ -137988,6 +137988,22 @@
         "discord": "https://discord.com/invite/apesplanet",
         "twitter": "https://twitter.com/apesplanet"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3F2nPGTipnAM8BRs6hNmwYvyXTUyFRe5We4MqbGfSkUm",
+      "symbol": "3MSP",
+      "name": "3MSP DSC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/autonux/3MSP-Solana-Token/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/3MSP",
+        "website": "http://www.3msp.net/"
+      }
     }
   ],
   "version": {
