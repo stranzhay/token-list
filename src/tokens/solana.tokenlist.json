@@ -137955,6 +137955,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ewv5Y641TPYoFLBdb8XkWCukHbvW49ACzXMhcKtAy4xD",
+      "symbol": "ddSOL",
+      "name": "ddSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ewv5Y641TPYoFLBdb8XkWCukHbvW49ACzXMhcKtAy4xD/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://dazedducks.com"
+      }
     }
   ],
   "version": {
