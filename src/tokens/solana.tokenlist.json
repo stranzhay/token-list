@@ -138004,6 +138004,17 @@
         "twitter": "https://twitter.com/3MSP",
         "website": "http://www.3msp.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AD5PZKiJNyCxaixUqp6qRxLHy5t6nAoqU3bE1bYoiHAJ",
+      "symbol": "NABI",
+      "name": "NABI wl",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AD5PZKiJNyCxaixUqp6qRxLHy5t6nAoqU3bE1bYoiHAJ/token.jpg",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
