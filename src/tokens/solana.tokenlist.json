@@ -138085,6 +138085,33 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "UfoY2nXnXWyYAqcbupnNkfkRoGkNqYkdCHY6CyR56MZ",
+      "symbol": "JVNT",
+      "name": "Jovinite",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/0xJovin/solana/main/95069323-removebg-preview.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ToHR6aQ4RTDEVhcXbVTarQvajGJD72GyPLSHt9iApLJ",
+      "symbol": "SLSWL",
+      "name": "Solaptops WL token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToHR6aQ4RTDEVhcXbVTarQvajGJD72GyPLSHt9iApLJ/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YJfG8tcSmu",
+        "twitter": "https://twitter.com/solaptops",
+        "website": "https://www.solaptops.xyz/"
+      }
     }
   ],
   "version": {
