@@ -138023,6 +138023,21 @@
       "name": "DAN AND MITCHY",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DAM8b7iGuMCo5oaAP7BRh41NMBC6Ni7t4fg37zBRq6Q4/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ZeCy2psga81yrLTZFF77vr9gXCuTg3CicfycRv591AW",
+      "symbol": "LCT",
+      "name": "Lucky Cat Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/wishnudh/webpro/master/goldicon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/luckycatSCTY",
+        "website": "https://www.luckycatsociety.com/"
+      }
     }
   ],
   "version": {
