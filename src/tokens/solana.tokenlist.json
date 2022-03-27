@@ -138023,6 +138023,57 @@
       "name": "DAN AND MITCHY",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DAM8b7iGuMCo5oaAP7BRh41NMBC6Ni7t4fg37zBRq6Q4/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ZeCy2psga81yrLTZFF77vr9gXCuTg3CicfycRv591AW",
+      "symbol": "LCT",
+      "name": "Lucky Cat Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/wishnudh/webpro/master/goldicon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/luckycatSCTY",
+        "website": "https://www.luckycatsociety.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "MoNKaiYiiXeUGHHmCL9ABaDVLstSDMz3qH5at93puvy",
+      "symbol": "MONKAI",
+      "name": "MONKAI TOKEN",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/Neurologist/assets/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Monkai are the first Multi-chain Generative GIF NFTs on ETH \u0026 SOL, bringing new DeFi stake + farm tokenomics to the Blockchain",
+        "discord": "https://discord.gg/monkai",
+        "twitter": "https://twitter.com/monkainft",
+        "website": "https://monkainft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "41QDYHN8UKDt4iJiBLgYDDZ22aF6pBFgX7kto2djERNf",
+      "symbol": "DOTBUCKX",
+      "name": "DotBuckx",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Player172/DotBuckx/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7rrJLRar2WjZwRoF3iJKHKnA7d7d9YJT1X9HAJnwUH3Z",
+      "symbol": "WIZE",
+      "name": "Project Wisdom",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7rrJLRar2WjZwRoF3iJKHKnA7d7d9YJT1X9HAJnwUH3Z/logo.png"
     }
   ],
   "version": {
