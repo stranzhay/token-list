@@ -138369,6 +138369,18 @@
         "nft",
         "metaverse"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7Cn6jmWSDZguFDizQURcLVGJf6Ct7i2RSo5d11A7Egix",
+      "symbol": "GoNPWL",
+      "name": "Gangs of New Pork White List Ticket",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Cn6jmWSDZguFDizQURcLVGJf6Ct7i2RSo5d11A7Egix/logo.png",
+      "tags": [
+        "utility-token",
+        "whitelist-ticket"
+      ]
     }
   ],
   "version": {
