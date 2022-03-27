@@ -138284,6 +138284,17 @@
       "tags": [
         "wrapped"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CThP76CAbtqBZEgqHWf5W9eSkDj7JGaBoz6dVbnWA7hE",
+      "symbol": "BFFC100$b",
+      "name": "Bank of Fone Fan Club",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/BFFC100-b/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
