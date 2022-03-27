@@ -138423,6 +138423,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7Nz4gAXydZcWHPN1EBxM1Rqzoaz7btyRVFhLN7PkfoJR",
+      "symbol": "DILLO",
+      "name": "DILLO",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/JaxSolana/dillo/Logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheArmadillos",
+        "website": "https://angrydillos.com/"
+      }
     }
   ],
   "version": {
