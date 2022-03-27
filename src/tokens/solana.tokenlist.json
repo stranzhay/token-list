@@ -138074,6 +138074,17 @@
       "name": "Project Wisdom",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7rrJLRar2WjZwRoF3iJKHKnA7d7d9YJT1X9HAJnwUH3Z/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7FEN3FFaWcjiYcajh71qqfAW4eJX8Xr3b7hwHcwTFae8",
+      "symbol": "APK",
+      "name": "APK Cool",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/apraveenkumar1197/apk_coin/main/crypto_logo.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
