@@ -138320,6 +138320,31 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "86PgpRgnhojD5b4ExVSNZ8QFc3WjcnTxChr35cuJU2yx",
+      "symbol": "TCOIN",
+      "name": "TJ COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tjgill1/cryptopng/main/Baby.tux-800x800.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7FqS7Zc1SzT79kCNtbDzsm85vZfBRR53FaUN2r4Z1dAC",
+      "symbol": "SMTGEM",
+      "name": "SmartGem",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7FqS7Zc1SzT79kCNtbDzsm85vZfBRR53FaUN2r4Z1dAC/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://smartgems.org"
+      }
     }
   ],
   "version": {
