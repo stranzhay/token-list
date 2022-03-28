@@ -138823,6 +138823,21 @@
       "extensions": {
         "website": "https://ssa.gg/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6pQnfdrZVm7mASQoRnDfAAi98ngS1eFNij2koW4kUZFS",
+      "symbol": "DICP",
+      "name": "DIC punch",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6pQnfdrZVm7mASQoRnDfAAi98ngS1eFNij2koW4kUZFS/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/thegimmicks",
+        "website": "https://www.therealgimmicks.com/"
+      }
     }
   ],
   "version": {
