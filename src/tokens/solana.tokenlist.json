@@ -138536,6 +138536,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "EDzBtG9AmwLoVBcDAn7StDJPb5jyfrDKqCYXiUFhBjke",
+      "symbol": "moso",
+      "name": "moso Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Moneshsoni/moso_token_crypto/main/moso.png",
+      "tags": [
+        "moso-token"
+      ]
     }
   ],
   "version": {
