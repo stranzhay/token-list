@@ -138572,6 +138572,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "yUXcJCopBT5yiWy3gBQjNNotMP7rzkDScpCoA7z48cU",
+      "symbol": "y-UXD-USDC",
+      "name": "Yield Saber LP Token (UXD-USDC)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yUXcJCopBT5yiWy3gBQjNNotMP7rzkDScpCoA7z48cU/logo.svg",
+      "tags": [
+        "yield-token"
+      ],
+      "extensions": {
+        "website": "https://bunnyducky.com/"
+      }
     }
   ],
   "version": {
