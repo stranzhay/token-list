@@ -17422,6 +17422,7 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/synesis_one",
+        "coingeckoId": "synesis-one",
         "website": "https://www.synesis.one/"
       }
     },
