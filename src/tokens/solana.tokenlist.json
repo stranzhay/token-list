@@ -138793,6 +138793,156 @@
       "tags": [
         "test"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "KoMRKGrap9sQFgeWrM3gNu8jacq2RyhGva6GZQ49xHj",
+      "symbol": "Komradz",
+      "name": "Komradz WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KoMRKGrap9sQFgeWrM3gNu8jacq2RyhGva6GZQ49xHj/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7pDvbQZ9ANogmc36xpjemR1T9ngkxSSvSr1WmuX6cnd",
+      "symbol": "PECAN",
+      "name": "PECAN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7pDvbQZ9ANogmc36xpjemR1T9ngkxSSvSr1WmuX6cnd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://ssa.gg/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6pQnfdrZVm7mASQoRnDfAAi98ngS1eFNij2koW4kUZFS",
+      "symbol": "DICP",
+      "name": "DIC punch",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6pQnfdrZVm7mASQoRnDfAAi98ngS1eFNij2koW4kUZFS/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/thegimmicks",
+        "website": "https://www.therealgimmicks.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9bCWGwpMK4JGK2mMsPxq62tHFfe82RbwFbnQ7Bgf2PiW",
+      "symbol": "COA",
+      "name": "Coal for MOTS Game",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9bCWGwpMK4JGK2mMsPxq62tHFfe82RbwFbnQ7Bgf2PiW/logo.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "A3M9mjaqpeiDxLYn5UmfmpBZMxQKSVCA6F9QMKijdyGZ",
+      "symbol": "COP",
+      "name": "Copper for MOTS Game",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A3M9mjaqpeiDxLYn5UmfmpBZMxQKSVCA6F9QMKijdyGZ/logo.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8APGrtjuEMDYFf6dPv7ZkhxLKCHgdXhH9dqDi7UhWxJ7",
+      "symbol": "SIL",
+      "name": "Silver for MOTS Game",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8APGrtjuEMDYFf6dPv7ZkhxLKCHgdXhH9dqDi7UhWxJ7/logo.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FGZtrEJFE3rSEVdVjJyorE5RrMHvuLHaGUa4kH5WwMnR",
+      "symbol": "GOL",
+      "name": "Gold for MOTS Game",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FGZtrEJFE3rSEVdVjJyorE5RrMHvuLHaGUa4kH5WwMnR/logo.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Gq3v8BadgWv66pLnyU6yuk8EkVKz6a9rtrYCejN6F2r5",
+      "symbol": "DIA",
+      "name": "Diamond for MOTS Game",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gq3v8BadgWv66pLnyU6yuk8EkVKz6a9rtrYCejN6F2r5/logo.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8nRPoRxueGMx3ZoD2kws6dr6iHcYffRNWUMC7LBQgHjD",
+      "symbol": "COL",
+      "name": "Coltan for MOTS Game",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8nRPoRxueGMx3ZoD2kws6dr6iHcYffRNWUMC7LBQgHjD/logo.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BRWmzjdY5dHgXsWRa7a3kuM22NEyDk6eAX8d7yx4bR7L",
+      "symbol": "PAI",
+      "name": "Painite for MOTS Game",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BRWmzjdY5dHgXsWRa7a3kuM22NEyDk6eAX8d7yx4bR7L/logo.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2LUeVhXSQs4nUtiv6BY3pN1wF4y1XsNTaqXJ4LDwc3Hy",
+      "symbol": "BAO",
+      "name": "Black Opal for MOTS Game",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2LUeVhXSQs4nUtiv6BY3pN1wF4y1XsNTaqXJ4LDwc3Hy/logo.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "297ddHYikegC7NFPZyn7R2fV6GXrkHLDX3dKo5KBdA3Z",
+      "symbol": "RED",
+      "name": "Red Diamond for MOTS Game",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/297ddHYikegC7NFPZyn7R2fV6GXrkHLDX3dKo5KBdA3Z/logo.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2fLfRiX7cCWk9SZfmZbbjnJF6HE5qENjopPmnhMovfhd",
+      "symbol": "BLO",
+      "name": "Blue Opsidian for MOTS Game",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2fLfRiX7cCWk9SZfmZbbjnJF6HE5qENjopPmnhMovfhd/logo.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
