@@ -138561,6 +138561,17 @@
       "extensions": {
         "description": "MOTS Game is a P2E and NFT mining game developed on the Solana network."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FfKd5rGQXMtJaEKFTYLobQBVp4czgCF216DVDPXsCzky",
+      "symbol": "FFST",
+      "name": "FluxFusionstreams",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/NItewolf07/crypto/main/FluxFusion_Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
