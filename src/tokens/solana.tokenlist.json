@@ -138572,6 +138572,50 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "yUXcJCopBT5yiWy3gBQjNNotMP7rzkDScpCoA7z48cU",
+      "symbol": "y-UXD-USDC",
+      "name": "Yield Saber LP Token (UXD-USDC)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yUXcJCopBT5yiWy3gBQjNNotMP7rzkDScpCoA7z48cU/logo.svg",
+      "tags": [
+        "yield-token"
+      ],
+      "extensions": {
+        "website": "https://bunnyducky.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "G7JY5Ui9YghpXCjCAh9bEf3QgZ2HKKmys8JggNmhzH6k",
+      "symbol": "$GODzWL",
+      "name": "GODz WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G7JY5Ui9YghpXCjCAh9bEf3QgZ2HKKmys8JggNmhzH6k/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/C4WG3YZCbN",
+        "twitter": "https://twitter.com/nft_godz",
+        "website": "https://godznft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EJt3iszkR6GKiV1YSyefB2GaHsXniyVAjAtS9mrxyTZR",
+      "symbol": "MCCN",
+      "name": "Collider Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EJt3iszkR6GKiV1YSyefB2GaHsXniyVAjAtS9mrxyTZR/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://collidercoin.com"
+      }
     }
   ],
   "version": {
