@@ -138602,6 +138602,20 @@
         "twitter": "https://twitter.com/nft_godz",
         "website": "https://godznft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EJt3iszkR6GKiV1YSyefB2GaHsXniyVAjAtS9mrxyTZR",
+      "symbol": "MCCN",
+      "name": "Collider Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EJt3iszkR6GKiV1YSyefB2GaHsXniyVAjAtS9mrxyTZR/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://collidercoin.com"
+      }
     }
   ],
   "version": {
