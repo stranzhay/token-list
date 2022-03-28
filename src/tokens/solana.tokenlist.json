@@ -138616,6 +138616,30 @@
       "extensions": {
         "website": "https://collidercoin.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G8KevG5RY3KgikX6iDHKaNSP7R2ERyDF9JFaTS1z1nms",
+      "symbol": "acUSDC",
+      "name": "Accrue USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G8KevG5RY3KgikX6iDHKaNSP7R2ERyDF9JFaTS1z1nms/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/accrue_finance",
+        "website": "https://accrue.finance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8RiWas3o1R6Dt1AVd3g4FUT6Ga4vGKW6BachqK86Pgaq",
+      "symbol": "acSOL",
+      "name": "Accrue SOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8RiWas3o1R6Dt1AVd3g4FUT6Ga4vGKW6BachqK86Pgaq/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/accrue_finance",
+        "website": "https://accrue.finance"
+      }
     }
   ],
   "version": {
