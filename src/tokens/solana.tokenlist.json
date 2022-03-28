@@ -138770,6 +138770,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HPGcyNmas47AgHrVsyH5A1JnRUxtJvNfLYEBtQ8WjWWL",
+      "symbol": "HPG_WL",
+      "name": "Hot Potato Gang Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HPGcyNmas47AgHrVsyH5A1JnRUxtJvNfLYEBtQ8WjWWL/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "description": "Hot Potato Gang Whitelist Token - Token burns after mint",
+        "discord": "https://discord.gg/4NJHDCmFA3",
+        "twitter": "https://twitter.com/hotpotatogang",
+        "website": "https://hotpotatogang.com"
+      }
     }
   ],
   "version": {
