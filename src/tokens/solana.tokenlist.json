@@ -138640,6 +138640,18 @@
         "twitter": "https://twitter.com/accrue_finance",
         "website": "https://accrue.finance"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "21ytFGhW4qzCgNp3hf3yzb55R5sXzR4vYrPYm38v7KEe",
+      "symbol": "GNMZ",
+      "name": "Gnomez",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/GNOMEZY/crypto/main/logo.jpg",
+      "tags": [
+        "social-token",
+        "game-token"
+      ]
     }
   ],
   "version": {
