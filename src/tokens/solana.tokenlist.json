@@ -137619,7 +137619,12 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BoFxKXdyiEYJReWGZAT4tavuAo3D1BmDyXK5VFSXd4EF/logo.png",
       "tags": [
         "BitOptionsFx"
-      ]
+      ],
+      "extensions": {
+        "twitter": "https://www.twitter.com/bitoptionsfxt",
+        "medium": "https://medium.com/@Bitoptionsfxtoken",
+        "reddit": "https://www.reddit.com/u/Bitoptionsfxtoken"
+      }
     },
     {
       "chainId": 101,
