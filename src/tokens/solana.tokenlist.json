@@ -138787,6 +138787,17 @@
         "twitter": "https://twitter.com/hotpotatogang",
         "website": "https://hotpotatogang.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AAHdKByKPccoWKYsV5kXXmmuBaS2gzSh7Bg5H3ByXjzD",
+      "symbol": "$OKSA",
+      "name": "Test coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AAHdKByKPccoWKYsV5kXXmmuBaS2gzSh7Bg5H3ByXjzD/logo.png",
+      "tags": [
+        "test"
+      ]
     }
   ],
   "version": {
