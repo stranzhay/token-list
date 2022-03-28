@@ -136789,7 +136789,7 @@
       "symbol": "RAZN",
       "name": "Raisinz",
       "decimals": 9,
-      "logoURI": "https://github.com/qudo-code/assets/blob/master/solana/tokens/RAZN/RAZN.png",
+      "logoURI": "https://raw.githubusercontent.com/qudo-code/assets/master/solana/tokens/RAZN/RAZN.png",
       "tags": [
         "utility-token"
       ],
