@@ -138982,6 +138982,18 @@
         "twitter": "https://twitter.com/Neo_Frame_NFT",
         "website": "https://neoframe.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D34QaWVkFZn3Z4rgCbzjaT9NviVLmvGEBgxHpP5f3bdR",
+      "symbol": "acBTC",
+      "name": "Accrue BTC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D34QaWVkFZn3Z4rgCbzjaT9NviVLmvGEBgxHpP5f3bdR/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/accrue_finance",
+        "website": "https://accrue.finance"
+      }
     }
   ],
   "version": {
