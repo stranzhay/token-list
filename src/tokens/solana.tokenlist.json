@@ -138679,6 +138679,17 @@
         "twitter": "https://twitter.com/CyberFPSGame",
         "website": "https://cybertrees.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3USr6wkoCiEXPGmTvTctAa9FrHuMRjBHhsynEBaYH6Ks",
+      "symbol": "CHEERSK",
+      "name": "CheersKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Davide-Mario/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
