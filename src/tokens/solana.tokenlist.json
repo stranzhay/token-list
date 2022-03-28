@@ -138455,6 +138455,33 @@
         "twitter": "https://twitter.com/GenerousRobots",
         "website": "https://generousrobots.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WLkccWEEH6k6x7CZpaszQSwqK9VjQwabMV4wkaW3bxo",
+      "symbol": "GLDWL",
+      "name": "Gold Alpha Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLkccWEEH6k6x7CZpaszQSwqK9VjQwabMV4wkaW3bxo/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/thegoldalpha",
+        "twitter": "https://twitter.com/TheGoldAlpha",
+        "website": "https://thegoldalpha.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6xnUqAfxvDTZepHNWK1NsxXkjhFdTvuaGVXh3z29wRhx",
+      "symbol": "BONEZ",
+      "name": "Bonez",
+      "decimals": 6,
+      "logoURI": "https://i.ibb.co/Wk2BhWS/lastskull.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
