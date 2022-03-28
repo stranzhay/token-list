@@ -138712,6 +138712,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GdGhA8PNnfTyCnL8dMSeZffwneXggurPfA7vnRjZMw1r",
+      "symbol": "PNXKLR",
+      "name": "PhoenixKiller",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/gurrajman/Token/main/phoenix.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CVatR2DSHovFfFvJqeiuhgbjsHD9NpN9iAaqbVEZRxdW",
+      "symbol": "SOLAND",
+      "name": "Soland Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CVatR2DSHovFfFvJqeiuhgbjsHD9NpN9iAaqbVEZRxdW/logo520x520.png",
+      "tags": [
+        "metaverse-token"
+      ]
     }
   ],
   "version": {
