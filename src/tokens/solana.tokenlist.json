@@ -138798,6 +138798,17 @@
       "tags": [
         "test"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "KoMRKGrap9sQFgeWrM3gNu8jacq2RyhGva6GZQ49xHj",
+      "symbol": "Komradz",
+      "name": "Komradz WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KoMRKGrap9sQFgeWrM3gNu8jacq2RyhGva6GZQ49xHj/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
