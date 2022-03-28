@@ -138586,6 +138586,22 @@
       "extensions": {
         "website": "https://bunnyducky.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G7JY5Ui9YghpXCjCAh9bEf3QgZ2HKKmys8JggNmhzH6k",
+      "symbol": "$GODzWL",
+      "name": "GODz WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G7JY5Ui9YghpXCjCAh9bEf3QgZ2HKKmys8JggNmhzH6k/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/C4WG3YZCbN",
+        "twitter": "https://twitter.com/nft_godz",
+        "website": "https://godznft.com/"
+      }
     }
   ],
   "version": {
