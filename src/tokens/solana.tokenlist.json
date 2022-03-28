@@ -138652,6 +138652,17 @@
         "social-token",
         "game-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BtwngniRNdE9yUGV2WCxUmmH4HiYituAusR7giJDv566",
+      "symbol": "MSOL",
+      "name": "METASOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/METASOL2022/logomsol/main/Logo_msol.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
