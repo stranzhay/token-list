@@ -138497,6 +138497,17 @@
       "extensions": {
         "website": "http://certifiedcitric.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E2TXx1wFHNEGBtTfNgw6mVCmV9gRH45jyYNQwHJUH9oc",
+      "symbol": "QCUT",
+      "name": "QCU Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jcp-qcu/crypto/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
