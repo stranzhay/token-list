@@ -138482,6 +138482,32 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Dq8zr1M6vbSLM9rvVpqTN6Lb82m3wEpxPrTZp7fXZ3wQ",
+      "symbol": "CCWLT",
+      "name": "CERTIFIED CITRIC WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dq8zr1M6vbSLM9rvVpqTN6Lb82m3wEpxPrTZp7fXZ3wQ/wl-logo.png",
+      "tags": [
+        "utility-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "http://certifiedcitric.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "E2TXx1wFHNEGBtTfNgw6mVCmV9gRH45jyYNQwHJUH9oc",
+      "symbol": "QCUT",
+      "name": "QCU Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jcp-qcu/crypto/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
