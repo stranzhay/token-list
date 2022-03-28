@@ -138712,6 +138712,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GdGhA8PNnfTyCnL8dMSeZffwneXggurPfA7vnRjZMw1r",
+      "symbol": "PNXKLR",
+      "name": "PhoenixKiller",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/gurrajman/Token/main/phoenix.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
