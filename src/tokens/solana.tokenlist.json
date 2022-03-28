@@ -138547,6 +138547,31 @@
       "tags": [
         "moso-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4hiMPLMDGkCRgKnDsXwhVZPZhESgp34ZZqymVHuBu1z2",
+      "symbol": "MOTS",
+      "name": "MOTS Game",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hiMPLMDGkCRgKnDsXwhVZPZhESgp34ZZqymVHuBu1z2/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "MOTS Game is a P2E and NFT mining game developed on the Solana network."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FfKd5rGQXMtJaEKFTYLobQBVp4czgCF216DVDPXsCzky",
+      "symbol": "FFST",
+      "name": "FluxFusionstreams",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/NItewolf07/crypto/main/FluxFusion_Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
