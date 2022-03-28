@@ -138663,6 +138663,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2aztzADwa8aJHBnyna4yC6m8L433vAbT8fF3CScLhAEm",
+      "symbol": "CTOKEN",
+      "name": "CyberToken",
+      "decimals": 6,
+      "logoURI": "https://cdn.discordapp.com/attachments/953073433024012328/953216442545877042/logo-white.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/CyberFPS",
+        "twitter": "https://twitter.com/CyberFPSGame",
+        "website": "https://cybertrees.io"
+      }
     }
   ],
   "version": {
