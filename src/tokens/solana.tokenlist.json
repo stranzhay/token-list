@@ -17421,8 +17421,8 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/synesis_one",
         "coingeckoId": "synesis-one",
+        "twitter": "https://twitter.com/synesis_one",
         "website": "https://www.synesis.one/"
       }
     },
@@ -99926,7 +99926,7 @@
       ],
       "extensions": {
         "coingeckoId": "nooft",
-        "description": "NOOFT Project develops a Search Engine & Analytics platform for NFTs ",
+        "description": "NOOFT Project develops a Search Engine \u0026 Analytics platform for NFTs ",
         "facebook": "https://www.facebook.com/nooftproject",
         "twitter": "https://twitter.com/NooftProject",
         "website": "https://nooft.io/"
@@ -137616,9 +137616,9 @@
         "BitOptionsFx"
       ],
       "extensions": {
-        "twitter": "https://www.twitter.com/bitoptionsfxt",
         "medium": "https://medium.com/@Bitoptionsfxtoken",
-        "reddit": "https://www.reddit.com/u/Bitoptionsfxtoken"
+        "reddit": "https://www.reddit.com/u/Bitoptionsfxtoken",
+        "twitter": "https://www.twitter.com/bitoptionsfxt"
       }
     },
     {
@@ -138525,6 +138525,28 @@
         "twitter": "https://twitter.com/lotme_official",
         "website": "https://lotme.in"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "JD4oidcWARRJindyzyJxfAVYsv83wAsqyPdKS3Bphhej",
+      "symbol": "DCTX",
+      "name": "DCOSTA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JD4oidcWARRJindyzyJxfAVYsv83wAsqyPdKS3Bphhej/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "EDzBtG9AmwLoVBcDAn7StDJPb5jyfrDKqCYXiUFhBjke",
+      "symbol": "moso",
+      "name": "moso Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Moneshsoni/moso_token_crypto/main/moso.png",
+      "tags": [
+        "moso-token"
+      ]
     }
   ],
   "version": {
