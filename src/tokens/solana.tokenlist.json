@@ -99925,6 +99925,9 @@
         "utility-token"
       ],
       "extensions": {
+        "coingeckoId": "nooft",
+        "description": "NOOFT Project develops a Search Engine & Analytics platform for NFTs ",
+        "facebook": "https://www.facebook.com/nooftproject",
         "twitter": "https://twitter.com/NooftProject",
         "website": "https://nooft.io/"
       }
