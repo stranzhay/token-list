@@ -138734,6 +138734,18 @@
       "tags": [
         "metaverse-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EnigWcs9jBQvBFnQaHvwGihpzVEELtGC25yxpKeJ68ZV",
+      "symbol": "ENIGMA",
+      "name": "Enigma Ventures GEN 2 Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img922/2193/GEK6pA.jpg",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
