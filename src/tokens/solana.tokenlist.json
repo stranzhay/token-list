@@ -138482,6 +138482,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Dq8zr1M6vbSLM9rvVpqTN6Lb82m3wEpxPrTZp7fXZ3wQ",
+      "symbol": "CCWLT",
+      "name": "CERTIFIED CITRIC WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dq8zr1M6vbSLM9rvVpqTN6Lb82m3wEpxPrTZp7fXZ3wQ/wl-logo.png",
+      "tags": [
+        "utility-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "http://certifiedcitric.com"
+      }
     }
   ],
   "version": {
