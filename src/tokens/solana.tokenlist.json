@@ -138690,6 +138690,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5hTVhKaFRvdzkGtByoiW46aYmuS1o1t4kCJfTwTMTkdf",
+      "symbol": "CLER",
+      "name": "CLER",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/taviflorutza/CRYPTO/main/CLER.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
