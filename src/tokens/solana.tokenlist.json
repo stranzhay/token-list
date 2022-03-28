@@ -138508,6 +138508,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "LoTrcDXVtmu7CPaxnsVifJD8wwcEr4fhxKykrAQDKWE",
+      "symbol": "LOT",
+      "name": "Lottery",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LoTrcDXVtmu7CPaxnsVifJD8wwcEr4fhxKykrAQDKWE/logo.png",
+      "tags": [
+        "utility-token",
+        "lottery",
+        "casino"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/lotme_official",
+        "website": "https://lotme.in"
+      }
     }
   ],
   "version": {
