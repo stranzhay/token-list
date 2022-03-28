@@ -138954,6 +138954,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3HGKM3rj9XmVfyGmQR4D2md6vRDoVKwcicWXDnb7cGtZ",
+      "symbol": "CRZCN",
+      "name": "CruiseCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/crzcoindev/CruiseCoin/main/shiplogo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
