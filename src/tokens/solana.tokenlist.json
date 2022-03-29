@@ -139458,6 +139458,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4bwMPPipiPafcxxtSBPMUgCkv8hF4xAyWsUzxr3DLYPZ",
+      "symbol": "DISK",
+      "name": "FloppyLabs token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/floppy-labs/disk-logo/master/disk_logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
