@@ -77330,6 +77330,13 @@
         "multi-chain"
       ],
       "extensions": {
+        "discord": "https://discord.com/invite/BXcommunity",
+        "facebook": "https://www.facebook.com/bancambios",
+        "imageUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/pH5wWJc3KhdeVQSt86DU31pdcL9c8P88x2FQoKEJVHC/image.png",
+        "instagram": "https://www.instagram.com/bancambiosx",
+        "linkedin": "https://www.linkedin.com/company/bancambios",
+        "medium": "https://medium.com/@bancambios",
+        "telegram": "https://t.me/bancambiosx",
         "twitter": "https://twitter.com/bancambios",
         "website": "https://bancambios.exchange/"
       }
