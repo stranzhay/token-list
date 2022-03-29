@@ -139275,6 +139275,17 @@
       "name": "Tree Block Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5AsCTEEDBH9qpfCP2nVV891cbXHJfXyiQgnKJyUFSzjB/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "EdsV136bYNoY2Z1G9bMERphMM1a1wQF5W6iDKMYgQH7V",
+      "symbol": "LR",
+      "name": "landreit",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EdsV136bYNoY2Z1G9bMERphMM1a1wQF5W6iDKMYgQH7V/logo.png",
+      "tags": [
+        "WL-token"
+      ]
     }
   ],
   "version": {
