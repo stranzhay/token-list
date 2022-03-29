@@ -139297,6 +139297,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "97pMYg5WZXm9cXWBJWUFcGQ7sb64RAkNhDDYqqPq5KyN",
+      "symbol": "RAISIN",
+      "name": "RAISIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97pMYg5WZXm9cXWBJWUFcGQ7sb64RAkNhDDYqqPq5KyN/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://grimsyndicate.com"
+      }
     }
   ],
   "version": {
