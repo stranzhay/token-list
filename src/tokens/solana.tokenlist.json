@@ -139170,6 +139170,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7QxPk2TmM8WXASKKDdduTiYJzzHKEyeLTQh4UfQVBxpN",
+      "symbol": "ELC",
+      "name": "Eloncoin1",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ElonCoin0101/ElonCoin/main/ElonCoin-logos.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
