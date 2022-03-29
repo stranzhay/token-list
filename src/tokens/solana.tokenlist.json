@@ -139547,6 +139547,21 @@
         "twitter": "https://twitter.com/nft_godz",
         "website": "https://godznft.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ed1934BYVPQQ2KXbzCLxBMtNVZN3SjanTewfR9upbb7L",
+      "symbol": "$SAKE",
+      "name": "SAKE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ed1934BYVPQQ2KXbzCLxBMtNVZN3SjanTewfR9upbb7L/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/rdPMAqpDRR",
+        "twitter": "https://twitter.com/Soul_of_Hidama"
+      }
     }
   ],
   "version": {
