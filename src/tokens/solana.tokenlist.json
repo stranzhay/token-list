@@ -139376,6 +139376,17 @@
         "discord": "https://discord.com/channels/958429684788518942/958429684788518944",
         "twitter": "https://twitter.com/FreeFuelCoin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FvaExVNHCACXXeTDj6hpZFLCyhYekT8zxpfPXiMtba51",
+      "symbol": "SWNT",
+      "name": "Swiss National Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/OmiCodez/SWNT/raw/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
