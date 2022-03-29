@@ -139333,6 +139333,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5FJeUZ6Tn8F6ErCL3NinmpvSqjeFPq6ffvgCYug4r1kL",
+      "symbol": "POKER",
+      "name": "Poker Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5FJeUZ6Tn8F6ErCL3NinmpvSqjeFPq6ffvgCYug4r1kL/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SCpokerclub",
+        "website": "http://solcitypoker.com"
+      }
     }
   ],
   "version": {
