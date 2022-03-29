@@ -139483,6 +139483,17 @@
       "extensions": {
         "website": "https://ageofdefi.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3YAQawvYxNLRAdgjt71g8hct72j1R7dVUvR5ghtVjkCn",
+      "symbol": "SALVAR",
+      "name": "Salvar",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SalvaP2E/SALVAR/main/Salva.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
