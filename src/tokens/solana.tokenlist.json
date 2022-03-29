@@ -139494,6 +139494,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ECQkERLRgPGW34P5jjLvEGy449qGjq75BinqynBNyCqp",
+      "symbol": "ECOPNT",
+      "name": "ECOpoint",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/juancano57/logos_vortex/main/logos/ECQkERLRgPGW34P5jjLvEGy449qGjq75BinqynBNyCqp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EconomY_Solutio",
+        "website": "https://humanenergysolutions.com/"
+      }
     }
   ],
   "version": {
