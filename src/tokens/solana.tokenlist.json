@@ -139267,6 +139267,14 @@
         "twitter": "https://twitter.com/RenegadeHippos",
         "website": "https://www.renegadehippos.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5AsCTEEDBH9qpfCP2nVV891cbXHJfXyiQgnKJyUFSzjB",
+      "symbol": "TBTO",
+      "name": "Tree Block Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5AsCTEEDBH9qpfCP2nVV891cbXHJfXyiQgnKJyUFSzjB/logo.png"
     }
   ],
   "version": {
