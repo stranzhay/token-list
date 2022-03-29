@@ -139159,6 +139159,65 @@
       "name": "Greedy",
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gmRW9iXfq8VdRjekgMX5tf3m572wofcdyXwrqfo4eZ4/GREEDYCOIN-min.png"
+    },
+    {
+      "chainId": 101,
+      "address": "HBrjj2814WZrB7zrTmkvxUiETG1QqDWCmM5CQAtHL2kF",
+      "symbol": "LAMC",
+      "name": "LamarcaCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/testbughub/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7QxPk2TmM8WXASKKDdduTiYJzzHKEyeLTQh4UfQVBxpN",
+      "symbol": "ELC",
+      "name": "Eloncoin1",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ElonCoin0101/ElonCoin/main/ElonCoin-logos.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "PYQXgjSLLSXJqdfNspjqdaJHLAAS9dxSkpxs3srbWkH",
+      "symbol": "CRAB",
+      "name": "Crabcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/undert0wn/crypto/main/crab.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4hUEY2tvFzKhFUTYnF36fEygktrUmnY1pqaefcVoyf1w",
+      "symbol": "KSC",
+      "name": "Khasla Raj Network",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tjgill1/Khalsa-img/main/khasla.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6wa8ydqbVdbLapvfeXSfdV8gR2ZSTGfeJCqsD3NZ5zpq",
+      "symbol": "Dj",
+      "name": "Dj Coin",
+      "decimals": 9,
+      "logoURI": "https://github.com/Fulkatomas/DjCoin/blob/main/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/Dj-Coin-103643742309595",
+        "twitter": "https://twitter.com/Dj1Coin"
+      }
     }
   ],
   "version": {
