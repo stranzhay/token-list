@@ -138994,6 +138994,54 @@
         "twitter": "https://twitter.com/accrue_finance",
         "website": "https://accrue.finance"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6v4qfXy1yWpVEbmK4Juz3iMDdo6EPg5gJm1rtDb2jqVa",
+      "symbol": "RIZE",
+      "name": "RIZE NETWORK TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/abovewallstreet/RIZE-NETWORK/main/assets/RIZE%20NETWORK%20LOGO-blk-500x500.png",
+      "tags": [
+        "utility-token",
+        "NFT-platform",
+        "DAO"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/c9537zpxrt",
+        "telegram": "https://t.me/rizenetwork",
+        "twitter": "https://twitter.com/rizetoken",
+        "website": "https://rizenetwork.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AVkxtqhLSjkP4XjSchmpA9xTrXWvLsVkpiqC9VdUqyQX",
+      "symbol": "DNCS",
+      "name": "Dees Coins",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/attachments/794737676875071500/958158985482096711/LOGO.png?size=4096",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CWintzgasUVMK5YVbnwrNjMEV3Uen6rYYqbXNdXxKqnQ",
+      "symbol": "CWint",
+      "name": "CatchKing Winter Coupon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CWintzgasUVMK5YVbnwrNjMEV3Uen6rYYqbXNdXxKqnQ/icon.png",
+      "tags": [
+        "winter-coupon",
+        "game-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/catchking",
+        "twitter": "https://twitter.com/catch_king",
+        "website": "https://www.catchking.io/"
+      }
     }
   ],
   "version": {
