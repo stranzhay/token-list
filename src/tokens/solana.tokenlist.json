@@ -139024,6 +139024,24 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CWintzgasUVMK5YVbnwrNjMEV3Uen6rYYqbXNdXxKqnQ",
+      "symbol": "CWint",
+      "name": "CatchKing Winter Coupon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CWintzgasUVMK5YVbnwrNjMEV3Uen6rYYqbXNdXxKqnQ/icon.png",
+      "tags": [
+        "winter-coupon",
+        "game-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/catchking",
+        "twitter": "https://twitter.com/catch_king",
+        "website": "https://www.catchking.io/"
+      }
     }
   ],
   "version": {
