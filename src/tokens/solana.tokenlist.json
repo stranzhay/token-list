@@ -139535,6 +139535,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GoDZeDqM8Q7vutygP5MpKYngccUncSYNZch93PPieqbk",
+      "symbol": "GODZ",
+      "name": "GODZ OF SOLARIA WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoDZeDqM8Q7vutygP5MpKYngccUncSYNZch93PPieqbk/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/nft_godz",
+        "website": "https://godznft.com"
+      }
     }
   ],
   "version": {
