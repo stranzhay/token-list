@@ -139348,6 +139348,17 @@
         "twitter": "https://twitter.com/SCpokerclub",
         "website": "http://solcitypoker.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AcK8dJTKvxh9hUhTMLdbsczUTrjfUNHSJ9znTaYDgLVT",
+      "symbol": "SOLCITYPH2",
+      "name": "SolCity Poker Club Phase 2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AcK8dJTKvxh9hUhTMLdbsczUTrjfUNHSJ9znTaYDgLVT/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
