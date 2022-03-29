@@ -139447,6 +139447,17 @@
         "twitter": "https://twitter.com/lootheroesnft",
         "website": "https://lootheroes.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MekadxAsHWBzhJi2FBvadaKzhAdPpsK6MCjmp7579QN",
+      "symbol": "MKX",
+      "name": "Meka X Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MekadxAsHWBzhJi2FBvadaKzhAdPpsK6MCjmp7579QN/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
