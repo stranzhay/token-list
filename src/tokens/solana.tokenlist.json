@@ -139092,6 +139092,36 @@
         "twitter": "https://twitter.com/MadOwlsNFT",
         "website": "https://madowls.art/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GCHK2hkKoQBfoiyChty5kddQNGqodwKwxdr6MYaYVmSn",
+      "symbol": "GLOW",
+      "name": "Glow Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GCHK2hkKoQBfoiyChty5kddQNGqodwKwxdr6MYaYVmSn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AkariLabs",
+        "website": "https://akarilabs.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Em3mRfTT8ZXp1U8eGZKCbrHW6ciBJn5UqaWfHemXnbCd",
+      "symbol": "GVAULT",
+      "name": "Glow Vault Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Em3mRfTT8ZXp1U8eGZKCbrHW6ciBJn5UqaWfHemXnbCd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AkariLabs",
+        "website": "https://akarilabs.io/"
+      }
     }
   ],
   "version": {
