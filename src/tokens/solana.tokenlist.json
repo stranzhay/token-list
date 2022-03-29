@@ -139286,6 +139286,17 @@
       "tags": [
         "WL-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H7oqks8Xi4c4xfKMYzDKKYbAiTrmCGUAi4mja11MjUzv",
+      "symbol": "OBIT",
+      "name": "off bit",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bndsknzlr/off_bit/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
