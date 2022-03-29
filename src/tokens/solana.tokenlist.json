@@ -139251,6 +139251,22 @@
       "extensions": {
         "website": "https://www.sembii.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "REeDoodZrTzXrfH4kyqzznBqwLot1x566St7KPar18g",
+      "symbol": "REEDS",
+      "name": "Reeds",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/HippoAlpha/reedslogo/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/dNKW3qw7Rw",
+        "twitter": "https://twitter.com/RenegadeHippos",
+        "website": "https://www.renegadehippos.com/"
+      }
     }
   ],
   "version": {
