@@ -139013,6 +139013,17 @@
         "twitter": "https://twitter.com/rizetoken",
         "website": "https://rizenetwork.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AVkxtqhLSjkP4XjSchmpA9xTrXWvLsVkpiqC9VdUqyQX",
+      "symbol": "DNCS",
+      "name": "Dees Coins",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/attachments/794737676875071500/958158985482096711/LOGO.png?size=4096",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
