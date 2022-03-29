@@ -139322,6 +139322,60 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BPeXQCaDyL4kU4EU2pTMrBsTKm3ViUkEseWyj9csXMzU",
+      "symbol": "BRIBE",
+      "name": "SPP Bribe Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/virdagreat147/bribe/main/briber.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5FJeUZ6Tn8F6ErCL3NinmpvSqjeFPq6ffvgCYug4r1kL",
+      "symbol": "POKER",
+      "name": "Poker Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5FJeUZ6Tn8F6ErCL3NinmpvSqjeFPq6ffvgCYug4r1kL/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SCpokerclub",
+        "website": "http://solcitypoker.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AcK8dJTKvxh9hUhTMLdbsczUTrjfUNHSJ9znTaYDgLVT",
+      "symbol": "SOLCITYPH2",
+      "name": "SolCity Poker Club Phase 2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AcK8dJTKvxh9hUhTMLdbsczUTrjfUNHSJ9znTaYDgLVT/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CajpcNHraSHMzQevzan2m4Cxwn1u2NHbTupEfQ236uyM",
+      "symbol": "FRFL",
+      "name": "FreeFuel Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/FreeFuelcoin/logo/main/F%20(800%20%C3%97%20800%20px).png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "FreeFuel"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/channels/958429684788518942/958429684788518944",
+        "twitter": "https://twitter.com/FreeFuelCoin"
+      }
     }
   ],
   "version": {
