@@ -139562,6 +139562,17 @@
         "discord": "https://discord.gg/rdPMAqpDRR",
         "twitter": "https://twitter.com/Soul_of_Hidama"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "xPAs8dDnMH4xyehXZfiBVLBCPkbQN358VqrAJtwfnKr",
+      "symbol": "CSA",
+      "name": "Crypto Space Academy",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/casyani/cryptospaceacademy/main/CRYPTOSPACEACADEMY.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
