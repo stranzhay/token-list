@@ -139181,6 +139181,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "PYQXgjSLLSXJqdfNspjqdaJHLAAS9dxSkpxs3srbWkH",
+      "symbol": "CRAB",
+      "name": "Crabcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/undert0wn/crypto/main/crab.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
