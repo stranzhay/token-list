@@ -139237,6 +139237,20 @@
         "twitter": "https://twitter.com/The_Centaurians",
         "website": "https://centaurians.live"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CFJUeSeYQtHgNyzrcmdDFkHmuxh8MPY9kov4GxVsqrhR",
+      "symbol": "SEMBII",
+      "name": "Sembii Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tuvshinorg/Sembii/master/token-logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.sembii.com/"
+      }
     }
   ],
   "version": {
