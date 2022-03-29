@@ -139151,6 +139151,14 @@
       "extensions": {
         "discord": "https://discord.gg/6U6MyKr7pb"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9gmRW9iXfq8VdRjekgMX5tf3m572wofcdyXwrqfo4eZ4",
+      "symbol": "GRDY",
+      "name": "Greedy",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gmRW9iXfq8VdRjekgMX5tf3m572wofcdyXwrqfo4eZ4/GREEDYCOIN-min.png"
     }
   ],
   "version": {
