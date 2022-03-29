@@ -139524,6 +139524,17 @@
         "twitter": "https://twitter.com/SCpokerclub",
         "website": "http://solcitypoker.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Enigfq6hqjVHMZSLBb5NrXaN59k14abZGgtd9CBTpxso",
+      "symbol": "ENIGMA",
+      "name": "Enigma Ventures GEN 2 WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Enigfq6hqjVHMZSLBb5NrXaN59k14abZGgtd9CBTpxso/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
