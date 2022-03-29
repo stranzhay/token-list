@@ -139387,6 +139387,66 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2KKhXL6Ajkhedp9rRNHXen1CzhZnYfonkBno7iVcHpsD",
+      "symbol": "CLOSEDLHMINT",
+      "name": "Loot Heroes' Mint Token Closed WL",
+      "decimals": 0,
+      "logoURI": "https://lootheroes.io/lhminttokencwl.png",
+      "extensions": {
+        "twitter": "https://twitter.com/lootheroesnft",
+        "website": "https://lootheroes.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "46G5mPufPTxteTBqr98yjpePtTrSYdF1jjvR71Ju1mM1",
+      "symbol": "OPENLHMINT",
+      "name": "Loot Heroes' Mint Token Open WL",
+      "decimals": 0,
+      "logoURI": "https://lootheroes.io/lhminttokenowl.png",
+      "extensions": {
+        "twitter": "https://twitter.com/lootheroesnft",
+        "website": "https://lootheroes.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CFowe8TTZgwawPdRggJtAb2GjfCaPDg5qnUY5HP3UJWZ",
+      "symbol": "LHBRONZECHEST",
+      "name": "Loot Heroes' Bronze Chest",
+      "decimals": 0,
+      "logoURI": "https://lootheroes.io/lhbronzechest.png",
+      "extensions": {
+        "twitter": "https://twitter.com/lootheroesnft",
+        "website": "https://lootheroes.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6AierQY71omEf7gbUiwvQJC2Q3vYBgQ3UZojwGtjqb9S",
+      "symbol": "LHSILVERCHEST",
+      "name": "Loot Heroes' Silver Chest",
+      "decimals": 0,
+      "logoURI": "https://lootheroes.io/lhsilverchest.png",
+      "extensions": {
+        "twitter": "https://twitter.com/lootheroesnft",
+        "website": "https://lootheroes.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "A4W75bfTm8YLfR2BwtunZKWxeSzxbKuiMCZgTdGYLvVG",
+      "symbol": "LHGOLDCHEST",
+      "name": "Loot Heroes' Gold Chest",
+      "decimals": 0,
+      "logoURI": "https://lootheroes.io/lhgoldchest.png",
+      "extensions": {
+        "twitter": "https://twitter.com/lootheroesnft",
+        "website": "https://lootheroes.io"
+      }
     }
   ],
   "version": {
