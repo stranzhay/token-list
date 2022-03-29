@@ -139159,6 +139159,17 @@
       "name": "Greedy",
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gmRW9iXfq8VdRjekgMX5tf3m572wofcdyXwrqfo4eZ4/GREEDYCOIN-min.png"
+    },
+    {
+      "chainId": 101,
+      "address": "HBrjj2814WZrB7zrTmkvxUiETG1QqDWCmM5CQAtHL2kF",
+      "symbol": "LAMC",
+      "name": "LamarcaCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/testbughub/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
