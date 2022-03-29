@@ -139469,6 +139469,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "waodAGjWGKKG4bKNdiXpx8sVSCWgwcJh1vt88XLPdib",
+      "symbol": "AODWL",
+      "name": "Age of DeFi Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/waodAGjWGKKG4bKNdiXpx8sVSCWgwcJh1vt88XLPdib/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://ageofdefi.xyz/"
+      }
     }
   ],
   "version": {
