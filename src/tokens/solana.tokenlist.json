@@ -139322,6 +139322,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BPeXQCaDyL4kU4EU2pTMrBsTKm3ViUkEseWyj9csXMzU",
+      "symbol": "BRIBE",
+      "name": "SPP Bribe Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/virdagreat147/bribe/main/briber.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
