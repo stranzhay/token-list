@@ -139076,6 +139076,52 @@
         "website": "https://linktr.ee/rationalasfuck",
         "youtube": "https://www.youtube.com/c/RationalAF"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5KwJTX1iHzYNKjWDqz8d3zMnqAAaVkZhsT3qqPWGSqF6",
+      "symbol": "MOBF",
+      "name": "Bouyant Fairies (A Mad Owls collection)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5KwJTX1iHzYNKjWDqz8d3zMnqAAaVkZhsT3qqPWGSqF6/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/4zv3vhHTUn",
+        "twitter": "https://twitter.com/MadOwlsNFT",
+        "website": "https://madowls.art/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GCHK2hkKoQBfoiyChty5kddQNGqodwKwxdr6MYaYVmSn",
+      "symbol": "GLOW",
+      "name": "Glow Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GCHK2hkKoQBfoiyChty5kddQNGqodwKwxdr6MYaYVmSn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AkariLabs",
+        "website": "https://akarilabs.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Em3mRfTT8ZXp1U8eGZKCbrHW6ciBJn5UqaWfHemXnbCd",
+      "symbol": "GVAULT",
+      "name": "Glow Vault Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Em3mRfTT8ZXp1U8eGZKCbrHW6ciBJn5UqaWfHemXnbCd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AkariLabs",
+        "website": "https://akarilabs.io/"
+      }
     }
   ],
   "version": {
