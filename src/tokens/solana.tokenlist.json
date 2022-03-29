@@ -139494,6 +139494,59 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ECQkERLRgPGW34P5jjLvEGy449qGjq75BinqynBNyCqp",
+      "symbol": "ECOPNT",
+      "name": "ECOpoint",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/juancano57/logos_vortex/main/logos/ECQkERLRgPGW34P5jjLvEGy449qGjq75BinqynBNyCqp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EconomY_Solutio",
+        "website": "https://humanenergysolutions.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8kub6BkBGf3Xd1GhtYvZZoh8KS88gauMSrSBy6iuDw8A",
+      "symbol": "POKER",
+      "name": "SolCity Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8kub6BkBGf3Xd1GhtYvZZoh8KS88gauMSrSBy6iuDw8A/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SCpokerclub",
+        "website": "http://solcitypoker.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Enigfq6hqjVHMZSLBb5NrXaN59k14abZGgtd9CBTpxso",
+      "symbol": "ENIGMA",
+      "name": "Enigma Ventures GEN 2 WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Enigfq6hqjVHMZSLBb5NrXaN59k14abZGgtd9CBTpxso/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GoDZeDqM8Q7vutygP5MpKYngccUncSYNZch93PPieqbk",
+      "symbol": "GODZ",
+      "name": "GODZ OF SOLARIA WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoDZeDqM8Q7vutygP5MpKYngccUncSYNZch93PPieqbk/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/nft_godz",
+        "website": "https://godznft.com"
+      }
     }
   ],
   "version": {
