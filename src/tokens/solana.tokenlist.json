@@ -139359,6 +139359,23 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CajpcNHraSHMzQevzan2m4Cxwn1u2NHbTupEfQ236uyM",
+      "symbol": "FRFL",
+      "name": "FreeFuel Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/FreeFuelcoin/logo/main/F%20(800%20%C3%97%20800%20px).png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "FreeFuel"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/channels/958429684788518942/958429684788518944",
+        "twitter": "https://twitter.com/FreeFuelCoin"
+      }
     }
   ],
   "version": {
