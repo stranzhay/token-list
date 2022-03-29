@@ -138994,6 +138994,25 @@
         "twitter": "https://twitter.com/accrue_finance",
         "website": "https://accrue.finance"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6v4qfXy1yWpVEbmK4Juz3iMDdo6EPg5gJm1rtDb2jqVa",
+      "symbol": "RIZE",
+      "name": "RIZE NETWORK TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/abovewallstreet/RIZE-NETWORK/main/assets/RIZE%20NETWORK%20LOGO-blk-500x500.png",
+      "tags": [
+        "utility-token",
+        "NFT-platform",
+        "DAO"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/c9537zpxrt",
+        "telegram": "https://t.me/rizenetwork",
+        "twitter": "https://twitter.com/rizetoken",
+        "website": "https://rizenetwork.com"
+      }
     }
   ],
   "version": {
