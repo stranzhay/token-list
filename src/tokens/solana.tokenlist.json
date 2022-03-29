@@ -139042,6 +139042,40 @@
         "twitter": "https://twitter.com/catch_king",
         "website": "https://www.catchking.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "rafWuTLdrLuQs1CpAkVsZnerGPto6B7gHU7B12fNa37",
+      "symbol": "RAFDSTK",
+      "name": "RAF Dev Stakereward",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/grzrJ41ji5LtJ0P6iQtOOD5mA49IpXpq6mI9Uao7I8Y",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/W8fra6bABu",
+        "twitter": "https://twitter.com/rationalasf",
+        "website": "https://linktr.ee/rationalasfuck",
+        "youtube": "https://www.youtube.com/c/RationalAF"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "rafbXPy26CD2oavXQQcpLafRVdp3TUamFiPQj3pkGEu",
+      "symbol": "RAFDMNT",
+      "name": "RAF Dev Mint",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/4luPz027xADW_ysqoe9qcy6ooVDgA1hB20bqhktmQYk",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/W8fra6bABu",
+        "twitter": "https://twitter.com/rationalasf",
+        "website": "https://linktr.ee/rationalasfuck",
+        "youtube": "https://www.youtube.com/c/RationalAF"
+      }
     }
   ],
   "version": {
