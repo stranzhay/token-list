@@ -139076,6 +139076,22 @@
         "website": "https://linktr.ee/rationalasfuck",
         "youtube": "https://www.youtube.com/c/RationalAF"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5KwJTX1iHzYNKjWDqz8d3zMnqAAaVkZhsT3qqPWGSqF6",
+      "symbol": "MOBF",
+      "name": "Bouyant Fairies (A Mad Owls collection)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5KwJTX1iHzYNKjWDqz8d3zMnqAAaVkZhsT3qqPWGSqF6/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/4zv3vhHTUn",
+        "twitter": "https://twitter.com/MadOwlsNFT",
+        "website": "https://madowls.art/"
+      }
     }
   ],
   "version": {
