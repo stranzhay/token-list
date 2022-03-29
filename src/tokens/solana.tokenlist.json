@@ -139192,6 +139192,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4hUEY2tvFzKhFUTYnF36fEygktrUmnY1pqaefcVoyf1w",
+      "symbol": "KSC",
+      "name": "Khasla Raj Network",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tjgill1/Khalsa-img/main/khasla.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
