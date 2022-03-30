@@ -140098,6 +140098,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "XzR7CUMqhDBzbAm4aUNvwhVCxjWGn1KEvqTp3Y8fFCD",
+      "symbol": "SCAM",
+      "name": "Scammer Token Beware",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/xxmafiaxxx/doobietokens/main/scam.png",
+      "extensions": {
+        "description": "Scammer Token Beware"
+      }
     }
   ],
   "version": {
