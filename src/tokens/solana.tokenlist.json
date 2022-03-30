@@ -140048,6 +140048,17 @@
       "tags": [
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9xxof1eFbsHsMvrrvU2SZq7xJbjckPMsmZutLBMDnJgJ",
+      "symbol": "SQT",
+      "name": "Sequoia Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SequoiaSan/sequoia_crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
