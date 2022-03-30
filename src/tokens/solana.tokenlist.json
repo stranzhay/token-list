@@ -140193,6 +140193,22 @@
       "tags": [
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H19akeu1XsxLwMFHxfic47H7fpDzHQFnRqT9Y6x4Z1Fn",
+      "symbol": "MT",
+      "name": "Myuta Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/H19akeu1XsxLwMFHxfic47H7fpDzHQFnRqT9Y6x4Z1Fn/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "9THzNrZiF3XNsuuqb9T8gsCGaYnek2Lsg5YKdqMnf8TW",
+      "symbol": "SS",
+      "name": "Space Stone",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/9THzNrZiF3XNsuuqb9T8gsCGaYnek2Lsg5YKdqMnf8TW/logo.png?raw=true"
     }
   ],
   "version": {
