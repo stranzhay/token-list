@@ -140344,6 +140344,47 @@
         "twitter": "https://twitter.com/GangsterZodiacs",
         "website": "https://gangsterzodiacs.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "mongopjRpUgnQQpQFiasgFLyo69YXUwFcw3hyqaN8RL",
+      "symbol": "MONGO",
+      "name": "Mongo",
+      "decimals": 0,
+      "logoURI": "https://mongomons.com/logo-MONGO.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/mongomons",
+        "twitter": "https://twitter.com/Mongomonsol",
+        "website": "https://mongomons.com"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "4CoWi6ptx6UeLTCq8qsbEP7eCmijE8ef1dKuopv993nz",
+      "symbol": "FGDT",
+      "name": "FurrSols Game Demo",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4CoWi6ptx6UeLTCq8qsbEP7eCmijE8ef1dKuopv993nz/logo.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://furrsols.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8E6X9ng5ogUk6SWZUQFoPtZb4jHzTJvqZHxFnPA6UWHj",
+      "symbol": "MTM",
+      "name": "MetaMoney",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8E6X9ng5ogUk6SWZUQFoPtZb4jHzTJvqZHxFnPA6UWHj/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
