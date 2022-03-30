@@ -140284,6 +140284,17 @@
         "facebook": "https://www.facebook.com/groups/hallelujahsunshinecollaborative",
         "twitter": "https://twitter.com/GeneralMayhem15"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AxjUR1RYf2Aj7FThDUQgxa43z3TfXUfUeiNRJcC98dbF",
+      "symbol": "BOOK",
+      "name": "BibliotecaToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BuffaloChikn/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
