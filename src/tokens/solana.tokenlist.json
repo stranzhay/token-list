@@ -139599,6 +139599,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Gns4DFoM98sib6XJSojU2hm7C6jU9qYWLzYu1Z7HAb8E",
+      "symbol": "WCDL",
+      "name": "Wcdolar",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Wcworker/Wcdonalds/main/wcdolar.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/WcdonaldsNFT",
+        "website": "https://wcdonalds.io"
+      }
     }
   ],
   "version": {
