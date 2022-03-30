@@ -139715,6 +139715,23 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BKipkearSqAUdNKa1WDstvcMjoPsSKBuNyvKDQDDu9WE",
+      "symbol": "HAWK",
+      "name": "Hawksight",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BKipkearSqAUdNKa1WDstvcMjoPsSKBuNyvKDQDDu9WE/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/hawksight",
+        "medium": "https://hawksight.medium.com/",
+        "twitter": "https://twitter.com/HawksightCo",
+        "website": "https://hawksight.co/"
+      }
     }
   ],
   "version": {
