@@ -140332,6 +140332,18 @@
       "name": "Cogent Crypto",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CGNT66vj1giPAMy61Ed4g4dq33aSK8xKwzfTBL7WrGov/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2bDQkA2wUC1n8Jihccrwf7w9ZvACp5cntvRzjkdwXF9Y",
+      "symbol": "TFLO",
+      "name": "Time Flow Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4SLMzsWGJLhGKoYPzmfV1b89vQ99ocN3ArSafYUtfDPZ/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/GangsterZodiacs",
+        "website": "https://gangsterzodiacs.io"
+      }
     }
   ],
   "version": {
