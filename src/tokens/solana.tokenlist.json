@@ -139975,6 +139975,17 @@
         "twitter": "https://twitter.com/VortexLab1",
         "website": "https://vortexlab.tech/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EHZquc7EgrNGgkPMDFR2YEaEGeMCZGhe7bhyFLB9t2gY",
+      "symbol": "FATS",
+      "name": "FATS COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EHZquc7EgrNGgkPMDFR2YEaEGeMCZGhe7bhyFLB9t2gY/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
