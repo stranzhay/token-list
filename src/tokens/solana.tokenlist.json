@@ -139949,6 +139949,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3rR5yPNbDwtQDDPijKgADbwwUgowk5YFpPnJzyoMUbCn",
+      "symbol": "MXT",
+      "name": "Max Verstappen Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/VanWilgenburgh/token-list/main/assets/mainnet/3rR5yPNbDwtQDDPijKgADbwwUgowk5YFpPnJzyoMUbCn/max-verstappen-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
