@@ -139869,6 +139869,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CHVV3NwB77oSnBUqRJNeb6F5x6e3xBrYMrbxDDvdSGnu",
+      "symbol": "GRAMZ",
+      "name": "Thugverse GRAMZ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CHVV3NwB77oSnBUqRJNeb6F5x6e3xBrYMrbxDDvdSGnu/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/thugsteadz",
+        "website": "https://thugverse.io"
+      }
     }
   ],
   "version": {
