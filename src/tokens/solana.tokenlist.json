@@ -140015,6 +140015,17 @@
         "twitter": "https://twitter.com/TheAcesNFT",
         "website": "https://www.acessharks.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DizzyWYL4ht1ek8cvLMHYKj9JrgeAL2j2f1F8ZEs5umA",
+      "symbol": "Dizzy",
+      "name": "Dizzy Dracos WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DizzyWYL4ht1ek8cvLMHYKj9JrgeAL2j2f1F8ZEs5umA/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/DizzyDracos_NFT"
+      }
     }
   ],
   "version": {
