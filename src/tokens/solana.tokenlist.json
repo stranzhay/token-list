@@ -139833,6 +139833,17 @@
         "twitter": "https://twitter.com/KaizenCorpsNFT",
         "website": "https://domination.kaizencorps.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FZBgqzZNMT3pnewCsA7TSp4jQp8mTgGxSBZdcpbpAxDy",
+      "symbol": "ICECC",
+      "name": "Ic3 Cult Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/supercharged-audi/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
