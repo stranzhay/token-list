@@ -140002,6 +140002,19 @@
       "extensions": {
         "website": "https://blocksto.ne/blockcoin/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2JBr8X9zABjCbh21t2ZrrWFAT58VRe8jRtaHMPcXqPvo",
+      "symbol": "CARDSHARKSMINT",
+      "name": "ACES Card Sharks Minting Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2JBr8X9zABjCbh21t2ZrrWFAT58VRe8jRtaHMPcXqPvo/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/5gehRmCNem",
+        "twitter": "https://twitter.com/TheAcesNFT",
+        "website": "https://www.acessharks.com/"
+      }
     }
   ],
   "version": {
