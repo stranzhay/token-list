@@ -139795,6 +139795,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "DULsJwz9E49JTkmSHCUifrzNzzMk9qUHaVxna6xA6umt",
+      "symbol": "LYCH",
+      "name": "Lychee Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fungtoken/crypto/main/Lychee.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
