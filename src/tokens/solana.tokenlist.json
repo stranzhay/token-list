@@ -140209,6 +140209,18 @@
       "name": "Space Stone",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/9THzNrZiF3XNsuuqb9T8gsCGaYnek2Lsg5YKdqMnf8TW/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "9A1oPw1md9q3NxqriN5e3U4ofUgEj6C67PnkKPfUHh2j",
+      "symbol": "$",
+      "name": "DAWGZ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/farhan067/degendawgz/main/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/DegenDawgz",
+        "website": "https://www.degendawgz.com/"
+      }
     }
   ],
   "version": {
