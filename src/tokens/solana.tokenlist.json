@@ -140070,6 +140070,23 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2Ln5Qm3kpJR5bZcu6FyNy5ik5htyzE4dvwLm9pWQUCMg",
+      "symbol": "Toon",
+      "name": "The Mintoons Token",
+      "decimals": 8,
+      "logoURI": "https://mintopia.live/tooooon.png",
+      "tags": [
+        "mintopia-token",
+        "community-token",
+        "by-the-mintoons"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheMintoons",
+        "website": "http://mintopia.live/"
+      }
     }
   ],
   "version": {
