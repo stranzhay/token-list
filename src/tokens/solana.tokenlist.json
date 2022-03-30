@@ -139960,6 +139960,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7QAztn6kBapQK5CySjEGtxjg6WijtMbYRZ2ZfRKFwXHN",
+      "symbol": "VRTX",
+      "name": "VortexLab Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/juancano57/logos_vortex/main/logos/7QAztn6kBapQK5CySjEGtxjg6WijtMbYRZ2ZfRKFwXHN/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/VortexLab1",
+        "website": "https://vortexlab.tech/"
+      }
     }
   ],
   "version": {
