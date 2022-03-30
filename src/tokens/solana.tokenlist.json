@@ -140360,6 +140360,20 @@
         "twitter": "https://twitter.com/Mongomonsol",
         "website": "https://mongomons.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "4CoWi6ptx6UeLTCq8qsbEP7eCmijE8ef1dKuopv993nz",
+      "symbol": "FGDT",
+      "name": "FurrSols Game Demo",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4CoWi6ptx6UeLTCq8qsbEP7eCmijE8ef1dKuopv993nz/logo.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://furrsols.io/"
+      }
     }
   ],
   "version": {
