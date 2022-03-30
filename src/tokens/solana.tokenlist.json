@@ -139844,6 +139844,31 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "9mqG8psqZdyXfuNY2RTNb9Ypc9ydfke6kLYhy1t4ErU9",
+      "symbol": "S_TOKEN",
+      "name": "Solana token on devnet",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh/1111-1993/S_TOKEN/generation_2.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/NhX5EzH4"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AifYDLtk3vx4b4vFGckkwMoFtXQTcATYZnU3JF6oDgo2",
+      "symbol": "PRE",
+      "name": "Pierre token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AifYDLtk3vx4b4vFGckkwMoFtXQTcATYZnU3JF6oDgo2/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
