@@ -139682,6 +139682,17 @@
       "name": "AAApoc",
       "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/solalchemist/mymetaplex/master/AAA...png"
+    },
+    {
+      "chainId": 101,
+      "address": "GLUVc3V1Auq6rR8x3kfH28VFrpwZ8mD8qhd6GsK743Vq",
+      "symbol": "Down",
+      "name": "AREYOUDOWN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/undert0wn/crypto/main/down.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
