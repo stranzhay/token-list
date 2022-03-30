@@ -140087,6 +140087,17 @@
         "twitter": "https://twitter.com/TheMintoons",
         "website": "http://mintopia.live/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HZPbfecX6T6wYShH2Y4DTpCFZ3vBmZVpujYyq3g3uEpM",
+      "symbol": "JEO",
+      "name": "JEO Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nicholhai/crypto-jeocoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
