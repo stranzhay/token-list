@@ -139960,6 +139960,94 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7QAztn6kBapQK5CySjEGtxjg6WijtMbYRZ2ZfRKFwXHN",
+      "symbol": "VRTX",
+      "name": "VortexLab Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/juancano57/logos_vortex/main/logos/7QAztn6kBapQK5CySjEGtxjg6WijtMbYRZ2ZfRKFwXHN/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/VortexLab1",
+        "website": "https://vortexlab.tech/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EHZquc7EgrNGgkPMDFR2YEaEGeMCZGhe7bhyFLB9t2gY",
+      "symbol": "FATS",
+      "name": "FATS COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EHZquc7EgrNGgkPMDFR2YEaEGeMCZGhe7bhyFLB9t2gY/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FFAhu8UWFQzCg7kfib54hhVuxF6a5zGztNYVTcbQ43n9",
+      "symbol": "EuroStableCoin",
+      "name": "Blockcoin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FFAhu8UWFQzCg7kfib54hhVuxF6a5zGztNYVTcbQ43n9/blockPNG.png",
+      "tags": [
+        "stable-coin",
+        "USD-coin-based",
+        "USDC"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/blockcoin/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2JBr8X9zABjCbh21t2ZrrWFAT58VRe8jRtaHMPcXqPvo",
+      "symbol": "CARDSHARKSMINT",
+      "name": "ACES Card Sharks Minting Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2JBr8X9zABjCbh21t2ZrrWFAT58VRe8jRtaHMPcXqPvo/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/5gehRmCNem",
+        "twitter": "https://twitter.com/TheAcesNFT",
+        "website": "https://www.acessharks.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DizzyWYL4ht1ek8cvLMHYKj9JrgeAL2j2f1F8ZEs5umA",
+      "symbol": "Dizzy",
+      "name": "Dizzy Dracos WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DizzyWYL4ht1ek8cvLMHYKj9JrgeAL2j2f1F8ZEs5umA/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/DizzyDracos_NFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ATTF58JfFUHZktZXyV6aCTwHVCYzPuZBg2hma7J7Ao7n",
+      "symbol": "ATMT",
+      "name": "Atlaria Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATTF58JfFUHZktZXyV6aCTwHVCYzPuZBg2hma7J7Ao7n/logo.png",
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GFTYCJzCuQXuzPoZCbVkqVtFBwDdRhQHEe2w6QA36z4Y",
+      "symbol": "GOMT",
+      "name": "Goofiez Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GFTYCJzCuQXuzPoZCbVkqVtFBwDdRhQHEe2w6QA36z4Y/logo.png",
+      "tags": [
+        "NFT"
+      ]
     }
   ],
   "version": {
