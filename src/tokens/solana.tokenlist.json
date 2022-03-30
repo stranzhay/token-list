@@ -139913,6 +139913,17 @@
         "social-token",
         "currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5fcJtoNNCpK6t93btzxbGknZLiU6JnZJyG3xp1SgMDLr",
+      "symbol": "CRONDO",
+      "name": "Crondo",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/crondo/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
