@@ -139938,6 +139938,17 @@
       "extensions": {
         "discord": "https://discord.gg/ZEMKFhxbSH"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7SK32s1JahGje7ETn8WejpByJzoBZfSgeMnQTE6Kzb6u",
+      "symbol": "FKCWL",
+      "name": "FUNKYCOINWL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7SK32s1JahGje7ETn8WejpByJzoBZfSgeMnQTE6Kzb6u/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
