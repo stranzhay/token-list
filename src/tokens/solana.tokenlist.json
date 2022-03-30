@@ -140414,6 +140414,14 @@
         "website": "https://zap.org",
         "whitepaper": "https://app.zap.org/docs/overview"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "737U8hYA69cgaN1MudTz4oH2wAPTwvBcQu8PezW2h4Bn",
+      "symbol": "USSTT",
+      "name": "Unicord Staking System Test Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/737U8hYA69cgaN1MudTz4oH2wAPTwvBcQu8PezW2h4Bn/logo.png"
     }
   ],
   "version": {
