@@ -139924,6 +139924,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7A18J1UHY956Jh9GgVesHttwHSFWMXB3r8oK7T7SQf4b",
+      "symbol": "PURGE",
+      "name": "Purging Pandas",
+      "decimals": 6,
+      "logoURI": "https://github.com/SaltyPickleNFT/assets/blob/main/%24PURGE%20COIN.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ZEMKFhxbSH"
+      }
     }
   ],
   "version": {
