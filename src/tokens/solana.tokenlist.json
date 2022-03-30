@@ -140182,6 +140182,17 @@
       "extensions": {
         "website": "https://twitter.com/novamindnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GFoYxfK7AowBTtCe7m2ZzhouL9BvLHBT2JsvNd2FqQwE",
+      "symbol": "GOGMT",
+      "name": "Goofiez OG Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GFTYCJzCuQXuzPoZCbVkqVtFBwDdRhQHEe2w6QA36z4Y/logo.png",
+      "tags": [
+        "NFT"
+      ]
     }
   ],
   "version": {
