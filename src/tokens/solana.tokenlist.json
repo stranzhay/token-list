@@ -140048,6 +140048,67 @@
       "tags": [
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9xxof1eFbsHsMvrrvU2SZq7xJbjckPMsmZutLBMDnJgJ",
+      "symbol": "SQT",
+      "name": "Sequoia Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SequoiaSan/sequoia_crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7pvmfggcaXWrja1TYWrsanMe2MDJe1MZt45r26vhGbQ3",
+      "symbol": "YOSH",
+      "name": "YoshCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7pvmfggcaXWrja1TYWrsanMe2MDJe1MZt45r26vhGbQ3/logo.JPG",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2Ln5Qm3kpJR5bZcu6FyNy5ik5htyzE4dvwLm9pWQUCMg",
+      "symbol": "Toon",
+      "name": "The Mintoons Token",
+      "decimals": 8,
+      "logoURI": "https://mintopia.live/tooooon.png",
+      "tags": [
+        "mintopia-token",
+        "community-token",
+        "by-the-mintoons"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheMintoons",
+        "website": "http://mintopia.live/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HZPbfecX6T6wYShH2Y4DTpCFZ3vBmZVpujYyq3g3uEpM",
+      "symbol": "JEO",
+      "name": "JEO Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nicholhai/crypto-jeocoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "XzR7CUMqhDBzbAm4aUNvwhVCxjWGn1KEvqTp3Y8fFCD",
+      "symbol": "SCAM",
+      "name": "Scammer Token Beware",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/xxmafiaxxx/doobietokens/main/scam.png",
+      "extensions": {
+        "description": "Scammer Token Beware"
+      }
     }
   ],
   "version": {
