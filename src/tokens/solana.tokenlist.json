@@ -139732,6 +139732,17 @@
         "twitter": "https://twitter.com/HawksightCo",
         "website": "https://hawksight.co/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4tGKW2J2owiNLb8y4cvEUcQkgVBY48XshzLqtYLaRXD9",
+      "symbol": "SSI",
+      "name": "SSI Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SolusiStartup/SSI-Token/main/ssi-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
