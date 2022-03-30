@@ -139806,6 +139806,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5vwQYD5PobkeJJX6QwPhfbNBwPpaUZTd4b68yZWf1JqB",
+      "symbol": "SUC",
+      "name": "SOUIL COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SouilCapTn/SOUILCOIN/main/SOUILCOIN.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
