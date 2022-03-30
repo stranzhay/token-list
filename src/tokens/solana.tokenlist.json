@@ -140344,6 +140344,22 @@
         "twitter": "https://twitter.com/GangsterZodiacs",
         "website": "https://gangsterzodiacs.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "mongopjRpUgnQQpQFiasgFLyo69YXUwFcw3hyqaN8RL",
+      "symbol": "MONGO",
+      "name": "Mongo",
+      "decimals": 0,
+      "logoURI": "https://mongomons.com/logo-MONGO.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/mongomons",
+        "twitter": "https://twitter.com/Mongomonsol",
+        "website": "https://mongomons.com"
+      }
     }
   ],
   "version": {
