@@ -140430,6 +140430,20 @@
       "name": "Infomo Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GMeqxdPtZvwj9rmrCLqdB2MAeJXjmRPnRrgpDLpVqKCh/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ANco2d62WU8D6PqkPh8NRTQitHmACRhbvRsCVud3aqbE",
+      "symbol": "ANCO",
+      "name": "Ancora WL Pass Official",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ANco2d62WU8D6PqkPh8NRTQitHmACRhbvRsCVud3aqbE/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AncoraPay"
+      }
     }
   ],
   "version": {
