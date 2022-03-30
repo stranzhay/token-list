@@ -140209,6 +140209,54 @@
       "name": "Space Stone",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/9THzNrZiF3XNsuuqb9T8gsCGaYnek2Lsg5YKdqMnf8TW/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "9A1oPw1md9q3NxqriN5e3U4ofUgEj6C67PnkKPfUHh2j",
+      "symbol": "$",
+      "name": "DAWGZ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/farhan067/degendawgz/main/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/DegenDawgz",
+        "website": "https://www.degendawgz.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HUtSa4eT4ccqPU2SMwwAawHJGQoaAvgqwb65CRA8QycZ",
+      "symbol": "amUSDC",
+      "name": "Accrue MAX USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUtSa4eT4ccqPU2SMwwAawHJGQoaAvgqwb65CRA8QycZ/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/accrue_finance",
+        "website": "https://accrue.finance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "77WGHdztShHUje2YTSy5peuHPMspvWzAg1WVemzC7B6g",
+      "symbol": "amSOL",
+      "name": "Accrue MAX SOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/77WGHdztShHUje2YTSy5peuHPMspvWzAg1WVemzC7B6g/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/accrue_finance",
+        "website": "https://accrue.finance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4SLMzsWGJLhGKoYPzmfV1b89vQ99ocN3ArSafYUtfDPZ",
+      "symbol": "amBTC",
+      "name": "Accrue MAX BTC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4SLMzsWGJLhGKoYPzmfV1b89vQ99ocN3ArSafYUtfDPZ/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/accrue_finance",
+        "website": "https://accrue.finance"
+      }
     }
   ],
   "version": {
