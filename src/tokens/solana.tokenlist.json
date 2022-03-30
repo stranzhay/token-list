@@ -139588,6 +139588,51 @@
         "twitter": "https://twitter.com/dhlegends",
         "website": "https://www.diamondhandlegends.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "tstu5tiwUgG8CVyz1YAYmeNkVcQ5QxojuYLiCnXhHtz",
+      "symbol": "$testSPS",
+      "name": "test sps token on devnet",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tstu5tiwUgG8CVyz1YAYmeNkVcQ5QxojuYLiCnXhHtz/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Gns4DFoM98sib6XJSojU2hm7C6jU9qYWLzYu1Z7HAb8E",
+      "symbol": "WCDL",
+      "name": "Wcdolar",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Wcworker/Wcdonalds/main/wcdolar.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/WcdonaldsNFT",
+        "website": "https://wcdonalds.io"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "SEobhtZX5eVTpHBKcysxqnMfr6msFWtGzQeYX7cTSmW",
+      "symbol": "$TEST",
+      "name": "TEST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SEobhtZX5eVTpHBKcysxqnMfr6msFWtGzQeYX7cTSmW/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6u1HdBCs2Xsh1xr5PNKfoSKnHGHSoYxR5pqzAAzwCAMT",
+      "symbol": "MSCT",
+      "name": "Metascape City",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6u1HdBCs2Xsh1xr5PNKfoSKnHGHSoYxR5pqzAAzwCAMT/logo520x520.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
