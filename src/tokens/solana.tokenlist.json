@@ -139633,6 +139633,18 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2NWB5P7ZftECLAgPHH4weQdDruGf239AQ9hG2gmxucmd",
+      "symbol": "DAIS",
+      "name": "DaisyDOLLAR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2NWB5P7ZftECLAgPHH4weQdDruGf239AQ9hG2gmxucmd/logo.png",
+      "tags": [
+        "social-token",
+        "currency"
+      ]
     }
   ],
   "version": {
