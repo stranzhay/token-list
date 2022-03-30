@@ -139622,6 +139622,17 @@
       "name": "TEST",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SEobhtZX5eVTpHBKcysxqnMfr6msFWtGzQeYX7cTSmW/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6u1HdBCs2Xsh1xr5PNKfoSKnHGHSoYxR5pqzAAzwCAMT",
+      "symbol": "MSCT",
+      "name": "Metascape City",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6u1HdBCs2Xsh1xr5PNKfoSKnHGHSoYxR5pqzAAzwCAMT/logo520x520.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
