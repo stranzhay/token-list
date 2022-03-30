@@ -139645,6 +139645,24 @@
         "social-token",
         "currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7zSTEvkJ21NJzi4FJwVvg3VuSX38B6cWVAzRkDjHbzwJ",
+      "symbol": "QORBI",
+      "name": "Qorbi Coin",
+      "decimals": 9,
+      "logoURI": "https://qbaby-web-assets.s3.amazonaws.com/qorbicoin.png",
+      "tags": [
+        "community-token",
+        "game-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/9Rv4nwxx5Y",
+        "medium": "https://qorbaby.medium.com/",
+        "twitter": "https://twitter.com/QorBaby",
+        "website": "https://www.qorbaby.com/"
+      }
     }
   ],
   "version": {
