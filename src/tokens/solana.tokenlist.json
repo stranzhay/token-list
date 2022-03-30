@@ -139674,6 +139674,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "7bGxwtDyr9b5Hp2wk5Usvc1i5GFADXy5XaoM6tZQRnkP",
+      "symbol": "AAA",
+      "name": "AAApoc",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solalchemist/mymetaplex/master/AAA...png"
     }
   ],
   "version": {
