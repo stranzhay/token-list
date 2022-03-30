@@ -139986,6 +139986,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FFAhu8UWFQzCg7kfib54hhVuxF6a5zGztNYVTcbQ43n9",
+      "symbol": "EuroStableCoin",
+      "name": "Blockcoin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FFAhu8UWFQzCg7kfib54hhVuxF6a5zGztNYVTcbQ43n9/blockPNG.png",
+      "tags": [
+        "stable-coin",
+        "USD-coin-based",
+        "USDC"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/blockcoin/"
+      }
     }
   ],
   "version": {
