@@ -140455,6 +140455,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "5vPqJAtSeRqbu7ZUZZT4Q1uksDuVjDc8URe75wga4RYk",
+      "symbol": "TKE",
+      "name": "TOKELIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tokealin/tokelin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
