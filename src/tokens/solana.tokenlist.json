@@ -139784,6 +139784,17 @@
       "extensions": {
         "website": "http://home.solr.space/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FNpCzhQy5NZgEbmcJLedQebpRKRvw8sBGizhYj1uifGX",
+      "symbol": "BREAD",
+      "name": "DDAC Bread",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/TreeBurgers/DDAC/main/Token.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
