@@ -139693,6 +139693,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Cornwa1ifRukcEgGmipzrcDDqdksQ34hh9Ca4ukn9tet",
+      "symbol": "TBFWL",
+      "name": "The Big Five Official WHITELIST Token",
+      "decimals": 0,
+      "logoURI": "https://user-images.githubusercontent.com/89742297/160547178-746b2b27-85ff-4ccc-b766-f34a0e012a9d.jpg",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GrBqg7aZGVbj3LXu2Lhsewnq5uYfxs9VcXx8La4fKWf3",
+      "symbol": "TBFPRE",
+      "name": "The Big Five Official PREMINT Token",
+      "decimals": 0,
+      "logoURI": "https://user-images.githubusercontent.com/89742297/160547178-746b2b27-85ff-4ccc-b766-f34a0e012a9d.jpg",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
