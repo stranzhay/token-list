@@ -139770,6 +139770,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "VGZw5mKqnaoHafA8kRWX1CZCRF2Etjr4EKnZJuVguot",
+      "symbol": "SOLR",
+      "name": "Solana Ray",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/VGZw5mKqnaoHafA8kRWX1CZCRF2Etjr4EKnZJuVguot/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://home.solr.space/"
+      }
     }
   ],
   "version": {
