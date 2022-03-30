@@ -139913,6 +139913,53 @@
         "social-token",
         "currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5fcJtoNNCpK6t93btzxbGknZLiU6JnZJyG3xp1SgMDLr",
+      "symbol": "CRONDO",
+      "name": "Crondo",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/crondo/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7A18J1UHY956Jh9GgVesHttwHSFWMXB3r8oK7T7SQf4b",
+      "symbol": "PURGE",
+      "name": "Purging Pandas",
+      "decimals": 6,
+      "logoURI": "https://github.com/SaltyPickleNFT/assets/blob/main/%24PURGE%20COIN.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ZEMKFhxbSH"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7SK32s1JahGje7ETn8WejpByJzoBZfSgeMnQTE6Kzb6u",
+      "symbol": "FKCWL",
+      "name": "FUNKYCOINWL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7SK32s1JahGje7ETn8WejpByJzoBZfSgeMnQTE6Kzb6u/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3rR5yPNbDwtQDDPijKgADbwwUgowk5YFpPnJzyoMUbCn",
+      "symbol": "MXT",
+      "name": "Max Verstappen Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/VanWilgenburgh/token-list/main/assets/mainnet/3rR5yPNbDwtQDDPijKgADbwwUgowk5YFpPnJzyoMUbCn/max-verstappen-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
