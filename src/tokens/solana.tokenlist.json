@@ -140324,6 +140324,14 @@
         "medium": "https://medium.com/@alyax_inc",
         "twitter": "https://twitter.com/AlyaxV3rse_NFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGNT66vj1giPAMy61Ed4g4dq33aSK8xKwzfTBL7WrGov",
+      "symbol": "CGNT",
+      "name": "Cogent Crypto",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CGNT66vj1giPAMy61Ed4g4dq33aSK8xKwzfTBL7WrGov/logo.png"
     }
   ],
   "version": {
