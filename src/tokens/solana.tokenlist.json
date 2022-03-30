@@ -139663,6 +139663,17 @@
         "twitter": "https://twitter.com/QorBaby",
         "website": "https://www.qorbaby.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AeZWihQPDF9KajjMKpWnSZnZeLNVXVov33wkbchZ4SWL",
+      "symbol": "MIND",
+      "name": "MINDcoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/J62F7/Token-Logos/main/mind2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
