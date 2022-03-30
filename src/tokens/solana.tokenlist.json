@@ -139614,6 +139614,14 @@
         "twitter": "https://twitter.com/WcdonaldsNFT",
         "website": "https://wcdonalds.io"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "SEobhtZX5eVTpHBKcysxqnMfr6msFWtGzQeYX7cTSmW",
+      "symbol": "$TEST",
+      "name": "TEST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SEobhtZX5eVTpHBKcysxqnMfr6msFWtGzQeYX7cTSmW/logo.png"
     }
   ],
   "version": {
