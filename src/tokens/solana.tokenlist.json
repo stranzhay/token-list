@@ -140109,6 +140109,23 @@
       "extensions": {
         "description": "Scammer Token Beware"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "sFA2de5kRsAmCev2WAoPCXbCKEd1ZwkvJ3MxPMojw9h",
+      "symbol": "RUM",
+      "name": "Dope Pirates RUM",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sFA2de5kRsAmCev2WAoPCXbCKEd1ZwkvJ3MxPMojw9h/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/dopepirates",
+        "twitter": "https://twitter.com/dopepirates",
+        "website": "https://dopepirates.io/"
+      }
     }
   ],
   "version": {
