@@ -139759,6 +139759,17 @@
         "twitter": "https://twitter.com/glight_network",
         "website": "https://glight.network/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4nonTGa2WJZWy9MzmYSWZ6dpTmE3TNmDube2dyD9Q82A",
+      "symbol": "SRCM",
+      "name": "SourCream Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SourCreamCulture/crypto-coin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
