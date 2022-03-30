@@ -139901,6 +139901,18 @@
         "medium": "https://medium.com/@phutthisarn",
         "twitter": "https://twitter.com/earthphutthi"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9MRmp2eANQNMfyKAxwG4VknRKN2ojpwhCVYMr18yaCJ5",
+      "symbol": "DONE",
+      "name": "Only stop after when you are DONE",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/R9XL7FC/done.png",
+      "tags": [
+        "social-token",
+        "currency"
+      ]
     }
   ],
   "version": {
