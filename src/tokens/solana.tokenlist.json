@@ -140126,6 +140126,40 @@
         "twitter": "https://twitter.com/dopepirates",
         "website": "https://dopepirates.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2wwQpwaPjwJTfuJuPBkUZVfLJPbhsKHEbVqhVSviq7wd",
+      "symbol": "$TNBzWL",
+      "name": "TinyBear WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wwQpwaPjwJTfuJuPBkUZVfLJPbhsKHEbVqhVSviq7wd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.io/tinybear_nft",
+        "telegram": "https://t.me/tinybear_nft",
+        "twitter": "https://twitter.com/tinybear_nft",
+        "website": "https://tinybearnft.net"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9pbVhTQbnM8ho5kwqr21EhWVehd1PfBt8tyBxeH2ttmz",
+      "symbol": "$TNB",
+      "name": "TinyBear Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9pbVhTQbnM8ho5kwqr21EhWVehd1PfBt8tyBxeH2ttmz/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.io/tinybear_nft",
+        "telegram": "https://t.me/tinybear_nft",
+        "twitter": "https://twitter.com/tinybear_nft",
+        "website": "https://tinybearnft.net"
+      }
     }
   ],
   "version": {
