@@ -139884,6 +139884,35 @@
         "twitter": "https://twitter.com/thugsteadz",
         "website": "https://thugverse.io"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "HPjF6kgyyfRpPkSaC9NNkKPwTrwePzM3R8WRRJQxgeSb",
+      "symbol": "CGU",
+      "name": "CGU Test",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HPjF6kgyyfRpPkSaC9NNkKPwTrwePzM3R8WRRJQxgeSb/logo.png",
+      "tags": [
+        "meme-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "medium": "https://medium.com/@phutthisarn",
+        "twitter": "https://twitter.com/earthphutthi"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9MRmp2eANQNMfyKAxwG4VknRKN2ojpwhCVYMr18yaCJ5",
+      "symbol": "DONE",
+      "name": "Only stop after when you are DONE",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/R9XL7FC/done.png",
+      "tags": [
+        "social-token",
+        "currency"
+      ]
     }
   ],
   "version": {
