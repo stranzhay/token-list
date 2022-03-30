@@ -140422,6 +140422,14 @@
       "name": "Unicord Staking System Test Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/737U8hYA69cgaN1MudTz4oH2wAPTwvBcQu8PezW2h4Bn/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GMeqxdPtZvwj9rmrCLqdB2MAeJXjmRPnRrgpDLpVqKCh",
+      "symbol": "INFOMO",
+      "name": "Infomo Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GMeqxdPtZvwj9rmrCLqdB2MAeJXjmRPnRrgpDLpVqKCh/logo.png"
     }
   ],
   "version": {
