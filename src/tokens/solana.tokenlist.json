@@ -140385,6 +140385,35 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HxPoEHMt1vKeqjKCePcqTj6yYgn6Xqq1fKTY3Pjx4YrX",
+      "symbol": "ZAP",
+      "name": "ZAP Token",
+      "decimals": 8,
+      "logoURI": "https://www.zap.org/static/zapSplash.svg",
+      "tags": [
+        "whitelist-token",
+        "utility-token",
+        "community-token",
+        "nft"
+      ],
+      "extensions": {
+        "coingeckoId": "zap",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/zap",
+        "description": "Zap is building critical infrastructure to power the next wave of decentralized applications.",
+        "discord": "https://discord.gg/pvHzemX",
+        "facebook": "https://www.facebook.com/ZapProtocol",
+        "instagram": "https://www.instagram.com/zapprotocol",
+        "linkedin": "https://www.linkedin.com/company/zapprotocol",
+        "medium": "https://medium.com/the-zap-project",
+        "reddit": "https://www.reddit.com/r/ZapProtocol",
+        "telegram": "https://t.me/ZapOracles",
+        "twitter": "https://twitter.com/ZapProtocol",
+        "website": "https://zap.org",
+        "whitepaper": "https://app.zap.org/docs/overview"
+      }
     }
   ],
   "version": {
