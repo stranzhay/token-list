@@ -139588,6 +139588,17 @@
         "twitter": "https://twitter.com/dhlegends",
         "website": "https://www.diamondhandlegends.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "tstu5tiwUgG8CVyz1YAYmeNkVcQ5QxojuYLiCnXhHtz",
+      "symbol": "$testSPS",
+      "name": "test sps token on devnet",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tstu5tiwUgG8CVyz1YAYmeNkVcQ5QxojuYLiCnXhHtz/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
