@@ -139573,6 +139573,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5MH6q9ZFcLkMp4SYqDCq36QmyWBigmShrQjZrjYd1F2d",
+      "symbol": "DHLD",
+      "name": "Diamond Hand: Legends",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5MH6q9ZFcLkMp4SYqDCq36QmyWBigmShrQjZrjYd1F2d/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dhlegends",
+        "website": "https://www.diamondhandlegends.com"
+      }
     }
   ],
   "version": {
