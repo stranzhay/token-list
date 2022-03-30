@@ -140295,6 +140295,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EPiVDJNJtQV5sU8GoNJmGY4uj5g447hy5ea8MvzTvkSU",
+      "symbol": "LAN",
+      "name": "LoveAsNFT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rashkomi/Crypto/main/LAN.png",
+      "tags": [
+        "NFT"
+      ]
     }
   ],
   "version": {
