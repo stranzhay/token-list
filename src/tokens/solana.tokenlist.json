@@ -139715,6 +139715,108 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BKipkearSqAUdNKa1WDstvcMjoPsSKBuNyvKDQDDu9WE",
+      "symbol": "HAWK",
+      "name": "Hawksight",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BKipkearSqAUdNKa1WDstvcMjoPsSKBuNyvKDQDDu9WE/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/hawksight",
+        "medium": "https://hawksight.medium.com/",
+        "twitter": "https://twitter.com/HawksightCo",
+        "website": "https://hawksight.co/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4tGKW2J2owiNLb8y4cvEUcQkgVBY48XshzLqtYLaRXD9",
+      "symbol": "SSI",
+      "name": "SSI Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SolusiStartup/SSI-Token/main/ssi-logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5PE8Y5PPfZgVB4Ak6vLV9K2iBzovCKPwpLZrJZgaXWpR",
+      "symbol": "GLI",
+      "name": "Green Light Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/gintarastamosiunas/Assets/main/Gtokenlogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "medium": "https://medium.com/@glight.network",
+        "twitter": "https://twitter.com/glight_network",
+        "website": "https://glight.network/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4nonTGa2WJZWy9MzmYSWZ6dpTmE3TNmDube2dyD9Q82A",
+      "symbol": "SRCM",
+      "name": "SourCream Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SourCreamCulture/crypto-coin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "VGZw5mKqnaoHafA8kRWX1CZCRF2Etjr4EKnZJuVguot",
+      "symbol": "SOLR",
+      "name": "Solana Ray",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/VGZw5mKqnaoHafA8kRWX1CZCRF2Etjr4EKnZJuVguot/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://home.solr.space/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FNpCzhQy5NZgEbmcJLedQebpRKRvw8sBGizhYj1uifGX",
+      "symbol": "BREAD",
+      "name": "DDAC Bread",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/TreeBurgers/DDAC/main/Token.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "DULsJwz9E49JTkmSHCUifrzNzzMk9qUHaVxna6xA6umt",
+      "symbol": "LYCH",
+      "name": "Lychee Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fungtoken/crypto/main/Lychee.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5vwQYD5PobkeJJX6QwPhfbNBwPpaUZTd4b68yZWf1JqB",
+      "symbol": "SUC",
+      "name": "SOUIL COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SouilCapTn/SOUILCOIN/main/SOUILCOIN.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
