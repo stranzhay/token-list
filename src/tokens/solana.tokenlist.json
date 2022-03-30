@@ -140026,6 +140026,28 @@
       "extensions": {
         "twitter": "https://twitter.com/DizzyDracos_NFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ATTF58JfFUHZktZXyV6aCTwHVCYzPuZBg2hma7J7Ao7n",
+      "symbol": "ATMT",
+      "name": "Atlaria Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATTF58JfFUHZktZXyV6aCTwHVCYzPuZBg2hma7J7Ao7n/logo.png",
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GFTYCJzCuQXuzPoZCbVkqVtFBwDdRhQHEe2w6QA36z4Y",
+      "symbol": "GOMT",
+      "name": "Goofiez Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GFTYCJzCuQXuzPoZCbVkqVtFBwDdRhQHEe2w6QA36z4Y/logo.png",
+      "tags": [
+        "NFT"
+      ]
     }
   ],
   "version": {
