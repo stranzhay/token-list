@@ -140385,6 +140385,76 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HxPoEHMt1vKeqjKCePcqTj6yYgn6Xqq1fKTY3Pjx4YrX",
+      "symbol": "ZAP",
+      "name": "ZAP Token",
+      "decimals": 8,
+      "logoURI": "https://www.zap.org/static/zapSplash.svg",
+      "tags": [
+        "whitelist-token",
+        "utility-token",
+        "community-token",
+        "nft"
+      ],
+      "extensions": {
+        "coingeckoId": "zap",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/zap",
+        "description": "Zap is building critical infrastructure to power the next wave of decentralized applications.",
+        "discord": "https://discord.gg/pvHzemX",
+        "facebook": "https://www.facebook.com/ZapProtocol",
+        "instagram": "https://www.instagram.com/zapprotocol",
+        "linkedin": "https://www.linkedin.com/company/zapprotocol",
+        "medium": "https://medium.com/the-zap-project",
+        "reddit": "https://www.reddit.com/r/ZapProtocol",
+        "telegram": "https://t.me/ZapOracles",
+        "twitter": "https://twitter.com/ZapProtocol",
+        "website": "https://zap.org",
+        "whitepaper": "https://app.zap.org/docs/overview"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "737U8hYA69cgaN1MudTz4oH2wAPTwvBcQu8PezW2h4Bn",
+      "symbol": "USSTT",
+      "name": "Unicord Staking System Test Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/737U8hYA69cgaN1MudTz4oH2wAPTwvBcQu8PezW2h4Bn/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GMeqxdPtZvwj9rmrCLqdB2MAeJXjmRPnRrgpDLpVqKCh",
+      "symbol": "INFOMO",
+      "name": "Infomo Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GMeqxdPtZvwj9rmrCLqdB2MAeJXjmRPnRrgpDLpVqKCh/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ANco2d62WU8D6PqkPh8NRTQitHmACRhbvRsCVud3aqbE",
+      "symbol": "ANCO",
+      "name": "Ancora WL Pass Official",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ANco2d62WU8D6PqkPh8NRTQitHmACRhbvRsCVud3aqbE/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AncoraPay"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "9h5PJj8zMDXLL31xzwazM86tnmQe3j1SmnQ4X3D13Y8K",
+      "symbol": "ENCS",
+      "name": "Encore Smile",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fungtoken/EncoreSmile/main/SmileUpv3.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
