@@ -140941,6 +140941,22 @@
       "extensions": {
         "twitter": "https://twitter.com/_qudo"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "S8v4cS7dnKzV6LYvzFPuuiWQMM4KSz7URuGYWMGXyTG",
+      "symbol": "VERSE",
+      "name": "Verse Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/S8v4cS7dnKzV6LYvzFPuuiWQMM4KSz7URuGYWMGXyTG/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7AR7gh4b",
+        "twitter": "https://twitter.com/solarity_VR",
+        "website": "https://www.solarity.xyz"
+      }
     }
   ],
   "version": {
