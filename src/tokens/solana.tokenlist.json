@@ -140569,6 +140569,17 @@
         "twitter": "https://twitter.com/GangsterZodiacs",
         "website": "https://gangsterzodiacs.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6hWf9DXxUu9cjSw63mnyrkrpXinxiQ1BogFRPskpoNNh",
+      "symbol": "SLYA",
+      "name": "Solely Authentic",
+      "decimals": 0,
+      "logoURI": "https://github.dev/sa22198/token-list/blob/74157b1b4fa26a3def590e5e51e8e5a30fcad89f/assets/mainnet/6hWf9DXxUu9cjSw63mnyrkrpXinxiQ1BogFRPskpoNNh/solelya2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
