@@ -140529,6 +140529,46 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HPjF6kgyyfRpPkSaC9NNkKPwTrwePzM3R8WRRJQxgeSb",
+      "symbol": "CGU",
+      "name": "CGU Test",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HPjF6kgyyfRpPkSaC9NNkKPwTrwePzM3R8WRRJQxgeSb/logo.png",
+      "tags": [
+        "meme-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "medium": "https://medium.com/@phutthisarn",
+        "twitter": "https://twitter.com/earthphutthi"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "skuLLY6NHFrjL3oGpWMrrwjCfWMSvwp6AD7resMF9m7",
+      "symbol": "SUMMON",
+      "name": "Skullbots",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Neurologist/assets/main/summon.png"
+    },
+    {
+      "chainId": 101,
+      "address": "5chyGzuP62SmN5q6M22TojNdDxCjxeo1gnbpbc7RGbTC",
+      "symbol": "$TFLO",
+      "name": "Time Flow Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/GZDragonHead/GZ/main/IMG_2795.PNG",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GangsterZodiacs",
+        "website": "https://gangsterzodiacs.io"
+      }
     }
   ],
   "version": {
