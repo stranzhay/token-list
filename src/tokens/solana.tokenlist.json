@@ -140546,6 +140546,14 @@
         "medium": "https://medium.com/@phutthisarn",
         "twitter": "https://twitter.com/earthphutthi"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "skuLLY6NHFrjL3oGpWMrrwjCfWMSvwp6AD7resMF9m7",
+      "symbol": "SUMMON",
+      "name": "Skullbots",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Neurologist/assets/main/summon.png"
     }
   ],
   "version": {
