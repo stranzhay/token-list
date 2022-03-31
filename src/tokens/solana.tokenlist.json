@@ -140529,6 +140529,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HPjF6kgyyfRpPkSaC9NNkKPwTrwePzM3R8WRRJQxgeSb",
+      "symbol": "CGU",
+      "name": "CGU Test",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HPjF6kgyyfRpPkSaC9NNkKPwTrwePzM3R8WRRJQxgeSb/logo.png",
+      "tags": [
+        "meme-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "medium": "https://medium.com/@phutthisarn",
+        "twitter": "https://twitter.com/earthphutthi"
+      }
     }
   ],
   "version": {
