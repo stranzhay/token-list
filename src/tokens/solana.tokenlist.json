@@ -140613,6 +140613,21 @@
       "extensions": {
         "twitter": "https://twitter.com/meebmaster_nft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2ximgbUJ2kZZUUwFietPJuMdSHink3RHREgwVZchViiP",
+      "symbol": "c2o",
+      "name": "c2o coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/c2ocoin/crypto/main/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://c2ocoin.com"
+      }
     }
   ],
   "version": {
