@@ -140973,6 +140973,18 @@
         "twitter": "https://twitter.com/SolamonstersNFT",
         "website": "https://www.solamonsters.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9qRarZBguWMeD2QMZVxEyVYDWRFKJqbPbyDuJNCriojb",
+      "symbol": "SWT",
+      "name": "Super Walking Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Leo02607/assetss/main/super_Walking_Token.png",
+      "tags": [
+        "Gaming",
+        "Sport"
+      ]
     }
   ],
   "version": {
