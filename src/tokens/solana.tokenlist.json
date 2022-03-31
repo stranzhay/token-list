@@ -140927,6 +140927,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "CBM1gccVCDo1PVXTDd8sBfeLB9QXmNe3CiKZUWfoJs8b",
+      "symbol": "LFG",
+      "name": "Let's Fucking Go",
+      "decimals": 0,
+      "logoURI": "https://github.com/qudo-code/assets/blob/master/solana/tokens/LFG/LFG.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/_qudo"
+      }
     }
   ],
   "version": {
