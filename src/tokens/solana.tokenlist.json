@@ -140810,6 +140810,21 @@
         "twitter": "https://twitter.com/CryptoIdolzNFT",
         "website": "https://cryptoidolz.pro/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BREADk5Sf1YvgDEkE4BGTJu3zNwhqEaKsYUNpD8d8y3W",
+      "symbol": "BDZ",
+      "name": "Breadz",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BREADk5Sf1YvgDEkE4BGTJu3zNwhqEaKsYUNpD8d8y3W/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/thugbirdz",
+        "website": "https://www.thugbirdz.com"
+      }
     }
   ],
   "version": {
