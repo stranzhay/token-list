@@ -140499,6 +140499,17 @@
         "twitter": "https://twitter.com/itsripplerick",
         "website": "https://ripplerick.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "FkuK7uj9n11wdwNiozMrgFfwjuTWFbZnhQbzpcKyhQsg",
+      "symbol": "LONGAN",
+      "name": "Longan Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fungtoken/Longan/main/Longan.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
