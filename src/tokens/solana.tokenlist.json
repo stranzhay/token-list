@@ -140784,6 +140784,14 @@
       "name": "Gojira WL token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoDjmr61qsywyx63xRWQFZ3VKe1mkVy9w9k1Nzu6wFVH/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "MatK11vFCW34rHw1PoryHSUiyo5WZVvzG24M9kwAp2p",
+      "symbol": "MATD",
+      "name": "Mat Token Devnet",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MatK11vFCW34rHw1PoryHSUiyo5WZVvzG24M9kwAp2p/logo.svg"
     }
   ],
   "version": {
