@@ -140941,6 +140941,65 @@
       "extensions": {
         "twitter": "https://twitter.com/_qudo"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "S8v4cS7dnKzV6LYvzFPuuiWQMM4KSz7URuGYWMGXyTG",
+      "symbol": "VERSE",
+      "name": "Verse Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/S8v4cS7dnKzV6LYvzFPuuiWQMM4KSz7URuGYWMGXyTG/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7AR7gh4b",
+        "twitter": "https://twitter.com/solarity_VR",
+        "website": "https://www.solarity.xyz"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "rCLDb3inpxxwcXjKe2WbC25J1WrW9TFjxX85hXqKpgv",
+      "symbol": "WL",
+      "name": "Solamonsters OG Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rCLDb3inpxxwcXjKe2WbC25J1WrW9TFjxX85hXqKpgv/og-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6ADhm438NM",
+        "twitter": "https://twitter.com/SolamonstersNFT",
+        "website": "https://www.solamonsters.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9qRarZBguWMeD2QMZVxEyVYDWRFKJqbPbyDuJNCriojb",
+      "symbol": "SWT",
+      "name": "Super Walking Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Leo02607/assetss/main/super_Walking_Token.png",
+      "tags": [
+        "Gaming",
+        "Sport"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BxqzqEaUbQ4X9e5zgWAm9kPGxffLhKvwyeiPGmshv5gy",
+      "symbol": "RENT",
+      "name": "Rent",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rentfreejoe/rent/main/rent.png",
+      "tags": [
+        "general-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Rent_Free_Joe",
+        "website": "https://twitter.com/Rent_Free_Joe"
+      }
     }
   ],
   "version": {
