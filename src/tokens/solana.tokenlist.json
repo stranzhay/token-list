@@ -140957,6 +140957,22 @@
         "twitter": "https://twitter.com/solarity_VR",
         "website": "https://www.solarity.xyz"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "rCLDb3inpxxwcXjKe2WbC25J1WrW9TFjxX85hXqKpgv",
+      "symbol": "WL",
+      "name": "Solamonsters OG Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rCLDb3inpxxwcXjKe2WbC25J1WrW9TFjxX85hXqKpgv/og-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6ADhm438NM",
+        "twitter": "https://twitter.com/SolamonstersNFT",
+        "website": "https://www.solamonsters.com"
+      }
     }
   ],
   "version": {
