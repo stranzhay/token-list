@@ -140554,6 +140554,21 @@
       "name": "Skullbots",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/Neurologist/assets/main/summon.png"
+    },
+    {
+      "chainId": 101,
+      "address": "5chyGzuP62SmN5q6M22TojNdDxCjxeo1gnbpbc7RGbTC",
+      "symbol": "$TFLO",
+      "name": "Time Flow Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/GZDragonHead/GZ/main/IMG_2795.PNG",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GangsterZodiacs",
+        "website": "https://gangsterzodiacs.io"
+      }
     }
   ],
   "version": {
