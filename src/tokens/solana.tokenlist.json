@@ -140481,6 +140481,43 @@
         "twitter": "https://twitter.com/CELESTIALZ777",
         "website": "https://www.celestialznft.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7G3ius3GViuopZzyVAvoF2DcHyDaG7hpCjDnshNuQbhF",
+      "symbol": "RIRI",
+      "name": "RippleRick",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7G3ius3GViuopZzyVAvoF2DcHyDaG7hpCjDnshNuQbhF/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "general-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/itsripplerick",
+        "website": "https://ripplerick.com"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "FkuK7uj9n11wdwNiozMrgFfwjuTWFbZnhQbzpcKyhQsg",
+      "symbol": "LONGAN",
+      "name": "Longan Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fungtoken/Longan/main/Longan.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ACgEL4C2iHr9pafyeJfbvtq7n6GhPgk8ybnrkQ3wY5XK",
+      "symbol": "CINC",
+      "name": "Coin Invest Capital",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/tychcio1/token-list/main/assets/mainnet/ACgEL4C2iHr9pafyeJfbvtq7n6GhPgk8ybnrkQ3wY5XK/logo.png"
     }
   ],
   "version": {
