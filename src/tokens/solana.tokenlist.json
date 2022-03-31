@@ -141042,6 +141042,20 @@
       "extensions": {
         "twitter": "https://twitter.com/NftSenshi"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DgT6BQqmmzaaHo7KjoxdswpoC6CoTBNcyD9q3jywEa8w",
+      "symbol": "BALANCE",
+      "name": "Balance Token",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/livebyv/token-art/main/balance/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/NftSenshi"
+      }
     }
   ],
   "version": {
