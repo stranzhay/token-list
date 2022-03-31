@@ -140675,6 +140675,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "J9Rmr7xwtWwKE6cGQeEPejYmydjV8xaeXLrdeDeUjrkm",
+      "symbol": "ADPP",
+      "name": "Dan",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DanteAlucard98/crypto/master/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
