@@ -140862,6 +140862,22 @@
         "twitter": "https://twitter.com/MetaFoxCoin",
         "website": "https://foxyplay.online/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "3aQgE11bFh1K24VzHRZrN8M5FjyVJm48guKThUsH2396",
+      "symbol": "WL",
+      "name": "Solamonsters WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3aQgE11bFh1K24VzHRZrN8M5FjyVJm48guKThUsH2396/wl-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6ADhm438NM",
+        "twitter": "https://twitter.com/SolamonstersNFT",
+        "website": "https://www.solamonsters.com"
+      }
     }
   ],
   "version": {
