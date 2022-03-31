@@ -140757,6 +140757,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Gf43qoikf7d2kGrSX7s2iRbGn2SrTFAQoD3uattUEAyS",
+      "symbol": "SPRW",
+      "name": "The Jack Sparrow Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nicholhai/thejacksparrow/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
