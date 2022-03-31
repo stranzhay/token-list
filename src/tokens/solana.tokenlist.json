@@ -140985,6 +140985,21 @@
         "Gaming",
         "Sport"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BxqzqEaUbQ4X9e5zgWAm9kPGxffLhKvwyeiPGmshv5gy",
+      "symbol": "RENT",
+      "name": "Rent",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rentfreejoe/rent/main/rent.png",
+      "tags": [
+        "general-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Rent_Free_Joe",
+        "website": "https://twitter.com/Rent_Free_Joe"
+      }
     }
   ],
   "version": {
