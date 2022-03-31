@@ -140675,6 +140675,61 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "J9Rmr7xwtWwKE6cGQeEPejYmydjV8xaeXLrdeDeUjrkm",
+      "symbol": "ADPP",
+      "name": "Dan",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DanteAlucard98/crypto/master/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "JAbJrmkqV4NnMDcQ1k8dmLfz4n8UWteF8gp5QBT2soeZ",
+      "symbol": "CGUM",
+      "name": "CGU TEST M",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JAbJrmkqV4NnMDcQ1k8dmLfz4n8UWteF8gp5QBT2soeZ/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "medium": "https://medium.com/@phutthisarn"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CAFTP2Yof8bJuwSScigqnZaLQKiBzECgJPxvEDzfivzw",
+      "symbol": "CAF",
+      "name": "Caffeine",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CAFTP2Yof8bJuwSScigqnZaLQKiBzECgJPxvEDzfivzw/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://www.crema.finance/",
+        "telegram": "https://t.me/cremafinance",
+        "twitter": "https://twitter.com/Crema_Finance",
+        "website": "https://discord.gg/cremafinance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HeTCNpw9jPsrS3Grn1zEruSDWpmcvxMjQmwzcojektpB",
+      "symbol": "MORZ",
+      "name": "Mornz koin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mornarajdeep1991/mornacrypto/main/djmorna.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
