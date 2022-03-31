@@ -140905,6 +140905,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "PLANEQfzaxbUy9KWm3FerN1Zu26EfYgCByonaKq926i",
+      "symbol": "Planetarians",
+      "name": "The Planetarians WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PLANEQfzaxbUy9KWm3FerN1Zu26EfYgCByonaKq926i/logo.png",
+      "tags": [
+        "Mint-token"
+      ]
     }
   ],
   "version": {
