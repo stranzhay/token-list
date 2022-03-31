@@ -140647,6 +140647,34 @@
       "name": "Magic Soldiers Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MGPahMxthDGuZ6wJEPh6ZjGHMnEFwnT1RyrBaCVxGVe/Mgslogo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GnYmoLzwY9RfpBs5FnWnXJ1ZL2ymbESVj9ihrpbYch9b",
+      "symbol": "TTRYB",
+      "name": "Test Tryb",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Lagrange-fi/Test-TRYB-logo/main/TTRYB.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/lagrange-fi",
+        "github": "https://github.com/Lagrange-fi",
+        "twitter": "https://twitter.com/Lagrange_fi",
+        "website": "https://lagrange.fi/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6qmfx7uBiGhv2yaX2LQpP7kjfqe6hViRjEurDRUeZNCZ",
+      "symbol": "CRKD",
+      "name": "ChrisRocked",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/AF7358/ChrisRocked/main/chrisrocked.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
