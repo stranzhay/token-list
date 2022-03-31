@@ -140580,6 +140580,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HqGeQN2dyzBAvgNnWLRi1mUpCzr5mMgtXgiGvtPGfDt6",
+      "symbol": "KRF",
+      "name": "KryptoForest",
+      "decimals": 0,
+      "logoURI": "https://github.com/mingle1989/crypto/blob/master/KryptoForestToken_OG.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "9ezfMjPwsPfRtRi41PER8xFpZDQCm2ccTj488uqGguT6",
+      "symbol": "AMETA",
+      "name": "Alphaverse Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ezfMjPwsPfRtRi41PER8xFpZDQCm2ccTj488uqGguT6/logo.png"
     }
   ],
   "version": {
