@@ -140518,6 +140518,17 @@
       "name": "Coin Invest Capital",
       "decimals": 4,
       "logoURI": "https://raw.githubusercontent.com/tychcio1/token-list/main/assets/mainnet/ACgEL4C2iHr9pafyeJfbvtq7n6GhPgk8ybnrkQ3wY5XK/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "G6MWy5GqsrdwMNQE4ha3hPHvqT47wCqAV4pmzycZzuFM",
+      "symbol": "DTKN",
+      "name": "DimensionToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DimensionCoin/logoDimensionCoin/main/dimensionlogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
