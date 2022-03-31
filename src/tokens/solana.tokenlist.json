@@ -140844,6 +140844,67 @@
       "extensions": {
         "description": "Another Scammer Token Beware"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GEhp4L15gp82X3dWfLkQdDwULaPuYr83EJL58Wh1P2Mn",
+      "symbol": "Consul",
+      "name": "Meta Fox Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEhp4L15gp82X3dWfLkQdDwULaPuYr83EJL58Wh1P2Mn/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6jnEKuc8bM",
+        "telegram": "https://t.me/MetaFoxCoin",
+        "twitter": "https://twitter.com/MetaFoxCoin",
+        "website": "https://foxyplay.online/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "3aQgE11bFh1K24VzHRZrN8M5FjyVJm48guKThUsH2396",
+      "symbol": "WL",
+      "name": "Solamonsters WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3aQgE11bFh1K24VzHRZrN8M5FjyVJm48guKThUsH2396/wl-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6ADhm438NM",
+        "twitter": "https://twitter.com/SolamonstersNFT",
+        "website": "https://www.solamonsters.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3HRgLcJh26k5FHtm921859v9Bg8KcRaJ2199ZPFo1mfu",
+      "symbol": "SHARDS",
+      "name": "SHARDS",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/3HRgLcJh26k5FHtm921859v9Bg8KcRaJ2199ZPFo1mfu/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "3SrHYJCE3Zxdhq5yZtvvPmU7NXbTkhmjKTiuV5VRJADQ",
+      "symbol": "ZIRK",
+      "name": "Zirkus",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3SrHYJCE3Zxdhq5yZtvvPmU7NXbTkhmjKTiuV5VRJADQ/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Enp3qfJR3k7ELvTCjFUhVrBLC6179DancMJ3nvUBEsiY",
+      "symbol": "Bravo",
+      "name": "Bravo Ambulance Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/paddysc/crypto1/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
