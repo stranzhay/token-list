@@ -140757,6 +140757,33 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Gf43qoikf7d2kGrSX7s2iRbGn2SrTFAQoD3uattUEAyS",
+      "symbol": "SPRW",
+      "name": "The Jack Sparrow Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nicholhai/thejacksparrow/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "4xuicVbNHue2okAYeNphzdGWbyzF4stM39SLmNoD7Fum",
+      "symbol": "ALI",
+      "name": "Shahid Ali Expert Dev",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4xuicVbNHue2okAYeNphzdGWbyzF4stM39SLmNoD7Fum/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GoDjmr61qsywyx63xRWQFZ3VKe1mkVy9w9k1Nzu6wFVH",
+      "symbol": "GojiraWL",
+      "name": "Gojira WL token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoDjmr61qsywyx63xRWQFZ3VKe1mkVy9w9k1Nzu6wFVH/logo.png"
     }
   ],
   "version": {
