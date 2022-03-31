@@ -141028,6 +141028,20 @@
       "extensions": {
         "twitter": "https://twitter.com/_qudo"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6zNzaKbt6ZkpPsfkWgGFjBoGLJCgm2HAqaytwza1pV6S",
+      "symbol": "OSU",
+      "name": "OSU Token",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/livebyv/token-art/main/osu/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/NftSenshi"
+      }
     }
   ],
   "version": {
