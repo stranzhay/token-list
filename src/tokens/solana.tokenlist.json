@@ -140916,6 +140916,17 @@
       "tags": [
         "Mint-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8v2Sn7v5jLpm3jdRkpLVCNbLKm9xdqapr6jwv3XkVBW4",
+      "symbol": "LATS",
+      "name": "LATS",
+      "decimals": 0,
+      "logoURI": "https://github.com/MrWeedSeed/LATS/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
