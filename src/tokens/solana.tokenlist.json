@@ -140686,6 +140686,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "JAbJrmkqV4NnMDcQ1k8dmLfz4n8UWteF8gp5QBT2soeZ",
+      "symbol": "CGUM",
+      "name": "CGU TEST M",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JAbJrmkqV4NnMDcQ1k8dmLfz4n8UWteF8gp5QBT2soeZ/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "medium": "https://medium.com/@phutthisarn"
+      }
     }
   ],
   "version": {
