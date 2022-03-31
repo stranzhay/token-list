@@ -140894,6 +140894,17 @@
       "name": "Zirkus",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3SrHYJCE3Zxdhq5yZtvvPmU7NXbTkhmjKTiuV5VRJADQ/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Enp3qfJR3k7ELvTCjFUhVrBLC6179DancMJ3nvUBEsiY",
+      "symbol": "Bravo",
+      "name": "Bravo Ambulance Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/paddysc/crypto1/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
