@@ -140905,6 +140905,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "PLANEQfzaxbUy9KWm3FerN1Zu26EfYgCByonaKq926i",
+      "symbol": "Planetarians",
+      "name": "The Planetarians WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PLANEQfzaxbUy9KWm3FerN1Zu26EfYgCByonaKq926i/logo.png",
+      "tags": [
+        "Mint-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8v2Sn7v5jLpm3jdRkpLVCNbLKm9xdqapr6jwv3XkVBW4",
+      "symbol": "LATS",
+      "name": "LATS",
+      "decimals": 0,
+      "logoURI": "https://github.com/MrWeedSeed/LATS/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
