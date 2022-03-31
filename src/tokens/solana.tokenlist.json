@@ -140886,6 +140886,14 @@
       "name": "SHARDS",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/3HRgLcJh26k5FHtm921859v9Bg8KcRaJ2199ZPFo1mfu/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "3SrHYJCE3Zxdhq5yZtvvPmU7NXbTkhmjKTiuV5VRJADQ",
+      "symbol": "ZIRK",
+      "name": "Zirkus",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3SrHYJCE3Zxdhq5yZtvvPmU7NXbTkhmjKTiuV5VRJADQ/logo.png"
     }
   ],
   "version": {
