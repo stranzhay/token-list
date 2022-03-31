@@ -140792,6 +140792,24 @@
       "name": "Mat Token Devnet",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MatK11vFCW34rHw1PoryHSUiyo5WZVvzG24M9kwAp2p/logo.svg"
+    },
+    {
+      "chainId": 101,
+      "address": "idoLztG5ZGMVEjjoQWjeSu2eVkVsp3YnrFZKf7dNi4j",
+      "symbol": "IDOLZ",
+      "name": "IDOLZ Token",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/mdvmPYEgiX_uPGRtiIZA3HrpilDK5JfW2bXkDBRuzVM?ext=png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "$IDOLZ is an essential part of the Idolz Ecosystem. It will be used as the primary internal currency for minting, trading, and upgrading Idolz NFTs",
+        "discord": "https://discord.com/invite/cryptoidolz",
+        "twitter": "https://twitter.com/CryptoIdolzNFT",
+        "website": "https://cryptoidolz.pro/"
+      }
     }
   ],
   "version": {
