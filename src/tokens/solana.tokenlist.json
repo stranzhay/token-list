@@ -140776,6 +140776,14 @@
       "name": "Shahid Ali Expert Dev",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4xuicVbNHue2okAYeNphzdGWbyzF4stM39SLmNoD7Fum/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GoDjmr61qsywyx63xRWQFZ3VKe1mkVy9w9k1Nzu6wFVH",
+      "symbol": "GojiraWL",
+      "name": "Gojira WL token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoDjmr61qsywyx63xRWQFZ3VKe1mkVy9w9k1Nzu6wFVH/logo.png"
     }
   ],
   "version": {
