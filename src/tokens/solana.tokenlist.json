@@ -140701,6 +140701,24 @@
       "extensions": {
         "medium": "https://medium.com/@phutthisarn"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CAFTP2Yof8bJuwSScigqnZaLQKiBzECgJPxvEDzfivzw",
+      "symbol": "CAF",
+      "name": "Caffeine",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CAFTP2Yof8bJuwSScigqnZaLQKiBzECgJPxvEDzfivzw/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://www.crema.finance/",
+        "telegram": "https://t.me/cremafinance",
+        "twitter": "https://twitter.com/Crema_Finance",
+        "website": "https://discord.gg/cremafinance"
+      }
     }
   ],
   "version": {
