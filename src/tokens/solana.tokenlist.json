@@ -140580,6 +140580,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HqGeQN2dyzBAvgNnWLRi1mUpCzr5mMgtXgiGvtPGfDt6",
+      "symbol": "KRF",
+      "name": "KryptoForest",
+      "decimals": 0,
+      "logoURI": "https://github.com/mingle1989/crypto/blob/master/KryptoForestToken_OG.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
