@@ -140639,6 +140639,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MGPahMxthDGuZ6wJEPh6ZjGHMnEFwnT1RyrBaCVxGVe",
+      "symbol": "MGSS",
+      "name": "Magic Soldiers Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MGPahMxthDGuZ6wJEPh6ZjGHMnEFwnT1RyrBaCVxGVe/Mgslogo.png"
     }
   ],
   "version": {
