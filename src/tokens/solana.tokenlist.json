@@ -140455,6 +140455,32 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "5vPqJAtSeRqbu7ZUZZT4Q1uksDuVjDc8URe75wga4RYk",
+      "symbol": "TKE",
+      "name": "TOKELIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tokealin/tokelin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "777cLE28EKhWPSVWmnRw55QJPkagzK5vEaCE3KFhQcJf",
+      "symbol": "CLZ",
+      "name": "CELESTIALZ-WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/777cLE28EKhWPSVWmnRw55QJPkagzK5vEaCE3KFhQcJf/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CELESTIALZ777",
+        "website": "https://www.celestialznft.io"
+      }
     }
   ],
   "version": {
