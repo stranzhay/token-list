@@ -140825,6 +140825,14 @@
         "twitter": "https://twitter.com/thugbirdz",
         "website": "https://www.thugbirdz.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7X3ZoBf3CcQEFmCChypPXva1sGRJYwMC1qvVYYnoeN33",
+      "symbol": "GUNIT",
+      "name": "50 Cent",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7X3ZoBf3CcQEFmCChypPXva1sGRJYwMC1qvVYYnoeN33/50cent.png"
     }
   ],
   "version": {
