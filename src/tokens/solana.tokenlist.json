@@ -140719,6 +140719,17 @@
         "twitter": "https://twitter.com/Crema_Finance",
         "website": "https://discord.gg/cremafinance"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HeTCNpw9jPsrS3Grn1zEruSDWpmcvxMjQmwzcojektpB",
+      "symbol": "MORZ",
+      "name": "Mornz koin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mornarajdeep1991/mornacrypto/main/djmorna.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
