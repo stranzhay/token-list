@@ -140730,6 +140730,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F3mqxshUtaQUF6M5L7JRYhbqaRYkBwbCKUmKE54MhMA1",
+      "symbol": "CTC",
+      "name": "Canine Token Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F3mqxshUtaQUF6M5L7JRYhbqaRYkBwbCKUmKE54MhMA1/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/42BmtCUqan",
+        "twitter": "https://twitter.com/canidcanines",
+        "website": "https://www.canidcanines.io/"
+      }
     }
   ],
   "version": {
