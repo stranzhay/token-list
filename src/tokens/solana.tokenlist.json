@@ -140844,6 +140844,24 @@
       "extensions": {
         "description": "Another Scammer Token Beware"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GEhp4L15gp82X3dWfLkQdDwULaPuYr83EJL58Wh1P2Mn",
+      "symbol": "Consul",
+      "name": "Meta Fox Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEhp4L15gp82X3dWfLkQdDwULaPuYr83EJL58Wh1P2Mn/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6jnEKuc8bM",
+        "telegram": "https://t.me/MetaFoxCoin",
+        "twitter": "https://twitter.com/MetaFoxCoin",
+        "website": "https://foxyplay.online/"
+      }
     }
   ],
   "version": {
