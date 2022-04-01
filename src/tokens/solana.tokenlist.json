@@ -141616,6 +141616,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DahLysVxXFtUcn7TjXgQLe2VZyhtpawVD9AN63f1gjVW",
+      "symbol": "DAHLYS",
+      "name": "Dahlys Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DahLysVxXFtUcn7TjXgQLe2VZyhtpawVD9AN63f1gjVW/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dahlysart",
+        "website": "https://www.dahlys.art"
+      }
     }
   ],
   "version": {
