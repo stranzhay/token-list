@@ -141551,6 +141551,17 @@
       "extensions": {
         "twitter": "https://twitter.com/KireiFarm"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GQYaznpvPRfPDtvNq1tnh1UvugenV5PgLJaq2Y5yRvAk",
+      "symbol": "WCS",
+      "name": "Walker Southern Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/walkersouthern/CryptoCoin/main/Walker%20Coin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
