@@ -141370,6 +141370,21 @@
         "twitter": "https://twitter.com/FaviontOfficial",
         "website": "https://faviont.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SMKEg822pUYrgDFRrk4LuK2gLjigYgCjbiGnKBEhzhs",
+      "symbol": "SMOKE",
+      "name": "SMOKE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SMKEg822pUYrgDFRrk4LuK2gLjigYgCjbiGnKBEhzhs/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/StonedShibaClub",
+        "website": "https://www.stonedshibaclub.com"
+      }
     }
   ],
   "version": {
