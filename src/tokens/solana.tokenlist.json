@@ -141670,6 +141670,17 @@
         "twitter": "https://twitter.com/StonedShibaClub",
         "website": "https://www.stonedshibaclub.com/"
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EU4pwnKynnuheNui1NgAFp2Fc8QKARPf8RnqjK9GT4e1",
+      "symbol": "ROST",
+      "name": "RossTest",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/d4b7c271eaace6696c88dd2f06bdbb873fe33ff9/assets/mainnet/EU4pwnKynnuheNui1NgAFp2Fc8QKARPf8RnqjK9GT4e1/logo.png",
+      "tags": [
+        "stable-coin"
+      ]
     }
   ],
   "version": {
