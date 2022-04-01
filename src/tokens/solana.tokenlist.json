@@ -141469,6 +141469,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ToMWZWJ8i1DMat5e7RFsdSr676RoMpvR3JLD62kXaxn",
+      "symbol": "MWWL",
+      "name": "MetaWatchies Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToMWZWJ8i1DMat5e7RFsdSr676RoMpvR3JLD62kXaxn/logo.png"
     }
   ],
   "version": {
