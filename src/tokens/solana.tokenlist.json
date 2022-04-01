@@ -141267,6 +141267,52 @@
         "twitter": "https://twitter.com/MetaFoxCoin",
         "website": "https://foxyplay.online/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5dV35yxrvhES8dkjw1N5JoH2uFa9rGfNtBCftC1TVAiS",
+      "symbol": "YAKKL",
+      "name": "YAKKL Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/yakkl/solana/main/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/KrcpWmu3WB",
+        "twitter": "https://twitter.com/yakklcrypto",
+        "website": "https://yakkl.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "komRFW7sjDx78C7DPJM4qpdr5aSW3jiGa1b3GvaDXoQ",
+      "symbol": "KOMR",
+      "name": "Komradz NFT Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/komRFW7sjDx78C7DPJM4qpdr5aSW3jiGa1b3GvaDXoQ/logo.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Komradznft",
+        "website": "https://www.komradz.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GrBcjxq2uMGpzo5JWUnRfSWkFkL4VoE3pCi4Zq1NiPih",
+      "symbol": "$PMWL",
+      "name": "Pumas Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/IamDtosh/pumas/main/pumas.png",
+      "tags": [
+        "defi",
+        "general",
+        "nft"
+      ]
     }
   ],
   "version": {
