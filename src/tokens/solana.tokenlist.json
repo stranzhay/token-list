@@ -141507,6 +141507,24 @@
         "twitter": "https://twitter.com/enigmaventures",
         "website": "https://www.stonedshibaclub.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3coLAbtoMYXwhXnHbbYqsuwNGBxcDQMYwHYqrWXGdRfw",
+      "symbol": "PILL",
+      "name": "Pill Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3coLAbtoMYXwhXnHbbYqsuwNGBxcDQMYwHYqrWXGdRfw/logo.png",
+      "tags": [
+        "pill-token",
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Fbw9wBafzQ",
+        "twitter": "https://twitter.com/TheFrameboy",
+        "website": "https://www.theframeboy.com/"
+      }
     }
   ],
   "version": {
