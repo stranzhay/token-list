@@ -141525,6 +141525,18 @@
         "twitter": "https://twitter.com/TheFrameboy",
         "website": "https://www.theframeboy.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3dSveezVS2YpDEfbinyk8iCVej88gjk1Ycdv2jZWGgoT",
+      "symbol": "$CHIQ",
+      "name": "Honkuga Apes",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/IamDtosh/banana/main/banana%20token.png",
+      "tags": [
+        "nft",
+        "defi"
+      ]
     }
   ],
   "version": {
