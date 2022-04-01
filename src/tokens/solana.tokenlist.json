@@ -141445,6 +141445,19 @@
       "extensions": {
         "twitter": "https://twitter.com/playacf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FB2duy897mbbMEJy1n4Xd1DcWWJqKVyMnRXEhv6zpzWD",
+      "symbol": "dkto",
+      "name": "Dkenyang Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/brokay02/dkenyangtoken/main/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
