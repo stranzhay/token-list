@@ -141167,6 +141167,50 @@
       "extensions": {
         "twitter": "https://twitter.com/kingpin_cartel"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4aji8e3sw122mvosyjxmGSQKNPFh6ixKfHj8nqfLWydx",
+      "symbol": "TYC",
+      "name": "Tai Yi Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4aji8e3sw122mvosyjxmGSQKNPFh6ixKfHj8nqfLWydx/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "game-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/hiryu83",
+        "website": "https://www.unrealworld.online"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3rkCq2ZAxoDGa3KWGebeiEMN92H5AV9HBLC9eVKDoPv8",
+      "symbol": "$EGG",
+      "name": "EGG",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/IamDtosh/egg/main/egg.png",
+      "tags": [
+        "defi",
+        "general",
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3ZNEbrWGST4ApvaQjTaSZJJ2c6Exm2bkba1gVNnotgsv",
+      "symbol": "YASS",
+      "name": "YoloSwag Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mrpgmr67/YoloSwag/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/yoloswagcoin"
+      }
     }
   ],
   "version": {
