@@ -137647,7 +137647,7 @@
       "chainId": 101,
       "address": "CCJvffKRwhEEZZUzCwXPgjwZ24EpKJq3WTQt1ntaqZtR",
       "symbol": "MSI",
-      "name": "musii token",
+      "name": "Musii Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CCJvffKRwhEEZZUzCwXPgjwZ24EpKJq3WTQt1ntaqZtR/logo.png",
       "tags": [
@@ -137655,8 +137655,7 @@
         "music-token",
         "social-token",
         "community-token",
-        "play-to-earn",
-        "nft"
+        "play-to-earn"
       ],
       "extensions": {
         "description": "The musical social media on blockchain, a commnunity of a music enthusiasts! A place to exchange musial experience and to connect people through music.",
