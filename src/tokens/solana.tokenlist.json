@@ -141491,6 +141491,22 @@
       "extensions": {
         "website": "https://solanatown.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SSCdRrLDAtfRfqmxK38osBcCv8QHJiZok9zYhUe4tXx",
+      "symbol": "SSC",
+      "name": "Stoned Shiba Club Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img924/2938/6XDlIB.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/enigmaventures",
+        "website": "https://www.stonedshibaclub.com/"
+      }
     }
   ],
   "version": {
