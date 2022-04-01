@@ -141089,6 +141089,35 @@
         "twitter": "https://twitter.com/DogeMfers",
         "website": "https://sol.dogemfer.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8aNThehSFoomj3STWb3nfMwTapJyy5WB768Mj6LzWXvz",
+      "symbol": "SOLCITYFOU",
+      "name": "SolCity Poker Club Founders",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8aNThehSFoomj3STWb3nfMwTapJyy5WB768Mj6LzWXvz/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HRXXo2ufmbZugAnX4V8jyrArupxxYremLSxcv8ZGn4Jv",
+      "symbol": "BITCORN",
+      "name": "BITCORN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRXXo2ufmbZugAnX4V8jyrArupxxYremLSxcv8ZGn4Jv/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/GJrmqyQKaW",
+        "twitter": "https://twitter.com/BitcornStudios",
+        "website": "https://bitcornfarms.com/"
+      }
     }
   ],
   "version": {
