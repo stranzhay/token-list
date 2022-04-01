@@ -141141,6 +141141,32 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "368zP1r8xHD2Vi8VmXcCdVmMTqhAoHj2AmrUtSgZxdA3",
+      "symbol": "DCWT",
+      "name": "Doodle Collective WL Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/368zP1r8xHD2Vi8VmXcCdVmMTqhAoHj2AmrUtSgZxdA3/DCWT.PNG",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/suuyrnvnk5",
+        "twitter": "https://twitter.com/DoodlCollective"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "PEso2e1Lq2RVb8XEmQrU9V6oq5HruUXNLS6b81HBtuC",
+      "symbol": "$PESO",
+      "name": "Peso",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PEso2e1Lq2RVb8XEmQrU9V6oq5HruUXNLS6b81HBtuC/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/kingpin_cartel"
+      }
     }
   ],
   "version": {
