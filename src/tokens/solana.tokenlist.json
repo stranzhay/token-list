@@ -141222,6 +141222,33 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DUCKexs9TX299vBuxphiZNYPisw1A9kntH8WRi5sy8LV",
+      "symbol": "DUCK",
+      "name": "Duck Exchange Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUCKexs9TX299vBuxphiZNYPisw1A9kntH8WRi5sy8LV/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/2ySvY6Vrv7",
+        "twitter": "https://twitter.com/duck_dex",
+        "website": "https://duckdex.github.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CLYDr7ZYLL178ibxCuk1ULJGAFtA6Ai3JahcRBZ6fNq",
+      "symbol": "CLOUD",
+      "name": "Land Cloud Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLYDr7ZYLL178ibxCuk1ULJGAFtA6Ai3JahcRBZ6fNq/logo.svg",
+      "tags": [
+        "meme-token"
+      ]
     }
   ],
   "version": {
