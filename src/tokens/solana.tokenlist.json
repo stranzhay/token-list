@@ -141458,6 +141458,17 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "8e6zTC5gppWaWcb2UyEW8BXzLwCMTuBHFKyN1JhaXmvj",
+      "symbol": "DPC",
+      "name": "DP Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/HKmus/token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
