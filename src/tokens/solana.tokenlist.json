@@ -141400,6 +141400,23 @@
         "description": "UVAZUHOS TOKENAS",
         "website": "https://uvazuhatoken.000webhostapp.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "sMEANebFMnd9uTYpyntGzBmTmzEukRFwCjEcnXT2E8z",
+      "symbol": "sMEAN",
+      "name": "Staked MEAN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sMEANebFMnd9uTYpyntGzBmTmzEukRFwCjEcnXT2E8z/logo.svg",
+      "tags": [
+        "stake"
+      ],
+      "extensions": {
+        "discord": "https://discord.meanfi.com/",
+        "medium": "https://meandao.medium.com",
+        "twitter": "https://twitter.com/meanfinance",
+        "website": "https://www.meanfi.com/"
+      }
     }
   ],
   "version": {
