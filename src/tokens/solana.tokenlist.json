@@ -141417,6 +141417,34 @@
         "twitter": "https://twitter.com/meanfinance",
         "website": "https://www.meanfi.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2cZv8HrgcWSvC6n1uEiS48cEQGb1d3fiowP2rpa4wBL9",
+      "symbol": "ACF",
+      "name": "Alien Chicken Farm",
+      "decimals": 2,
+      "logoURI": "https://shop.alienchickenfarm.com/logos/acf-token.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/playacf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3LDAW7enNUZ4DjE1jCi1cDpXvXLrJ1rPiECPbcHpMgG2",
+      "symbol": "FEED",
+      "name": "FEED Token on Alien Chicken Farm",
+      "decimals": 2,
+      "logoURI": "https://shop.alienchickenfarm.com/logos/feed-token.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/playacf"
+      }
     }
   ],
   "version": {
