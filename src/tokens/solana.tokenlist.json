@@ -141056,6 +141056,39 @@
       "extensions": {
         "twitter": "https://twitter.com/NftSenshi"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "neoneXWLNouaSKk2zna7p54qbmsuVUtdmMGzR5MuPd9",
+      "symbol": "NEON",
+      "name": "Whiteneon Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/whiteneon/token-list/main/assets/mainnet/neoneXWLNouaSKk2zna7p54qbmsuVUtdmMGzR5MuPd9/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://solana.whiteneon.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DiCwzrqQwvgT4bHLKGuNU9XhSY5gFfhKhN6M9UsWZvvo",
+      "symbol": "DOGEMFERS",
+      "name": "SOL DOGEMFERS WL",
+      "decimals": 0,
+      "logoURI": "https://dogemfer-ipfs.s3.us-east-1.amazonaws.com/images/1001.png",
+      "tags": [
+        "community-token",
+        "sol-dogemfers",
+        "dogemfers"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DogeMfers",
+        "website": "https://sol.dogemfer.com"
+      }
     }
   ],
   "version": {
