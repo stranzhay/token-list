@@ -141313,6 +141313,27 @@
         "general",
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Bhp7DkTfy2TYZ2XXtF19puZSg4KZu3GQNR57wpEPnfpR",
+      "symbol": "JUSOLv2",
+      "name": "JUSOL",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bhp7DkTfy2TYZ2XXtF19puZSg4KZu3GQNR57wpEPnfpR/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "description": "Juiced SOL Carton Token",
+        "discord": "https://discord.gg/ZXBRGXccR2",
+        "instagram": "https://www.instagram.com/juicedfi",
+        "linkedin": "https://www.linkedin.com/company/juicedfi",
+        "medium": "https://www.medium.com/@juicedfinance",
+        "twitter": "https://twitter.com/JuicedProtocol",
+        "website": "https://www.juiced.fi",
+        "whitepaper": "https://juiced.fi/whitepaper.pdf"
+      }
     }
   ],
   "version": {
