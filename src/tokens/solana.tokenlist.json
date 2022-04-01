@@ -141334,6 +141334,57 @@
         "website": "https://www.juiced.fi",
         "whitepaper": "https://juiced.fi/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DcJTzgLtV2Y2b6HQFTkSv3Wsck5uqXCGrAKVa4JiV5zZ",
+      "symbol": "MIKO",
+      "name": "Mikoverse Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DcJTzgLtV2Y2b6HQFTkSv3Wsck5uqXCGrAKVa4JiV5zZ/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/mikoverse",
+        "medium": "https://medium.com/@MikoVerse",
+        "twitter": "https://twitter.com/Mikoverse_NFT",
+        "website": "https://mikoverse.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4d8y6xzMQD8WozNdyq8RhUoEiiLqNtbox3HWz5hJiCaJ",
+      "symbol": "FWLT",
+      "name": "Faviont Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/faviont/marketplace/main/logo-wl.png",
+      "tags": [
+        "whitelist",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Each token gives you access to buy one NFT on https://faviont.io/",
+        "discord": "https://discord.gg/T6mVYKeVYc",
+        "twitter": "https://twitter.com/FaviontOfficial",
+        "website": "https://faviont.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "SMKEg822pUYrgDFRrk4LuK2gLjigYgCjbiGnKBEhzhs",
+      "symbol": "SMOKE",
+      "name": "SMOKE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SMKEg822pUYrgDFRrk4LuK2gLjigYgCjbiGnKBEhzhs/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/StonedShibaClub",
+        "website": "https://www.stonedshibaclub.com"
+      }
     }
   ],
   "version": {
