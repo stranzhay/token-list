@@ -141118,6 +141118,19 @@
         "twitter": "https://twitter.com/BitcornStudios",
         "website": "https://bitcornfarms.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BA7khZ2ai6zR8kh3eH996HYk2BkLMo2hwCe7p5nps1qW",
+      "symbol": "ZUKI",
+      "name": "Zuki",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SnowballedNoot/SPLAkatzuki/main/tokenlogo520.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
