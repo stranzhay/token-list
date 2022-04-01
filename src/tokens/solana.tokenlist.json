@@ -141605,6 +141605,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "LoL9h4KVh2A9RxuFR9NAc2dPhKnKCJnhpn9mvPTv4v9",
+      "symbol": "BAGZ",
+      "name": "DEGEN BAGZ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LoL9h4KVh2A9RxuFR9NAc2dPhKnKCJnhpn9mvPTv4v9/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
