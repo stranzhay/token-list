@@ -141655,6 +141655,21 @@
         "supertoxicbuyer",
         "t0t0rial"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "StoNBpvhd4Cg4Bz4DMF22goRRHAP6B692WPNeJu9zMy",
+      "symbol": "SHIB",
+      "name": "Stoned Shiba WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/StoNBpvhd4Cg4Bz4DMF22goRRHAP6B692WPNeJu9zMy/logo.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/StonedShibaClub",
+        "website": "https://www.stonedshibaclub.com/"
+      }
     }
   ],
   "version": {
