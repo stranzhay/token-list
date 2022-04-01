@@ -141477,6 +141477,20 @@
       "name": "MetaWatchies Whitelist Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToMWZWJ8i1DMat5e7RFsdSr676RoMpvR3JLD62kXaxn/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "G8TzWQCpuUcmbxcPAuRH7L6kE4JWyNYoQzgud55sSo3N",
+      "symbol": "TOWOOD",
+      "name": "TownWood",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G8TzWQCpuUcmbxcPAuRH7L6kE4JWyNYoQzgud55sSo3N/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solanatown.com"
+      }
     }
   ],
   "version": {
