@@ -141197,6 +141197,20 @@
         "general",
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3ZNEbrWGST4ApvaQjTaSZJJ2c6Exm2bkba1gVNnotgsv",
+      "symbol": "YASS",
+      "name": "YoloSwag Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mrpgmr67/YoloSwag/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/yoloswagcoin"
+      }
     }
   ],
   "version": {
