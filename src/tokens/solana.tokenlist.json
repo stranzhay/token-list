@@ -141267,6 +141267,24 @@
         "twitter": "https://twitter.com/MetaFoxCoin",
         "website": "https://foxyplay.online/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5dV35yxrvhES8dkjw1N5JoH2uFa9rGfNtBCftC1TVAiS",
+      "symbol": "YAKKL",
+      "name": "YAKKL Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/yakkl/solana/main/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/KrcpWmu3WB",
+        "twitter": "https://twitter.com/yakklcrypto",
+        "website": "https://yakkl.com"
+      }
     }
   ],
   "version": {
