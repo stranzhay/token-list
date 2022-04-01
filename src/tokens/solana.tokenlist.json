@@ -141681,6 +141681,17 @@
       "tags": [
         "stable-coin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EJnutrcHWQazTLb4spC6Uw5zSd5c3RMJg1a3KezKU984",
+      "symbol": "LIDNC",
+      "name": "LEADIDNC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/theNetworkChuck/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
