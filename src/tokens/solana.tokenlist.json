@@ -141477,6 +141477,54 @@
       "name": "MetaWatchies Whitelist Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToMWZWJ8i1DMat5e7RFsdSr676RoMpvR3JLD62kXaxn/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "G8TzWQCpuUcmbxcPAuRH7L6kE4JWyNYoQzgud55sSo3N",
+      "symbol": "TOWOOD",
+      "name": "TownWood",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G8TzWQCpuUcmbxcPAuRH7L6kE4JWyNYoQzgud55sSo3N/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solanatown.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "SSCdRrLDAtfRfqmxK38osBcCv8QHJiZok9zYhUe4tXx",
+      "symbol": "SSC",
+      "name": "Stoned Shiba Club Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img924/2938/6XDlIB.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/enigmaventures",
+        "website": "https://www.stonedshibaclub.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3coLAbtoMYXwhXnHbbYqsuwNGBxcDQMYwHYqrWXGdRfw",
+      "symbol": "PILL",
+      "name": "Pill Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3coLAbtoMYXwhXnHbbYqsuwNGBxcDQMYwHYqrWXGdRfw/logo.png",
+      "tags": [
+        "pill-token",
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Fbw9wBafzQ",
+        "twitter": "https://twitter.com/TheFrameboy",
+        "website": "https://www.theframeboy.com/"
+      }
     }
   ],
   "version": {
