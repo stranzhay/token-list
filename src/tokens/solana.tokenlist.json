@@ -141417,6 +141417,66 @@
         "twitter": "https://twitter.com/meanfinance",
         "website": "https://www.meanfi.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2cZv8HrgcWSvC6n1uEiS48cEQGb1d3fiowP2rpa4wBL9",
+      "symbol": "ACF",
+      "name": "Alien Chicken Farm",
+      "decimals": 2,
+      "logoURI": "https://shop.alienchickenfarm.com/logos/acf-token.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/playacf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3LDAW7enNUZ4DjE1jCi1cDpXvXLrJ1rPiECPbcHpMgG2",
+      "symbol": "FEED",
+      "name": "FEED Token on Alien Chicken Farm",
+      "decimals": 2,
+      "logoURI": "https://shop.alienchickenfarm.com/logos/feed-token.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/playacf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FB2duy897mbbMEJy1n4Xd1DcWWJqKVyMnRXEhv6zpzWD",
+      "symbol": "dkto",
+      "name": "Dkenyang Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/brokay02/dkenyangtoken/main/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "8e6zTC5gppWaWcb2UyEW8BXzLwCMTuBHFKyN1JhaXmvj",
+      "symbol": "DPC",
+      "name": "DP Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/HKmus/token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ToMWZWJ8i1DMat5e7RFsdSr676RoMpvR3JLD62kXaxn",
+      "symbol": "MWWL",
+      "name": "MetaWatchies Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToMWZWJ8i1DMat5e7RFsdSr676RoMpvR3JLD62kXaxn/logo.png"
     }
   ],
   "version": {
