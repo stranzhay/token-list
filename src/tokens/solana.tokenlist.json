@@ -141594,6 +141594,17 @@
         "twitter": "https://twitter.com/metafliesclub",
         "website": "https://www.metafliesclub.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FjevNEc8sf1HTZx2VkSc34xGedfnRZtHymf5irzj1f33",
+      "symbol": "BOOT",
+      "name": "KBooty",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/njunplugd/crypto/main/kbooty.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
