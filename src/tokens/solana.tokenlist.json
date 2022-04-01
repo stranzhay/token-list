@@ -141537,6 +141537,20 @@
         "nft",
         "defi"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AnGcQt5EzPjWUXjWmscS4So6JQkeMCYUbmDHNhCHx72r",
+      "symbol": "PIGS",
+      "name": "Kirei Pigs OG WL Pass",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AnGcQt5EzPjWUXjWmscS4So6JQkeMCYUbmDHNhCHx72r/logo.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/KireiFarm"
+      }
     }
   ],
   "version": {
