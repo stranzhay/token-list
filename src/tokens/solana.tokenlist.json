@@ -141334,6 +141334,24 @@
         "website": "https://www.juiced.fi",
         "whitepaper": "https://juiced.fi/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DcJTzgLtV2Y2b6HQFTkSv3Wsck5uqXCGrAKVa4JiV5zZ",
+      "symbol": "MIKO",
+      "name": "Mikoverse Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DcJTzgLtV2Y2b6HQFTkSv3Wsck5uqXCGrAKVa4JiV5zZ/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/mikoverse",
+        "medium": "https://medium.com/@MikoVerse",
+        "twitter": "https://twitter.com/Mikoverse_NFT",
+        "website": "https://mikoverse.io/"
+      }
     }
   ],
   "version": {
