@@ -141605,6 +141605,82 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "LoL9h4KVh2A9RxuFR9NAc2dPhKnKCJnhpn9mvPTv4v9",
+      "symbol": "BAGZ",
+      "name": "DEGEN BAGZ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LoL9h4KVh2A9RxuFR9NAc2dPhKnKCJnhpn9mvPTv4v9/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DahLysVxXFtUcn7TjXgQLe2VZyhtpawVD9AN63f1gjVW",
+      "symbol": "DAHLYS",
+      "name": "Dahlys Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DahLysVxXFtUcn7TjXgQLe2VZyhtpawVD9AN63f1gjVW/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dahlysart",
+        "website": "https://www.dahlys.art"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6qkfb2MhrA9nfk1iiosNh5ysgAhF8eDP8b3HCpt4LPXZ",
+      "symbol": "THANKSANDI",
+      "name": "LOST THANKS ANDI COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6qkfb2MhrA9nfk1iiosNh5ysgAhF8eDP8b3HCpt4LPXZ/logo.png",
+      "tags": [
+        "secondary-toxicboys",
+        "toxic"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9tH3azxj7QxjtKnE9Qepgg7UmNLR56VLXJg8F23F1Grs",
+      "symbol": "THANKSANDI2",
+      "name": "LOST BUTT COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9tH3azxj7QxjtKnE9Qepgg7UmNLR56VLXJg8F23F1Grs/logo.png",
+      "tags": [
+        "supertoxicbuyer",
+        "t0t0rial"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "StoNBpvhd4Cg4Bz4DMF22goRRHAP6B692WPNeJu9zMy",
+      "symbol": "SHIB",
+      "name": "Stoned Shiba WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/StoNBpvhd4Cg4Bz4DMF22goRRHAP6B692WPNeJu9zMy/logo.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/StonedShibaClub",
+        "website": "https://www.stonedshibaclub.com/"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "EU4pwnKynnuheNui1NgAFp2Fc8QKARPf8RnqjK9GT4e1",
+      "symbol": "ROST",
+      "name": "RossTest",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/d4b7c271eaace6696c88dd2f06bdbb873fe33ff9/assets/mainnet/EU4pwnKynnuheNui1NgAFp2Fc8QKARPf8RnqjK9GT4e1/logo.png",
+      "tags": [
+        "stable-coin"
+      ]
     }
   ],
   "version": {
