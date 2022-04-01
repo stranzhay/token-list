@@ -141249,6 +141249,24 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4UhatHUo1haGrFTNshKeQ6vvbx1uDapNGibAUyrxLpJ4",
+      "symbol": "Consul",
+      "name": "Meta Consul Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/warfare644/metafoxcoin/main/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6jnEKuc8bM",
+        "telegram": "https://t.me/MetaFoxCoin",
+        "twitter": "https://twitter.com/MetaFoxCoin",
+        "website": "https://foxyplay.online/"
+      }
     }
   ],
   "version": {
