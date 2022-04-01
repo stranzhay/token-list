@@ -141300,6 +141300,19 @@
         "twitter": "https://twitter.com/Komradznft",
         "website": "https://www.komradz.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GrBcjxq2uMGpzo5JWUnRfSWkFkL4VoE3pCi4Zq1NiPih",
+      "symbol": "$PMWL",
+      "name": "Pumas Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/IamDtosh/pumas/main/pumas.png",
+      "tags": [
+        "defi",
+        "general",
+        "nft"
+      ]
     }
   ],
   "version": {
