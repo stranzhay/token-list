@@ -141631,6 +141631,30 @@
         "twitter": "https://twitter.com/dahlysart",
         "website": "https://www.dahlys.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6qkfb2MhrA9nfk1iiosNh5ysgAhF8eDP8b3HCpt4LPXZ",
+      "symbol": "THANKSANDI",
+      "name": "LOST THANKS ANDI COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6qkfb2MhrA9nfk1iiosNh5ysgAhF8eDP8b3HCpt4LPXZ/logo.png",
+      "tags": [
+        "secondary-toxicboys",
+        "toxic"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9tH3azxj7QxjtKnE9Qepgg7UmNLR56VLXJg8F23F1Grs",
+      "symbol": "THANKSANDI2",
+      "name": "LOST BUTT COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9tH3azxj7QxjtKnE9Qepgg7UmNLR56VLXJg8F23F1Grs/logo.png",
+      "tags": [
+        "supertoxicbuyer",
+        "t0t0rial"
+      ]
     }
   ],
   "version": {
