@@ -141713,6 +141713,17 @@
         "website": "https://www.juiced.fi",
         "whitepaper": "https://juiced.fi/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HFFMj1sKtYz2bKssp9ZYx56azCFcJRAyzzgeYEpUcFg7",
+      "symbol": "cYa",
+      "name": "chyNyca",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/teamb17/chynyca/main/logoChyNyca.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
