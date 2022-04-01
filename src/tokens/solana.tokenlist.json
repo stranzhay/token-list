@@ -141000,6 +141000,62 @@
         "twitter": "https://twitter.com/Rent_Free_Joe",
         "website": "https://twitter.com/Rent_Free_Joe"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4KwJBSGtpoxGY8pUUEsjpModoYgRGgaqNEZHrd11DzsV",
+      "symbol": "NINJAS",
+      "name": "Blue Chips Ninjas Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4KwJBSGtpoxGY8pUUEsjpModoYgRGgaqNEZHrd11DzsV/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/bc_ninjas/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "e95X3rA68GRqPvDpw9fqeTvMQ1i8toj2sV2iqmRfsbd",
+      "symbol": "SEU",
+      "name": "Soleur",
+      "decimals": 4,
+      "logoURI": "https://github.com/Mosorior/soleur/blob/main/Soleur%20Coin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/_qudo"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6zNzaKbt6ZkpPsfkWgGFjBoGLJCgm2HAqaytwza1pV6S",
+      "symbol": "OSU",
+      "name": "OSU Token",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/livebyv/token-art/main/osu/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/NftSenshi"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DgT6BQqmmzaaHo7KjoxdswpoC6CoTBNcyD9q3jywEa8w",
+      "symbol": "BALANCE",
+      "name": "Balance Token",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/livebyv/token-art/main/balance/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/NftSenshi"
+      }
     }
   ],
   "version": {
