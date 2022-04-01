@@ -141211,6 +141211,17 @@
       "extensions": {
         "twitter": "https://twitter.com/yoloswagcoin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6fStzwUHEMne7wQyhfwDnZT1YquqkrF8auEscFm6MBSB",
+      "symbol": "TBTH",
+      "name": "TiteButHole",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jmfp/TiteButHole/main/logosmall.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
