@@ -141385,6 +141385,21 @@
         "twitter": "https://twitter.com/StonedShibaClub",
         "website": "https://www.stonedshibaclub.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Czy7tuoHw2hgtNio2qDrz4Un5b1DZix4UaMmV7PFs9ZB",
+      "symbol": "UVZH",
+      "name": "UVAZUHA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/letstrythisshit/crypto/main/Untitled.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "UVAZUHOS TOKENAS",
+        "website": "https://uvazuhatoken.000webhostapp.com"
+      }
     }
   ],
   "version": {
