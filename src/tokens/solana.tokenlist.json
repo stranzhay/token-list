@@ -141184,6 +141184,19 @@
         "twitter": "https://twitter.com/hiryu83",
         "website": "https://www.unrealworld.online"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3rkCq2ZAxoDGa3KWGebeiEMN92H5AV9HBLC9eVKDoPv8",
+      "symbol": "$EGG",
+      "name": "EGG",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/IamDtosh/egg/main/egg.png",
+      "tags": [
+        "defi",
+        "general",
+        "nft"
+      ]
     }
   ],
   "version": {
