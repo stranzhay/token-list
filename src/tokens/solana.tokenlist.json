@@ -141056,6 +141056,22 @@
       "extensions": {
         "twitter": "https://twitter.com/NftSenshi"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "neoneXWLNouaSKk2zna7p54qbmsuVUtdmMGzR5MuPd9",
+      "symbol": "NEON",
+      "name": "Whiteneon Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/whiteneon/token-list/main/assets/mainnet/neoneXWLNouaSKk2zna7p54qbmsuVUtdmMGzR5MuPd9/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://solana.whiteneon.com/"
+      }
     }
   ],
   "version": {
