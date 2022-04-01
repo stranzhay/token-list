@@ -141576,6 +141576,24 @@
       "extensions": {
         "twitter": "https://twitter.com/DeadRejcts"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "46KLEwWLu6zXjqyG845XKLCQPbTDZxXbUQc28wPAQSMh",
+      "symbol": "MFCT",
+      "name": "MetaFliesClub",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ezrelativ/crypto/main/logo.jpg",
+      "tags": [
+        "social-token",
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/49UK5529v2",
+        "twitter": "https://twitter.com/metafliesclub",
+        "website": "https://www.metafliesclub.com/"
+      }
     }
   ],
   "version": {
