@@ -141000,6 +141000,20 @@
         "twitter": "https://twitter.com/Rent_Free_Joe",
         "website": "https://twitter.com/Rent_Free_Joe"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4KwJBSGtpoxGY8pUUEsjpModoYgRGgaqNEZHrd11DzsV",
+      "symbol": "NINJAS",
+      "name": "Blue Chips Ninjas Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4KwJBSGtpoxGY8pUUEsjpModoYgRGgaqNEZHrd11DzsV/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/bc_ninjas/"
+      }
     }
   ],
   "version": {
