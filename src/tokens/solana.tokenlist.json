@@ -142197,6 +142197,18 @@
         "discord": "https://discord.gg/hKuu9pTmrF",
         "twitter": "https://twitter.com/Winto_io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gvjfc5USPXCALsQc3jmRLoHWMjkZq7dFv2giWnYLf9SL",
+      "symbol": "HODLWL",
+      "name": "THPWL",
+      "decimals": 0,
+      "logoURI": "https://user-images.githubusercontent.com/24758821/161396522-d9a7c647-1506-4af6-b617-7195e302b9d2.png",
+      "extensions": {
+        "twitter": "https://twitter.com/hodlersproject",
+        "website": "https://thehodlersproject.com/"
+      }
     }
   ],
   "version": {
