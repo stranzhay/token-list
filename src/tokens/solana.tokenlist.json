@@ -141927,6 +141927,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FpNYrNZeNyskdcLK1saZW4iiGTfAE3BbDBv2tCGvAgjD",
+      "symbol": "MKX",
+      "name": "MekaX Token",
+      "decimals": 6,
+      "logoURI": "https://user-images.githubusercontent.com/102857757/161379695-491afb4f-d004-4902-b422-d930c4e1ccb1.png",
+      "tags": [
+        "NFT"
+      ]
     }
   ],
   "version": {
