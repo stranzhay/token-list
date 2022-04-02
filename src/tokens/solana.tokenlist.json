@@ -142055,6 +142055,60 @@
         "twitter": "https://twitter.com/BlocksmithLabs",
         "website": "https://blocksmithlabs.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "warsF9jr2vq7Y9fmRcC9napUVxpv8wcZmcq8ct8gaz8",
+      "symbol": "WARS",
+      "name": "GMG Hog Wars",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/warsF9jr2vq7Y9fmRcC9napUVxpv8wcZmcq8ct8gaz8/logo.jpg",
+      "tags": [
+        "apparel-token",
+        "ecommerce-token",
+        "fashion-token"
+      ],
+      "extensions": {
+        "description": "WARS is a token for the gm Groundhogs Hog Wars event",
+        "twitter": "https://twitter.com/gmGroundhogs"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8fnyQUm2c6MGy7qLq4ogFYntEA2XEts59xqrxhZJAkgL",
+      "symbol": "CINI",
+      "name": "CoinInvest Capital",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/CoinInvestCapital/token-list/main/assets/mainnet/8fnyQUm2c6MGy7qLq4ogFYntEA2XEts59xqrxhZJAkgL/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3G9BX9KArQTz3F2mCz5nMKCgNMmJ81BFkkwbuJi8ezq8",
+      "symbol": "RSRDC",
+      "name": "WCC RSR DC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3G9BX9KArQTz3F2mCz5nMKCgNMmJ81BFkkwbuJi8ezq8/logo.png",
+      "tags": [
+        "community",
+        "airdrop",
+        "wcc"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/metawhips",
+        "twitter": "https://twitter.com/wccmetawhips",
+        "website": "https://www.skrrrt.vip"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7fug9XCM8FWVKNrbzGetiZn1MX3S3o81t5H7oRu46inc",
+      "symbol": "GHEE",
+      "name": "Genest Hudon Exchange Entreprise",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Tomx403/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
