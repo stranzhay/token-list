@@ -141994,6 +141994,31 @@
       "name": "USAT",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cue8xLyv9Vnf8zoXW4Jpn2ynqaMk4J8pwczhjDLHFyoK/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "8LZoJhzSfRgyxehVkMNkn6uJmuMYRUzSKLGw9JGMPAk5",
+      "symbol": "SBHD",
+      "name": "Sabari H Dev",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sabari245/sol-token/main/logo.jpg",
+      "tags": [
+        "dev-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "G28mRQwFFM4bY5g6vezU5nVbTTckHoMEoPC2qCXbnewY",
+      "symbol": "$GBBB",
+      "name": "Green Bubble Bucks",
+      "decimals": 5,
+      "logoURI": "https://uhlpgtdwixivizncogcqldctszd4fmd2dvocojwozxqznxhynm.arweave.net/odbzTHZF0VRlonGFBYxTlkfCsHod_XCcmzs3hltz4a0?ext=PNG",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "website": "http://greenbubbleinc.com/"
+      }
     }
   ],
   "version": {
