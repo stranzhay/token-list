@@ -142132,6 +142132,47 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HELZsSZmdzjsh4yP36cxG9R1z9fenennZtP35FbV6EdF",
+      "symbol": "HELLIEZ",
+      "name": "HELLIEZ DEATHLIST (WL)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HELZsSZmdzjsh4yP36cxG9R1z9fenennZtP35FbV6EdF/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Eh71tDvTBHcJYaXrqwjzqzHR1asbZuVS43sK8PAR4QdW",
+      "symbol": "HELZ",
+      "name": "HELZ TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Eh71tDvTBHcJYaXrqwjzqzHR1asbZuVS43sK8PAR4QdW/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "G9QgJYvey5D6stDmKsykTVz2yMJz6Br7i395GUjrPDgb",
+      "symbol": "MBI",
+      "name": "Mobiuss",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ghosy27/MobiusToken/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://discord.gg/PBYEE8mPsr"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "sEEDMvgbMAxXmXLDaYWrT8bhCbjrWSMs2EehJbQsopJ",
+      "symbol": "WLSEED",
+      "name": "MINT PASS WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Neurologist/assets/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
