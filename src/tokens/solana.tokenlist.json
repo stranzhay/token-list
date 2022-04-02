@@ -141775,6 +141775,21 @@
         "description": "W3Evolutions Gaming Token",
         "website": "https://www.w3evolutions.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "stoNeDaST7HWxViXptoVKrwzsbabm4Jg8xeMDEtHAoY",
+      "symbol": "SSC",
+      "name": "Stoned Shiba Club WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/stoNeDaST7HWxViXptoVKrwzsbabm4Jg8xeMDEtHAoY/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/stonedshibaclub",
+        "website": "https://www.stonedshibaclub.com"
+      }
     }
   ],
   "version": {
