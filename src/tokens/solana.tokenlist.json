@@ -141970,6 +141970,22 @@
         "telegramAnnouncements": "https://t.me/arenum_announcements",
         "website": "https://arenum.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "32dwLURkgJLKxG9yNdhFAXP9hxrA2Xw6xXu9gPVAvjYt",
+      "symbol": "BPUP",
+      "name": "Battle Pups NFT Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/32dwLURkgJLKxG9yNdhFAXP9hxrA2Xw6xXu9gPVAvjYt/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/z7PFKJ9n",
+        "twitter": "https://twitter.com/BattlePupsNFT",
+        "website": "https://battle-pups.com/"
+      }
     }
   ],
   "version": {
