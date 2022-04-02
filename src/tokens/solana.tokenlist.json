@@ -141986,6 +141986,14 @@
         "twitter": "https://twitter.com/BattlePupsNFT",
         "website": "https://battle-pups.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cue8xLyv9Vnf8zoXW4Jpn2ynqaMk4J8pwczhjDLHFyoK",
+      "symbol": "USAT",
+      "name": "USAT",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cue8xLyv9Vnf8zoXW4Jpn2ynqaMk4J8pwczhjDLHFyoK/logo.png"
     }
   ],
   "version": {
