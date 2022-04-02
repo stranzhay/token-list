@@ -141790,6 +141790,28 @@
         "twitter": "https://twitter.com/stonedshibaclub",
         "website": "https://www.stonedshibaclub.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BCMSDKLugjyQUWxfZBe7JaDvLTK8HjfVUev64ERdigAn",
+      "symbol": "WC",
+      "name": "WalkCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/wsouthern21/crypto/main/WalkCoin.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6BAfSRm941BnCPszTiWB9YeDkSptYRxMMYKQH4t7iFGc",
+      "symbol": "STHC",
+      "name": "Southern Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/wsouthern21/crypto2/main/Crypto%20Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
