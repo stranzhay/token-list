@@ -141876,6 +141876,21 @@
       "extensions": {
         "website": "https://neon.game"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5iet2XLprsR1ACxC46p6RzPbhu5u7Kcw6gHTYbaLnUWo",
+      "symbol": "DIRT",
+      "name": "Pup Filthy Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5iet2XLprsR1ACxC46p6RzPbhu5u7Kcw6gHTYbaLnUWo/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/pupfilthy",
+        "website": "https://pupfilthy.com"
+      }
     }
   ],
   "version": {
