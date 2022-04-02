@@ -141756,6 +141756,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ai5LQP5cT1j7nq2R6yNcc8eowdcurozdrvvse6FkuJqa",
+      "symbol": "W3C",
+      "name": "W3 Coin",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/W3EvolutionsLLC/w3c-token/main/logo.png",
+      "tags": [
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming",
+        "whitelist"
+      ],
+      "extensions": {
+        "description": "W3Evolutions Gaming Token",
+        "website": "https://www.w3evolutions.com"
+      }
     }
   ],
   "version": {
