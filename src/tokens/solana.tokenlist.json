@@ -142019,6 +142019,14 @@
       "extensions": {
         "website": "http://greenbubbleinc.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5rMKeugmjjQw4SgxZXJAchPEKHDRh2rHakizKye12GQD",
+      "symbol": "HASHA",
+      "name": "HSH",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5rMKeugmjjQw4SgxZXJAchPEKHDRh2rHakizKye12GQD/logo.png"
     }
   ],
   "version": {
