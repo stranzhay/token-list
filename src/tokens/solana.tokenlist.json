@@ -142148,6 +142148,20 @@
       "name": "HELZ TOKEN",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Eh71tDvTBHcJYaXrqwjzqzHR1asbZuVS43sK8PAR4QdW/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "G9QgJYvey5D6stDmKsykTVz2yMJz6Br7i395GUjrPDgb",
+      "symbol": "MBI",
+      "name": "Mobiuss",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ghosy27/MobiusToken/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://discord.gg/PBYEE8mPsr"
+      }
     }
   ],
   "version": {
