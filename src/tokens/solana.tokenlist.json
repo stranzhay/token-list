@@ -141812,6 +141812,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GirLsab7zzS2sy6DcMpiqoJHpEhtfdZLQnPtQKiHH7nk",
+      "symbol": "AUGIR1S",
+      "name": "The Aurora Girls",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GirLsab7zzS2sy6DcMpiqoJHpEhtfdZLQnPtQKiHH7nk/logo.png",
+      "tags": [
+        "nft",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://t.co/as2tJm3wuW",
+        "twitter": "https://twitter.com/TheAuroraGirls",
+        "website": "https://solcry.io/"
+      }
     }
   ],
   "version": {
