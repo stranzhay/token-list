@@ -142132,6 +142132,22 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HELZsSZmdzjsh4yP36cxG9R1z9fenennZtP35FbV6EdF",
+      "symbol": "HELLIEZ",
+      "name": "HELLIEZ DEATHLIST (WL)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HELZsSZmdzjsh4yP36cxG9R1z9fenennZtP35FbV6EdF/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Eh71tDvTBHcJYaXrqwjzqzHR1asbZuVS43sK8PAR4QdW",
+      "symbol": "HELZ",
+      "name": "HELZ TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Eh71tDvTBHcJYaXrqwjzqzHR1asbZuVS43sK8PAR4QdW/logo.png"
     }
   ],
   "version": {
