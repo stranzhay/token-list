@@ -141927,6 +141927,49 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FpNYrNZeNyskdcLK1saZW4iiGTfAE3BbDBv2tCGvAgjD",
+      "symbol": "MKX",
+      "name": "MekaX Token",
+      "decimals": 6,
+      "logoURI": "https://user-images.githubusercontent.com/102857757/161379695-491afb4f-d004-4902-b422-d930c4e1ccb1.png",
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DAHLEzHa3vFjmBvqvs5BWmyF4HY85YLFvnUz97dNyyou",
+      "symbol": "DAHLYS",
+      "name": "Dahlys WL1",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img923/6392/7xzbmS.jpg",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dahlysart",
+        "website": "https://www.dahlys.art/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GQ2taRp7AnriEkRjJaynKT8dFkHNGPP5FozaP9191Qtr",
+      "symbol": "ARN",
+      "name": "Arenum Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GQ2taRp7AnriEkRjJaynKT8dFkHNGPP5FozaP9191Qtr/logo.png",
+      "tags": [
+        "game-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/arenum_community",
+        "telegramAnnouncements": "https://t.me/arenum_announcements",
+        "website": "https://arenum.io"
+      }
     }
   ],
   "version": {
