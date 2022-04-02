@@ -142055,6 +142055,23 @@
         "twitter": "https://twitter.com/BlocksmithLabs",
         "website": "https://blocksmithlabs.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "warsF9jr2vq7Y9fmRcC9napUVxpv8wcZmcq8ct8gaz8",
+      "symbol": "WARS",
+      "name": "GMG Hog Wars",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/warsF9jr2vq7Y9fmRcC9napUVxpv8wcZmcq8ct8gaz8/logo.jpg",
+      "tags": [
+        "apparel-token",
+        "ecommerce-token",
+        "fashion-token"
+      ],
+      "extensions": {
+        "description": "WARS is a token for the gm Groundhogs Hog Wars event",
+        "twitter": "https://twitter.com/gmGroundhogs"
+      }
     }
   ],
   "version": {
