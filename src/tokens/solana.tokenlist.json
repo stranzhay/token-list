@@ -142120,6 +142120,18 @@
       "extensions": {
         "twitter": "https://twitter.com/fluid_nyc"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CBvsvCdc48axE5jfct9x4Qz2sg5aBGyac4fzDKdANv4D",
+      "symbol": "Pmtoken",
+      "name": "Potato Mango token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CBvsvCdc48axE5jfct9x4Qz2sg5aBGyac4fzDKdANv4D/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
