@@ -141840,6 +141840,28 @@
       "extensions": {
         "website": "https://peace-bot.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "orcKkqqQoXZDYBrDtKHRNcVN73jW7454eK3dFm9Zi69",
+      "symbol": "ORCS",
+      "name": "The Orcs WL token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bitcoinblack482/logo/main/the%20orc.png",
+      "tags": [
+        "NFT",
+        "dao",
+        "utility-token",
+        "meta-verse",
+        "game",
+        "play2earn",
+        "governance"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/theorcs",
+        "twitter": "https://twitter.com/TheOrcsNFT",
+        "website": "https://theorcs.io"
+      }
     }
   ],
   "version": {
