@@ -142162,6 +142162,17 @@
       "extensions": {
         "website": "https://discord.gg/PBYEE8mPsr"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "sEEDMvgbMAxXmXLDaYWrT8bhCbjrWSMs2EehJbQsopJ",
+      "symbol": "WLSEED",
+      "name": "MINT PASS WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Neurologist/assets/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
