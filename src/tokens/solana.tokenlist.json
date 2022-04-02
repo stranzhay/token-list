@@ -141745,6 +141745,17 @@
         "website": "https://www.juiced.fi",
         "whitepaper": "https://juiced.fi/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ACQZijQbC9sMManzoSq1LS9PuUEspsgwrqeoeXm9vrc6",
+      "symbol": "DDOG",
+      "name": "Daisy Dog",
+      "decimals": 6,
+      "logoURI": "https://github.com/nchapman75/DDog/blob/main/DDOG.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
