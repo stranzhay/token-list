@@ -141994,6 +141994,17 @@
       "name": "USAT",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cue8xLyv9Vnf8zoXW4Jpn2ynqaMk4J8pwczhjDLHFyoK/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "8LZoJhzSfRgyxehVkMNkn6uJmuMYRUzSKLGw9JGMPAk5",
+      "symbol": "SBHD",
+      "name": "Sabari H Dev",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sabari245/sol-token/main/logo.jpg",
+      "tags": [
+        "dev-token"
+      ]
     }
   ],
   "version": {
