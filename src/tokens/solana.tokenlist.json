@@ -142109,6 +142109,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "215ZhGvosobjXKJDWCFz1xc5RJdL13bxaULwTA8dE4y7",
+      "symbol": "FLD",
+      "name": "FLUID",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/jonesynyc/fluid/main/fluid%20final.trans.png",
+      "extensions": {
+        "twitter": "https://twitter.com/fluid_nyc"
+      }
     }
   ],
   "version": {
