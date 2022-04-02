@@ -141829,6 +141829,17 @@
         "twitter": "https://twitter.com/TheAuroraGirls",
         "website": "https://solcry.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G4rhtwBmKXkTtXNwyS7qa7KYkWHFYzJ5yhNcG2kedt7N",
+      "symbol": "PBWL",
+      "name": "Peacebot Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G4rhtwBmKXkTtXNwyS7qa7KYkWHFYzJ5yhNcG2kedt7N/logo.png",
+      "extensions": {
+        "website": "https://peace-bot.com/"
+      }
     }
   ],
   "version": {
