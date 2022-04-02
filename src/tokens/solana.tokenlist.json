@@ -142038,6 +142038,23 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FoRGERiW7odcCBGU1bztZi16osPBHjxharvDathL5eds",
+      "symbol": "FORGE",
+      "name": "FORGE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FoRGERiW7odcCBGU1bztZi16osPBHjxharvDathL5eds/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/blocksmithlabs",
+        "twitter": "https://twitter.com/BlocksmithLabs",
+        "website": "https://blocksmithlabs.io/"
+      }
     }
   ],
   "version": {
