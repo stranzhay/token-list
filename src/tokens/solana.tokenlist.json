@@ -141938,6 +141938,22 @@
       "tags": [
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DAHLEzHa3vFjmBvqvs5BWmyF4HY85YLFvnUz97dNyyou",
+      "symbol": "DAHLYS",
+      "name": "Dahlys WL1",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img923/6392/7xzbmS.jpg",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dahlysart",
+        "website": "https://www.dahlys.art/"
+      }
     }
   ],
   "version": {
