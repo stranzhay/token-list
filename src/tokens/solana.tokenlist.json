@@ -142209,6 +142209,21 @@
         "twitter": "https://twitter.com/hodlersproject",
         "website": "https://thehodlersproject.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "24JRoY6bNNAGUYpmBJoBuR9sXfsMzRosnP7wyMaDZUxg",
+      "symbol": "DHLG",
+      "name": "Diamond Hand: Legends Gold",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/24JRoY6bNNAGUYpmBJoBuR9sXfsMzRosnP7wyMaDZUxg/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dhlegends",
+        "website": "https://www.diamondhandlegends.com"
+      }
     }
   ],
   "version": {
