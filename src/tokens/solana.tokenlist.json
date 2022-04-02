@@ -141862,6 +141862,35 @@
         "twitter": "https://twitter.com/TheOrcsNFT",
         "website": "https://theorcs.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DuSyBCGuhPvyGu6cSvbZonvQvh8JLyGvXJn1TmkJh6Zn",
+      "symbol": "$NEON",
+      "name": "NeonGame Credits",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/VPS4BrOgXT4rg-mwGfCLqXL8vtbII0ianMBsw_L2CeE",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://neon.game"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5iet2XLprsR1ACxC46p6RzPbhu5u7Kcw6gHTYbaLnUWo",
+      "symbol": "DIRT",
+      "name": "Pup Filthy Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5iet2XLprsR1ACxC46p6RzPbhu5u7Kcw6gHTYbaLnUWo/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/pupfilthy",
+        "website": "https://pupfilthy.com"
+      }
     }
   ],
   "version": {
