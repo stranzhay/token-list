@@ -141862,6 +141862,20 @@
         "twitter": "https://twitter.com/TheOrcsNFT",
         "website": "https://theorcs.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DuSyBCGuhPvyGu6cSvbZonvQvh8JLyGvXJn1TmkJh6Zn",
+      "symbol": "$NEON",
+      "name": "NeonGame Credits",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/VPS4BrOgXT4rg-mwGfCLqXL8vtbII0ianMBsw_L2CeE",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://neon.game"
+      }
     }
   ],
   "version": {
