@@ -142173,6 +142173,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8FrBfqvgaYYwYN4bwEJzurkqThzbyz7gibQeDiCYUcw1",
+      "symbol": "RDN",
+      "name": "Riden app token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sedoyjan/ridentoken/main/logo.png",
+      "tags": [
+        "riden"
+      ]
     }
   ],
   "version": {
