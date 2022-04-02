@@ -142184,6 +142184,22 @@
       "tags": [
         "riden"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4kHnCyYn4D6kquPMrQSZTHrVPuUjRom6CvffRr8i5MBG",
+      "symbol": "WINTO",
+      "name": "Wintoken",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4kHnCyYn4D6kquPMrQSZTHrVPuUjRom6CvffRr8i5MBG/logo.png",
+      "tags": [
+        "utility-token",
+        "nft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/hKuu9pTmrF",
+        "twitter": "https://twitter.com/Winto_io"
+      }
     }
   ],
   "version": {
