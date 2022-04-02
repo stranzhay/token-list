@@ -142072,6 +142072,14 @@
         "description": "WARS is a token for the gm Groundhogs Hog Wars event",
         "twitter": "https://twitter.com/gmGroundhogs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8fnyQUm2c6MGy7qLq4ogFYntEA2XEts59xqrxhZJAkgL",
+      "symbol": "CINI",
+      "name": "CoinInvest Capital",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/CoinInvestCapital/token-list/main/assets/mainnet/8fnyQUm2c6MGy7qLq4ogFYntEA2XEts59xqrxhZJAkgL/logo.png"
     }
   ],
   "version": {
