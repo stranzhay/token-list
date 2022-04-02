@@ -141891,6 +141891,23 @@
         "twitter": "https://twitter.com/pupfilthy",
         "website": "https://pupfilthy.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "HmAb5sNiKhddoNtTU11RwuT4xEc1ZG4X1ZgRXjB9VBUE",
+      "symbol": "ANIMET",
+      "name": "Animedic Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HmAb5sNiKhddoNtTU11RwuT4xEc1ZG4X1ZgRXjB9VBUE/logo.png",
+      "tags": [
+        "health",
+        "animal"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/animedic",
+        "twitter": "https://twitter.com/animedic",
+        "website": "https://animedic.github.io"
+      }
     }
   ],
   "version": {
