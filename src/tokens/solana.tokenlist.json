@@ -142098,6 +142098,17 @@
         "twitter": "https://twitter.com/wccmetawhips",
         "website": "https://www.skrrrt.vip"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7fug9XCM8FWVKNrbzGetiZn1MX3S3o81t5H7oRu46inc",
+      "symbol": "GHEE",
+      "name": "Genest Hudon Exchange Entreprise",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Tomx403/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
