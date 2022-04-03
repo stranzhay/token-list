@@ -142398,6 +142398,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5MRLB1syeNmUda6wKdZDwjFx6QgAqxMPy6baE7S9rCEN",
+      "symbol": "GOOONZ",
+      "name": "DragooonFruit",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/OnChainFoundation/Dragooon/main/frooot.png",
+      "tags": [
+        "Meme-Token"
+      ]
     }
   ],
   "version": {
