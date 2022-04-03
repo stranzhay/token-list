@@ -142420,6 +142420,36 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DDaf1JydTVMnenk3Rh7SBKBsXV3gy5QuV99ybYiysrAj",
+      "symbol": "AGDT",
+      "name": "AvirKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/venkykumar2019/New-Crypto-Avir/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "35Qf788AoDACckoakVqbUxT7FdrKUBDa2f1S2MWUqo5J",
+      "symbol": "BCC",
+      "name": "BCC Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/BCC-Coin/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "meme-token",
+        "BCC-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bcc_roma",
+        "website": "https://www.bccroma.it",
+        "youtube": "https://www.youtube.com/user/BCCRoma60"
+      }
     }
   ],
   "version": {
