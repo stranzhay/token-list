@@ -142517,6 +142517,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "LABSwpcfDjvRRMmEs87Y9yrj4pS9eofVS6cSbJm2zCW",
+      "symbol": "LABS",
+      "name": "LABS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LABSwpcfDjvRRMmEs87Y9yrj4pS9eofVS6cSbJm2zCW/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
