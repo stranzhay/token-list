@@ -142601,6 +142601,34 @@
         "twitter": "https://twitter.com/ThinkingCrypto1",
         "youtube": "https://www.youtube.com/channel/UCjpkwsuHgYx9fBE0ojsJ_-w"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "77V9ffb8fT34MQrDqnMBLrmpzy6uGQgPRoo8168sNHzj",
+      "symbol": "MATE",
+      "name": "Solmate Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SolmateBot/Images/main/imageedit_2_3928478281.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Solmate Bot Community Token",
+        "discord": "https://discord.gg/FWfFgjTepT",
+        "twitter": "https://twitter.com/spruijtstudios"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5jWJPEorC9QeauxLgGMV2iiovj2h6PPMw7V8RC5U4yk4",
+      "symbol": "NZo",
+      "name": "Net Zero DAO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Rafacramos/NetzeroDAO/main/logo.png",
+      "tags": [
+        "Utility-token",
+        "Governance"
+      ]
     }
   ],
   "version": {
