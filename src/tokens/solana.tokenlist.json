@@ -142259,6 +142259,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AogvAeorTFevSc68RyrcLWQDawXUN4qEJbCKxVnuLHNN",
+      "symbol": "ATOGT",
+      "name": "Atlaria OG Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATTF58JfFUHZktZXyV6aCTwHVCYzPuZBg2hma7J7Ao7n/logo.png",
+      "tags": [
+        "NFT"
+      ]
     }
   ],
   "version": {
