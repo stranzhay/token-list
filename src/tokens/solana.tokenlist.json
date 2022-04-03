@@ -142570,6 +142570,17 @@
         "twitter": "https://twitter.com/ToadboysNFT",
         "website": "https://www.toadboys.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8FTDPeF3h5tjiKVwaQaKsEEuD6yPoz8eGjhqVPZb1Bh9",
+      "symbol": "CCT",
+      "name": "Continental Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/johnwick0008/cctoken/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
