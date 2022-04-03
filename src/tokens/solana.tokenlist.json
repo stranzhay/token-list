@@ -142450,6 +142450,17 @@
         "website": "https://www.bccroma.it",
         "youtube": "https://www.youtube.com/user/BCCRoma60"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GPcBCCeg2vNVhPmNSePQj6vWM2dpaB9g2BWsvEqbc4EA",
+      "symbol": "NDR",
+      "name": "ÈndriuCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sitispam0/crypto/main/endriu.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
