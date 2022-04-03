@@ -142348,6 +142348,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CtoftNu5RgEwcPBRLfGDoJSL8SrgTy84USQBytyewACQ",
+      "symbol": "SMFRS",
+      "name": "SNIPER MFERS",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CtoftNu5RgEwcPBRLfGDoJSL8SrgTy84USQBytyewACQ/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/moneynosleep777"
+      }
     }
   ],
   "version": {
