@@ -142409,6 +142409,17 @@
       "tags": [
         "Meme-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7qzjokh7N8eQm6QFnKuydZd83jMSr65VHooJYnxBYxYB",
+      "symbol": "SER",
+      "name": "Serial Number",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CryptoChris69/Crypto/main/Serial%20Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
