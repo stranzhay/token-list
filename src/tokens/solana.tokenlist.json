@@ -142329,6 +142329,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8wtoCiM49VyZo8u5kK23UgQJkPU9oRtc7qYj1wRqCRkb",
+      "symbol": "BDNI",
+      "name": "BadNightOG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Shwa86/bagnightkoaala/main/logo.png"
     }
   ],
   "version": {
