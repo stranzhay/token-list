@@ -142337,6 +142337,17 @@
       "name": "BadNightOG",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/Shwa86/bagnightkoaala/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "54tN98XPJFedhCSFWURHhNwUsSeNBSAwndqZkkjP6GEy",
+      "symbol": "BAI",
+      "name": "BOT AI",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Adigodx/Bot-AI/5866a5345bdec1b6204e065279a0829111fb02de/pixil-frame-0.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
