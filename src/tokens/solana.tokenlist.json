@@ -142461,6 +142461,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5GNgqzs26SZgxrB1KivhwT7yctZQ5NRWW8EFaC729Gas",
+      "symbol": "EROTICA",
+      "name": "EROTICA",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5GNgqzs26SZgxrB1KivhwT7yctZQ5NRWW8EFaC729Gas/logo.png",
+      "tags": [
+        "community-token",
+        "nsfw-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/hub_erotica"
+      }
     }
   ],
   "version": {
