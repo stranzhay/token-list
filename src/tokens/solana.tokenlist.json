@@ -142318,6 +142318,17 @@
         "website": "https://www.tloan.io",
         "whitepaper": "https://tloan.io/wp-content/uploads/2022/04/White_Paper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2zPkGDkXyDc7Fs2iNADRobEMpfNvtBcFXpSypgd1TmGP",
+      "symbol": "PBN",
+      "name": "Procrastabation Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/insert-random-name/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
