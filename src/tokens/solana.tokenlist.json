@@ -142554,6 +142554,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "toaduF8Ay7udXP77Hi1EysXsRYuutL35vZ6wqMBtVvD",
+      "symbol": "TOAD",
+      "name": "Toad",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/toaduF8Ay7udXP77Hi1EysXsRYuutL35vZ6wqMBtVvD/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/toadboys",
+        "twitter": "https://twitter.com/ToadboysNFT",
+        "website": "https://www.toadboys.io/"
+      }
     }
   ],
   "version": {
