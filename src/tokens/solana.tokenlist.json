@@ -142270,6 +142270,22 @@
       "tags": [
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SPraYi59a21jEhqvPBbWuwmjA4vdTaSLbiRTefcHJSR",
+      "symbol": "SPRAY",
+      "name": "SPRAY",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SPraYi59a21jEhqvPBbWuwmjA4vdTaSLbiRTefcHJSR/icon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/thugpacaz",
+        "twitter": "https://twitter.com/ThugPacaz",
+        "website": "https://thugpacaz.com"
+      }
     }
   ],
   "version": {
