@@ -142581,6 +142581,26 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HbFsWKt2kWzLqryhDhgu1iFgzW8AoR4CQMfKn8wxGydP",
+      "symbol": "TKCR",
+      "name": "Thinking Crypto Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ThinkingCrypto/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Thinking Crypto Podcast Community Token",
+        "facebook": "https://www.facebook.com/thinkingcrypto/",
+        "instagram": "https://www.instagram.com/thinkingcrypto/",
+        "linkedin": "https://www.linkedin.com/company/13064904/admin/",
+        "reddit": "https://www.reddit.com/r/ThinkingCrypto/",
+        "twitter": "https://twitter.com/ThinkingCrypto1",
+        "youtube": "https://www.youtube.com/channel/UCjpkwsuHgYx9fBE0ojsJ_-w"
+      }
     }
   ],
   "version": {
