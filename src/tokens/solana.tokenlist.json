@@ -142286,6 +142286,18 @@
         "twitter": "https://twitter.com/ThugPacaz",
         "website": "https://thugpacaz.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G5uEmbn8Vft79cNkRBxc4xoCXUYka9FQcivTrKb155Nz",
+      "symbol": "unc",
+      "name": "For Ukraine",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/nasher207/ukrainian-flag/main/ukrainian%20flag.png",
+      "tags": [
+        "community",
+        "community-token"
+      ]
     }
   ],
   "version": {
