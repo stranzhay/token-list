@@ -142298,6 +142298,26 @@
         "community",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GpNrpPQTmu5k6TWauyggCwjMyjP7WfGMYkMRWYq7dTF5",
+      "symbol": "TLOAN",
+      "name": "TLOAN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/akhelbey/tloan/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "The Life of a Negro Token",
+        "discord": "https://discord.gg/fPf4HNkc",
+        "instagram": "https://www.instagram.com/tloanio/",
+        "telegram": "https://t.me/tloanio",
+        "twitter": "https://twitter.com/tloanio",
+        "website": "https://www.tloan.io",
+        "whitepaper": "https://tloan.io/wp-content/uploads/2022/04/White_Paper.pdf"
+      }
     }
   ],
   "version": {
