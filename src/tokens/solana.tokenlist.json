@@ -142543,6 +142543,17 @@
       "extensions": {
         "website": "https://find-and-update.company-information.service.gov.uk/company/13753949"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DC1G9rWimCagBKRehYGJ2cHj44BcM2rgvDQHJvbyLGWx",
+      "symbol": "CERO",
+      "name": "Codinero",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/vaibhav-vemula/codinero-logo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
