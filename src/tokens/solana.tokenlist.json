@@ -142348,6 +142348,45 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CtoftNu5RgEwcPBRLfGDoJSL8SrgTy84USQBytyewACQ",
+      "symbol": "SMFRS",
+      "name": "SNIPER MFERS",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CtoftNu5RgEwcPBRLfGDoJSL8SrgTy84USQBytyewACQ/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/moneynosleep777"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9ztqroLtnJ7LpDts1kryyYP3mepfhJJN5YhESvmqb5pZ",
+      "symbol": "KUMPUS",
+      "name": "Kumpus Project",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Kumpus209/token-list/b7e0b60f00062674e4bc355897d29fa3d083b3dc/assets/mainnet/logo.png",
+      "tags": [
+        "NFT",
+        "Merketplace"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/KumpusProject",
+        "twitter": "https://twitter.com/KumpusProject",
+        "website": "https://kumpusproject.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7VP7Jyvdpa3yJnajTitACUvB4m3GqzrMbCdLVBMw55Xs",
+      "symbol": "honey",
+      "name": "Cryptohoney",
+      "decimals": 0,
+      "logoURI": "https://github.com/cryptohoneyy/cyhy/blob/main/cyhy.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
