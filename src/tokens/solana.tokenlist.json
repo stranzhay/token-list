@@ -142506,6 +142506,17 @@
       "extensions": {
         "website": "https://www.pamogi.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ESUJjFm3aKEazEJhVLgdPTxwUyMmR2V9kFNVtZM2CkmS",
+      "symbol": "NOBU",
+      "name": "NobuKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/healthtech100/NobuKoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
