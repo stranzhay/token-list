@@ -142387,6 +142387,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "94Korhd7vLtkogbpM1c17fqr1bfjpAYJhwkJTTedQW3x",
+      "symbol": "YOTU",
+      "name": "Miniyotu Troops Token",
+      "decimals": 3,
+      "logoURI": "https://media.discordapp.net/attachments/926535226820276264/960073766447243284/yotu.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
