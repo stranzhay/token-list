@@ -142529,6 +142529,78 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3DKdpeB8ZQ221nxGLuGivph2FX8kaaYtVznxNqKf6yaU",
+      "symbol": "SSG",
+      "name": "Sol Shadow Gold",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solshadowgold/solshadowgold/main/ssg.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://find-and-update.company-information.service.gov.uk/company/13753949"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DC1G9rWimCagBKRehYGJ2cHj44BcM2rgvDQHJvbyLGWx",
+      "symbol": "CERO",
+      "name": "Codinero",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/vaibhav-vemula/codinero-logo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "toaduF8Ay7udXP77Hi1EysXsRYuutL35vZ6wqMBtVvD",
+      "symbol": "TOAD",
+      "name": "Toad",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/toaduF8Ay7udXP77Hi1EysXsRYuutL35vZ6wqMBtVvD/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/toadboys",
+        "twitter": "https://twitter.com/ToadboysNFT",
+        "website": "https://www.toadboys.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8FTDPeF3h5tjiKVwaQaKsEEuD6yPoz8eGjhqVPZb1Bh9",
+      "symbol": "CCT",
+      "name": "Continental Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/johnwick0008/cctoken/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HbFsWKt2kWzLqryhDhgu1iFgzW8AoR4CQMfKn8wxGydP",
+      "symbol": "TKCR",
+      "name": "Thinking Crypto Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ThinkingCrypto/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Thinking Crypto Podcast Community Token",
+        "facebook": "https://www.facebook.com/thinkingcrypto/",
+        "instagram": "https://www.instagram.com/thinkingcrypto/",
+        "linkedin": "https://www.linkedin.com/company/13064904/admin/",
+        "reddit": "https://www.reddit.com/r/ThinkingCrypto/",
+        "twitter": "https://twitter.com/ThinkingCrypto1",
+        "youtube": "https://www.youtube.com/channel/UCjpkwsuHgYx9fBE0ojsJ_-w"
+      }
     }
   ],
   "version": {
