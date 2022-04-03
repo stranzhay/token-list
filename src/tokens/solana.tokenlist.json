@@ -142640,6 +142640,19 @@
       "tags": [
         "Utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "28hRrgxNCciriqEkbQyxx3XQxifSWvxWuZ9vGZsjddQj",
+      "symbol": "SWCT",
+      "name": "SiliconWorx Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/GameSlaveSA/crypto/main/swlogo.png",
+      "tags": [
+        "utility-token",
+        "NFT",
+        "social-token"
+      ]
     }
   ],
   "version": {
