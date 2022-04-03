@@ -142629,6 +142629,17 @@
         "Utility-token",
         "Governance"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "cophqNMBZ6NpUg4f59TymEiJJKdRh9WtedKsr4STJFS",
+      "symbol": "COPS",
+      "name": "Cop Community WL Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/copcommunity/theLogo/main/copLogo.png",
+      "tags": [
+        "Utility-token"
+      ]
     }
   ],
   "version": {
