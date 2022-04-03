@@ -142359,6 +142359,23 @@
       "extensions": {
         "twitter": "https://twitter.com/moneynosleep777"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9ztqroLtnJ7LpDts1kryyYP3mepfhJJN5YhESvmqb5pZ",
+      "symbol": "KUMPUS",
+      "name": "Kumpus Project",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Kumpus209/token-list/b7e0b60f00062674e4bc355897d29fa3d083b3dc/assets/mainnet/logo.png",
+      "tags": [
+        "NFT",
+        "Merketplace"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/KumpusProject",
+        "twitter": "https://twitter.com/KumpusProject",
+        "website": "https://kumpusproject.com/"
+      }
     }
   ],
   "version": {
