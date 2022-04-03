@@ -142669,6 +142669,29 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5rC7FRUAE9NqVrfpFvJY3VjSd6BcPgPZbJBKyE4NGfq7",
+      "symbol": "MAFI",
+      "name": "Markenfilm Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/mafi-space/mafi-coin/main/logo.png",
+      "tags": [
+        "social-token",
+        "NFT"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5YdW5iu9zzxZKRx7Q2PkUSWTkWHKDBEfWFnEXujNzr6z",
+      "symbol": "TRAP",
+      "name": "T-RaP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/khanna404/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
