@@ -142248,6 +142248,17 @@
         "WhitelistToken",
         "LostDinoArkWhitelist"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5AsqjUsxFwkGLh9hwSYwV6rd2h9LXMia6PPLmPLG9vq4",
+      "symbol": "TYN",
+      "name": "Tachyon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/zoexbt/crypto/main/logo.png.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
