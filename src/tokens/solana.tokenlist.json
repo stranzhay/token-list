@@ -142248,6 +142248,44 @@
         "WhitelistToken",
         "LostDinoArkWhitelist"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5AsqjUsxFwkGLh9hwSYwV6rd2h9LXMia6PPLmPLG9vq4",
+      "symbol": "TYN",
+      "name": "Tachyon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/zoexbt/crypto/main/logo.png.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AogvAeorTFevSc68RyrcLWQDawXUN4qEJbCKxVnuLHNN",
+      "symbol": "ATOGT",
+      "name": "Atlaria OG Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATTF58JfFUHZktZXyV6aCTwHVCYzPuZBg2hma7J7Ao7n/logo.png",
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "SPraYi59a21jEhqvPBbWuwmjA4vdTaSLbiRTefcHJSR",
+      "symbol": "SPRAY",
+      "name": "SPRAY",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SPraYi59a21jEhqvPBbWuwmjA4vdTaSLbiRTefcHJSR/icon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/thugpacaz",
+        "twitter": "https://twitter.com/ThugPacaz",
+        "website": "https://thugpacaz.com"
+      }
     }
   ],
   "version": {
