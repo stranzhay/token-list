@@ -142476,6 +142476,59 @@
       "extensions": {
         "twitter": "https://twitter.com/hub_erotica"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6R5ztjhArGnTPpgX8edFAHizbeBX1yJCMYsmeK6fYZ8g",
+      "symbol": "Pogi",
+      "name": "Pamogi",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6R5ztjhArGnTPpgX8edFAHizbeBX1yJCMYsmeK6fYZ8g/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.pamogi.org"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GFyhVQnqNUY99irkC3NCkuucPZVkFfkGsb91detux7Mu",
+      "symbol": "TestPogi",
+      "name": "Pamogi Test Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GFyhVQnqNUY99irkC3NCkuucPZVkFfkGsb91detux7Mu/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.pamogi.org"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ESUJjFm3aKEazEJhVLgdPTxwUyMmR2V9kFNVtZM2CkmS",
+      "symbol": "NOBU",
+      "name": "NobuKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/healthtech100/NobuKoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "LABSwpcfDjvRRMmEs87Y9yrj4pS9eofVS6cSbJm2zCW",
+      "symbol": "LABS",
+      "name": "LABS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LABSwpcfDjvRRMmEs87Y9yrj4pS9eofVS6cSbJm2zCW/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
