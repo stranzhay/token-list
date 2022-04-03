@@ -142634,6 +142634,41 @@
         "Utility-token",
         "Governance"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "cophqNMBZ6NpUg4f59TymEiJJKdRh9WtedKsr4STJFS",
+      "symbol": "COPS",
+      "name": "Cop Community WL Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/copcommunity/theLogo/main/copLogo.png",
+      "tags": [
+        "Utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "28hRrgxNCciriqEkbQyxx3XQxifSWvxWuZ9vGZsjddQj",
+      "symbol": "SWCT",
+      "name": "SiliconWorx Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/GameSlaveSA/crypto/main/swlogo.png",
+      "tags": [
+        "utility-token",
+        "NFT",
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "79dC5fzV4stHh5Xgdj23g8XhU5jJZENdBFdbipA2oJvN",
+      "symbol": "PPWLT",
+      "name": "PrjctPhoenix WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/79dC5fzV4stHh5Xgdj23g8XhU5jJZENdBFdbipA2oJvN/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
