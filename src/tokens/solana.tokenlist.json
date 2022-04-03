@@ -142376,6 +142376,17 @@
         "twitter": "https://twitter.com/KumpusProject",
         "website": "https://kumpusproject.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7VP7Jyvdpa3yJnajTitACUvB4m3GqzrMbCdLVBMw55Xs",
+      "symbol": "honey",
+      "name": "Cryptohoney",
+      "decimals": 0,
+      "logoURI": "https://github.com/cryptohoneyy/cyhy/blob/main/cyhy.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
