@@ -142617,6 +142617,18 @@
         "discord": "https://discord.gg/FWfFgjTepT",
         "twitter": "https://twitter.com/spruijtstudios"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5jWJPEorC9QeauxLgGMV2iiovj2h6PPMw7V8RC5U4yk4",
+      "symbol": "NZo",
+      "name": "Net Zero DAO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Rafacramos/NetzeroDAO/main/logo.png",
+      "tags": [
+        "Utility-token",
+        "Governance"
+      ]
     }
   ],
   "version": {
