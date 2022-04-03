@@ -142224,6 +142224,30 @@
         "twitter": "https://twitter.com/dhlegends",
         "website": "https://www.diamondhandlegends.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3hvHyKjbJCrbWkZHPYChnG42qwjbjQjDF5fESydRWiU5",
+      "symbol": "LDARWL",
+      "name": "LOST DINO ARK ROYAL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3hvHyKjbJCrbWkZHPYChnG42qwjbjQjDF5fESydRWiU5/logo.png",
+      "tags": [
+        "RoyalToken",
+        "LostDinoArkRoyal"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8ewmsfsNH3C3fjjSK7qsogoMfvushqANVxzSz5jAwBH",
+      "symbol": "LDAWL",
+      "name": "LOST DINO ARK WHITELIST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8ewmsfsNH3C3fjjSK7qsogoMfvushqANVxzSz5jAwBH/logo.png",
+      "tags": [
+        "WhitelistToken",
+        "LostDinoArkWhitelist"
+      ]
     }
   ],
   "version": {
