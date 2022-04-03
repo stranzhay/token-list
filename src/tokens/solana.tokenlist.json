@@ -142476,6 +142476,36 @@
       "extensions": {
         "twitter": "https://twitter.com/hub_erotica"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6R5ztjhArGnTPpgX8edFAHizbeBX1yJCMYsmeK6fYZ8g",
+      "symbol": "Pogi",
+      "name": "Pamogi",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6R5ztjhArGnTPpgX8edFAHizbeBX1yJCMYsmeK6fYZ8g/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.pamogi.org"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GFyhVQnqNUY99irkC3NCkuucPZVkFfkGsb91detux7Mu",
+      "symbol": "TestPogi",
+      "name": "Pamogi Test Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GFyhVQnqNUY99irkC3NCkuucPZVkFfkGsb91detux7Mu/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.pamogi.org"
+      }
     }
   ],
   "version": {
