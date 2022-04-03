@@ -135815,8 +135815,13 @@
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/Anonymous-Pentester/logo/main/logo1.png",
       "tags": [
-        "social-token"
-      ]
+        "utility-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/destnetwork",
+        "website": "https://destcoin.org/"
+      }
     },
     {
       "chainId": 102,
