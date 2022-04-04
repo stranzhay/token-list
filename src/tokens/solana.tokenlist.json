@@ -142983,6 +142983,17 @@
       "name": "Shivx",
       "decimals": 4,
       "logoURI": "https://raw.githubusercontent.com/ShivXPrivacy/token-list/48e89eaa1a5b4577fc4f3066e5661933612bdec9/assets/mainnet/Gqiou284yNmVtTGVVM8guof4DaQtbrEDC4kgjNHZbbo4/Logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DLu9VabVMnEpcU2CZ5rMGAPyMKBQH3RASUnZWz9qgCTv",
+      "symbol": "RBWLT",
+      "name": "RarityBox WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DLu9VabVMnEpcU2CZ5rMGAPyMKBQH3RASUnZWz9qgCTv/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
