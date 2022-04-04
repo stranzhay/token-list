@@ -142893,6 +142893,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FbNGhqrw9Wm1y2mdkBRuhXkBfrh6fTd1gXS7d4oov88b",
+      "symbol": "MAG",
+      "name": "Meta Ape Gang Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/metaape.jpeg",
+      "extensions": {
+        "twitter": "https://twitter.com/MetaApeGang"
+      }
     }
   ],
   "version": {
