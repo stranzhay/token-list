@@ -142767,6 +142767,17 @@
       "extensions": {
         "website": "https://eco-globe-vision.link"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CWYigXzWDaFt3snfxSz9upq3TyxiUokNxZt4Eun6t2Lm",
+      "symbol": "BTBT",
+      "name": "BitBot Token(Dev)",
+      "decimals": 9,
+      "logoURI": "https://github.com/BitBotDAO/assets/blob/master/img/bitbot-logo.svg",
+      "extensions": {
+        "twitter": "https://twitter.com/BitBotDao"
+      }
     }
   ],
   "version": {
