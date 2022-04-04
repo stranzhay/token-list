@@ -142882,6 +142882,17 @@
       "name": "SQUEAK",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Sq4tEi2KpjUbqfss5Nwfkf53bgd2RCmBHY8u65UQjBp/logo.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "6KyMx9juomENV4rZzTH1hj5HXqCo1pWx89J94VaAPecz",
+      "symbol": "ELAT",
+      "name": "E LATS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/e-lats/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
