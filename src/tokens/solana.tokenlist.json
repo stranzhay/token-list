@@ -142789,6 +142789,17 @@
       "extensions": {
         "twitter": "https://twitter.com/Epic_DAO"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8vBej3sZ87b5W4QyEyTtmnqsqA4xwpbABdfKGcQWH7o3",
+      "symbol": "GROV",
+      "name": "Groove Token (Dev)",
+      "decimals": 9,
+      "logoURI": "https://github.com/GrooveDAO/assets/blob/master/img/Groove-logo.svg",
+      "extensions": {
+        "twitter": "https://twitter.com/GrooveDAO"
+      }
     }
   ],
   "version": {
