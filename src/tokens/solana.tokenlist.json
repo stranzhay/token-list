@@ -142753,6 +142753,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FReLpsqXRQ5Xu9hEmmvEk3vs2uvqieE6JyGNkzMyhkb",
+      "symbol": "EGV",
+      "name": "eco globe vision",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FReLpsqXRQ5Xu9hEmmvEk3vs2uvqieE6JyGNkzMyhkb/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://eco-globe-vision.link"
+      }
     }
   ],
   "version": {
