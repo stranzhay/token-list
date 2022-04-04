@@ -143005,6 +143005,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8kedZM5F8wdK25NU5ScubcpaDjxVKaiNiV2W29fc2NAv",
+      "symbol": "LC",
+      "name": "Lightning Cell",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8kedZM5F8wdK25NU5ScubcpaDjxVKaiNiV2W29fc2NAv/logo.png",
+      "tags": [
+        "WL-token"
+      ]
     }
   ],
   "version": {
