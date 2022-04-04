@@ -143079,6 +143079,20 @@
         "twitter": "https://twitter.com/solventprotocol",
         "website": "https://solvent.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8tSb4sMDuwHYcrQbm7urQw4WqLL2MNo71FXv3FCCVEnf",
+      "symbol": "MOO",
+      "name": "Moomero Equity",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Moomero/moomero-logo/main/Artboard%201.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/moomero_"
+      }
     }
   ],
   "version": {
