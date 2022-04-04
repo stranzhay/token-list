@@ -142734,6 +142734,14 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3VVBuocQLf8WjqqyWYWceBiymGkmFkjz1zTV4MKsjNXZ",
+      "symbol": "MMT",
+      "name": "Metaminez",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3VVBuocQLf8WjqqyWYWceBiymGkmFkjz1zTV4MKsjNXZ/logo.png"
     }
   ],
   "version": {
