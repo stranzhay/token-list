@@ -142874,6 +142874,14 @@
       "tags": [
         "wl-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Sq4tEi2KpjUbqfss5Nwfkf53bgd2RCmBHY8u65UQjBp",
+      "symbol": "$SQUEAK",
+      "name": "SQUEAK",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Sq4tEi2KpjUbqfss5Nwfkf53bgd2RCmBHY8u65UQjBp/logo.jpg"
     }
   ],
   "version": {
