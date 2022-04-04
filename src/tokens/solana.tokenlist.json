@@ -143047,6 +143047,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6668ECUWVZjx5HiR74UGcuumtAyW2ser7HBX3RTVBCZF",
+      "symbol": "666",
+      "name": "666 Whitelist Pass",
+      "decimals": 0,
+      "logoURI": "http://666serials.xyz/wp-content/uploads/2022/04/6.png",
+      "tags": [
+        "WL-token"
+      ]
     }
   ],
   "version": {
