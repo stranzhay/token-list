@@ -143093,6 +143093,17 @@
       "extensions": {
         "twitter": "https://twitter.com/moomero_"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A9v6nZmsfjAiby6vJNABQcXCeHE961xvTgMPUNEcVyrp",
+      "symbol": "MTB",
+      "name": "MetaBridge",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/wisdomeji/Metabridge-logo/main/metabreeeeret.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
