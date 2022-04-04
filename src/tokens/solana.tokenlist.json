@@ -142994,6 +142994,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HDC3jaDCVtyxyBLiED14hZcoyZeQzk7Cben6nodibC2f",
+      "symbol": "ALLY",
+      "name": "AllyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/allyb95/cryp/main/a-logo-1495222655.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
