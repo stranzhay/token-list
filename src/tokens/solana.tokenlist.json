@@ -143036,6 +143036,17 @@
         "community-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4mKBZqR8EH1dAjtKsbu6zKPJ8haiCvqWKRCSYw1JdNmE",
+      "symbol": "POPC",
+      "name": "Popcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/georgeamccarthy/Popcoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
