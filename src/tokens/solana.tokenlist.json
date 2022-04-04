@@ -142919,6 +142919,46 @@
         "twitter": "https://twitter.com/nirvana_fi",
         "website": "https://nirvana.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DPThsefJD3CtrkiDTNuFM9cS2b6kPFTQcAfKx4YNX9A6",
+      "symbol": "$BOLT",
+      "name": "Panzerdogs BOLTs",
+      "decimals": 4,
+      "logoURI": "https://www.panzerdogs.io/img/BOLT.gif",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "GameFi",
+        "game-currency",
+        "payment-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/panzerdogs",
+        "twitter": "https://twitter.com/panzerdogs",
+        "website": "https://www.panzerdogs.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CEtqLJAFomU9FgL47vZW9LsWgHL9rcT5nyVrna2ddtPa",
+      "symbol": "$PANZR",
+      "name": "Panzerdogs PANZR",
+      "decimals": 2,
+      "logoURI": "https://www.panzerdogs.io/img/PANZR.gif",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "GameFi",
+        "game-currency",
+        "payment-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/panzerdogs",
+        "twitter": "https://twitter.com/panzerdogs",
+        "website": "https://www.panzerdogs.io/"
+      }
     }
   ],
   "version": {
