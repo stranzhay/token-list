@@ -142708,6 +142708,21 @@
         "twitter": "https://twitter.com/TheChimpions",
         "website": "https://chimpions.co/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EFjGYw3f9VrkqDXWKo3dPCaiobDnWRcCmgEtKUQrNoUo",
+      "symbol": "CNVS",
+      "name": "CryptoGraf Canvas II",
+      "decimals": 3,
+      "logoURI": "https://arweave.net/D6TOE8xwzJ4aTQMUbgatYednNR6cY5HEiHD5VNync7Q",
+      "tags": [
+        "fractionalized-nft"
+      ],
+      "extensions": {
+        "vault": "https://fraktion.art/vault/C4Xs5b45H3ZvRnpaQkpAdmBTRa6at2Z8iaaRX1mDZZQZ",
+        "vaultPubkey": "C4Xs5b45H3ZvRnpaQkpAdmBTRa6at2Z8iaaRX1mDZZQZ"
+      }
     }
   ],
   "version": {
