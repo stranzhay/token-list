@@ -142723,6 +142723,17 @@
         "vault": "https://fraktion.art/vault/C4Xs5b45H3ZvRnpaQkpAdmBTRa6at2Z8iaaRX1mDZZQZ",
         "vaultPubkey": "C4Xs5b45H3ZvRnpaQkpAdmBTRa6at2Z8iaaRX1mDZZQZ"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Vvt9UyGcNp8orFH9P2YTaqHWp58xQVYx9YawnwZGYXA",
+      "symbol": "VERDANT",
+      "name": "Verdant Vtopian Coin",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/KmmzW6Z/4d034f3d-fda1-45e9-8007-e549a6c6f68d.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
