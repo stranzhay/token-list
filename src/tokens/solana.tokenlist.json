@@ -142959,6 +142959,22 @@
         "twitter": "https://twitter.com/panzerdogs",
         "website": "https://www.panzerdogs.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5aNLJRid1y4Y9UJxzsM8yPEDQAfq8rZf5azvoTFtNv69",
+      "symbol": "ARX",
+      "name": "ARKADIA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5aNLJRid1y4Y9UJxzsM8yPEDQAfq8rZf5azvoTFtNv69/logo.png",
+      "tags": [
+        "Game-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7JzWxWejsb",
+        "twitter": "https://twitter.com/ArkadiaUnivers",
+        "website": "https://arkadianft.io/"
+      }
     }
   ],
   "version": {
