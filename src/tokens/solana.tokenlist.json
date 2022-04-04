@@ -142904,6 +142904,77 @@
       "extensions": {
         "twitter": "https://twitter.com/MetaApeGang"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "PRAxfbouRoJ9yZqhyejEAH6RvjJ86Y82vfiZTBSM3xG",
+      "symbol": "PRANA",
+      "name": "prANA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PRAxfbouRoJ9yZqhyejEAH6RvjJ86Y82vfiZTBSM3xG/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nirvana_fi",
+        "website": "https://nirvana.finance/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DPThsefJD3CtrkiDTNuFM9cS2b6kPFTQcAfKx4YNX9A6",
+      "symbol": "$BOLT",
+      "name": "Panzerdogs BOLTs",
+      "decimals": 4,
+      "logoURI": "https://www.panzerdogs.io/img/BOLT.gif",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "GameFi",
+        "game-currency",
+        "payment-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/panzerdogs",
+        "twitter": "https://twitter.com/panzerdogs",
+        "website": "https://www.panzerdogs.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CEtqLJAFomU9FgL47vZW9LsWgHL9rcT5nyVrna2ddtPa",
+      "symbol": "$PANZR",
+      "name": "Panzerdogs PANZR",
+      "decimals": 2,
+      "logoURI": "https://www.panzerdogs.io/img/PANZR.gif",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "GameFi",
+        "game-currency",
+        "payment-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/panzerdogs",
+        "twitter": "https://twitter.com/panzerdogs",
+        "website": "https://www.panzerdogs.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5aNLJRid1y4Y9UJxzsM8yPEDQAfq8rZf5azvoTFtNv69",
+      "symbol": "ARX",
+      "name": "ARKADIA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5aNLJRid1y4Y9UJxzsM8yPEDQAfq8rZf5azvoTFtNv69/logo.png",
+      "tags": [
+        "Game-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7JzWxWejsb",
+        "twitter": "https://twitter.com/ArkadiaUnivers",
+        "website": "https://arkadianft.io/"
+      }
     }
   ],
   "version": {
