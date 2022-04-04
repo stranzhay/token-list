@@ -143104,6 +143104,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5ujgCnbYPSatHcw4NcM2A349hz1HELoo2RCRRBiU9Y6x",
+      "symbol": "ESX",
+      "name": "Estrellax",
+      "decimals": 3,
+      "logoURI": "https://github.com/lysy-vlc/estrellax-crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
