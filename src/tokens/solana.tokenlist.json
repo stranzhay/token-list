@@ -142814,6 +142814,22 @@
       "extensions": {
         "website": "https://twitter.com/CZexhib"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AumBEDtS1V3UtuAGf1UeW8jUhHuG4HckhFvnBes4tckj",
+      "symbol": "G",
+      "name": "G",
+      "decimals": 9,
+      "logoURI": "https://github.com/SolGuards/G/blob/main/logo.png",
+      "tags": [
+        "utility-token",
+        "NFT"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolGuards",
+        "website": "https://www.solguards.io"
+      }
     }
   ],
   "version": {
