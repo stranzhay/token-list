@@ -142904,6 +142904,21 @@
       "extensions": {
         "twitter": "https://twitter.com/MetaApeGang"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "PRAxfbouRoJ9yZqhyejEAH6RvjJ86Y82vfiZTBSM3xG",
+      "symbol": "PRANA",
+      "name": "prANA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PRAxfbouRoJ9yZqhyejEAH6RvjJ86Y82vfiZTBSM3xG/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nirvana_fi",
+        "website": "https://nirvana.finance/"
+      }
     }
   ],
   "version": {
