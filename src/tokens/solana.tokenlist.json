@@ -142742,6 +142742,17 @@
       "name": "Metaminez",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3VVBuocQLf8WjqqyWYWceBiymGkmFkjz1zTV4MKsjNXZ/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "4cMdQSr8E77DrWCjr4irqqqaoYeurjAuLaa7xu7xVEfk",
+      "symbol": "PAKCOIN",
+      "name": "Pak Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4cMdQSr8E77DrWCjr4irqqqaoYeurjAuLaa7xu7xVEfk/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
