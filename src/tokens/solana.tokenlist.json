@@ -142742,6 +142742,64 @@
       "name": "Metaminez",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3VVBuocQLf8WjqqyWYWceBiymGkmFkjz1zTV4MKsjNXZ/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "4cMdQSr8E77DrWCjr4irqqqaoYeurjAuLaa7xu7xVEfk",
+      "symbol": "PAKCOIN",
+      "name": "Pak Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4cMdQSr8E77DrWCjr4irqqqaoYeurjAuLaa7xu7xVEfk/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FReLpsqXRQ5Xu9hEmmvEk3vs2uvqieE6JyGNkzMyhkb",
+      "symbol": "EGV",
+      "name": "eco globe vision",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FReLpsqXRQ5Xu9hEmmvEk3vs2uvqieE6JyGNkzMyhkb/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://eco-globe-vision.link"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CWYigXzWDaFt3snfxSz9upq3TyxiUokNxZt4Eun6t2Lm",
+      "symbol": "BTBT",
+      "name": "BitBot Token(Dev)",
+      "decimals": 9,
+      "logoURI": "https://github.com/BitBotDAO/assets/blob/master/img/bitbot-logo.svg",
+      "extensions": {
+        "twitter": "https://twitter.com/BitBotDao"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FFQGmLCrUBD8DUEvPE5bXi4ZmBniaFxafuKUNUBzdxWE",
+      "symbol": "EPCT",
+      "name": "Epic Token (Dev)",
+      "decimals": 9,
+      "logoURI": "https://github.com/EpicDAO/assets/blob/master/img/Epic-logo.svg",
+      "extensions": {
+        "twitter": "https://twitter.com/Epic_DAO"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8vBej3sZ87b5W4QyEyTtmnqsqA4xwpbABdfKGcQWH7o3",
+      "symbol": "GROV",
+      "name": "Groove Token (Dev)",
+      "decimals": 9,
+      "logoURI": "https://github.com/GrooveDAO/assets/blob/master/img/Groove-logo.svg",
+      "extensions": {
+        "twitter": "https://twitter.com/GrooveDAO"
+      }
     }
   ],
   "version": {
