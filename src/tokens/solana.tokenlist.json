@@ -142778,6 +142778,17 @@
       "extensions": {
         "twitter": "https://twitter.com/BitBotDao"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FFQGmLCrUBD8DUEvPE5bXi4ZmBniaFxafuKUNUBzdxWE",
+      "symbol": "EPCT",
+      "name": "Epic Token (Dev)",
+      "decimals": 9,
+      "logoURI": "https://github.com/EpicDAO/assets/blob/master/img/Epic-logo.svg",
+      "extensions": {
+        "twitter": "https://twitter.com/Epic_DAO"
+      }
     }
   ],
   "version": {
