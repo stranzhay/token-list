@@ -143259,6 +143259,14 @@
         "twitter": "https://twitter.com/solsunsets",
         "website": "https://solsunsets.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dah1ysVPY2zhnR4M3akE3LFpuZCpA4pbHK5hMbjNBKSc",
+      "symbol": "DHLYDT",
+      "name": "Dahly Dream Ticket",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dah1ysVPY2zhnR4M3akE3LFpuZCpA4pbHK5hMbjNBKSc/logo.png"
     }
   ],
   "version": {
