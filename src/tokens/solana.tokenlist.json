@@ -143301,6 +143301,19 @@
       "tags": [
         "RUBYSTA"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8uKXR3Z3toSXt4i8KMnSWC5ZBwC9sR1caFUUSt3W8inQ",
+      "symbol": "BRO",
+      "name": "BRO",
+      "decimals": 0,
+      "logoURI": "https://github.com/1618033988749894/future/blob/main/sqgoldenup.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
