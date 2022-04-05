@@ -143205,6 +143205,14 @@
         "NFT-Token",
         "Swap-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BmU9dawcCuBPrnxoiH9bW4GSh8wJ3yeQNW5U3uk4CUGa",
+      "symbol": "ELONZIL",
+      "name": "ElonZilla",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BmU9dawcCuBPrnxoiH9bW4GSh8wJ3yeQNW5U3uk4CUGa/logo.png"
     }
   ],
   "version": {
