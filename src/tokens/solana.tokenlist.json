@@ -143236,6 +143236,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9P9DouJzKg71PR45NjxQJcArJkpz9xfyyeDxRwVPkL9a",
+      "symbol": "PANDM",
+      "name": "Plowz and Mowz Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9P9DouJzKg71PR45NjxQJcArJkpz9xfyyeDxRwVPkL9a/logo.png"
     }
   ],
   "version": {
