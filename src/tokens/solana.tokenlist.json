@@ -143502,6 +143502,21 @@
         "twitter": "https://twitter.com/MH_Multiverse",
         "website": "https://milehighmultiverse.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HcGA6XADWN6vrSGWkEDrUh6T3ME17SaJbCyGDD2PvQUT",
+      "symbol": "CFPK",
+      "name": "CoffeePark",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/martiolozz/solana-listed-tokens/main/HcGA6XADWN6vrSGWkEDrUh6T3ME17SaJbCyGDD2PvQUT/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CoffeeParkUSA",
+        "website": "https://coffeeparkusa.com/"
+      }
     }
   ],
   "version": {
