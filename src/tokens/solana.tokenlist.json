@@ -143579,6 +143579,21 @@
         "twitter": "https://twitter.com/GorillaeNFT",
         "website": "https://gorillaenft.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ANAxByE6G2WjFp7A4NqtWYXb3mgruyzZYg3spfxe6Lbo",
+      "symbol": "ANA",
+      "name": "ANA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ANAxByE6G2WjFp7A4NqtWYXb3mgruyzZYg3spfxe6Lbo/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nirvana_fi",
+        "website": "https://nirvana.finance/"
+      }
     }
   ],
   "version": {
