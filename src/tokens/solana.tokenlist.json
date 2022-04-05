@@ -143325,6 +143325,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8SgWNfuqTxwpRjmJiXr9rhJT5z1LccQZ6JH81S4pZTRy",
+      "symbol": "OVIT",
+      "name": "OvI Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ViDesignDE/SolanaOVI/main/logo.png"
     }
   ],
   "version": {
