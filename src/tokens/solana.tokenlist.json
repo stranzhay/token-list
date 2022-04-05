@@ -143652,6 +143652,39 @@
         "twitter": "https://twitter.com/givingpool",
         "website": "http://thegivingpool.io/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "3q8T4e1kvagyJEzUFiJnUSTHZLrAg1ubLfTkGQYXeq1e",
+      "symbol": "GIV1",
+      "name": "The Giving Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3q8T4e1kvagyJEzUFiJnUSTHZLrAg1ubLfTkGQYXeq1e/logo.svg",
+      "tags": [
+        "charity"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/givingpool",
+        "twitter": "https://twitter.com/givingpool",
+        "website": "http://thegivingpool.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4gr66MnuAPXPJfMYCxhKVotQVGwDYRKdSUDhtUT1dQGB",
+      "symbol": "Sibon-BV",
+      "name": "Aandelen Sibon BV Miep Sibon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4gr66MnuAPXPJfMYCxhKVotQVGwDYRKdSUDhtUT1dQGB/miepPNG.png",
+      "tags": [
+        "aandelenregister",
+        "Sibon-bv",
+        "Blockstone"
+      ],
+      "extensions": {
+        "linkedin": "https://www.linkedin.com/company/blockstone-online/",
+        "website": "https://blocksto.ne/miep-sibon/"
+      }
     }
   ],
   "version": {
