@@ -143443,6 +143443,25 @@
       "extensions": {
         "website": "https://www.deedmaps.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2a2aGyHFkGqsDeK8T9WHqsF7MYa7wJ9XWhfvKAixehDj",
+      "symbol": "VAULT",
+      "name": "THE VAULT-X DAO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2a2aGyHFkGqsDeK8T9WHqsF7MYa7wJ9XWhfvKAixehDj/logo.png",
+      "tags": [
+        "NFT",
+        "GOVERNANCE",
+        "ESCROW",
+        "PROTECTION-PROTOCOL"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/CaSVfkCbvc",
+        "twitter": "https://twitter.com/TheVaultDAO",
+        "website": "https://thevault-x.com/"
+      }
     }
   ],
   "version": {
