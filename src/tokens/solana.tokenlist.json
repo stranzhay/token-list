@@ -143182,6 +143182,17 @@
         "mint-token",
         "whitelist"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AZESJgZyDkHW11QA1MWhBa46ne3y4fp88wbtBr8UZR5m",
+      "symbol": "BIMA",
+      "name": "Bianchi Michele Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Kira96033/crypto/main/cry.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
