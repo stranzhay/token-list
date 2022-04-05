@@ -143225,6 +143225,17 @@
         "twitter": "https://twitter.com/DegenDawgz",
         "website": "https://www.degendawgz.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "79P7Awvs2JUUFPTh17hCvJKwEo7RFexo4ox7HoEuVcVw",
+      "symbol": "HUNT",
+      "name": "Hunter Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/arshbhar/HUNT/main/hunt.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
