@@ -143205,6 +143205,60 @@
         "NFT-Token",
         "Swap-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BmU9dawcCuBPrnxoiH9bW4GSh8wJ3yeQNW5U3uk4CUGa",
+      "symbol": "ELONZIL",
+      "name": "ElonZilla",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BmU9dawcCuBPrnxoiH9bW4GSh8wJ3yeQNW5U3uk4CUGa/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2Wqm8QGYqg78jkFaSxUKXuoLz6HvWm2m9ApnDMnRESb9",
+      "symbol": "DAWGZ",
+      "name": "Degen Dawgz Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/farhan067/degendawgztoken/main/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/DegenDawgz",
+        "website": "https://www.degendawgz.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "79P7Awvs2JUUFPTh17hCvJKwEo7RFexo4ox7HoEuVcVw",
+      "symbol": "HUNT",
+      "name": "Hunter Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/arshbhar/HUNT/main/hunt.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9P9DouJzKg71PR45NjxQJcArJkpz9xfyyeDxRwVPkL9a",
+      "symbol": "PANDM",
+      "name": "Plowz and Mowz Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9P9DouJzKg71PR45NjxQJcArJkpz9xfyyeDxRwVPkL9a/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "AzeorE2y9mNQAdkzhjV4KdFEdzRXYbU4o7dpp2uBNqgf",
+      "symbol": "SUFZ",
+      "name": "SupraFizz",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/suprafizz/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solsunsets",
+        "website": "https://solsunsets.com/"
+      }
     }
   ],
   "version": {
