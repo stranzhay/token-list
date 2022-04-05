@@ -143347,6 +143347,24 @@
       "extensions": {
         "description": "Native in game utility token of the Moveworld"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2377XYwns6GBJziPbBBg9EzJWq9TPiunZPiuKB4DdQCR",
+      "symbol": "HIPPO",
+      "name": "Happy Hippos",
+      "decimals": 9,
+      "logoURI": "https://static.wixstatic.com/media/628d2a_d22ee80f7d574e39b9ae672911d41f7d~mv2.gif",
+      "tags": [
+        "utility-token",
+        "NFT",
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/happyhippos",
+        "twitter": "https://twitter.com/happysolhippos",
+        "website": "https://www.solhappyhippos.com/"
+      }
     }
   ],
   "version": {
