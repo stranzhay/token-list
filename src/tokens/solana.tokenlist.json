@@ -143333,6 +143333,20 @@
       "name": "OvI Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/ViDesignDE/SolanaOVI/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Fhfucdo8C4QSSVKiuMJBPr2dRSo35GKKNar14shGDEEe",
+      "symbol": "PLAY",
+      "name": "PLAY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fhfucdo8C4QSSVKiuMJBPr2dRSo35GKKNar14shGDEEe/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Native in game utility token of the Moveworld"
+      }
     }
   ],
   "version": {
