@@ -143170,6 +143170,18 @@
         "twitter": "https://twitter.com/solsunsets",
         "website": "https://solsunsets.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ToGdR5gjTqDe9SuLb1zcCathHv8KwqZKwHryUyztWsM",
+      "symbol": "PBCWL",
+      "name": "Paladin Bounty Club WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToGdR5gjTqDe9SuLb1zcCathHv8KwqZKwHryUyztWsM/logo.png",
+      "tags": [
+        "mint-token",
+        "whitelist"
+      ]
     }
   ],
   "version": {
