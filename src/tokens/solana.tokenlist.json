@@ -143517,6 +143517,17 @@
         "twitter": "https://twitter.com/CoffeeParkUSA",
         "website": "https://coffeeparkusa.com/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "EpEvDzoGY31VqMgCDQUWAA2sGvKibYSjcPChMNJ3rVBj",
+      "symbol": "MASNASRITKN",
+      "name": "NASRI TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/masnasri-a/images/main/logo.jpg",
+      "extensions": {
+        "twitter": "https://twitter.com/alienpdev"
+      }
     }
   ],
   "version": {
