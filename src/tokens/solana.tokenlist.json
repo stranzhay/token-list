@@ -143429,6 +143429,20 @@
         "twitter": "https://twitter.com/kireifarm",
         "website": "http://www.kireifarm.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "653jGgvZGY9Ewazf9eMnvAbTZjXFMUpSrGw13eaCKUaP",
+      "symbol": "CARTO",
+      "name": "Carto Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/653jGgvZGY9Ewazf9eMnvAbTZjXFMUpSrGw13eaCKUaP/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.deedmaps.com"
+      }
     }
   ],
   "version": {
