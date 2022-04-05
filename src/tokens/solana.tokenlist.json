@@ -143267,6 +143267,21 @@
       "name": "Dahly Dream Ticket",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dah1ysVPY2zhnR4M3akE3LFpuZCpA4pbHK5hMbjNBKSc/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "G9Tbc3bKxsWcWbYydqeqpDPsjFRfD6zMmeoFBJj1bcHG",
+      "symbol": "SPN",
+      "name": "Spotter",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/mofrey-max/cryptomint/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Spotter__NFT",
+        "website": "https://www.spotternft.com/"
+      }
     }
   ],
   "version": {
