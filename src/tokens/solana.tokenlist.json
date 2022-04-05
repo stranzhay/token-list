@@ -143563,6 +143563,22 @@
         "twitter": "https://twitter.com/Moshiheads",
         "website": "https://www.moshiheads.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "xLvawiUDbXmaLdNi71s4Ry8y4ykXJetwZ9LZ124jMpi",
+      "symbol": "XLVA",
+      "name": "XLVA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xLvawiUDbXmaLdNi71s4Ry8y4ykXJetwZ9LZ124jMpi/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/WwVJQdD8vV",
+        "twitter": "https://twitter.com/GorillaeNFT",
+        "website": "https://gorillaenft.io/"
+      }
     }
   ],
   "version": {
