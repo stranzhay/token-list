@@ -143213,6 +143213,18 @@
       "name": "ElonZilla",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BmU9dawcCuBPrnxoiH9bW4GSh8wJ3yeQNW5U3uk4CUGa/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2Wqm8QGYqg78jkFaSxUKXuoLz6HvWm2m9ApnDMnRESb9",
+      "symbol": "DAWGZ",
+      "name": "Degen Dawgz Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/farhan067/degendawgztoken/main/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/DegenDawgz",
+        "website": "https://www.degendawgz.com/"
+      }
     }
   ],
   "version": {
