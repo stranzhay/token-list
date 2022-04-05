@@ -143314,6 +143314,17 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "NqtM2bpU5ZQLhq4HqNZipXQbqxeT3Zx3tqwKkFxprGf",
+      "symbol": "HMPY",
+      "name": "HompyPompyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/aldeot/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
