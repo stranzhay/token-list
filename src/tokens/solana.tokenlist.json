@@ -143710,6 +143710,44 @@
       "extensions": {
         "website": "https://www.leagueoflegends.com/en-us/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fmf7mnbUGg2EM83F7pcyPSTU29QWmvj4nSrbanVPi11J",
+      "symbol": "NBN",
+      "name": "Nothing But Net",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/NBNdao/NBN-say-cheese/main/3.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "SkUAuZTNuS12jfCMGbym6zaNnqMKDjbyAZriihf1Ss6",
+      "symbol": "$SKEL",
+      "name": "SSS Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SkUAuZTNuS12jfCMGbym6zaNnqMKDjbyAZriihf1Ss6/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ENoUQgNxqChUcFKYdgVNEXP65rT4e6Ro6ooFkmj4efvb",
+      "symbol": "$KULL",
+      "name": "METAKUL",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ENoUQgNxqChUcFKYdgVNEXP65rT4e6Ro6ooFkmj4efvb/logo.png",
+      "tags": [
+        "nft",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/3MwNU73G7M",
+        "twitter": "https://twitter.com/metakul_",
+        "website": "https://www.metakul.in/"
+      }
     }
   ],
   "version": {
