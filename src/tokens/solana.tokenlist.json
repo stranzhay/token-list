@@ -143413,6 +143413,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "KRTapyUMe5fW92KZkYoXToFtc6Cn7UG6seaKz646oGu",
+      "symbol": "OOINK",
+      "name": "OOINK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/danvernon/tiny-dogz-logo/main/oink.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://t.co/K0TdK7RFgI",
+        "twitter": "https://twitter.com/kireifarm",
+        "website": "http://www.kireifarm.com/"
+      }
     }
   ],
   "version": {
