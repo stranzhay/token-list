@@ -143594,6 +143594,17 @@
         "twitter": "https://twitter.com/nirvana_fi",
         "website": "https://nirvana.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FiEndP3oMuxNqjjPLUP2ADHWS2V7fT3PfoB66wePCEce",
+      "symbol": "REE",
+      "name": "99Fiends",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FiEndP3oMuxNqjjPLUP2ADHWS2V7fT3PfoB66wePCEce/99.png",
+      "extensions": {
+        "twitter": "https://twitter.com/99Fiends"
+      }
     }
   ],
   "version": {
