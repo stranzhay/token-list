@@ -143365,6 +143365,35 @@
         "twitter": "https://twitter.com/happysolhippos",
         "website": "https://www.solhappyhippos.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5HGSVd9uzLn6CmNb4BLdMSbkWFTEf4ZSh1tLWQ6uEEUA",
+      "symbol": "FBUTE",
+      "name": "FBute Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5HGSVd9uzLn6CmNb4BLdMSbkWFTEf4ZSh1tLWQ6uEEUA/logo.png",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "crypto-calorie",
+        "crypto",
+        "fitness",
+        "metaverse",
+        "nft",
+        "burn-to-earn",
+        "web3",
+        "vr"
+      ],
+      "extensions": {
+        "description": "Fbute token has been designed to reward users for their burned calories.",
+        "discord": "https://discord.gg/B3V2GU5DFX",
+        "instagram": "https://www.instagram.com/fbutecoin",
+        "reddit": "https://www.reddit.com/r/FbuteCoin",
+        "telegram": "https://t.me/fitlich",
+        "twitter": "https://twitter.com/fbutecoin",
+        "website": "https://www.fbute.com"
+      }
     }
   ],
   "version": {
