@@ -143696,6 +143696,20 @@
       "tags": [
         "History"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9GhsR7rpx2UXKvKpU7Z1QMDimdWqnEdjRrgYrr2VARUn",
+      "symbol": "GANK",
+      "name": "Gank Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/qudo-code/assets/master/solana/tokens/GANK/GANK.jpeg",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.leagueoflegends.com/en-us/"
+      }
     }
   ],
   "version": {
