@@ -143282,6 +143282,14 @@
         "twitter": "https://twitter.com/Spotter__NFT",
         "website": "https://www.spotternft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "44d5K8qXur2t2dgiWDpKW4jyBkv5bW4YcbS7zm2vWiJ8",
+      "symbol": "WILSSLAP",
+      "name": "Will Smith's Slap",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/44d5K8qXur2t2dgiWDpKW4jyBkv5bW4YcbS7zm2vWiJ8/logo.png"
     }
   ],
   "version": {
