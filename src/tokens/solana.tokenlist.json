@@ -143536,6 +143536,17 @@
       "name": "ONA",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/IanXBT/Ona/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8juDZbaGDFVpeqPFnGBhXvnrb1a4jaewKB1hQxzRxVT8",
+      "symbol": "FGM",
+      "name": "Following Gods Mission",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Meeker44/Crypto/main/FGMlogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
