@@ -143723,6 +143723,14 @@
         "community-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SkUAuZTNuS12jfCMGbym6zaNnqMKDjbyAZriihf1Ss6",
+      "symbol": "$SKEL",
+      "name": "SSS Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SkUAuZTNuS12jfCMGbym6zaNnqMKDjbyAZriihf1Ss6/logo.png"
     }
   ],
   "version": {
