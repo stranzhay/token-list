@@ -143462,6 +143462,22 @@
         "twitter": "https://twitter.com/TheVaultDAO",
         "website": "https://thevault-x.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BKVqwa9kGFkzFqJRRfCDUtKJNqvg991t85MNdpXYMhx",
+      "symbol": "LS",
+      "name": "Leopards Syndicate Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8BKVqwa9kGFkzFqJRRfCDUtKJNqvg991t85MNdpXYMhx/logo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Native token of the Leopards Syndicate community"
+      }
     }
   ],
   "version": {
