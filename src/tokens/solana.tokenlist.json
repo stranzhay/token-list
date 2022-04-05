@@ -143402,6 +143402,33 @@
       "name": "MHC Token NFTs",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6c2yTdTz7N7drPo4Pd6LjkvHk5C2mfTJty4PNZC9CYDF/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3L4dyJkfvsg2tG3yLHJw1PcrVbcrZEi3gxsWQXV9Su51",
+      "symbol": "SNT",
+      "name": "Social Network Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3L4dyJkfvsg2tG3yLHJw1PcrVbcrZEi3gxsWQXV9Su51/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "KRTapyUMe5fW92KZkYoXToFtc6Cn7UG6seaKz646oGu",
+      "symbol": "OOINK",
+      "name": "OOINK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/danvernon/tiny-dogz-logo/main/oink.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://t.co/K0TdK7RFgI",
+        "twitter": "https://twitter.com/kireifarm",
+        "website": "http://www.kireifarm.com/"
+      }
     }
   ],
   "version": {
