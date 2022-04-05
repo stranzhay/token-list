@@ -143193,6 +143193,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "pbLJx61yx7grY458m3WjJhgDiSYZmXBaqLaA6KvKbRE",
+      "symbol": "S3X",
+      "name": "S3X",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/VHITS-Full-Stack/S3X_Token/main/logo.png",
+      "tags": [
+        "NFT-Token",
+        "Swap-Token"
+      ]
     }
   ],
   "version": {
