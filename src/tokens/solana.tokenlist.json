@@ -143685,6 +143685,31 @@
         "linkedin": "https://www.linkedin.com/company/blockstone-online/",
         "website": "https://blocksto.ne/miep-sibon/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EJ9svufR3WZmokDNno2Bw5ZywUFYXyinopj1V1WXZ8T1",
+      "symbol": "DMAD",
+      "name": "Diamond Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/kingalpacas2005/fot/main/gfvgkyujhiju.png",
+      "tags": [
+        "History"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9GhsR7rpx2UXKvKpU7Z1QMDimdWqnEdjRrgYrr2VARUn",
+      "symbol": "GANK",
+      "name": "Gank Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/qudo-code/assets/master/solana/tokens/GANK/GANK.jpeg",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.leagueoflegends.com/en-us/"
+      }
     }
   ],
   "version": {
