@@ -143547,6 +143547,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MoshMwLkVu4iwrPBaWpYkh43qJiSXsnyzNLuMXFv5F4",
+      "symbol": "MOSHI",
+      "name": "MOSHI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MoshMwLkVu4iwrPBaWpYkh43qJiSXsnyzNLuMXFv5F4/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/moshiheads",
+        "twitter": "https://twitter.com/Moshiheads",
+        "website": "https://www.moshiheads.com/"
+      }
     }
   ],
   "version": {
