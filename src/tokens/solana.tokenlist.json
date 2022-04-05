@@ -143748,6 +143748,19 @@
         "twitter": "https://twitter.com/metakul_",
         "website": "https://www.metakul.in/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B1a2kJpMXbvrrjEah5eipKSQ63x2Wrfa3kcVrR7FS2TZ",
+      "symbol": "JBPTK",
+      "name": "JBPTK Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/anshulsoni0112/crypto/main/jbp_logo_800x897.png",
+      "tags": [
+        "social-token",
+        "city-token",
+        "SmartCity"
+      ]
     }
   ],
   "version": {
