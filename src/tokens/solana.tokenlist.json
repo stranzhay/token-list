@@ -143652,6 +143652,22 @@
         "twitter": "https://twitter.com/givingpool",
         "website": "http://thegivingpool.io/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "3q8T4e1kvagyJEzUFiJnUSTHZLrAg1ubLfTkGQYXeq1e",
+      "symbol": "GIV1",
+      "name": "The Giving Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3q8T4e1kvagyJEzUFiJnUSTHZLrAg1ubLfTkGQYXeq1e/logo.svg",
+      "tags": [
+        "charity"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/givingpool",
+        "twitter": "https://twitter.com/givingpool",
+        "website": "http://thegivingpool.io/"
+      }
     }
   ],
   "version": {
