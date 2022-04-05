@@ -143104,6 +143104,49 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5ujgCnbYPSatHcw4NcM2A349hz1HELoo2RCRRBiU9Y6x",
+      "symbol": "ESX",
+      "name": "Estrellax",
+      "decimals": 3,
+      "logoURI": "https://github.com/lysy-vlc/estrellax-crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 102,
+      "address": "neoneXWLNouaSKk2zna7p54qbmsuVUtdmMGzR5MuPd9",
+      "symbol": "NEON",
+      "name": "Whiteneon Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/whiteneon/token-list/main/assets/mainnet/neoneXWLNouaSKk2zna7p54qbmsuVUtdmMGzR5MuPd9/logo2.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://solana.whiteneon.com/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "neoneXWLNouaSKk2zna7p54qbmsuVUtdmMGzR5MuPd9",
+      "symbol": "NEON",
+      "name": "Whiteneon Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/whiteneon/token-list/main/assets/mainnet/neoneXWLNouaSKk2zna7p54qbmsuVUtdmMGzR5MuPd9/logo3.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://solana.whiteneon.com/"
+      }
     }
   ],
   "version": {
