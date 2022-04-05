@@ -143402,6 +143402,17 @@
       "name": "MHC Token NFTs",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6c2yTdTz7N7drPo4Pd6LjkvHk5C2mfTJty4PNZC9CYDF/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3L4dyJkfvsg2tG3yLHJw1PcrVbcrZEi3gxsWQXV9Su51",
+      "symbol": "SNT",
+      "name": "Social Network Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3L4dyJkfvsg2tG3yLHJw1PcrVbcrZEi3gxsWQXV9Su51/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
