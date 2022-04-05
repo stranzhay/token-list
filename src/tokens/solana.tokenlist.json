@@ -143528,6 +143528,14 @@
       "extensions": {
         "twitter": "https://twitter.com/alienpdev"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "8nbuqPoxDu4jYU6mZNTDJ44FdVtUPf7JyKPXYNVdF7Av",
+      "symbol": "ONA",
+      "name": "ONA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/IanXBT/Ona/main/logo.png"
     }
   ],
   "version": {
