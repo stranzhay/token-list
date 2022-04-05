@@ -143155,6 +143155,21 @@
       "name": "Atlascoin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CYCPEtrCYjNycxZiZ2RyeBBUqzsgRh7yGjn4SwX2AnPF/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "PiXELzrxUL2fJjPLw4SxmpPD4zwM5t7aKfNEo1WPxJw",
+      "symbol": "PiXEL",
+      "name": "PiXEL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PiXELzrxUL2fJjPLw4SxmpPD4zwM5t7aKfNEo1WPxJw/logo.png",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solsunsets",
+        "website": "https://solsunsets.com/"
+      }
     }
   ],
   "version": {
