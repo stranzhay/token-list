@@ -143731,6 +143731,23 @@
       "name": "SSS Coin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SkUAuZTNuS12jfCMGbym6zaNnqMKDjbyAZriihf1Ss6/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ENoUQgNxqChUcFKYdgVNEXP65rT4e6Ro6ooFkmj4efvb",
+      "symbol": "$KULL",
+      "name": "METAKUL",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ENoUQgNxqChUcFKYdgVNEXP65rT4e6Ro6ooFkmj4efvb/logo.png",
+      "tags": [
+        "nft",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/3MwNU73G7M",
+        "twitter": "https://twitter.com/metakul_",
+        "website": "https://www.metakul.in/"
+      }
     }
   ],
   "version": {
