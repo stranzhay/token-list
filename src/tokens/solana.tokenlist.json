@@ -143605,6 +143605,23 @@
       "extensions": {
         "twitter": "https://twitter.com/99Fiends"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5zY4wBip1kF8C7p8CTESq61vqGeVdSwLqBv3Y3cr9NUe",
+      "symbol": "Sibon-BV",
+      "name": "Aandelenregister Sibon BV",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5zY4wBip1kF8C7p8CTESq61vqGeVdSwLqBv3Y3cr9NUe/blockPNG.png",
+      "tags": [
+        "aandelenregister",
+        "Sibon-bv",
+        "Blockstone"
+      ],
+      "extensions": {
+        "linkedin": "https://www.linkedin.com/company/blockstone-online/",
+        "website": "https://blocksto.ne/sibon/"
+      }
     }
   ],
   "version": {
