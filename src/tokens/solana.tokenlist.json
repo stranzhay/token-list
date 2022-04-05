@@ -143668,6 +143668,23 @@
         "twitter": "https://twitter.com/givingpool",
         "website": "http://thegivingpool.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4gr66MnuAPXPJfMYCxhKVotQVGwDYRKdSUDhtUT1dQGB",
+      "symbol": "Sibon-BV",
+      "name": "Aandelen Sibon BV Miep Sibon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4gr66MnuAPXPJfMYCxhKVotQVGwDYRKdSUDhtUT1dQGB/miepPNG.png",
+      "tags": [
+        "aandelenregister",
+        "Sibon-bv",
+        "Blockstone"
+      ],
+      "extensions": {
+        "linkedin": "https://www.linkedin.com/company/blockstone-online/",
+        "website": "https://blocksto.ne/miep-sibon/"
+      }
     }
   ],
   "version": {
