@@ -143947,6 +143947,35 @@
         "description": "Trinidad and Tobago Socialist Party Crypto Token",
         "instagram": "https://www.instagram.com/socialismtnt/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J2xJmMnsZXgaS6DE3sPkNfSYvnCNzJLvFerMsofrmNg5",
+      "symbol": "HMTOK",
+      "name": "Hemati Tokens",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bahmanyjaan/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6PYPFEs225bMemQb24ZfDfTjm6mHpNczJ81LoSPakKWg",
+      "symbol": "ROR",
+      "name": "Wild Lion",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/itssongbird/roar-token/main/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/XGKBEhnJUQ",
+        "twitter": "https://twitter.com/wildlionclan",
+        "website": "https://wildlionclan.xyz/"
+      }
     }
   ],
   "version": {
