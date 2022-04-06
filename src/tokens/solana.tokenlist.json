@@ -144205,6 +144205,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9o55qL5tASRmkjysjKX8zefYpRNfC1YDy6g12M84UEHt",
+      "symbol": "EOR",
+      "name": "Evolve Our Race",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nedmars27/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "CBgExXTC91pz36WxoPSbZDs37DECFDeAMTUbzjhtu9AK",
+      "symbol": "DUC",
+      "name": "DayUpCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CBgExXTC91pz36WxoPSbZDs37DECFDeAMTUbzjhtu9AK/wdp.png",
+      "tags": [
+        "wdp-token"
+      ]
     }
   ],
   "version": {
