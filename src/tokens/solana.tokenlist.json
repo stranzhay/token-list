@@ -144276,6 +144276,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "GoombqvaLTaLbN3LHuEkqeLBTmwAScRw8DViERXeEFo4",
+      "symbol": "GFHWL",
+      "name": "Goomies WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Neurologist/assets/main/GFHWL_Token.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
