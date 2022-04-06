@@ -143903,6 +143903,17 @@
         "discord": "https://discord.gg/3Uw8p5DRdj",
         "twitter": "https://twitter.com/HeavenDragonsEP"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "APJShV3kXDtH6aatqmHCH9Tfodz31cwijj3Et9U8sHSR",
+      "symbol": "BLP",
+      "name": "BluePay Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/kitt2022/crypto/blob/main/logo.png",
+      "tags": [
+        "payment-token"
+      ]
     }
   ],
   "version": {
