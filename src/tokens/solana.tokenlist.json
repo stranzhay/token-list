@@ -144205,6 +144205,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9o55qL5tASRmkjysjKX8zefYpRNfC1YDy6g12M84UEHt",
+      "symbol": "EOR",
+      "name": "Evolve Our Race",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nedmars27/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
