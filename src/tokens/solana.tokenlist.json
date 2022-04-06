@@ -143927,6 +143927,14 @@
         "twitter": "https://twitter.com/synthetify",
         "website": "https://synthetify.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7WLoxCzU5tDi2WQsuGTc7GAE7ZPzf2udNBXBfym1quL7",
+      "symbol": "HSHA",
+      "name": "HASHAA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7WLoxCzU5tDi2WQsuGTc7GAE7ZPzf2udNBXBfym1quL7/logo.png"
     }
   ],
   "version": {
