@@ -143976,6 +143976,22 @@
         "twitter": "https://twitter.com/wildlionclan",
         "website": "https://wildlionclan.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7pz6yNVAC5yioPpsUFZH6jwYqDZj2W5aM6hyFmsxA3Qo",
+      "symbol": "AARK",
+      "name": "KADIA COIN",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7pz6yNVAC5yioPpsUFZH6jwYqDZj2W5aM6hyFmsxA3Qo/logo.png",
+      "tags": [
+        "GAMEFI",
+        "NFT",
+        "Ecosystem"
+      ],
+      "extensions": {
+        "website": "https://arkadianft.io/"
+      }
     }
   ],
   "version": {
