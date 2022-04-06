@@ -144254,6 +144254,17 @@
         "twitter": "https://twitter.com/ageofdefinft",
         "website": "https://www.ageofdefi.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4q4DTq8cf1gvrRZkgZQ2WkCgALTbm3H7Poa34qhgwEqo",
+      "symbol": "SWH",
+      "name": "SOLWOW HOTEL TOKEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/husseinalkanani/assets/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
