@@ -143947,6 +143947,17 @@
         "description": "Trinidad and Tobago Socialist Party Crypto Token",
         "instagram": "https://www.instagram.com/socialismtnt/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J2xJmMnsZXgaS6DE3sPkNfSYvnCNzJLvFerMsofrmNg5",
+      "symbol": "HMTOK",
+      "name": "Hemati Tokens",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bahmanyjaan/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
