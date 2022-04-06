@@ -143852,6 +143852,22 @@
       "extensions": {
         "website": "https://vulfpeck.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "qRvWKRP2hdbVi8aCw5f9V2JarxtV6W51dVnm1tyXWXk",
+      "symbol": "TLLWL",
+      "name": "The Lost Legion WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qRvWKRP2hdbVi8aCw5f9V2JarxtV6W51dVnm1tyXWXk/Logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/thelostlegion",
+        "twitter": "https://twitter.com/LostLegionSol"
+      }
     }
   ],
   "version": {
