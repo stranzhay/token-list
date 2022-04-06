@@ -144022,6 +144022,17 @@
         "twitter": "https://twitter.com/globalmicrotask",
         "website": "https://www.globalmicrotasking.com/gmt"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7xhXrYsxkxGKTdMhA3KVo3V88Y1KuAzJ4zMK14rEFmJf",
+      "symbol": "TATR",
+      "name": "Tater",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BretNazarok/Tater/main/tater2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
