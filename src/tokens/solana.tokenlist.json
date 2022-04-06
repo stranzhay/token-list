@@ -144041,6 +144041,17 @@
       "name": "MBS WL",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MBSPuYeEoq6jJ9BS2qXv3DJ4RvrXCDSxkTAz9fBuKdu/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FFAfrApKHskMMsnHs8P8WGqDweXCf2AbeMVjz9vbVY4C",
+      "symbol": "DUWL",
+      "name": "Dropout WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FFAfrApKHskMMsnHs8P8WGqDweXCf2AbeMVjz9vbVY4C/logo.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
