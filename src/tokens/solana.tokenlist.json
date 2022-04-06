@@ -143868,6 +143868,23 @@
         "discord": "http://discord.gg/thelostlegion",
         "twitter": "https://twitter.com/LostLegionSol"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "97j6myGGo1o3r3PW23cbycQXwdm1VUePC4LtL5pzYhnV",
+      "symbol": "Aandelen-Sibon-BV",
+      "name": "Chantal Sibon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97j6myGGo1o3r3PW23cbycQXwdm1VUePC4LtL5pzYhnV/chantalPNG.png",
+      "tags": [
+        "Sibon-BV",
+        "aandeelhouder",
+        "Blockstone"
+      ],
+      "extensions": {
+        "linkedin": "https://www.linkedin.com/company/blockstone-online/",
+        "website": "https://blocksto.ne/chantal-sibon/"
+      }
     }
   ],
   "version": {
