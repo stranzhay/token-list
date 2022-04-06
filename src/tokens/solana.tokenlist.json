@@ -143838,6 +143838,20 @@
       "extensions": {
         "website": "https://aviabee.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GhZJgY56T5BVWfbPTevJA4jidd4piSY5sw5bdowf6ksP",
+      "symbol": "FUNK",
+      "name": "funk token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/qudo-code/assets/master/solana/tokens/FUNK/FUNK.jpeg",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://vulfpeck.com/"
+      }
     }
   ],
   "version": {
