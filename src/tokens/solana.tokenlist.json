@@ -144010,6 +144010,18 @@
         "discord": "https://discord.gg/Mfgnj3xBk3",
         "twitter": "https://twitter.com/spacexapes"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6hQpbdmmX6gXGUkmjJ82UtfFBzyTP3Hiqv1KZMtHWXpv",
+      "symbol": "GMT",
+      "name": "Global Micro Tasking",
+      "decimals": 6,
+      "logoURI": "https://globalmicrotasking.com/Graphics/GMT_lrg.png",
+      "extensions": {
+        "twitter": "https://twitter.com/globalmicrotask",
+        "website": "https://www.globalmicrotasking.com/gmt"
+      }
     }
   ],
   "version": {
