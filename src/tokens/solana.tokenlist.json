@@ -144174,6 +144174,14 @@
         "Exchange",
         "Freedom"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DfgYfvfW8cWumofEgRZsAYHhZVDgQbu9z8sGwcKahSho",
+      "symbol": "CARTEL",
+      "name": "Cartoon Cartel Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArthurPaivaT/token-list/main/assets/mainnet/DfgYfvfW8cWumofEgRZsAYHhZVDgQbu9z8sGwcKahSho/logo.png"
     }
   ],
   "version": {
