@@ -143824,6 +143824,20 @@
         "community-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "9K8tMEDxk18873U7re7ksz4uYXtz6ECTCSvTcZyQUHLu",
+      "symbol": "AVBE",
+      "name": "Aviabee",
+      "decimals": 0,
+      "logoURI": "https://nikkoagustino.my.id/aviabee-coin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://aviabee.com/"
+      }
     }
   ],
   "version": {
