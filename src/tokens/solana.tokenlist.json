@@ -143868,6 +143868,41 @@
         "discord": "http://discord.gg/thelostlegion",
         "twitter": "https://twitter.com/LostLegionSol"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "97j6myGGo1o3r3PW23cbycQXwdm1VUePC4LtL5pzYhnV",
+      "symbol": "Aandelen-Sibon-BV",
+      "name": "Chantal Sibon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97j6myGGo1o3r3PW23cbycQXwdm1VUePC4LtL5pzYhnV/chantalPNG.png",
+      "tags": [
+        "Sibon-BV",
+        "aandeelhouder",
+        "Blockstone"
+      ],
+      "extensions": {
+        "linkedin": "https://www.linkedin.com/company/blockstone-online/",
+        "website": "https://blocksto.ne/chantal-sibon/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ErEheZw9La1xiSJbPnzYDGdK87ZAASHRNLQF8NK1mmNP",
+      "symbol": "$HVN",
+      "name": "Heaven",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ErEheZw9La1xiSJbPnzYDGdK87ZAASHRNLQF8NK1mmNP/logo.png",
+      "tags": [
+        "NFT",
+        "GAMEFI",
+        "Staking"
+      ],
+      "extensions": {
+        "description": "Heaven is an SPL token of Heaven Dragons Empire, a premium collection of 1525 Dragons enjoying the clear skies and the royalties from the Empire.",
+        "discord": "https://discord.gg/3Uw8p5DRdj",
+        "twitter": "https://twitter.com/HeavenDragonsEP"
+      }
     }
   ],
   "version": {
