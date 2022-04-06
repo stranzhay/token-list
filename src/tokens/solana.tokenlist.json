@@ -144089,6 +144089,64 @@
         "website": "https://www.tloan.io",
         "whitepaper": "https://tloan.io/wp-content/uploads/2022/04/White_Paper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Geno53CnJsdiiQsnj5DYxfL9WoLFUEYem78AizQaH8vK",
+      "symbol": "HABITAT",
+      "name": "Genesis Genopets Habitats Mint Pass",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img923/1323/MolTEv.jpg",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/genopets",
+        "website": "https://mainframe.genopets.me/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FPwHqVqAg9AhUccxUZMHpxdw5YT2SVNa3A67P8CK1aX7",
+      "symbol": "BOI",
+      "name": "BoiKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/akhelbey/negro/main/logo.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "description": "The Coin Of Dat Boi"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "46BvKPBHA3k32dvYWUtCxAzQrxT1BCNkYw5PGL9cwvVL",
+      "symbol": "MT",
+      "name": "Tamim",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tamimKTH/Tamim-MT-Crypto-Token/main/Screenshot_2022-04-06_at_18.12.02_50.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Frb3DbBKeja7SwhevYaK7x6zxJRnjH6KF6ciVHBSoNu5",
+      "symbol": "NCC-WL",
+      "name": "NCC-GEN1-WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Frb3DbBKeja7SwhevYaK7x6zxJRnjH6KF6ciVHBSoNu5/NCCWL.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/P8hc8npWRt",
+        "twitter": "https://twitter.com/NeonCloudsNFT",
+        "website": "https://neonclouds.net/"
+      }
     }
   ],
   "version": {
