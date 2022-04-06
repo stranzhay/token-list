@@ -143903,6 +143903,50 @@
         "discord": "https://discord.gg/3Uw8p5DRdj",
         "twitter": "https://twitter.com/HeavenDragonsEP"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "APJShV3kXDtH6aatqmHCH9Tfodz31cwijj3Et9U8sHSR",
+      "symbol": "BLP",
+      "name": "BluePay Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/kitt2022/crypto/blob/main/logo.png",
+      "tags": [
+        "payment-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HavRcoAaHq7SwLK7qB14TRkJ3eq9QQW1cdYLwHZKaNci",
+      "symbol": "xGOLD",
+      "name": "Synthetic GOLD",
+      "decimals": 8,
+      "logoURI": "https://synthetify.io/icons/xgold.svg",
+      "extensions": {
+        "coingeckoId": "tether-gold",
+        "twitter": "https://twitter.com/synthetify",
+        "website": "https://synthetify.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7WLoxCzU5tDi2WQsuGTc7GAE7ZPzf2udNBXBfym1quL7",
+      "symbol": "HSHA",
+      "name": "HASHAA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7WLoxCzU5tDi2WQsuGTc7GAE7ZPzf2udNBXBfym1quL7/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6wcWAqCEmxQkEK6hPEsyvTpiaFFCENww6gxqMTq8YBHE",
+      "symbol": "TTST",
+      "name": "T\u0026T Socialist Party Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/xxmafiaxxx/doobietokens/main/TTSP.png",
+      "extensions": {
+        "description": "Trinidad and Tobago Socialist Party Crypto Token",
+        "instagram": "https://www.instagram.com/socialismtnt/"
+      }
     }
   ],
   "version": {
