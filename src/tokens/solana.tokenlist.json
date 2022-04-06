@@ -144161,6 +144161,19 @@
       "extensions": {
         "website": "http://kalauila.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3LWsCFHgxKGZ8Wkjo6J4dAr9QpcTA28N5RLWh4WV68XX",
+      "symbol": "ORNT",
+      "name": "Orient",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tunnelstudio/orient/main/logo.png",
+      "tags": [
+        "Token",
+        "Exchange",
+        "Freedom"
+      ]
     }
   ],
   "version": {
