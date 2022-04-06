@@ -144147,6 +144147,20 @@
         "twitter": "https://twitter.com/NeonCloudsNFT",
         "website": "https://neonclouds.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3GoDU5se7WRLM9vYMLkDEncafZVhi4swyHaqA6bAG9Fd",
+      "symbol": "KALA",
+      "name": "Kalauila",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3GoDU5se7WRLM9vYMLkDEncafZVhi4swyHaqA6bAG9Fd/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://kalauila.com/"
+      }
     }
   ],
   "version": {
