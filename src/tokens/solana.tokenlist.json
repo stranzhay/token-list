@@ -144119,6 +144119,18 @@
       "extensions": {
         "description": "The Coin Of Dat Boi"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "46BvKPBHA3k32dvYWUtCxAzQrxT1BCNkYw5PGL9cwvVL",
+      "symbol": "MT",
+      "name": "Tamim",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tamimKTH/Tamim-MT-Crypto-Token/main/Screenshot_2022-04-06_at_18.12.02_50.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
