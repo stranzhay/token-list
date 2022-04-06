@@ -143914,6 +143914,19 @@
       "tags": [
         "payment-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HavRcoAaHq7SwLK7qB14TRkJ3eq9QQW1cdYLwHZKaNci",
+      "symbol": "xGOLD",
+      "name": "Synthetic GOLD",
+      "decimals": 8,
+      "logoURI": "https://synthetify.io/icons/xgold.svg",
+      "extensions": {
+        "coingeckoId": "tether-gold",
+        "twitter": "https://twitter.com/synthetify",
+        "website": "https://synthetify.io/"
+      }
     }
   ],
   "version": {
