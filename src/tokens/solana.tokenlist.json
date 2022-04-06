@@ -144105,6 +144105,20 @@
         "twitter": "https://twitter.com/genopets",
         "website": "https://mainframe.genopets.me/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FPwHqVqAg9AhUccxUZMHpxdw5YT2SVNa3A67P8CK1aX7",
+      "symbol": "BOI",
+      "name": "BoiKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/akhelbey/negro/main/logo.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "description": "The Coin Of Dat Boi"
+      }
     }
   ],
   "version": {
