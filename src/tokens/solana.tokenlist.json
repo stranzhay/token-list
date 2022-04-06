@@ -144131,6 +144131,22 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Frb3DbBKeja7SwhevYaK7x6zxJRnjH6KF6ciVHBSoNu5",
+      "symbol": "NCC-WL",
+      "name": "NCC-GEN1-WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Frb3DbBKeja7SwhevYaK7x6zxJRnjH6KF6ciVHBSoNu5/NCCWL.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/P8hc8npWRt",
+        "twitter": "https://twitter.com/NeonCloudsNFT",
+        "website": "https://neonclouds.net/"
+      }
     }
   ],
   "version": {
