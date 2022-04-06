@@ -144069,6 +144069,26 @@
         "twitter": "https://twitter.com/experienceona",
         "website": "https://www.whatdoyousee.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "74XH85tgybENDa4iXzrqFthi643qf9jvqqZ1S97iHqZA",
+      "symbol": "NEGRO",
+      "name": "NEGRO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/akhelbey/negro/main/logo.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "description": "The Life of a Negro Token",
+        "discord": "https://discord.gg/fPf4HNkc",
+        "instagram": "https://www.instagram.com/tloanio/",
+        "telegram": "https://t.me/tloanio",
+        "twitter": "https://twitter.com/tloanio",
+        "website": "https://www.tloan.io",
+        "whitepaper": "https://tloan.io/wp-content/uploads/2022/04/White_Paper.pdf"
+      }
     }
   ],
   "version": {
