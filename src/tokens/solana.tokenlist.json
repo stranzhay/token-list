@@ -144194,6 +144194,17 @@
         "twitter": "https://twitter.com/OffTaima",
         "website": "https://thetaima.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ARcfwUzhzmmc5zqSNY8aSVM2cZBB1jZarDLTemsLhMrY",
+      "symbol": "BROCCO",
+      "name": "Broccolini",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ForkInSpace/broccolini/main/broccolini.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
