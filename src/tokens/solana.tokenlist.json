@@ -143811,6 +143811,19 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9Wo5Y22ZxFuxhhMQ5CU7vZaYm4BCByWv9QUMxaeW9eZS",
+      "symbol": "EBX",
+      "name": "ebx coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/micagommm/crypto/main/input-onlinepngtools.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
