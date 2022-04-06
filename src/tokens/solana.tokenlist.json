@@ -144227,6 +144227,44 @@
       "tags": [
         "wdp-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "C65amj9JtuuuuQgxwgEdqRMzmUG4jMM7CY5jjQ5nqtL9",
+      "symbol": "SACT",
+      "name": "Smoker Apes Club",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C65amj9JtuuuuQgxwgEdqRMzmUG4jMM7CY5jjQ5nqtL9/logo.jpg",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "eraDnpnbm1JfpYUdu164qhuLetPMXEQUUPyB8ZRSriK",
+      "symbol": "$ERA",
+      "name": "Era",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/eraDnpnbm1JfpYUdu164qhuLetPMXEQUUPyB8ZRSriK/logo.png",
+      "tags": [
+        "utility-token",
+        "DeFi"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ageofdefinft",
+        "website": "https://www.ageofdefi.xyz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4q4DTq8cf1gvrRZkgZQ2WkCgALTbm3H7Poa34qhgwEqo",
+      "symbol": "SWH",
+      "name": "SOLWOW HOTEL TOKEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/husseinalkanani/assets/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
