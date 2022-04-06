@@ -144089,6 +144089,22 @@
         "website": "https://www.tloan.io",
         "whitepaper": "https://tloan.io/wp-content/uploads/2022/04/White_Paper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Geno53CnJsdiiQsnj5DYxfL9WoLFUEYem78AizQaH8vK",
+      "symbol": "HABITAT",
+      "name": "Genesis Genopets Habitats Mint Pass",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img923/1323/MolTEv.jpg",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/genopets",
+        "website": "https://mainframe.genopets.me/"
+      }
     }
   ],
   "version": {
