@@ -144238,6 +144238,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "eraDnpnbm1JfpYUdu164qhuLetPMXEQUUPyB8ZRSriK",
+      "symbol": "$ERA",
+      "name": "Era",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/eraDnpnbm1JfpYUdu164qhuLetPMXEQUUPyB8ZRSriK/logo.png",
+      "tags": [
+        "utility-token",
+        "DeFi"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ageofdefinft",
+        "website": "https://www.ageofdefi.xyz"
+      }
     }
   ],
   "version": {
