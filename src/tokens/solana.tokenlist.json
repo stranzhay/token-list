@@ -143761,6 +143761,17 @@
         "city-token",
         "SmartCity"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GFQ8vafcdZXyPQpS5dvfbtYT5uiSwFybn2JvC3yJU8Jg",
+      "symbol": "SOLF",
+      "name": "Solar Flare",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dapperdann46/crypto/main/logo3.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
