@@ -144182,6 +144182,18 @@
       "name": "Cartoon Cartel Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ArthurPaivaT/token-list/main/assets/mainnet/DfgYfvfW8cWumofEgRZsAYHhZVDgQbu9z8sGwcKahSho/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "4sUzhG72Y8qHAmUZBM8hiTWjCU5j3pZgkRztJGLRmwGW",
+      "symbol": "TMA",
+      "name": "TAIMA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Sanidelavega/crypto/main/taima-584.png",
+      "extensions": {
+        "twitter": "https://twitter.com/OffTaima",
+        "website": "https://thetaima.com/"
+      }
     }
   ],
   "version": {
