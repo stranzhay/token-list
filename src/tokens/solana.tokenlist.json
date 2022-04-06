@@ -144052,6 +144052,23 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CizWKoDGhVXbFowZr3pMLxY5rnPr7yXtLNN2dQ2AbEDZ",
+      "symbol": "ONA",
+      "name": "ONA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/IanXBT/Ona/main/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/experienceona",
+        "website": "https://www.whatdoyousee.net/"
+      }
     }
   ],
   "version": {
