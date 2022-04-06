@@ -143992,6 +143992,47 @@
       "extensions": {
         "website": "https://arkadianft.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HB7begETKJfYjwfjHbtsLxA1o3n3Tt5KbwQsoDD5bgu8",
+      "symbol": "sxy-wl",
+      "name": "Space X Yodas Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://bafkreif2643iapwypek5ifmzwosd5uv3dtognfxy42br6d4c2k6nl3g6ci.ipfs.dweb.link/?ext=png",
+      "tags": [
+        "SXL",
+        "SXA",
+        "SXY"
+      ],
+      "extensions": {
+        "description": "Having SXY will give you exclusive access to a secret location on PlanetX in SXA Metaverse!",
+        "discord": "https://discord.gg/Mfgnj3xBk3",
+        "twitter": "https://twitter.com/spacexapes"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6hQpbdmmX6gXGUkmjJ82UtfFBzyTP3Hiqv1KZMtHWXpv",
+      "symbol": "GMT",
+      "name": "Global Micro Tasking",
+      "decimals": 6,
+      "logoURI": "https://globalmicrotasking.com/Graphics/GMT_lrg.png",
+      "extensions": {
+        "twitter": "https://twitter.com/globalmicrotask",
+        "website": "https://www.globalmicrotasking.com/gmt"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7xhXrYsxkxGKTdMhA3KVo3V88Y1KuAzJ4zMK14rEFmJf",
+      "symbol": "TATR",
+      "name": "Tater",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BretNazarok/Tater/main/tater2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
