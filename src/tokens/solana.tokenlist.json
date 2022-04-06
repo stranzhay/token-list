@@ -143935,6 +143935,18 @@
       "name": "HASHAA",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7WLoxCzU5tDi2WQsuGTc7GAE7ZPzf2udNBXBfym1quL7/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6wcWAqCEmxQkEK6hPEsyvTpiaFFCENww6gxqMTq8YBHE",
+      "symbol": "TTST",
+      "name": "T\u0026T Socialist Party Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/xxmafiaxxx/doobietokens/main/TTSP.png",
+      "extensions": {
+        "description": "Trinidad and Tobago Socialist Party Crypto Token",
+        "instagram": "https://www.instagram.com/socialismtnt/"
+      }
     }
   ],
   "version": {
