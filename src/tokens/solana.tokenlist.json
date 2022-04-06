@@ -144216,6 +144216,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "CBgExXTC91pz36WxoPSbZDs37DECFDeAMTUbzjhtu9AK",
+      "symbol": "DUC",
+      "name": "DayUpCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CBgExXTC91pz36WxoPSbZDs37DECFDeAMTUbzjhtu9AK/wdp.png",
+      "tags": [
+        "wdp-token"
+      ]
     }
   ],
   "version": {
