@@ -144690,6 +144690,20 @@
       "name": "tequila",
       "decimals": 9,
       "logoURI": "https://github.com/cryptoguy55a/solana-staking-contract/blob/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DKzkt1r6QctnQFx5hMnGomcMimXqVfAyBhMcoKHcBiNK",
+      "symbol": "ROUNDIE",
+      "name": "ROUNDIE Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DKzkt1r6QctnQFx5hMnGomcMimXqVfAyBhMcoKHcBiNK/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.theroundies.co"
+      }
     }
   ],
   "version": {
