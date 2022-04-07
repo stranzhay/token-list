@@ -138563,8 +138563,8 @@
         "telegram": "https://t.me/motsgame",
         "telegramAnnouncements": "https://t.me/motsgameannouncement",
         "twitter": "https://twitter.com/motsgame",
-        "whitepaper": "https://whitepaper.motsgame.io",
-        "website": "https://motsgame.io"
+        "website": "https://motsgame.io",
+        "whitepaper": "https://whitepaper.motsgame.io"
       }
     },
     {
@@ -144321,6 +144321,50 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HNqdtbrRmojH1AcxPwguExzWJ7sCxsZB6skDBZCVRRja",
+      "symbol": "BZ",
+      "name": "Test BZ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3esRcn5KEFVkUrW7pz6xV2mmzhrc2ddjYHP1V7FR2jpj/logo.png",
+      "tags": [
+        "no-tag",
+        "test-bz"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FAogUQVmijxSQdTiNAV1rrHcqmPRdZYZeFDPd8NsVj2m",
+      "symbol": "FELLOWOG",
+      "name": "FELLOW APES OG TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FAogUQVmijxSQdTiNAV1rrHcqmPRdZYZeFDPd8NsVj2m/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fellowapes",
+        "twitter": "https://twitter.com/FellowApes",
+        "website": "https://www.fellowapes.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FAWLwPYG4BSTkwnZY6VLTYQeFTYyLFGkwWSzjrU9LZZc",
+      "symbol": "FELLOWWL",
+      "name": "FELLOW APES WHITELIST TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FAWLwPYG4BSTkwnZY6VLTYQeFTYyLFGkwWSzjrU9LZZc/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fellowapes",
+        "twitter": "https://twitter.com/FellowApes",
+        "website": "https://www.fellowapes.com/"
+      }
     }
   ],
   "version": {
