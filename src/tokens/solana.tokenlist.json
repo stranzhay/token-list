@@ -144499,6 +144499,20 @@
       "extensions": {
         "twitter": "https://twitter.com/PopeDopeCoin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B6gUBdUVKG1JooSdASD8QMPuphbMpLt5ZwGtrHS8MfoP",
+      "symbol": "MP2P",
+      "name": "Molana Finance",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B6gUBdUVKG1JooSdASD8QMPuphbMpLt5ZwGtrHS8MfoP/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://molana.finance/"
+      }
     }
   ],
   "version": {
