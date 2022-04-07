@@ -138558,7 +138558,12 @@
         "utility-token"
       ],
       "extensions": {
-        "description": "MOTS Game is a P2E and NFT mining game developed on the Solana network."
+        "description": "MOTS Game is a P2E and NFT mining game developed on the Solana network.",
+        "telegram": "https://t.me/motsgame",
+        "telegramAnnouncements": "https://t.me/motsgameannouncement",
+        "twitter": "https://twitter.com/motsgame",
+        "whitepaper": "https://whitepaper.motsgame.io",
+        "website": "https://motsgame.io"
       }
     },
     {
