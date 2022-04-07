@@ -144442,6 +144442,22 @@
       "name": "Chibb token test",
       "decimals": 6,
       "logoURI": "https://github.com/CoderDenx/images/blob/main/Chibreward.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7bGxwtDyr9b5Hp2wk5Usvc1i5GFADXy5XaoM6tZQRnkP",
+      "symbol": "AAA",
+      "name": "AAA",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solalchemist/mymetaplex/master/AAA...png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "medium": "https://alienants.medium.com",
+        "twitter": "https://twitter.com/alienantsgen1",
+        "website": "https://alienants.gitbook.io"
+      }
     }
   ],
   "version": {
