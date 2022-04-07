@@ -144513,6 +144513,25 @@
       "extensions": {
         "website": "https://molana.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "r4bCUA5kivHegREZ9CFXPBh7Xr9RDpdG92pR8pM8eCa",
+      "symbol": "ANTL",
+      "name": "Anatoly the Cat",
+      "decimals": 9,
+      "logoURI": "https://anatolythecat.com/icons/token/token.png",
+      "tags": [
+        "entertainment",
+        "gaming",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/58HVXZRPBt",
+        "github": "https://github.com/anatolythecat",
+        "twitter": "https://twitter.com/anatoly_the_cat",
+        "website": "https://anatolythecat.com/"
+      }
     }
   ],
   "version": {
