@@ -38484,7 +38484,8 @@
         "medium": "https://void-dot-games.medium.com",
         "telegram": "https://t.me/voidcommunitychat",
         "twitter": "https://twitter.com/void_dot_games",
-        "website": "https://www.void.games"
+        "website": "https://www.void.games",
+        "coingeckoId": "void-games"
       }
     },
     {
