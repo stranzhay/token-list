@@ -144655,6 +144655,17 @@
       "name": "NEA MDE",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/arendon7/NEA-COIN/main/logo.jpeg"
+    },
+    {
+      "chainId": 101,
+      "address": "5ngWokdDMmvgYJi1nm9vU7Wb2cvT5yStiwo5a1qZbt6S",
+      "symbol": "TOBS",
+      "name": "Monstertobs",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/monstertobs/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
