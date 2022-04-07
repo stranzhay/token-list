@@ -144631,6 +144631,14 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "chin1S2RorBVLj1RCovBY4ascM5KZ7wtBGrL1RzEK7Z",
+      "symbol": "CIHX",
+      "name": "Chinmon",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/umberto12345/chin-slp-token/main/log.png"
     }
   ],
   "version": {
