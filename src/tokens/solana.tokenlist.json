@@ -144265,6 +144265,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4eFU1TAigNZtv4nyDcAsUTZfUUgK6bTdpFSQEgn2H2u6",
+      "symbol": "SBOX",
+      "name": "Silver box whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JohnnyGoodpick/my-token-repo/main/boxnfttoken.jpg",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "GoombqvaLTaLbN3LHuEkqeLBTmwAScRw8DViERXeEFo4",
+      "symbol": "GFHWL",
+      "name": "Goomies WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Neurologist/assets/main/GFHWL_Token.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
