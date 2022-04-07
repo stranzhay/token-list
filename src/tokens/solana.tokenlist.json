@@ -138562,8 +138562,8 @@
         "telegram": "https://t.me/motsgame",
         "telegramAnnouncements": "https://t.me/motsgameannouncement",
         "twitter": "https://twitter.com/motsgame",
-        "whitepaper": "https://whitepaper.motsgame.io",
-        "website": "https://motsgame.io"
+        "website": "https://motsgame.io",
+        "whitepaper": "https://whitepaper.motsgame.io"
       }
     },
     {
@@ -144319,6 +144319,18 @@
       "logoURI": "https://raw.githubusercontent.com/matt-cooper-github/hope-blooms/main/Hope%20Blooms%20Icon.png",
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HNqdtbrRmojH1AcxPwguExzWJ7sCxsZB6skDBZCVRRja",
+      "symbol": "BZ",
+      "name": "Test BZ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3esRcn5KEFVkUrW7pz6xV2mmzhrc2ddjYHP1V7FR2jpj/logo.png",
+      "tags": [
+        "no-tag",
+        "test-bz"
       ]
     }
   ],
