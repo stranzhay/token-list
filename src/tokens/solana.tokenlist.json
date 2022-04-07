@@ -144532,6 +144532,20 @@
         "twitter": "https://twitter.com/anatoly_the_cat",
         "website": "https://anatolythecat.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6HUvsVDECatJaAiQ7bY26TUKaDoyekuovJ1j1oyvRYQS",
+      "symbol": "TMUWL",
+      "name": "TMU V1 Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6HUvsVDECatJaAiQ7bY26TUKaDoyekuovJ1j1oyvRYQS/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://www.themonkeyuniverse.com/"
+      }
     }
   ],
   "version": {
