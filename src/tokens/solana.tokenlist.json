@@ -144513,6 +144513,64 @@
       "extensions": {
         "website": "https://molana.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "r4bCUA5kivHegREZ9CFXPBh7Xr9RDpdG92pR8pM8eCa",
+      "symbol": "ANTL",
+      "name": "Anatoly the Cat",
+      "decimals": 9,
+      "logoURI": "https://anatolythecat.com/icons/token/token.png",
+      "tags": [
+        "entertainment",
+        "gaming",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/58HVXZRPBt",
+        "github": "https://github.com/anatolythecat",
+        "twitter": "https://twitter.com/anatoly_the_cat",
+        "website": "https://anatolythecat.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6HUvsVDECatJaAiQ7bY26TUKaDoyekuovJ1j1oyvRYQS",
+      "symbol": "TMUWL",
+      "name": "TMU V1 Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6HUvsVDECatJaAiQ7bY26TUKaDoyekuovJ1j1oyvRYQS/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://www.themonkeyuniverse.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5iEgPvFyVMyiR5iecrWSg7rRfXp2iTiUDzKRne9S9b4X",
+      "symbol": "CENT",
+      "name": "PowerStreetPro Token",
+      "decimals": 6,
+      "logoURI": "https://github.com/sethdford/powerstreetpro-ui-v1/blob/main/public/assets/icons/cent.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://github.com/sethdford"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8pVgjaB32pij37e7inDMcHEtXt2rqp2pD5ZZaVuecHHH",
+      "symbol": "APR",
+      "name": "Aphrodite Coin",
+      "decimals": 9,
+      "logoURI": "https://demo365.workdemo.xyz/logo_coin.png",
+      "tags": [
+        "Metaverse-Token"
+      ]
     }
   ],
   "version": {
