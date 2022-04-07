@@ -144583,6 +144583,17 @@
         "twitter": "https://twitter.com/MonsterX_NFT",
         "website": "https://www.monsterx.io/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "ADDrELSQ9wx78xaNhqgZA3uDhmz4fkV4K6TChUVecpW9",
+      "symbol": "CIA",
+      "name": "Savvy Investors Club Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ADDrELSQ9wx78xaNhqgZA3uDhmz4fkV4K6TChUVecpW9/logocia.png",
+      "extensions": {
+        "facebook": "https://www.facebook.com/clubdesinvestisseursavises"
+      }
     }
   ],
   "version": {
