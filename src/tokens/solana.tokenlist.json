@@ -144608,6 +144608,45 @@
         "community-token",
         "payment-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4k9g62bc6iMRCb1hGaW2v1YjQfMci7hqbSVWKoaePxhF",
+      "symbol": "VOXM",
+      "name": "VOXM",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/voxelmonkey/VOX/main/VOX.png",
+      "tags": [
+        "utility-token",
+        "general-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7j9nBTTLrQAe1p9Sfz9y323PaGtQWexw3aeN7RnU6tmy",
+      "symbol": "SER",
+      "name": "SolSer",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Persnickety888/SolSer/main/%24SER.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "chin1S2RorBVLj1RCovBY4ascM5KZ7wtBGrL1RzEK7Z",
+      "symbol": "CIHX",
+      "name": "Chinmon",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/umberto12345/chin-slp-token/main/log.png"
+    },
+    {
+      "chainId": 101,
+      "address": "9gHwP8wZz5v2M8yN1HUm3fahF8hopciiDJgTRzkEGqjY",
+      "symbol": "ATC",
+      "name": "AtlasCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gHwP8wZz5v2M8yN1HUm3fahF8hopciiDJgTRzkEGqjY/logo.png"
     }
   ],
   "version": {
