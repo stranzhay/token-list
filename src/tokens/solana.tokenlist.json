@@ -144287,6 +144287,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3esRcn5KEFVkUrW7pz6xV2mmzhrc2ddjYHP1V7FR2jpj",
+      "symbol": "PITF",
+      "name": "Pay IT Forward Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3esRcn5KEFVkUrW7pz6xV2mmzhrc2ddjYHP1V7FR2jpj/logo.png",
+      "tags": [
+        "stablecoin",
+        "social-token"
+      ]
     }
   ],
   "version": {
