@@ -144571,6 +144571,18 @@
       "tags": [
         "Metaverse-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FJh9YCSLKmkVW2rSg9BGDdNQviFGQqxgoDEtbphyQWBR",
+      "symbol": "MOX",
+      "name": "MonsterX",
+      "decimals": 9,
+      "logoURI": "https://monsterxblob.blob.core.windows.net/moxtokeninfo/Tokenlogos.png",
+      "extensions": {
+        "twitter": "https://twitter.com/MonsterX_NFT",
+        "website": "https://www.monsterx.io/"
+      }
     }
   ],
   "version": {
