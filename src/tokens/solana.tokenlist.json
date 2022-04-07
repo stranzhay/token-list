@@ -144704,6 +144704,14 @@
       "extensions": {
         "website": "https://www.theroundies.co"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3EdaYamSyMNNGbEPEtCdZM9CrsKzP8i3RoYJ7KKRQ4CM",
+      "symbol": "FRIDA",
+      "name": "Frida Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/08b4b789cd2061eb439bdc1c3cdeed5590b773c0/assets/mainnet/3EdaYamSyMNNGbEPEtCdZM9CrsKzP8i3RoYJ7KKRQ4CM/logo.png"
     }
   ],
   "version": {
