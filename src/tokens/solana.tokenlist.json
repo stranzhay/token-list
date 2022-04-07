@@ -144620,6 +144620,17 @@
         "utility-token",
         "general-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7j9nBTTLrQAe1p9Sfz9y323PaGtQWexw3aeN7RnU6tmy",
+      "symbol": "SER",
+      "name": "SolSer",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Persnickety888/SolSer/main/%24SER.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
