@@ -144332,6 +144332,38 @@
         "no-tag",
         "test-bz"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FAogUQVmijxSQdTiNAV1rrHcqmPRdZYZeFDPd8NsVj2m",
+      "symbol": "FELLOWOG",
+      "name": "FELLOW APES OG TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FAogUQVmijxSQdTiNAV1rrHcqmPRdZYZeFDPd8NsVj2m/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fellowapes",
+        "twitter": "https://twitter.com/FellowApes",
+        "website": "https://www.fellowapes.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FAWLwPYG4BSTkwnZY6VLTYQeFTYyLFGkwWSzjrU9LZZc",
+      "symbol": "FELLOWWL",
+      "name": "FELLOW APES WHITELIST TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FAWLwPYG4BSTkwnZY6VLTYQeFTYyLFGkwWSzjrU9LZZc/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fellowapes",
+        "twitter": "https://twitter.com/FellowApes",
+        "website": "https://www.fellowapes.com/"
+      }
     }
   ],
   "version": {
