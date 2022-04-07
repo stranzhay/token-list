@@ -144546,6 +144546,20 @@
       "extensions": {
         "website": "https://www.themonkeyuniverse.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5iEgPvFyVMyiR5iecrWSg7rRfXp2iTiUDzKRne9S9b4X",
+      "symbol": "CENT",
+      "name": "PowerStreetPro Token",
+      "decimals": 6,
+      "logoURI": "https://github.com/sethdford/powerstreetpro-ui-v1/blob/main/public/assets/icons/cent.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://github.com/sethdford"
+      }
     }
   ],
   "version": {
