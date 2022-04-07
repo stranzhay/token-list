@@ -144647,6 +144647,14 @@
       "name": "AtlasCoin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gHwP8wZz5v2M8yN1HUm3fahF8hopciiDJgTRzkEGqjY/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "HHZVdeyMbjvT9eGBsZtzb16TXQ5wLCVhWzWPBzcWmovC",
+      "symbol": "NEA",
+      "name": "NEA MDE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/arendon7/NEA-COIN/main/logo.jpeg"
     }
   ],
   "version": {
