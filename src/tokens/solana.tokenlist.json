@@ -144560,6 +144560,17 @@
       "extensions": {
         "website": "https://github.com/sethdford"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8pVgjaB32pij37e7inDMcHEtXt2rqp2pD5ZZaVuecHHH",
+      "symbol": "APR",
+      "name": "Aphrodite Coin",
+      "decimals": 9,
+      "logoURI": "https://demo365.workdemo.xyz/logo_coin.png",
+      "tags": [
+        "Metaverse-Token"
+      ]
     }
   ],
   "version": {
