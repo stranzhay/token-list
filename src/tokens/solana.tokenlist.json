@@ -144458,6 +144458,61 @@
         "twitter": "https://twitter.com/alienantsgen1",
         "website": "https://alienants.gitbook.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ecqbht7deTxwQARtyAi9jMMNxoEf6hBMvBre9FRrpzkU",
+      "symbol": "T2pT",
+      "name": "Thai2P Token",
+      "decimals": 9,
+      "logoURI": "https://gcdnb.pbrd.co/images/kGrY4Tguwcou.png?o=1",
+      "tags": [
+        "utility-token",
+        "general-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8dpSeVdxWdfRzrAUTddRY12X1KVutXnYKjneap9RsZZ8",
+      "symbol": "BZCN",
+      "name": "BearzCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8dpSeVdxWdfRzrAUTddRY12X1KVutXnYKjneap9RsZZ8/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Bug_Bearz",
+        "website": "https://bugbearz.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7fRnceu5d3EsCvmJ6TZj78emeqkyG2E9jQRRnFSRhxQ5",
+      "symbol": "POPE",
+      "name": "Pope Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/pope-dope/crypto/main/pope_dope.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/PopeDopeCoin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "B6gUBdUVKG1JooSdASD8QMPuphbMpLt5ZwGtrHS8MfoP",
+      "symbol": "MP2P",
+      "name": "Molana Finance",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B6gUBdUVKG1JooSdASD8QMPuphbMpLt5ZwGtrHS8MfoP/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://molana.finance/"
+      }
     }
   ],
   "version": {
