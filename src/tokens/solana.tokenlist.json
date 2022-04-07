@@ -144408,6 +144408,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FDWmQxD9hQruYKtFK8wt6UhKGv6frPvU8EhjKiEPQoyD",
+      "symbol": "FADE",
+      "name": "FADE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/yazidox/fadedfoxlogo/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/FadedFoxess",
+        "website": "https://www.fadedfoxes.com/"
+      }
     }
   ],
   "version": {
