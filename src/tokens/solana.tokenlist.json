@@ -38477,6 +38477,7 @@
         "Gaming"
       ],
       "extensions": {
+        "coingeckoId": "void-games",
         "description": "VOID is a multiplayer online game with a strong focus on personalizing your character. Fight solo or in a small teams on epic on field battlegrounds.",
         "discord": "https://discord.gg/rzfe6k39aU",
         "facebook": "https://facebook.com/monkeyballgames",
@@ -38484,8 +38485,7 @@
         "medium": "https://void-dot-games.medium.com",
         "telegram": "https://t.me/voidcommunitychat",
         "twitter": "https://twitter.com/void_dot_games",
-        "website": "https://www.void.games",
-        "coingeckoId": "void-games"
+        "website": "https://www.void.games"
       }
     },
     {
@@ -144365,6 +144365,49 @@
         "twitter": "https://twitter.com/FellowApes",
         "website": "https://www.fellowapes.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EUfnMfMhx8ZwdYFuDoSZbEdVjsfiGkHEE3Eb7U9hXzhd",
+      "symbol": "SLCFE",
+      "name": "SOUL CAFE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EUfnMfMhx8ZwdYFuDoSZbEdVjsfiGkHEE3Eb7U9hXzhd/logo.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/fazleedotsol",
+        "website": "https://soulcafe.vercel.app/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9yP5r8DPtPj4o9dHjxCVt6PYBusWCRg6yFpXNN59LUmt",
+      "symbol": "$THUMB",
+      "name": "THUMB WARS TOKEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9yP5r8DPtPj4o9dHjxCVt6PYBusWCRg6yFpXNN59LUmt/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/thumbwars",
+        "instagram": "https://instagram.com/thumbwarsnft",
+        "twitter": "https://twitter.com/ThumbWarsNFT",
+        "website": "https://www.thumbwars.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9C2Ht3Cd8uNKsxiLQ27qxv9mnQ1iqMPFW2FUwB9DkxFP",
+      "symbol": "DUBZ",
+      "name": "DUBBIEZZ",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/103150881/162079915-03e783ea-6fd3-4572-893e-30a55cd7f05a.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
