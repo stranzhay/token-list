@@ -144608,6 +144608,18 @@
         "community-token",
         "payment-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4k9g62bc6iMRCb1hGaW2v1YjQfMci7hqbSVWKoaePxhF",
+      "symbol": "VOXM",
+      "name": "VOXM",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/voxelmonkey/VOX/main/VOX.png",
+      "tags": [
+        "utility-token",
+        "general-token"
+      ]
     }
   ],
   "version": {
