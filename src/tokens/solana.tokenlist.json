@@ -144594,6 +144594,20 @@
       "extensions": {
         "facebook": "https://www.facebook.com/clubdesinvestisseursavises"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EcyhULAJyT3Ng6J5uxM6zKMiLwUThTp2Lmn5MnKapCNs",
+      "symbol": "TCMK",
+      "name": "TechMagik Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/stavrozo/TechMagik-crypto/main/tmlogo.png",
+      "tags": [
+        "social-token",
+        "tech-token",
+        "community-token",
+        "payment-token"
+      ]
     }
   ],
   "version": {
