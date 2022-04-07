@@ -144485,6 +144485,20 @@
         "twitter": "https://twitter.com/Bug_Bearz",
         "website": "https://bugbearz.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7fRnceu5d3EsCvmJ6TZj78emeqkyG2E9jQRRnFSRhxQ5",
+      "symbol": "POPE",
+      "name": "Pope Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/pope-dope/crypto/main/pope_dope.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/PopeDopeCoin"
+      }
     }
   ],
   "version": {
