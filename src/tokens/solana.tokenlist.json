@@ -144639,6 +144639,14 @@
       "name": "Chinmon",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/umberto12345/chin-slp-token/main/log.png"
+    },
+    {
+      "chainId": 101,
+      "address": "9gHwP8wZz5v2M8yN1HUm3fahF8hopciiDJgTRzkEGqjY",
+      "symbol": "ATC",
+      "name": "AtlasCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gHwP8wZz5v2M8yN1HUm3fahF8hopciiDJgTRzkEGqjY/logo.png"
     }
   ],
   "version": {
