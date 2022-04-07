@@ -144458,6 +144458,18 @@
         "twitter": "https://twitter.com/alienantsgen1",
         "website": "https://alienants.gitbook.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ecqbht7deTxwQARtyAi9jMMNxoEf6hBMvBre9FRrpzkU",
+      "symbol": "T2pT",
+      "name": "Thai2P Token",
+      "decimals": 9,
+      "logoURI": "https://gcdnb.pbrd.co/images/kGrY4Tguwcou.png?o=1",
+      "tags": [
+        "utility-token",
+        "general-token"
+      ]
     }
   ],
   "version": {
