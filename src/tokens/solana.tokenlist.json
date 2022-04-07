@@ -144299,6 +144299,17 @@
         "stablecoin",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DwC83VkKYbqChRtxr14apQtQGYeuoicuvbqCirxyY8kQ",
+      "symbol": "HBLM",
+      "name": "Hope Blooms",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/matt-cooper-github/hope-blooms/main/Hope%20Blooms%20Icon.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
