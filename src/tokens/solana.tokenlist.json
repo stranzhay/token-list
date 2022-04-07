@@ -144380,6 +144380,23 @@
         "twitter": "https://twitter.com/fazleedotsol",
         "website": "https://soulcafe.vercel.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9yP5r8DPtPj4o9dHjxCVt6PYBusWCRg6yFpXNN59LUmt",
+      "symbol": "$THUMB",
+      "name": "THUMB WARS TOKEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9yP5r8DPtPj4o9dHjxCVt6PYBusWCRg6yFpXNN59LUmt/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/thumbwars",
+        "instagram": "https://instagram.com/thumbwarsnft",
+        "twitter": "https://twitter.com/ThumbWarsNFT",
+        "website": "https://www.thumbwars.io/"
+      }
     }
   ],
   "version": {
