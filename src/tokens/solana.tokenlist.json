@@ -137365,9 +137365,9 @@
       "chainId": 101,
       "address": "WarsFNc1gd5P9eLKhszjopCZNvvHyB4kmUbavP3eA1i",
       "symbol": "WARS",
-      "name": "gm Groundhog Hog Wars",
-      "decimals": 9,
-      "logoURI": "https://user-images.githubusercontent.com/86862714/159833574-f7d22e3e-46df-4f8c-96d3-4a0257115613.png",
+      "name": "GMG Hog Wars",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WarsFNc1gd5P9eLKhszjopCZNvvHyB4kmUbavP3eA1i/logo.jpg",
       "tags": [
         "apparel-token",
         "ecommerce-token",
