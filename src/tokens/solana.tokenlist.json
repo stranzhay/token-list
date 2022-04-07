@@ -144682,6 +144682,14 @@
         "twitter": "https://twitter.com/Astrals_NFT",
         "website": "https://astralsnft.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EWhrR6eMQNS9gFkCocG9PfgNXXqyDjK5VkQVMsHnmYR7",
+      "symbol": "TEK",
+      "name": "tequila",
+      "decimals": 9,
+      "logoURI": "https://github.com/cryptoguy55a/solana-staking-contract/blob/main/logo.png"
     }
   ],
   "version": {
