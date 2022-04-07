@@ -144666,6 +144666,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CJ5U6wPmjxFUyTJpUTS7Rt1UqhTmSVRMvmJ8WD4nndXW",
+      "symbol": "GLXY",
+      "name": "Astrals GLXY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CJ5U6wPmjxFUyTJpUTS7Rt1UqhTmSVRMvmJ8WD4nndXW/logo.png",
+      "tags": [
+        "NFT-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/astralsnft",
+        "twitter": "https://twitter.com/Astrals_NFT",
+        "website": "https://astralsnft.io"
+      }
     }
   ],
   "version": {
