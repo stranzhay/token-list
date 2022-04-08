@@ -145068,6 +145068,23 @@
         "twitter": "https://twitter.com/SolanaSuccubus",
         "website": "https://solanasuccubus.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5GSC5AqJQPhD3MmhNeYerGBzaJncH7MdFJGme8wTML9g",
+      "symbol": "Aandelen",
+      "name": "Jansen en Dochters BV - Monique Jansen",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5GSC5AqJQPhD3MmhNeYerGBzaJncH7MdFJGme8wTML9g/blockPNG.png",
+      "tags": [
+        "Jansen-en-Dochters",
+        "aandeelhouder",
+        "Blockstone"
+      ],
+      "extensions": {
+        "linkedin": "https://www.linkedin.com/company/blockstone-online/",
+        "website": "https://blocksto.ne/jansen-en-dochters-bv/"
+      }
     }
   ],
   "version": {
