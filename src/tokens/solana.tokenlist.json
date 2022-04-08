@@ -144816,6 +144816,20 @@
       "tags": [
         "shares-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DeciAAiFDriVGkpqAgGDxpBC5SA4cBPrBWUj4WuevgTR",
+      "symbol": "DD",
+      "name": "Decimus Dynamic Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DeciAAiFDriVGkpqAgGDxpBC5SA4cBPrBWUj4WuevgTR/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/decimusdynamic"
+      }
     }
   ],
   "version": {
