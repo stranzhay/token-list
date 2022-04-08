@@ -144866,6 +144866,17 @@
         "twitter": "https://twitter.com/mightyminions",
         "website": "https://www.mightyminions.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GZc3D6VCj3AMUed2S8gP7QBvuWPNNB2asSwaXch7ESwJ",
+      "symbol": "KOMR",
+      "name": "KOMRADZ OFFICIAL WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GZc3D6VCj3AMUed2S8gP7QBvuWPNNB2asSwaXch7ESwJ/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
