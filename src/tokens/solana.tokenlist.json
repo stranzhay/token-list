@@ -145146,6 +145146,14 @@
         "linkedin": "https://www.linkedin.com/company/blockstone-online/",
         "website": "https://blocksto.ne/jansen-en-dochters/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6Xz4ssMfNLAymMCDHfJonJUYHQhXZFtCdpmbz96o7JoF",
+      "symbol": "USAA",
+      "name": "UncleSamToken",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Xz4ssMfNLAymMCDHfJonJUYHQhXZFtCdpmbz96o7JoF/logo.png"
     }
   ],
   "version": {
