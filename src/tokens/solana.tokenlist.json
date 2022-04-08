@@ -144877,6 +144877,53 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EB1dxxDbHSPxpjo5sUmszpcNk64gdAoxdttSq7fVBgGT",
+      "symbol": "$RDP",
+      "name": "RareDumpies Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/savage0908/RareDumpies-Token/RareDumpies-Token/XpRQAp06_400x400.jpg",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EvLyT6PC2UyRUZyhMjvZy1eey6E5jrYqq8fqqvSxD12K",
+      "symbol": "UHU",
+      "name": "Uhu Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EvLyT6PC2UyRUZyhMjvZy1eey6E5jrYqq8fqqvSxD12K/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://uhutoken.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EagLEdVKrm6QRfBQzZZjNBY9k3RjGXRhENL77QP7SnXj",
+      "symbol": "EAGLEZ-TOKEN",
+      "name": "EAGLEZ WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EagLEdVKrm6QRfBQzZZjNBY9k3RjGXRhENL77QP7SnXj/logo.png",
+      "tags": [
+        "Mint-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Deci6tiV9g8u2TJCpJcNqsgWFLr1oYooJwejjDRHszQ4",
+      "symbol": "DD",
+      "name": "DynamicDecimus WHITELIST TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Deci6tiV9g8u2TJCpJcNqsgWFLr1oYooJwejjDRHszQ4/logo.png",
+      "tags": [
+        "Mint-token"
+      ]
     }
   ],
   "version": {
