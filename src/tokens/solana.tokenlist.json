@@ -144924,6 +144924,17 @@
       "tags": [
         "Mint-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HFE5CwhDzXLYrnfH41712be8Pz498v2yCjyR91jZEqpe",
+      "symbol": "HUNKZ",
+      "name": "HunkCoinz",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/HunkCoinz/Logo/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
