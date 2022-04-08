@@ -145099,6 +145099,51 @@
       "extensions": {
         "website": "https://cayc.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DfB1NY8Ftv3rDTnyffSVj5sr3ycFjLoUeNBEkTDvPQYn",
+      "symbol": "ERRA",
+      "name": "Erra",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DfB1NY8Ftv3rDTnyffSVj5sr3ycFjLoUeNBEkTDvPQYn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BBUiBwwG2pLZFboPpbvqVXACs4r3HrNBaC73zzXspfYW",
+      "symbol": "FIYA",
+      "name": "Fiya",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BBUiBwwG2pLZFboPpbvqVXACs4r3HrNBaC73zzXspfYW/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "E5qNsCX91wqnLQQ25yEHTo3eujWGtqLe9daJvejRxikc",
+      "symbol": "WADA",
+      "name": "Wada",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E5qNsCX91wqnLQQ25yEHTo3eujWGtqLe9daJvejRxikc/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
     }
   ],
   "version": {
