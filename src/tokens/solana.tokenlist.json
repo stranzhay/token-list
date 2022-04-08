@@ -144720,6 +144720,17 @@
       "name": "Clubhouse Dao",
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/hallelujahsunshine/assets/main/clubhouse-music-school-icon-black.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2hyRbCMr8ZuYN99MnY1PKRCk55stWw1zYHnChTSjFM44",
+      "symbol": "VERB",
+      "name": "Verb",
+      "decimals": 2,
+      "logoURI": "https://i.ibb.co/H7BB1VL/VERB-Logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
