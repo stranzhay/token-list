@@ -144774,6 +144774,14 @@
         "twitter": "https://twitter.com/444hoodieboys",
         "website": "https://www.444dao.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4Q3uvtM4Y87dYgYuLkgwLGnuHM7zevgYBm7rD4jB5wWy",
+      "symbol": "CHCPS",
+      "name": "Chibben Chips token",
+      "decimals": 6,
+      "logoURI": "https://github.com/CoderDenx/images/blob/main/Chibb%20N%20Chips.png?raw=true"
     }
   ],
   "version": {
