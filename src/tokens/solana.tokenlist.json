@@ -144830,6 +144830,17 @@
       "extensions": {
         "twitter": "https://twitter.com/decimusdynamic"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "iVMyPF9DBoPxxfhGA58rfYt9HU1JHw56S7YdryZEx96",
+      "symbol": "IVM",
+      "name": "Investmor Coin",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/iVMyPF9DBoPxxfhGA58rfYt9HU1JHw56S7YdryZEx96/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/investmorcoin"
+      }
     }
   ],
   "version": {
