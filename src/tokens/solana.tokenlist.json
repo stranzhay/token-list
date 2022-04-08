@@ -144990,6 +144990,17 @@
       "extensions": {
         "twitter": "https://twitter.com/EaglezSOL"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DjEk3aEPX3388FtM2oVpzQQqi6N1efQ21vePpqtHwoTB",
+      "symbol": "ITG",
+      "name": "ITGnomies",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kaczordd/crypto/main/icon.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
