@@ -144849,6 +144849,23 @@
       "name": "Cool Kitties WL token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2UePEeCM1Zqt9xajqCaD2ZmrzKGB3d88VXfu4hiZw8is/icon.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2dfUDFaYGy7Kkp2TiUXHsY9myq2Ws9hjSyb5pPDRVEzY",
+      "symbol": "MTKN",
+      "name": "Mighty Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2dfUDFaYGy7Kkp2TiUXHsY9myq2Ws9hjSyb5pPDRVEzY/logo.png",
+      "tags": [
+        "Gaming",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/mightyminions",
+        "twitter": "https://twitter.com/mightyminions",
+        "website": "https://www.mightyminions.io/"
+      }
     }
   ],
   "version": {
