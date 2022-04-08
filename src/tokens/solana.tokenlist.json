@@ -144756,6 +144756,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EFULmcHqDaskCWzTi81eXyBu9oJtuE3BCnhkM81xq4C2",
+      "symbol": "HOODIE",
+      "name": "HOODIE BOYS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/CryptArt-LLC/444-hood/01bcd4ac4cdc72d3e31173d64dfe68b9a4b6176d/logo.png",
+      "tags": [
+        "community-token",
+        "444-dao-token",
+        "444-hoodie-boys"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/D8bz4mQnNp",
+        "twitter": "https://twitter.com/444hoodieboys",
+        "website": "https://www.444dao.org/"
+      }
     }
   ],
   "version": {
