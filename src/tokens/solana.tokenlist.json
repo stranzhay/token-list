@@ -144946,6 +144946,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9o8j6rM2cUSwq6voyYuouJwyx73Hm5dTS5YQPGQ63Fq2",
+      "symbol": "NTBR",
+      "name": "NetworkBear Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/NetworkBear/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
