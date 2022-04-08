@@ -132178,21 +132178,6 @@
     },
     {
       "chainId": 101,
-      "address": "95bzgMCtKw2dwaWufV9iZyu64DQo1eqw6QWnFMUSnsuF",
-      "symbol": "LADA",
-      "name": "LadderCaster",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/95bzgMCtKw2dwaWufV9iZyu64DQo1eqw6QWnFMUSnsuF/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "twitter": "https://twitter.com/LadderCaster",
-        "website": "https://laddercaster.com/"
-      }
-    },
-    {
-      "chainId": 101,
       "address": "9hXWYupLxAnZ1t2SSDSr9mishBnDXUti9iWvSYipeVaQ",
       "symbol": "PAN",
       "name": "Pantheon Art",
