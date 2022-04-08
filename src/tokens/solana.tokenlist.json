@@ -144965,6 +144965,17 @@
       "name": "Boss Baby Family Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/atenidegbeolanrewaju/BB_/main/BBFY.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8SVTTQqcfSYiCzZTM3BgPP6XEwzU2j1NmxT5af8g5DFS",
+      "symbol": "FALCO",
+      "name": "FALCO Token",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmZMjHJrrQ3PWaUPhkcwRi8uYhcBn6r16EpYEWQBaWD9eX",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
