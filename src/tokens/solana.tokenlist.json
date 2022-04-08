@@ -144782,6 +144782,17 @@
       "name": "Chibben Chips token",
       "decimals": 6,
       "logoURI": "https://github.com/CoderDenx/images/blob/main/Chibb%20N%20Chips.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "23K7zGTssP5sDuaVYE9Byits82whseiAHajj5ycJZTFV",
+      "symbol": "KWKN",
+      "name": "KawaiKoin",
+      "decimals": 0,
+      "logoURI": "https://github.com/AsTheSeaRises/crypto-stuff/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
