@@ -144712,6 +144712,14 @@
       "name": "Frida Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/08b4b789cd2061eb439bdc1c3cdeed5590b773c0/assets/mainnet/3EdaYamSyMNNGbEPEtCdZM9CrsKzP8i3RoYJ7KKRQ4CM/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Ch4SJ2YwHU7nXC1rv3eja7rP7ZuLM9x1EHGt53RETHnd",
+      "symbol": "CHRMS",
+      "name": "Clubhouse Dao",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/hallelujahsunshine/assets/main/clubhouse-music-school-icon-black.png"
     }
   ],
   "version": {
