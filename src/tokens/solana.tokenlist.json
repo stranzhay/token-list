@@ -144745,6 +144745,17 @@
       "extensions": {
         "website": "https://www.yamdao.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AFtvjpKky4TkErQS6SwMXrX7Mwt41etbfMVM2pampqmy",
+      "symbol": "DEAD",
+      "name": "deadWonder",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/RobertVarney/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
