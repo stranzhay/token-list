@@ -145036,6 +145036,22 @@
       "name": "SOLAD AIRDROP",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3iTWURXxYJtEY5WHTDmA8qEbiDy6KRYU2DEdnrtrgGTS/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "okayHk8cku6TyeRP8F1rfZramrJ93Y3wbWpqovacnkS",
+      "symbol": "OKAYWL",
+      "name": "Okay Bears Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img922/6216/HLXnVT.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/okaybears",
+        "website": "https://www.okaybears.com/"
+      }
     }
   ],
   "version": {
