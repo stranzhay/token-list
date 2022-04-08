@@ -145013,6 +145013,21 @@
         "twitter": "https://twitter.com/matukilabs",
         "website": "https://www.matukilabs.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "95bzgMCtKw2dwaWufV9iZyu64DQo1eqw6QWnFMUSnsuF",
+      "symbol": "LADA",
+      "name": "LADA Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/95bzgMCtKw2dwaWufV9iZyu64DQo1eqw6QWnFMUSnsuF/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
     }
   ],
   "version": {
