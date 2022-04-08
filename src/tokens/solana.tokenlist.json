@@ -144976,6 +144976,20 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FLY4TDtDAW8pZLmEDMs4UEtchDwNAZrko79xEY6eSpLJ",
+      "symbol": "FLY4",
+      "name": "EagleZ FlyList Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FLY4TDtDAW8pZLmEDMs4UEtchDwNAZrko79xEY6eSpLJ/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EaglezSOL"
+      }
     }
   ],
   "version": {
