@@ -144731,6 +144731,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "86aFUzjnSNr3DHTYBBFWoogNfvBCfWkSVYWtjJAWGcCH",
+      "symbol": "YAM",
+      "name": "YAM Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/metasal1/token-list/1663005b372d43fb1b257bd3064d612fccb6f56c/assets/mainnet/86aFUzjnSNr3DHTYBBFWoogNfvBCfWkSVYWtjJAWGcCH/logo.png",
+      "tags": [
+        "yam-token"
+      ],
+      "extensions": {
+        "website": "https://www.yamdao.com"
+      }
     }
   ],
   "version": {
