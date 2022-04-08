@@ -144805,6 +144805,17 @@
         "twitter": "https://twitter.com/onlyfans_coin",
         "website": "https://onlyfans.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AwgoZr72bzfwkZmcCy7nAHskpn3Ha1jAjE67nFP9HMEk",
+      "symbol": "BPS",
+      "name": "BluePay SHARES",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/blueshares/tokenshare/main/logo.png",
+      "tags": [
+        "shares-token"
+      ]
     }
   ],
   "version": {
