@@ -144902,6 +144902,28 @@
       "extensions": {
         "website": "https://uhutoken.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EagLEdVKrm6QRfBQzZZjNBY9k3RjGXRhENL77QP7SnXj",
+      "symbol": "EAGLEZ-TOKEN",
+      "name": "EAGLEZ WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EagLEdVKrm6QRfBQzZZjNBY9k3RjGXRhENL77QP7SnXj/logo.png",
+      "tags": [
+        "Mint-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Deci6tiV9g8u2TJCpJcNqsgWFLr1oYooJwejjDRHszQ4",
+      "symbol": "DD",
+      "name": "DynamicDecimus WHITELIST TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Deci6tiV9g8u2TJCpJcNqsgWFLr1oYooJwejjDRHszQ4/logo.png",
+      "tags": [
+        "Mint-token"
+      ]
     }
   ],
   "version": {
