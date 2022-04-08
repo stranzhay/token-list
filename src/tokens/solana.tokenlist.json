@@ -144841,6 +144841,14 @@
       "extensions": {
         "twitter": "https://twitter.com/investmorcoin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2UePEeCM1Zqt9xajqCaD2ZmrzKGB3d88VXfu4hiZw8is",
+      "symbol": "CKWL",
+      "name": "Cool Kitties WL token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2UePEeCM1Zqt9xajqCaD2ZmrzKGB3d88VXfu4hiZw8is/icon.png"
     }
   ],
   "version": {
