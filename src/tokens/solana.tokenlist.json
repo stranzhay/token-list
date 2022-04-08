@@ -145001,6 +145001,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MatA8b1QRcrDSfNtqnPzkbmtq8RmKTw8iZydbMtxV6X",
+      "symbol": "CHTKT",
+      "name": "Chosen Ticket",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MatA8b1QRcrDSfNtqnPzkbmtq8RmKTw8iZydbMtxV6X/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/matukilabs",
+        "website": "https://www.matukilabs.io"
+      }
     }
   ],
   "version": {
