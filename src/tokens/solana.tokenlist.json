@@ -144965,6 +144965,69 @@
       "name": "Boss Baby Family Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/atenidegbeolanrewaju/BB_/main/BBFY.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8SVTTQqcfSYiCzZTM3BgPP6XEwzU2j1NmxT5af8g5DFS",
+      "symbol": "FALCO",
+      "name": "FALCO Token",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmZMjHJrrQ3PWaUPhkcwRi8uYhcBn6r16EpYEWQBaWD9eX",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FLY4TDtDAW8pZLmEDMs4UEtchDwNAZrko79xEY6eSpLJ",
+      "symbol": "FLY4",
+      "name": "EagleZ FlyList Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FLY4TDtDAW8pZLmEDMs4UEtchDwNAZrko79xEY6eSpLJ/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EaglezSOL"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DjEk3aEPX3388FtM2oVpzQQqi6N1efQ21vePpqtHwoTB",
+      "symbol": "ITG",
+      "name": "ITGnomies",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kaczordd/crypto/main/icon.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "MatA8b1QRcrDSfNtqnPzkbmtq8RmKTw8iZydbMtxV6X",
+      "symbol": "CHTKT",
+      "name": "Chosen Ticket",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MatA8b1QRcrDSfNtqnPzkbmtq8RmKTw8iZydbMtxV6X/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/matukilabs",
+        "website": "https://www.matukilabs.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "95bzgMCtKw2dwaWufV9iZyu64DQo1eqw6QWnFMUSnsuF",
+      "symbol": "LADA",
+      "name": "LADA Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/95bzgMCtKw2dwaWufV9iZyu64DQo1eqw6QWnFMUSnsuF/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
     }
   ],
   "version": {
