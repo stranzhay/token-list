@@ -144924,6 +144924,39 @@
       "tags": [
         "Mint-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HFE5CwhDzXLYrnfH41712be8Pz498v2yCjyR91jZEqpe",
+      "symbol": "HUNKZ",
+      "name": "HunkCoinz",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/HunkCoinz/Logo/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Csc8UDJkVQyuEXN6LpRAv8yZ5NTmEAdEkwrkyNALJo",
+      "symbol": "DYLC",
+      "name": "DylCo",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/YHWH69/tokens/main/DylCo_logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9o8j6rM2cUSwq6voyYuouJwyx73Hm5dTS5YQPGQ63Fq2",
+      "symbol": "NTBR",
+      "name": "NetworkBear Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/NetworkBear/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
