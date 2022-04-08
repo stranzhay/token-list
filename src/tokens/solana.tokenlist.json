@@ -145085,6 +145085,20 @@
         "linkedin": "https://www.linkedin.com/company/blockstone-online/",
         "website": "https://blocksto.ne/jansen-en-dochters-bv/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4jSmgM6oatm6Ci3iEh5ksdJstSyvCV2FDJm7T8UGLszy",
+      "symbol": "CAYC",
+      "name": "Cyber Ape Yacht Club",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4jSmgM6oatm6Ci3iEh5ksdJstSyvCV2FDJm7T8UGLszy/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://cayc.io/"
+      }
     }
   ],
   "version": {
