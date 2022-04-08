@@ -145052,6 +145052,22 @@
         "twitter": "https://twitter.com/okaybears",
         "website": "https://www.okaybears.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A4vmCTGepYqFT5CtkFgkjtsj7DUUBNAkkMB9G8q6dzKJ",
+      "symbol": "SSB",
+      "name": "SolanaSuccubus",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A4vmCTGepYqFT5CtkFgkjtsj7DUUBNAkkMB9G8q6dzKJ/logo.png",
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/35WUZgCaXM",
+        "twitter": "https://twitter.com/SolanaSuccubus",
+        "website": "https://solanasuccubus.io/"
+      }
     }
   ],
   "version": {
