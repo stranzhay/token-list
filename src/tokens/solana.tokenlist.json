@@ -144935,6 +144935,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Csc8UDJkVQyuEXN6LpRAv8yZ5NTmEAdEkwrkyNALJo",
+      "symbol": "DYLC",
+      "name": "DylCo",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/YHWH69/tokens/main/DylCo_logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
