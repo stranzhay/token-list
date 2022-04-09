@@ -145231,6 +145231,21 @@
         "description": "GIVE 2FUCKS",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "symbol": "NIRV",
+      "name": "NIRV",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa/NIRV.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nirvana_fi",
+        "website": "https://nirvana.finance/"
+      }
     }
   ],
   "version": {
