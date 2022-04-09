@@ -145290,6 +145290,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BTy9Ahn61nTz9VhFGStc4CaMkQD5x6v6GYWLWuVxZcSv",
+      "symbol": "NPAY",
+      "name": "NUBLOPAY",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/nublopayteam/noblopay/main/assets/logo/logo.png",
+      "tags": [
+        "utility-token",
+        "dapp",
+        "payments",
+        "merchants"
+      ],
+      "extensions": {
+        "description": "NUBLOPAY",
+        "twitter": "https://twitter.com/nublopay",
+        "website": "https://nublopay.com"
+      }
     }
   ],
   "version": {
