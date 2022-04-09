@@ -145377,6 +145377,17 @@
         "discord": "https://discord.gg/kTxhrkBmmQ",
         "twitter": "https://twitter.com/GigaDAOio"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5rJ5WA5SfRJeT5ntoeCzCeqsk2gkfqY3tkNLdpyPrcnz",
+      "symbol": "BSTCN",
+      "name": "BoostCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/abskurz/crypto/main/LastFinalLogo1.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
