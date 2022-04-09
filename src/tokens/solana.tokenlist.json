@@ -145360,6 +145360,23 @@
       "extensions": {
         "website": "https://Goofiez.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H8LrRvCNaB5rS164NAQWapLAuMvxK1h7Y32Lhc9aXpES",
+      "symbol": "LTBX",
+      "name": "Prestige Free Mint",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/W00BACKBABY/LTBX/main/YD5LgKoo.jpg",
+      "tags": [
+        "NFT",
+        "dao",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/kTxhrkBmmQ",
+        "twitter": "https://twitter.com/GigaDAOio"
+      }
     }
   ],
   "version": {
