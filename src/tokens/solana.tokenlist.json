@@ -145154,6 +145154,21 @@
       "name": "UncleSamToken",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Xz4ssMfNLAymMCDHfJonJUYHQhXZFtCdpmbz96o7JoF/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DigVMJmcV9pozuQBkdYkzGvW293DXbFVMVAWLz1Fhmkd",
+      "symbol": "RugWL",
+      "name": "Rug Pass WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DigVMJmcV9pozuQBkdYkzGvW293DXbFVMVAWLz1Fhmkd/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/rugcity",
+        "twitter": "https://twitter.com/probrug"
+      }
     }
   ],
   "version": {
