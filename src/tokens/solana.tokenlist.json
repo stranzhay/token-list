@@ -145324,6 +145324,27 @@
         "description": "PocketMas Pioneer",
         "website": "https://pocketmasa.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Wurx1CQEpuo8ExhWaMYrz9KErXBrKAdz64ZoRKSjuXy",
+      "symbol": "WUR",
+      "name": "Wrapped WUR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Wurx1CQEpuo8ExhWaMYrz9KErXBrKAdz64ZoRKSjuXy/wurtulla.png",
+      "tags": [
+        "wrapped",
+        "stablecoin"
+      ],
+      "extensions": {
+        "description": "Wrapped Wurtulla Coin",
+        "discord": "https://discord.gg/wurtulla",
+        "github": "https://github.com/wurtulla",
+        "reddit": "https://www.reddit.com/r/wurtulla",
+        "serumV3Usdc": "AMqKRL1M3rh83CZgvQquELCoZRasfr58ZiQVAQXZEerM",
+        "twitter": "https://twitter.com/wurtulla",
+        "website": "https://wurtulla.com/"
+      }
     }
   ],
   "version": {
