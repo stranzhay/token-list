@@ -145262,6 +145262,23 @@
         "description": "THE CLAN",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CReAmEhV7CCMaQ8YCEc23SAY2ARXnXZQX7M2AkR5LRqw",
+      "symbol": "CREAM",
+      "name": "Creamy Friend WL token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bitcoinblack482/logo/main/creamy.png",
+      "tags": [
+        "NFT",
+        "dao",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/creamyfriends",
+        "twitter": "https://twitter.com/CreamyFriends"
+      }
     }
   ],
   "version": {
