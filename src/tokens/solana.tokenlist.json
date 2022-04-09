@@ -145169,6 +145169,14 @@
         "discord": "https://discord.gg/rugcity",
         "twitter": "https://twitter.com/probrug"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HhEpBeVBkWiurvrUtHYZnFLoLU7pbmy1MBQXuhUMvrtf",
+      "symbol": "BAG",
+      "name": "Baked Alien Gang",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/EduardoNicoleit/token-list/main/assets/mainnet/HhEpBeVBkWiurvrUtHYZnFLoLU7pbmy1MBQXuhUMvrtf/logo.png"
     }
   ],
   "version": {
