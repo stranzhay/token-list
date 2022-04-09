@@ -145279,6 +145279,72 @@
         "discord": "http://discord.gg/creamyfriends",
         "twitter": "https://twitter.com/CreamyFriends"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gris8EnVQCXV7M5tDVYhb76GG8vcvPyzfKjctejrmFYh",
+      "symbol": "DIGIT",
+      "name": "DigIT-Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/Ralecc/CryptoCoin/main/DigIT-Coin.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BTy9Ahn61nTz9VhFGStc4CaMkQD5x6v6GYWLWuVxZcSv",
+      "symbol": "NPAY",
+      "name": "NUBLOPAY",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/nublopayteam/noblopay/main/assets/logo/logo.png",
+      "tags": [
+        "utility-token",
+        "dapp",
+        "payments",
+        "merchants"
+      ],
+      "extensions": {
+        "description": "NUBLOPAY",
+        "twitter": "https://twitter.com/nublopay",
+        "website": "https://nublopay.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6oyeKEoxqU8KWa6EquV3gAJuYZuFKDj7sJas2K6Tm9Mo",
+      "symbol": "MAS",
+      "name": "PocketMas",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6oyeKEoxqU8KWa6EquV3gAJuYZuFKDj7sJas2K6Tm9Mo/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "PocketMas Pioneer",
+        "website": "https://pocketmasa.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Wurx1CQEpuo8ExhWaMYrz9KErXBrKAdz64ZoRKSjuXy",
+      "symbol": "WUR",
+      "name": "Wrapped WUR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Wurx1CQEpuo8ExhWaMYrz9KErXBrKAdz64ZoRKSjuXy/wurtulla.png",
+      "tags": [
+        "wrapped",
+        "stablecoin"
+      ],
+      "extensions": {
+        "description": "Wrapped Wurtulla Coin",
+        "discord": "https://discord.gg/wurtulla",
+        "github": "https://github.com/wurtulla",
+        "reddit": "https://www.reddit.com/r/wurtulla",
+        "serumV3Usdc": "AMqKRL1M3rh83CZgvQquELCoZRasfr58ZiQVAQXZEerM",
+        "twitter": "https://twitter.com/wurtulla",
+        "website": "https://wurtulla.com/"
+      }
     }
   ],
   "version": {
