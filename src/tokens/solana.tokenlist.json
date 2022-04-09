@@ -145497,6 +145497,22 @@
       "name": "Yoav Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5emjcEHtUJrABN23tE9sRY9YEj8rjXXPgkoD4dbKecuD/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2g6H7aqMxsETTUoC5acFYMNX2Zk3y4ahQHzvU5spKavC",
+      "symbol": "VOLTAGE",
+      "name": "Voltage Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2g6H7aqMxsETTUoC5acFYMNX2Zk3y4ahQHzvU5spKavC/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/hvworldsnft",
+        "twitter": "https://twitter.com/hvWorldsNFT_",
+        "website": "https://www.highvoltageworlds.io/"
+      }
     }
   ],
   "version": {
