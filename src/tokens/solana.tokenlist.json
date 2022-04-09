@@ -145630,6 +145630,21 @@
         "twitter": "https://twitter.com/Katana_HQ",
         "website": "https://app.katana.so"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GwGk3tXBJDrc7aWJ1XW1ttwboRR359RbprAXGmGDxwSK",
+      "symbol": "SWAMP",
+      "name": "SWAMP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DEAN3lr/Skater-Gators/main/Skater%20gator%20image.png",
+      "tags": [
+        "utility-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/skater_gators"
+      }
     }
   ],
   "version": {
