@@ -145204,6 +145204,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3PwanYatzwjyvrJ9LtysRPo7JhT2h1UvuN8P8v3EePLS",
+      "symbol": "LMBD",
+      "name": "LambdaCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/LambdaResearchFacility/crypto/main/lambda.jpg",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
