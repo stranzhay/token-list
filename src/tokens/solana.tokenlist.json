@@ -145345,6 +145345,38 @@
         "twitter": "https://twitter.com/wurtulla",
         "website": "https://wurtulla.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3HDyDDvRTmSMa5QxhUod5gEgVKmTujncwKomxrWxSb8j",
+      "symbol": "GFT",
+      "name": "GFT Goofiez Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3HDyDDvRTmSMa5QxhUod5gEgVKmTujncwKomxrWxSb8j/logo.png",
+      "tags": [
+        "GFT",
+        "Goofiez"
+      ],
+      "extensions": {
+        "website": "https://Goofiez.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "H8LrRvCNaB5rS164NAQWapLAuMvxK1h7Y32Lhc9aXpES",
+      "symbol": "LTBX",
+      "name": "Prestige Free Mint",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/W00BACKBABY/LTBX/main/YD5LgKoo.jpg",
+      "tags": [
+        "NFT",
+        "dao",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/kTxhrkBmmQ",
+        "twitter": "https://twitter.com/GigaDAOio"
+      }
     }
   ],
   "version": {
