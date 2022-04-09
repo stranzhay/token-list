@@ -145473,6 +145473,22 @@
         "linkedin": "https://www.linkedin.com/company/blockstone-online/",
         "website": "https://blocksto.ne/jansen-en-dochters-bv/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "unknXbA1bDg39nuBqVgMNZ5qSZa8pw5HditgkPe5eFA",
+      "symbol": "UNKN",
+      "name": "UNKN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/unknXbA1bDg39nuBqVgMNZ5qSZa8pw5HditgkPe5eFA/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/celestialz",
+        "twitter": "https://twitter.com/CELESTIALZ777",
+        "website": "https://www.celestialznft.io/"
+      }
     }
   ],
   "version": {
