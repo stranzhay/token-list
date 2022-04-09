@@ -145489,6 +145489,14 @@
         "twitter": "https://twitter.com/CELESTIALZ777",
         "website": "https://www.celestialznft.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5emjcEHtUJrABN23tE9sRY9YEj8rjXXPgkoD4dbKecuD",
+      "symbol": "YOAV",
+      "name": "Yoav Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5emjcEHtUJrABN23tE9sRY9YEj8rjXXPgkoD4dbKecuD/logo.png"
     }
   ],
   "version": {
