@@ -145204,6 +145204,33 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3PwanYatzwjyvrJ9LtysRPo7JhT2h1UvuN8P8v3EePLS",
+      "symbol": "LMBD",
+      "name": "LambdaCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/LambdaResearchFacility/crypto/main/lambda.jpg",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "E36LX4XqYmuEzrWL9HH7oXh4iQ1G8GiRc4bvNzV6ZviN",
+      "symbol": "2FUCKS",
+      "name": "2FUCKS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E36LX4XqYmuEzrWL9HH7oXh4iQ1G8GiRc4bvNzV6ZviN/logo.png",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "GIVE 2FUCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
     }
   ],
   "version": {
