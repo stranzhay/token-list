@@ -145177,6 +145177,22 @@
       "name": "Baked Alien Gang",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/EduardoNicoleit/token-list/main/assets/mainnet/HhEpBeVBkWiurvrUtHYZnFLoLU7pbmy1MBQXuhUMvrtf/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "A6n5SnM2G8ZsTdpd85bUn5byvFAcEfqYHcMvQNNZ8tTR",
+      "symbol": "WFCWT",
+      "name": "Wulfs Frens Club Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A6n5SnM2G8ZsTdpd85bUn5byvFAcEfqYHcMvQNNZ8tTR/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/wulffrensclub",
+        "twitter": "https://twitter.com/WulfFrensClub",
+        "website": "https://wulffrensclub.xyz"
+      }
     }
   ],
   "version": {
