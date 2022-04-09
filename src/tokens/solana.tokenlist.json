@@ -145425,6 +145425,23 @@
       "name": "DUCATI Monster",
       "decimals": 9,
       "logoURI": "https://imgur.com/x7n7mko.png"
+    },
+    {
+      "chainId": 101,
+      "address": "buMnhMd5xSyXBssTQo15jouu8VhuEZJCfbtBUZgRcuW",
+      "symbol": "NNI",
+      "name": "NeoNomad",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/buMnhMd5xSyXBssTQo15jouu8VhuEZJCfbtBUZgRcuW/logo.png",
+      "tags": [
+        "utility-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/Fj77EYcTNH",
+        "twitter": "https://twitter.com/NeoNomadFinance",
+        "website": "https://app.neonomad.exchange"
+      }
     }
   ],
   "version": {
