@@ -136418,6 +136418,7 @@
         "utility-token"
       ],
       "extensions": {
+        "coingeckoId": "woop",
         "discord": "https://discord.gg/bohemia",
         "serumV3Usdc": "DQY2Sjm3bEbrXhyGgHsXqLHU2EybBPVPLDTCrEHq9KpL",
         "twitter": "https://twitter.com/BohemiaArtFair"
