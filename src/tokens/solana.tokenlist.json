@@ -145388,6 +145388,27 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FxVJbQe6ngLfydDWCcGMJGpxrkkFBvHbyUVsB1ikSNjG",
+      "symbol": "KOAL",
+      "name": "SluggishKoalas Koal",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Cerebrum-Tech/koala/main/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Token that is used to implement Sluggish Koalas Nft Project's utilities",
+        "discord": "https://discord.gg/SHFyD7wXxU",
+        "instagram": "https://instagram.com/sluggishkoalas",
+        "twitter": "https://twitter.com/SluggishKoalas",
+        "website": "https://www.sluggishkoalas.com/",
+        "whitepaper": "https://sluggish-koalas.gitbook.io/sluggish-koalas-whitepaper/"
+      }
     }
   ],
   "version": {
