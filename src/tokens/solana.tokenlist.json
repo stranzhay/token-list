@@ -145717,6 +145717,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Gsviw3EGfYY4a5U3TsE27PCmqHY3D4Tkt39avTeXU7Ya",
+      "symbol": "JELL",
+      "name": "JellyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Man-in-Black/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
