@@ -145309,6 +145309,21 @@
         "twitter": "https://twitter.com/nublopay",
         "website": "https://nublopay.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6oyeKEoxqU8KWa6EquV3gAJuYZuFKDj7sJas2K6Tm9Mo",
+      "symbol": "MAS",
+      "name": "PocketMas",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6oyeKEoxqU8KWa6EquV3gAJuYZuFKDj7sJas2K6Tm9Mo/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "PocketMas Pioneer",
+        "website": "https://pocketmasa.com/"
+      }
     }
   ],
   "version": {
