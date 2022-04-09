@@ -126769,7 +126769,8 @@
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ExistEr1h19DiEPPzaDpwx3DnjQbrVbXpaxKDYBSNoWj/logo.png",
       "extensions": {
-        "twitter": "https://twitter.com/ExistCoin"
+        "twitter": "https://twitter.com/ExistCoin",
+        "website": "https://existcoin.io"
       }
     },
     {
