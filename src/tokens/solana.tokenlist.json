@@ -145667,6 +145667,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8J7Cir9SmRiRQfkN6QoE1kL354i3uNoyQkngqkg18i79",
+      "symbol": "CTZNS",
+      "name": "777CTZNS WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://777ctzns.com/777.png",
+      "tags": [
+        "WL-token"
+      ]
     }
   ],
   "version": {
