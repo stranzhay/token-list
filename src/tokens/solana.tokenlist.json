@@ -145706,6 +145706,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "A2xFUCsF5nnFMRJqJQNnQTcXzT1AJuv4xofVc4zEyrRp",
+      "symbol": "SRC",
+      "name": "Sinny Redemption Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A2xFUCsF5nnFMRJqJQNnQTcXzT1AJuv4xofVc4zEyrRp/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
