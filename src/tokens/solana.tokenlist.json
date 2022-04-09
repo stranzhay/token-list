@@ -145193,6 +145193,17 @@
         "twitter": "https://twitter.com/WulfFrensClub",
         "website": "https://wulffrensclub.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MkM7taZ6sV5UenNX1HcKFJifr4iN4vWwSevdXecrzBj",
+      "symbol": "TSSWL",
+      "name": "TSS WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MkM7taZ6sV5UenNX1HcKFJifr4iN4vWwSevdXecrzBj/logo512.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
