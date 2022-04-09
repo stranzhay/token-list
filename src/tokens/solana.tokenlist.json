@@ -145279,6 +145279,17 @@
         "discord": "http://discord.gg/creamyfriends",
         "twitter": "https://twitter.com/CreamyFriends"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gris8EnVQCXV7M5tDVYhb76GG8vcvPyzfKjctejrmFYh",
+      "symbol": "DIGIT",
+      "name": "DigIT-Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/Ralecc/CryptoCoin/main/DigIT-Coin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
