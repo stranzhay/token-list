@@ -145388,6 +145388,43 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FxVJbQe6ngLfydDWCcGMJGpxrkkFBvHbyUVsB1ikSNjG",
+      "symbol": "KOAL",
+      "name": "SluggishKoalas Koal",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Cerebrum-Tech/koala/main/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Token that is used to implement Sluggish Koalas Nft Project's utilities",
+        "discord": "https://discord.gg/SHFyD7wXxU",
+        "instagram": "https://instagram.com/sluggishkoalas",
+        "twitter": "https://twitter.com/SluggishKoalas",
+        "website": "https://www.sluggishkoalas.com/",
+        "whitepaper": "https://sluggish-koalas.gitbook.io/sluggish-koalas-whitepaper/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "KUSHs1xRrv7U3jMUd8g3LjrEc4ZhUx9EBm7Yc6cgCsL",
+      "symbol": "$KUSH",
+      "name": "KUSH COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KUSHs1xRrv7U3jMUd8g3LjrEc4ZhUx9EBm7Yc6cgCsL/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Fg8u9R56EStQVshdN5K36w9tmdTjQiS9bGzigE5rNKzs",
+      "symbol": "BIKE",
+      "name": "DUCATI Monster",
+      "decimals": 9,
+      "logoURI": "https://imgur.com/x7n7mko.png"
     }
   ],
   "version": {
