@@ -145409,6 +145409,14 @@
         "website": "https://www.sluggishkoalas.com/",
         "whitepaper": "https://sluggish-koalas.gitbook.io/sluggish-koalas-whitepaper/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "KUSHs1xRrv7U3jMUd8g3LjrEc4ZhUx9EBm7Yc6cgCsL",
+      "symbol": "$KUSH",
+      "name": "KUSH COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KUSHs1xRrv7U3jMUd8g3LjrEc4ZhUx9EBm7Yc6cgCsL/logo.png"
     }
   ],
   "version": {
