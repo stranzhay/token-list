@@ -145656,6 +145656,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FdqAZGcJtjoCpzURxz6SGXt2KFTeE3qtP8Uj1QTTWE5Y",
+      "symbol": "DUFF",
+      "name": "DuffelToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MetroMcD/crypto/main/DUFF.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
