@@ -145678,6 +145678,34 @@
       "tags": [
         "WL-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "APERe98wcFuzQcHkX5aagTEZn2Vm8EAFE4PWBYzUT8d7",
+      "symbol": "APER",
+      "name": "Aperide",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/APERe98wcFuzQcHkX5aagTEZn2Vm8EAFE4PWBYzUT8d7/logo.png",
+      "tags": [
+        "utility-token",
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/J2jNTFv2PY",
+        "twitter": "https://twitter.com/AperideFi",
+        "website": "https://aperidefi.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BaPYshAdxSE7tUDqbC3cy4P2T3dcRA1ZXw4haQuv5doZ",
+      "symbol": "SIP",
+      "name": "SIP Coin ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jdraplin/crypto/main/sip-logo-2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
