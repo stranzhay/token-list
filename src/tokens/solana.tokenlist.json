@@ -146620,6 +146620,18 @@
         "twitter": "https://twitter.com/FaviontOfficial",
         "website": "https://faviont.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DEpY8cody98W6WLw57P2i6kZUcZzJr1oMiDuWCi389n4",
+      "symbol": "FTI",
+      "name": "FETI Coin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DEpY8cody98W6WLw57P2i6kZUcZzJr1oMiDuWCi389n4/logo520x520.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
