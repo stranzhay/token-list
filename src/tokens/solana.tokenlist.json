@@ -146893,6 +146893,32 @@
         "twitter": "https://twitter.com/geecheesol",
         "website": "https://geecheesol.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7ftKSttU6yUAnWsWxpRP3LKdQNEto8V4KD9NuWttoVnV",
+      "symbol": "JOINTS",
+      "name": "TombStoned JOINTS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ftKSttU6yUAnWsWxpRP3LKdQNEto8V4KD9NuWttoVnV/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "TombStoned High Society",
+        "website": "https://www.tombstoned.xyz/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FnBUyCgUzxLVm6DV6xsSFSTrhuQymz2RerZEoNPw2s1N",
+      "symbol": "ITOK",
+      "name": "iToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MetroMcD/crypto/main/ITOK.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
