@@ -146677,6 +146677,23 @@
         "twitter": "https://twitter.com/Sol_Troops",
         "website": "https://www.soltroops.co/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EA9GBGUxJoNfHLZ5qzLtG6553EmXM5NgsyrMXfZcfQQE",
+      "symbol": "WOOT",
+      "name": "Women Out Of Tribe",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Awes0me0/WomenOutOfTribe/main/!OG.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "description": "Stake OG Women and Women's Pride NFTs to earn WOOT",
+        "discord": "https://discord.gg/womenspride",
+        "twitter": "https://twitter.com/WomensPrideNFT",
+        "website": "https://www.womenspride.io/"
+      }
     }
   ],
   "version": {
