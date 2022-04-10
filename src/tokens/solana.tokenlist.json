@@ -146865,6 +146865,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FX43imWLr8Ld4LjonuTY9VGJBcq3VrV4BEWUXta361pn",
+      "symbol": "AXLT",
+      "name": "AXOLOTL LABS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArturoCrz/AXLT-Token/main/logo.png",
+      "tags": [
+        "NFT",
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
