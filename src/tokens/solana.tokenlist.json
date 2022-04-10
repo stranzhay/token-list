@@ -146530,6 +146530,22 @@
         "description": "OI OI OI",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4283jb3WsrrarmgGiPYAfWhmPPvbTMtsAUqX5itNVjge",
+      "symbol": "BUCKS",
+      "name": "BEVO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4283jb3WsrrarmgGiPYAfWhmPPvbTMtsAUqX5itNVjge/logo.svg",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "BEVO BUCKS ROCK",
+        "twitter": "https://twitter.com/OzDive"
+      }
     }
   ],
   "version": {
