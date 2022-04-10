@@ -146649,6 +146649,22 @@
         "twitter": "https://twitter.com/777Junkies",
         "website": "https://www.junkiesnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GAWkhunwiseKNqzSD8UCi7dpm2U29GChoa24KNuYgxGn",
+      "symbol": "COOKIE",
+      "name": "Liberty Cookie",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GAWkhunwiseKNqzSD8UCi7dpm2U29GChoa24KNuYgxGn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/HxaCQScKvC",
+        "twitter": "https://twitter.com/Liberty_Cookie",
+        "website": "https://www.liberty-cookies.com/"
+      }
     }
   ],
   "version": {
