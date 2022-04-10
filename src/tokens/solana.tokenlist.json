@@ -146774,6 +146774,48 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2nvYxLbe6duVoXdgJeC8my5Q7V5X3bpG3KaFdfixUwkM",
+      "symbol": "LLM",
+      "name": "Legendary Laohu Mint",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/GaitanaruAndrei/assets/main/freespl.png",
+      "tags": [
+        "mint-token"
+      ],
+      "extensions": {
+        "description": "Legendary Laohu Mint",
+        "website": "https://www.kingdompass.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6m6n5aAnaXszk4HY7fzurqjy2CP9uNeQhVq7czu7GWJE",
+      "symbol": "BODYE",
+      "name": "Bodye Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bodye70/BodyeToken/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3Dy8KFyvpUJ8nfRCbvk4HLWjNRRzxiVhTeE9PQF9RARD",
+      "symbol": "ARNM",
+      "name": "Arenum",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Dy8KFyvpUJ8nfRCbvk4HLWjNRRzxiVhTeE9PQF9RARD/logo.png",
+      "tags": [
+        "game-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/arenum_community",
+        "telegramAnnouncements": "https://t.me/arenum_announcements",
+        "website": "https://arenum.io"
+      }
     }
   ],
   "version": {
