@@ -146632,6 +146632,23 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "JNK9NxVGmSdE3rUYgZs2NUYWJgTYXtsm73x9L69hmPf",
+      "symbol": "JNKPASS",
+      "name": "Junkie Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JNK9NxVGmSdE3rUYgZs2NUYWJgTYXtsm73x9L69hmPf/logo.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "description": "Each token gives you access to buy a discounted Junkie",
+        "discord": "https://discord.com/invite/WsRD49UrtT",
+        "twitter": "https://twitter.com/777Junkies",
+        "website": "https://www.junkiesnft.com/"
+      }
     }
   ],
   "version": {
