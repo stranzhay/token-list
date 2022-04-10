@@ -146908,6 +146908,17 @@
         "description": "TombStoned High Society",
         "website": "https://www.tombstoned.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FnBUyCgUzxLVm6DV6xsSFSTrhuQymz2RerZEoNPw2s1N",
+      "symbol": "ITOK",
+      "name": "iToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MetroMcD/crypto/main/ITOK.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
