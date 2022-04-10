@@ -145739,6 +145739,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "hhoXt8PDi9VpsxyMB4sdoRKVPx9adJ8mq4BVwnjwUck",
+      "symbol": "RZ",
+      "name": "ReaperZ Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/Yosora-sol/Degen/main/KingReaper.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/saP2ygvusx",
+        "twitter": "https://twitter.com/DegenReaperz",
+        "website": "https://degenreaperz.vercel.app/"
+      }
     }
   ],
   "version": {
