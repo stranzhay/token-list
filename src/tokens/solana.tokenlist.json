@@ -146546,6 +146546,17 @@
         "description": "BEVO BUCKS ROCK",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FxVdym3AJMQw9AM1wzK7aJVVNBTcnXro2zhYkoBtyUAp",
+      "symbol": "TIGR",
+      "name": "Tiger by Kab",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/theNetworkChuck/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
