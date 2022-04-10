@@ -146854,6 +146854,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3M4tphj3DiLF4u8W63o9fyiPdb7DT9fuddPSdxSNStiV",
+      "symbol": "RAVE",
+      "name": "RaveCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/virajdas/RaveCoinCrypto/main/RaveCoinLogoRS.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
