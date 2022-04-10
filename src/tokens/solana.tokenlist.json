@@ -146694,6 +146694,20 @@
         "twitter": "https://twitter.com/WomensPrideNFT",
         "website": "https://www.womenspride.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EXEpxhwgkH7Xw48Ssf5tiNwCy3YXF8xV5z12aWertDfQ",
+      "symbol": "REMEDY",
+      "name": "The Remedy",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Majstx/token-list/26ac8d87388dbc2e71c59ddc69fe6a62ba463c83/assets/mainnet/EXEpxhwgkH7Xw48Ssf5tiNwCy3YXF8xV5z12aWertDfQ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.theremedyvi.com/"
+      }
     }
   ],
   "version": {
