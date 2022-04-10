@@ -146719,6 +146719,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4a9Lu5A1a2eoREUpv5AfENUnmT2N3N5NTbaYE4GHTWSa",
+      "symbol": "LNFTxSLSKIN2",
+      "name": "SL Lounge WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4a9Lu5A1a2eoREUpv5AfENUnmT2N3N5NTbaYE4GHTWSa/logo.png",
+      "tags": [
+        "liqnft-wl-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/PYZWRHgVwM",
+        "twitter": "https://twitter.com/liqnft",
+        "website": "https://www.liqnft.com/solanaland"
+      }
     }
   ],
   "version": {
