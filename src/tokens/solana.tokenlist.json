@@ -146843,6 +146843,17 @@
         "instagram": "https://www.instagram.com/dinodawg_kingdom",
         "twitter": "https://twitter.com/DinodawgKingdom"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8eEg56HBXPG3iHJMNCCFEeVGix7zgHmY48fdC3eLSFUq",
+      "symbol": "FLUF",
+      "name": "Fluffy Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/dkocic108/fluffy/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
