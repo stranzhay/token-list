@@ -146602,6 +146602,24 @@
         "twitter": "https://twitter.com/garuda_idr",
         "website": "https://garuda.to/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AsKEX3XQbDpBuqcm5N8a8DAST65fAqGuBeXXfsEL99MK",
+      "symbol": "FWLV2",
+      "name": "Faviont Whitelist V2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/faviont/marketplace/main/logo-wl.png",
+      "tags": [
+        "whitelist",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Each token gives you access to buy one NFT on https://faviont.io/",
+        "discord": "https://discord.gg/T6mVYKeVYc",
+        "twitter": "https://twitter.com/FaviontOfficial",
+        "website": "https://faviont.io/"
+      }
     }
   ],
   "version": {
