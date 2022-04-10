@@ -146665,6 +146665,18 @@
         "twitter": "https://twitter.com/Liberty_Cookie",
         "website": "https://www.liberty-cookies.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "wmBi6LnKxdvgF9zgoHRantmu7dDLJc4AosTqbztj5cT",
+      "symbol": "dagel",
+      "name": "dagelan",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/awangee/dagelan/main/dagel/main/logo.jpg",
+      "extensions": {
+        "twitter": "https://twitter.com/Sol_Troops",
+        "website": "https://www.soltroops.co/"
+      }
     }
   ],
   "version": {
