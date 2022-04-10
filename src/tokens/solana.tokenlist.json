@@ -146585,6 +146585,23 @@
         "twitter": "https://twitter.com/bunnywarriors_",
         "website": "https://www.bunnywarriors.io/home"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ACKCBoHQ7q6JcpRRbCKAwPJV68QfDo4KJWCpiLQnV9Ca",
+      "symbol": "GIDR",
+      "name": "Garuda IDR",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ACKCBoHQ7q6JcpRRbCKAwPJV68QfDo4KJWCpiLQnV9Ca/logo.png",
+      "tags": [
+        "stablecoin",
+        "asset"
+      ],
+      "extensions": {
+        "description": "Garuda IDR",
+        "twitter": "https://twitter.com/garuda_idr",
+        "website": "https://garuda.to/"
+      }
     }
   ],
   "version": {
