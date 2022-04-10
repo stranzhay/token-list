@@ -146708,6 +146708,17 @@
       "extensions": {
         "website": "https://www.theremedyvi.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7AkZxj94Fy8vrLrcFJ39G5vZD339Nshi7kH2VpM6JXje",
+      "symbol": "DTWS",
+      "name": "Discreet Wellness",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/robsd01/crypto/main/DiscreetToken.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
