@@ -146763,6 +146763,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EaMz63AABkhEity8FdMWfbqT1yk3VSygfszH8euEkLQE",
+      "symbol": "BUR",
+      "name": "BURE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ValentinDabovski/crypto-bure-token/main/bure-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
