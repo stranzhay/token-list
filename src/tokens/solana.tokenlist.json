@@ -146800,6 +146800,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3Dy8KFyvpUJ8nfRCbvk4HLWjNRRzxiVhTeE9PQF9RARD",
+      "symbol": "ARNM",
+      "name": "Arenum",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Dy8KFyvpUJ8nfRCbvk4HLWjNRRzxiVhTeE9PQF9RARD/logo.png",
+      "tags": [
+        "game-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/arenum_community",
+        "telegramAnnouncements": "https://t.me/arenum_announcements",
+        "website": "https://arenum.io"
+      }
     }
   ],
   "version": {
