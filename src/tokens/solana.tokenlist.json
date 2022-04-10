@@ -146557,6 +146557,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FqS32qJJPyhFDtRgsnAF3M7SQZV8y4qxRUrm9FGzWqnq",
+      "symbol": "NPTN",
+      "name": "Neptune",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/argonautPH/neptune-sol/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
