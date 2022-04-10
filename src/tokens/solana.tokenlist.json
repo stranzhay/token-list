@@ -146816,6 +146816,17 @@
         "telegramAnnouncements": "https://t.me/arenum_announcements",
         "website": "https://arenum.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4LTyDfiA7P1WnxVUfSe8qhrjerfd6iKHCs9KtbUEGhAA",
+      "symbol": "ENOR",
+      "name": "CypherEnormity",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LTyDfiA7P1WnxVUfSe8qhrjerfd6iKHCs9KtbUEGhAA/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
