@@ -146878,6 +146878,21 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EtFpJDLvjp5to6MpHa7sgKqkL8m6qTBm4TsBbwj9ggfX",
+      "symbol": "GEECH",
+      "name": "GeecheeSOL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EtFpJDLvjp5to6MpHa7sgKqkL8m6qTBm4TsBbwj9ggfX/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/geecheesol",
+        "website": "https://geecheesol.com/"
+      }
     }
   ],
   "version": {
