@@ -145755,6 +145755,17 @@
         "twitter": "https://twitter.com/DegenReaperz",
         "website": "https://degenreaperz.vercel.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9EKEh1CHMKmyvBTY6qYZm7kgRJE18tCbaY1ZbpdELbVr",
+      "symbol": "BULLS",
+      "name": "Bull Solana",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/BullSolana/assets/main/Logo.png",
+      "tags": [
+        "meme-token"
+      ]
     }
   ],
   "version": {
