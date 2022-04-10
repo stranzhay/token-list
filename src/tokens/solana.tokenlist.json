@@ -146789,6 +146789,17 @@
         "description": "Legendary Laohu Mint",
         "website": "https://www.kingdompass.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6m6n5aAnaXszk4HY7fzurqjy2CP9uNeQhVq7czu7GWJE",
+      "symbol": "BODYE",
+      "name": "Bodye Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bodye70/BodyeToken/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
