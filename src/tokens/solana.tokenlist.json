@@ -146568,6 +146568,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "B72NtyLQXgw6sJB3J2vygusgJbpZKAtTmxVNKVhi9HAK",
+      "symbol": "YEET",
+      "name": "YEET",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B72NtyLQXgw6sJB3J2vygusgJbpZKAtTmxVNKVhi9HAK/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/bunnywarriors",
+        "twitter": "https://twitter.com/bunnywarriors_",
+        "website": "https://www.bunnywarriors.io/home"
+      }
     }
   ],
   "version": {
