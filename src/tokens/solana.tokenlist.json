@@ -146919,6 +146919,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6ouApMromzbiU4M1rtzRLwYowmXFHgohF9tUt2VE7Qa4",
+      "symbol": "ARABZ",
+      "name": "ArabPunkz Whitelist token",
+      "decimals": 9,
+      "logoURI": "https://imgur.com/65nEV2W.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "animationUrl": "https://i.imgur.com/bJQjXLk.mp4",
+        "description": "ArabPunkz 3D Whitelist redeemable token",
+        "imageUrl": "https://arwave.art/upga5v2tzpnak1eqlq5kvc/upga5v2tzp.png",
+        "website": "https://arabpunkz.io"
+      }
     }
   ],
   "version": {
