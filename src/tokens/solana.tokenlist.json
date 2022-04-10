@@ -146751,6 +146751,17 @@
         "twitter": "https://twitter.com/MetaKongzGC",
         "website": "https://www.metakongz.art/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7HdV5B1EnnK5cjRir283wza2mm9GDsM8iU7iYQraWXzn",
+      "symbol": "WRP",
+      "name": "WRP token",
+      "decimals": 6,
+      "logoURI": "https://drive.google.com/file/d/1UESFAJdzR-_PwyeR3q60qBFkdr0IBDeD/view?usp=sharing",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
