@@ -146482,6 +146482,54 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FP3gNbbngnmKZXzuKU78QecAH9QfGkrnUkn2KdA7ERxD",
+      "symbol": "AUS",
+      "name": "AUSTRALIA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FP3gNbbngnmKZXzuKU78QecAH9QfGkrnUkn2KdA7ERxD/logo.svg",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "OI OI OI",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HZA2vE3iEVDzVgg82daaettsEUaYohwHGB3QEn1W4eW8",
+      "symbol": "AUSSIE",
+      "name": "AUSSIE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZA2vE3iEVDzVgg82daaettsEUaYohwHGB3QEn1W4eW8/logo.svg",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "OI OI OI",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CfoGYZCRSJTvr4QyRMuW5HRnKynsRz2HewTqMHjqVVYY",
+      "symbol": "OZZIE",
+      "name": "OZZIE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CfoGYZCRSJTvr4QyRMuW5HRnKynsRz2HewTqMHjqVVYY/logo.svg",
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "OI OI OI",
+        "twitter": "https://twitter.com/OzDive"
+      }
     }
   ],
   "version": {
