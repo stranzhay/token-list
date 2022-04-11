@@ -147021,6 +147021,21 @@
       "extensions": {
         "twitter": "https://twitter.com/TheMarmosetNFT"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "DToJ26atxLTKNx8tCf6zJq4tT6dmcr85BJfBQoya3uYK",
+      "symbol": "BETYAR-Devnet",
+      "name": "Betyár Devnet Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DToJ26atxLTKNx8tCf6zJq4tT6dmcr85BJfBQoya3uYK/logo.png",
+      "extensions": {
+        "description": "BetyarDAO",
+        "discord": "https://discord.io/betyardao",
+        "instagram": "https://www.instagram.com/betyardao",
+        "twitter": "https://twitter.com/betyardao",
+        "website": "https://betyardao.hu"
+      }
     }
   ],
   "version": {
