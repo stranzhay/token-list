@@ -147323,6 +147323,14 @@
         "twitter": "https://twitter.com/givingpool",
         "website": "http://thegivingpool.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GtCaEHFwJTf5uN1AUvJvFDDpKjFTfXnMToqXN8QmB66D",
+      "symbol": "BrcPromise",
+      "name": "Bricknest Promise Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bricknest/PromiseToken/main/PromiseToken.png"
     }
   ],
   "version": {
