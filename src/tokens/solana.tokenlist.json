@@ -147080,6 +147080,21 @@
         "twitter": "https://twitter.com/femolakarot",
         "website": "https://whitespacenft.femolakarot.design/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GGczxznEoKK4X4jMXeiNARU1uyNLhRaYuM4PP6ueCvcd",
+      "symbol": "NIKOIN",
+      "name": "Nikoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/akgbar/cryptonikoin/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/E4pN3Yr"
+      }
     }
   ],
   "version": {
