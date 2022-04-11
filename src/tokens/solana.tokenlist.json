@@ -147178,6 +147178,28 @@
       "name": "BMW Token",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6uVeihpFMgW45VTWeRYBBXsmPmgsmq31omL6iGWxjYt7/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2P5YxgwZYVynuH2SfHBpboVfc7nHyj5DZXeKqC73B8kk",
+      "symbol": "BOE",
+      "name": "Block Of Eden",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/blockofeden/crypto/main/logo.png",
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CZY2dDTb86ARthiLP47hpmEgX1h82XCEr51XWQ5GsZoj",
+      "symbol": "UMF",
+      "name": "UMF",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CZY2dDTb86ARthiLP47hpmEgX1h82XCEr51XWQ5GsZoj/logo.png",
+      "extensions": {
+        "description": "pow token backed by FIL mining power"
+      }
     }
   ],
   "version": {
