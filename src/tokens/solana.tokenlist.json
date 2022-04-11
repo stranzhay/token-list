@@ -147189,6 +147189,17 @@
       "tags": [
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CZY2dDTb86ARthiLP47hpmEgX1h82XCEr51XWQ5GsZoj",
+      "symbol": "UMF",
+      "name": "UMF",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CZY2dDTb86ARthiLP47hpmEgX1h82XCEr51XWQ5GsZoj/logo.png",
+      "extensions": {
+        "description": "pow token backed by FIL mining power"
+      }
     }
   ],
   "version": {
