@@ -147036,6 +147036,22 @@
         "twitter": "https://twitter.com/betyardao",
         "website": "https://betyardao.hu"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WoBBvtjL6nQWp7QDgBT8DepRyHwDbXoeAhadWuA1G5p",
+      "symbol": "WoBB",
+      "name": "Wobblebug  Woblist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WoBBvtjL6nQWp7QDgBT8DepRyHwDbXoeAhadWuA1G5p/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/wobblebug/",
+        "twitter": "https://twitter.com/Wobblebug",
+        "website": "https://www.wobblebug.info/"
+      }
     }
   ],
   "version": {
