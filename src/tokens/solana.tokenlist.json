@@ -147060,6 +147060,26 @@
       "name": "Flex Coin Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FLEXkBfYvTLgirxYE8M5PQRTG17HUWzNgstEqhMe6VZY/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GgPrwjVQBMHRzXSv8xYbeRcx4uhRxWKW5qp6osMMzNcG",
+      "symbol": "$WRENDER",
+      "name": "Whitespace_Creatorverse RENDER Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/femolakarot/whitedpace/main/Whitespace-Render-token-logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "NFT-Token"
+      ],
+      "extensions": {
+        "description": "The Whitespace Creatorverse native and governing token, stake creators to earn RENDER",
+        "discord": "https://discord.gg/u25c7PJdKz",
+        "instagram": "https://www.instagram.com/whitespace_creatorverse",
+        "twitter": "https://twitter.com/femolakarot",
+        "website": "https://whitespacenft.femolakarot.design/"
+      }
     }
   ],
   "version": {
