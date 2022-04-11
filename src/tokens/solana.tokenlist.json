@@ -147261,6 +147261,19 @@
         "twitter": "https://twitter.com/MetaBardsNFT",
         "website": "https://metabards.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "76VD6fXjBDhEHGj6bmsKCcA5UrXXRSAbTkZR3sWVsmFL",
+      "symbol": "TST",
+      "name": "Test Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/thelittlepiggy/assets/main/test-tube.png",
+      "tags": [
+        "General",
+        "Game-Fi",
+        "NFT"
+      ]
     }
   ],
   "version": {
