@@ -147170,6 +147170,14 @@
       "name": "Metacourt",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CotjBMa7GVLUP6ajjDbCxoNZBAu9zfkLZzcU5wCLC2Hx/logo.svg"
+    },
+    {
+      "chainId": 101,
+      "address": "6uVeihpFMgW45VTWeRYBBXsmPmgsmq31omL6iGWxjYt7",
+      "symbol": "BMW",
+      "name": "BMW Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6uVeihpFMgW45VTWeRYBBXsmPmgsmq31omL6iGWxjYt7/logo.png"
     }
   ],
   "version": {
