@@ -147139,6 +147139,29 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "564MW4M8QqnszEdpTFs5vJzWAGH3Dr7WVQtfip7URWwq",
+      "symbol": "CYB",
+      "name": "CybersecKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Sahil2rick/cyberseccrypto/main/CYBERSEC.png",
+      "tags": [
+        "social-token",
+        "Gaming",
+        "Game",
+        "Game-Fi",
+        "NFT",
+        "hacking",
+        "NFT-Gaming",
+        "Metaverse"
+      ],
+      "extensions": {
+        "description": "The CYBERSEC community is a place where pentesters, students, hacker, coders, enthusiasts and allaround CYBERSEC fans come together to help each other.",
+        "twitter": "https://twitter.com/CYBERSECGurgaon",
+        "website": "https://cybersec.school"
+      }
     }
   ],
   "version": {
