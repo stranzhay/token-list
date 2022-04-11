@@ -147292,6 +147292,19 @@
         "twitter": "https://twitter.com/URepvblik",
         "website": "https://www.universalrepvblik.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gcg3crzK9expPUEENZpNDg5y3nJ9crhcSzV1MLVgW6gH",
+      "symbol": "AXLAB",
+      "name": "AXOLOTL LABS DAO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArturoCrz/AXLAB-TOKEN/main/logo.png",
+      "tags": [
+        "NFT",
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
