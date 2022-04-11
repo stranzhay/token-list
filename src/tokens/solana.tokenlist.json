@@ -146964,6 +146964,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "93iJG6TY2bXb8zUe6gscx3fwvUCZPHVMCrVRg6uFz6ZU",
+      "symbol": "SKULL",
+      "name": "Spooky Skeleton Society Utility Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/jone6969/Assets/558eaa3c4161c7b95692d83b37a41219337c1357/Skelly-Logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/srs5C9ETZJ",
+        "twitter": "https://twitter.com/SpookySkellyS_",
+        "website": "https://spookyskeletonsociety.com/"
+      }
     }
   ],
   "version": {
