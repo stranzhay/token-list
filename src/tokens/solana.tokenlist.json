@@ -147006,6 +147006,21 @@
       "extensions": {
         "twitter": "https://twitter.com/TheMarmosetNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HV8RWueWwpRue86SMzXQapxDB5ZEWw5YnVbxuDcihaF5",
+      "symbol": "MARMO",
+      "name": "MarmosetNFT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MarmosetNFT/MARMO/main/mainnet/asset/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheMarmosetNFT"
+      }
     }
   ],
   "version": {
