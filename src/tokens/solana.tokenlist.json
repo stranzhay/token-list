@@ -147305,6 +147305,24 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "B5qmy6nXEHtWmhHoGFM3QuH4ofw9n4gD4eVZ8y8VsCx8",
+      "symbol": "GIVDEV",
+      "name": "The Giving Pool Devnet",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B5qmy6nXEHtWmhHoGFM3QuH4ofw9n4gD4eVZ8y8VsCx8/logo.svg",
+      "tags": [
+        "Charity",
+        "Token",
+        "devnet"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/givingpool",
+        "twitter": "https://twitter.com/givingpool",
+        "website": "http://thegivingpool.io/"
+      }
     }
   ],
   "version": {
