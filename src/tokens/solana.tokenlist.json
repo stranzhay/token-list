@@ -147200,6 +147200,42 @@
       "extensions": {
         "description": "pow token backed by FIL mining power"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TTAKPDB1bgY1gpNenFxbLnG2VRFuKnaoFCc6xkY2Cbs",
+      "symbol": "TTWL",
+      "name": "Tropical Tigers Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TTAKPDB1bgY1gpNenFxbLnG2VRFuKnaoFCc6xkY2Cbs/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AGTWeVBaAsUqak2nX8L4auTNEkDXbfVRsYfPZpa4LNkS",
+      "symbol": "AOTGWL",
+      "name": "Apes of the Gods Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGTWeVBaAsUqak2nX8L4auTNEkDXbfVRsYfPZpa4LNkS/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "STNkp36CqWfuDx7E1jXyzDxnRZXtXhcLgXroxYJ3Qa1",
+      "symbol": "TSWL",
+      "name": "The Solasis Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/STNkp36CqWfuDx7E1jXyzDxnRZXtXhcLgXroxYJ3Qa1/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
