@@ -146980,6 +146980,17 @@
         "twitter": "https://twitter.com/SpookySkellyS_",
         "website": "https://spookyskeletonsociety.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7nDTAsWEqu6NUQ95TwhaYeszMxWeoYt4698KFApgiUFi",
+      "symbol": "PNDBR",
+      "name": "PandaBrand",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/pandabrand/crypto-logo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
