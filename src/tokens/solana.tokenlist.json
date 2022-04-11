@@ -147244,6 +147244,23 @@
       "name": "UncleSam",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DXq8js1uxGNENn97SdtBhRDQ2TMETDxHsRabJPjVh2Q4/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6DnZ8eU2JGmaHDALrR425xes228sFeMEcXezQ4CqdQx4",
+      "symbol": "MWT",
+      "name": "MetaBards Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6DnZ8eU2JGmaHDALrR425xes228sFeMEcXezQ4CqdQx4/logo.png",
+      "tags": [
+        "NFT",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/metabards",
+        "twitter": "https://twitter.com/MetaBardsNFT",
+        "website": "https://metabards.net/"
+      }
     }
   ],
   "version": {
