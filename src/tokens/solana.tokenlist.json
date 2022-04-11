@@ -147274,6 +147274,63 @@
         "Game-Fi",
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4id3Lrw5BJruX7VQ3iRbmpnt8JHYKEkFd47j9NFgirFp",
+      "symbol": "UREP",
+      "name": "UNIVERSAL REPVBLIK TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4id3Lrw5BJruX7VQ3iRbmpnt8JHYKEkFd47j9NFgirFp/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "UNIVERSAL REPVBLIK TOKEN",
+        "instagram": "https://www.instagram.com/universalrepvblik",
+        "twitter": "https://twitter.com/URepvblik",
+        "website": "https://www.universalrepvblik.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Gcg3crzK9expPUEENZpNDg5y3nJ9crhcSzV1MLVgW6gH",
+      "symbol": "AXLAB",
+      "name": "AXOLOTL LABS DAO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArturoCrz/AXLAB-TOKEN/main/logo.png",
+      "tags": [
+        "NFT",
+        "social-token",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "B5qmy6nXEHtWmhHoGFM3QuH4ofw9n4gD4eVZ8y8VsCx8",
+      "symbol": "GIVDEV",
+      "name": "The Giving Pool Devnet",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B5qmy6nXEHtWmhHoGFM3QuH4ofw9n4gD4eVZ8y8VsCx8/logo.svg",
+      "tags": [
+        "Charity",
+        "Token",
+        "devnet"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/givingpool",
+        "twitter": "https://twitter.com/givingpool",
+        "website": "http://thegivingpool.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GtCaEHFwJTf5uN1AUvJvFDDpKjFTfXnMToqXN8QmB66D",
+      "symbol": "BrcPromise",
+      "name": "Bricknest Promise Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bricknest/PromiseToken/main/PromiseToken.png"
     }
   ],
   "version": {
