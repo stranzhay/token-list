@@ -147236,6 +147236,14 @@
         "whitelist-token",
         "nfts"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DXq8js1uxGNENn97SdtBhRDQ2TMETDxHsRabJPjVh2Q4",
+      "symbol": "USAM",
+      "name": "UncleSam",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DXq8js1uxGNENn97SdtBhRDQ2TMETDxHsRabJPjVh2Q4/logo.png"
     }
   ],
   "version": {
