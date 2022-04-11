@@ -147107,6 +147107,27 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8UAj3gHMG3cKN66dtm4BSJUpbFPSY1HZGWRtaj6MkGFh",
+      "symbol": "AGNI",
+      "name": "Agni",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8UAj3gHMG3cKN66dtm4BSJUpbFPSY1HZGWRtaj6MkGFh/logo.png",
+      "tags": [
+        "Gaming",
+        "Game",
+        "Game-Fi",
+        "NFT",
+        "NFT-Gaming",
+        "Metaverse"
+      ],
+      "extensions": {
+        "description": "Agni is the primary token for the next generation blockchain game AgniMyth.",
+        "twitter": "https://twitter.com/agnimyth",
+        "website": "https://agnimyth.com"
+      }
     }
   ],
   "version": {
