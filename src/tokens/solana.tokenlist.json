@@ -147331,6 +147331,17 @@
       "name": "Bricknest Promise Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/bricknest/PromiseToken/main/PromiseToken.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ECNkBQj5Ee3vNnWoBdmuxMsycbGLsRnQj8u4MA3YQH1G",
+      "symbol": "DED",
+      "name": "DED TOKEN",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ECNkBQj5Ee3vNnWoBdmuxMsycbGLsRnQj8u4MA3YQH1G/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
