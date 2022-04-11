@@ -146953,6 +146953,17 @@
         "twitter": "https://twitter.com/alpha_wolvesnft",
         "website": "https://alphawolvesnft.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cr1rbpYZi1W43hcrjHRQVH56msPdCWzdHJVP1y1Roo9i",
+      "symbol": "CHINO",
+      "name": "CHINO COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CRM-BOTS/token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
