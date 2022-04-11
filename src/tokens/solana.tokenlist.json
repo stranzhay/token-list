@@ -146937,6 +146937,33 @@
         "imageUrl": "https://arwave.art/upga5v2tzpnak1eqlq5kvc/upga5v2tzp.png",
         "website": "https://arabpunkz.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "12Mzc4wnxW1t27M1uJ5F8fj4V7FK921gsGG7WsBcnfSX",
+      "symbol": "WOW",
+      "name": "World of Wolves",
+      "decimals": 9,
+      "logoURI": "https://bafybeiav3sa2tcy4wmnju5hf7r3nskovfffqb5ffz4g4pshuwuwkpabmsu.ipfs.dweb.link/?ext=png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/alphawolves",
+        "twitter": "https://twitter.com/alpha_wolvesnft",
+        "website": "https://alphawolvesnft.xyz/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Cr1rbpYZi1W43hcrjHRQVH56msPdCWzdHJVP1y1Roo9i",
+      "symbol": "CHINO",
+      "name": "CHINO COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CRM-BOTS/token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
