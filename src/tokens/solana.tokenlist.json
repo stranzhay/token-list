@@ -147095,6 +147095,18 @@
       "extensions": {
         "discord": "https://discord.gg/E4pN3Yr"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3f4yGBWrNpTJmnzZwW8Nwt7bVmzf3wJLC3fNZKUdkLfn",
+      "symbol": "RYPT",
+      "name": "RyanPoints",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rbennett71593/rypt/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
