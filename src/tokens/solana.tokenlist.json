@@ -147236,6 +147236,44 @@
         "whitelist-token",
         "nfts"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DXq8js1uxGNENn97SdtBhRDQ2TMETDxHsRabJPjVh2Q4",
+      "symbol": "USAM",
+      "name": "UncleSam",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DXq8js1uxGNENn97SdtBhRDQ2TMETDxHsRabJPjVh2Q4/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6DnZ8eU2JGmaHDALrR425xes228sFeMEcXezQ4CqdQx4",
+      "symbol": "MWT",
+      "name": "MetaBards Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6DnZ8eU2JGmaHDALrR425xes228sFeMEcXezQ4CqdQx4/logo.png",
+      "tags": [
+        "NFT",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/metabards",
+        "twitter": "https://twitter.com/MetaBardsNFT",
+        "website": "https://metabards.net/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "76VD6fXjBDhEHGj6bmsKCcA5UrXXRSAbTkZR3sWVsmFL",
+      "symbol": "TST",
+      "name": "Test Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/thelittlepiggy/assets/main/test-tube.png",
+      "tags": [
+        "General",
+        "Game-Fi",
+        "NFT"
+      ]
     }
   ],
   "version": {
