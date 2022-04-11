@@ -147128,6 +147128,17 @@
         "twitter": "https://twitter.com/agnimyth",
         "website": "https://agnimyth.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "96K32hBSZEMnq3J717dukcpfe9oBk5mgDNXPMPoANfRF",
+      "symbol": "TOMB",
+      "name": "Tomb",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sketckypyramids/log/main/log.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
