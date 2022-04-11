@@ -146991,6 +146991,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "6jJnEcWe7MFEpRbuPVTCyB8epGnoqdCxfpxEk4LYx6CA",
+      "symbol": "BLOOD",
+      "name": "MOSQUITO WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MarmosetNFT/MARMO/main/mainnet/asset/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheMarmosetNFT"
+      }
     }
   ],
   "version": {
