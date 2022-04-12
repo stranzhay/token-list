@@ -147624,6 +147624,20 @@
       "extensions": {
         "website": "https://www.mekababies.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MRLY2ScVMxXJTieiDi2Ywdm8VjEKeLcY4THL2UyhHRA",
+      "symbol": "MNRL",
+      "name": "MNRL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MRLY2ScVMxXJTieiDi2Ywdm8VjEKeLcY4THL2UyhHRA/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.cosmicsentinels.com/"
+      }
     }
   ],
   "version": {
