@@ -148042,6 +148042,17 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2Rg28iHdJ6QnZnWpRb6qYvqtvwCTQ6J3uVwJvi7LsAKG",
+      "symbol": "IVRY",
+      "name": "IVORY TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Rg28iHdJ6QnZnWpRb6qYvqtvwCTQ6J3uVwJvi7LsAKG/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
