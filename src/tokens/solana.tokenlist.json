@@ -147649,6 +147649,85 @@
       "extensions": {
         "website": "http://cryptocanvaz.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2rpR7AagtCaa4Dt9HRFXr7cLGAAyMf1uC8HgYRDhPwCA",
+      "symbol": "REE",
+      "name": "Reezez",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Delvobit/reezez/main/reezez.png",
+      "tags": [
+        "social-token",
+        "Community-token"
+      ],
+      "extensions": {
+        "website": "https://reezez.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HYuUNZbw2K1iJ9j5Sg1e1om8qC49b7595rSMH15sjg2D",
+      "symbol": "MATTER",
+      "name": "Solarized Matter (Lucid Realms)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HYuUNZbw2K1iJ9j5Sg1e1om8qC49b7595rSMH15sjg2D/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/lucidrealmsxyz",
+        "website": "https://www.lucidrealms.xyz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "TTTetGyXtTwJhGYk1PtCgnfMEeGPpg8kntzJWTCALHh",
+      "symbol": "TTWLT",
+      "name": "Tropical Tigers WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TTAKPDB1bgY1gpNenFxbLnG2VRFuKnaoFCc6xkY2Cbs/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HhFp2Ydkx1xHF9R2bKYgkTagsBo8Jnt2NAKsVRSu4r4r",
+      "symbol": "DSTACKS",
+      "name": "ShortDaddyBigStacks",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mydanadesigns/cryptomachine/main/Dana.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HNm1VgnyhaMZZF71RjNFNiYLN76zyZTDcBZPjYveWFXX",
+      "symbol": "FRENS",
+      "name": "Chimp Frens",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HNm1VgnyhaMZZF71RjNFNiYLN76zyZTDcBZPjYveWFXX/chimp.png",
+      "tags": [
+        "nfts"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/chimpfrens",
+        "website": "https://www.chimpfrens.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "84magGbPmN5tjVyGYcPfVG93Eb3kbWMGa6zthFkoGiSN",
+      "symbol": "SAMSARIK",
+      "name": "Samsarik Capital",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/84magGbPmN5tjVyGYcPfVG93Eb3kbWMGa6zthFkoGiSN/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
