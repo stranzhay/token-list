@@ -147679,6 +147679,18 @@
         "twitter": "https://twitter.com/lucidrealmsxyz",
         "website": "https://www.lucidrealms.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TTTetGyXtTwJhGYk1PtCgnfMEeGPpg8kntzJWTCALHh",
+      "symbol": "TTWLT",
+      "name": "Tropical Tigers WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TTAKPDB1bgY1gpNenFxbLnG2VRFuKnaoFCc6xkY2Cbs/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
