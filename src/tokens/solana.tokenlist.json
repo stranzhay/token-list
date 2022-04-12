@@ -147809,6 +147809,21 @@
         "twitter": "https://twitter.com/solflowers_io",
         "website": "https://degentrashpandas.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BUSHiaBPmXgtuQ69KGyv24UxZqJmQHzkVpQvUyC5EchZ",
+      "symbol": "Bush",
+      "name": "Bushido Society WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BUSHiaBPmXgtuQ69KGyv24UxZqJmQHzkVpQvUyC5EchZ/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Bushido_Society",
+        "website": "https://bushidosociety.com/"
+      }
     }
   ],
   "version": {
