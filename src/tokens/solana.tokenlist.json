@@ -148079,6 +148079,48 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "B7vkWNFo2aYcYddtwR8fvDwY1Uc54wHfdTXULjrX7KeL",
+      "symbol": "FOOD",
+      "name": "Foodcoin",
+      "decimals": 2,
+      "logoURI": "https://cdn.hngr.co/foodcoin-final.gif",
+      "extensions": {
+        "website": "https://gocaptain.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9qT2pfuVZYJisNQTfp1sa917e6t4mbi5Po9D3utwwKyj",
+      "symbol": "WCR",
+      "name": "RENDER",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/femolakarot/whitespaceNFT/main/Whitespace-Render-token-logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "NFT-Token"
+      ],
+      "extensions": {
+        "description": "The Whitespace Creatorverse native and governing token, stake creators to earn RENDER",
+        "discord": "https://discord.gg/u25c7PJdKz",
+        "instagram": "https://www.instagram.com/whitespace_creatorverse",
+        "twitter": "https://twitter.com/femolakarot",
+        "website": "https://whitespacenft.femolakarot.design/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2XShUPcKwx7MFsx8kVXtd6dvoQq6dYxxJwAXWnTNChEr",
+      "symbol": "NC",
+      "name": "NobelConnect",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Lindon100/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
