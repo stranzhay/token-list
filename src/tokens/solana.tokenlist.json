@@ -147342,6 +147342,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "5bTTGxcUbG1u2iSEo4DJ6ENRPCyRxZaVZfXgNRQpxruq",
+      "symbol": "ZZZ",
+      "name": "Zzz Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5bTTGxcUbG1u2iSEo4DJ6ENRPCyRxZaVZfXgNRQpxruq/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://149.28.21.55/coin/solana/zzz/"
+      }
     }
   ],
   "version": {
