@@ -147931,6 +147931,21 @@
         "website": "https://neon-labs.org/",
         "whitepaper": "https://neon-labs.org/Neon_EVM.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3KGWxRhQfD4LquDeFf7xEkHtKhtMaVcPX8RSh5DoiwCq",
+      "symbol": "TORU",
+      "name": "Pizzatoru Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3KGWxRhQfD4LquDeFf7xEkHtKhtMaVcPX8RSh5DoiwCq/logo.png",
+      "tags": [
+        "meme-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://sites.google.com/view/pizzatoru-coin"
+      }
     }
   ],
   "version": {
