@@ -147664,6 +147664,21 @@
       "extensions": {
         "website": "https://reezez.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HYuUNZbw2K1iJ9j5Sg1e1om8qC49b7595rSMH15sjg2D",
+      "symbol": "MATTER",
+      "name": "Solarized Matter (Lucid Realms)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HYuUNZbw2K1iJ9j5Sg1e1om8qC49b7595rSMH15sjg2D/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/lucidrealmsxyz",
+        "website": "https://www.lucidrealms.xyz"
+      }
     }
   ],
   "version": {
