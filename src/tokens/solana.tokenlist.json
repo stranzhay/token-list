@@ -147516,6 +147516,19 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "37qK4Nc6ryVZYfNFufx97nJU6QD2hskToSdgL7VXwoJ4",
+      "symbol": "LANA",
+      "name": "LANA TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dev8x/token-list/main/assets/mainnet/37qK4Nc6ryVZYfNFufx97nJU6QD2hskToSdgL7VXwoJ4/icon.png",
+      "extensions": {
+        "medium": "https://lanafinance.medium.com/",
+        "twitter": "https://twitter.com/lanaprotocol",
+        "website": "https://lanafi.app/"
+      }
     }
   ],
   "version": {
