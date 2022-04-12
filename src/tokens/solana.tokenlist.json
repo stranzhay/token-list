@@ -147989,6 +147989,21 @@
         "twitter": "https://twitter.com/electonsnft",
         "website": "https://electons.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BxufMweKEqMPgiq4m4ks3rLuoeTKdHe2FismdnGrbwHV",
+      "symbol": "YEAB",
+      "name": "YEAB COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/HaftamuM/Image/main/Correction%20-%20Animal%20.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://mulubeti.com/"
+      }
     }
   ],
   "version": {
