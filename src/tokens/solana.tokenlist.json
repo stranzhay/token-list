@@ -148004,6 +148004,17 @@
       "extensions": {
         "website": "https://mulubeti.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B93MDnpP14eRZCcNQUYbH5XAQXmdSh3Uq7Y6ya8RVQtF",
+      "symbol": "BBST",
+      "name": "Black Beard Sociaty Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/adabag-pro/Crypton/main/logo_bbst.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
