@@ -147755,6 +147755,17 @@
         "twitter": "https://twitter.com/allovr_protocol",
         "website": "https://www.allovr.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5QEs2UzoefaSoCTDKaaQvce7BDyjQNaAGNs7twH3cVgP",
+      "symbol": "TTRYB-USDL",
+      "name": "Lagrange TTRYB-USDL LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Lagrange-fi/Test-TRYB-logo/main/TTRYB.png",
+      "tags": [
+        "stablecoin"
+      ]
     }
   ],
   "version": {
