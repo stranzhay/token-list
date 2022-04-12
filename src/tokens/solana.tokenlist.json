@@ -147893,6 +147893,44 @@
         "description": "Bear Universe",
         "twitter": "https://twitter.com/bearuniversenft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
+      "symbol": "NEON",
+      "name": "Neon EVM Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44/neon_token.png",
+      "tags": [
+        "utility-token",
+        "neon-evm-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ApZRBDqYcN",
+        "github": "https://github.com/neonlabsorg",
+        "twitter": "https://twitter.com/neonlabsorg",
+        "website": "https://neon-labs.org/",
+        "whitepaper": "https://neon-labs.org/Neon_EVM.pdf"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "89dre8rZjLNft7HoupGiyxu3MNftR577ZYu8bHe2kK7g",
+      "symbol": "NEON",
+      "name": "Neon EVM Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44/neon_token.png",
+      "tags": [
+        "utility-token",
+        "neon-evm-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ApZRBDqYcN",
+        "github": "https://github.com/neonlabsorg",
+        "twitter": "https://twitter.com/neonlabsorg",
+        "website": "https://neon-labs.org/",
+        "whitepaper": "https://neon-labs.org/Neon_EVM.pdf"
+      }
     }
   ],
   "version": {
