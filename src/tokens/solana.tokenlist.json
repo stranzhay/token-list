@@ -147364,6 +147364,22 @@
       "name": "Pleasure",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E4e93CbkTsyPWJ2EYMmDxbTg9dJoE91Rj5Lqq3Pddm5S/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "AK3o9dowLAPX6bnALoEcFMKo1bNaJNTMf7XcWYmQDFHQ",
+      "symbol": "CBWL",
+      "name": "Cyberbloks whitelist token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AK3o9dowLAPX6bnALoEcFMKo1bNaJNTMf7XcWYmQDFHQ/wl-token3D.png",
+      "tags": [
+        "Cyberbloks",
+        "whitelist-token",
+        "nfts"
+      ],
+      "extensions": {
+        "website": "http://www.cyberbloks.com"
+      }
     }
   ],
   "version": {
