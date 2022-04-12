@@ -148015,6 +148015,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7ZYheubMPjk53vMEmWV1Uiic73g1i12jv2UUbjVi5HYK",
+      "symbol": "ORBZ",
+      "name": "Planetarians - ORBZ",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ZYheubMPjk53vMEmWV1Uiic73g1i12jv2UUbjVi5HYK/logo.png",
+      "tags": [
+        "nfts"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/planetariansnft",
+        "website": "https://planetarians.io/"
+      }
     }
   ],
   "version": {
