@@ -147403,6 +147403,22 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4zwvyYh98HjJjCzt2WvHqxfxU3bg25C2cG3rNniKmf3D",
+      "symbol": "CBWLF",
+      "name": "Cyberbloks whitelist free mint token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4zwvyYh98HjJjCzt2WvHqxfxU3bg25C2cG3rNniKmf3D/wlfree-token3D.png",
+      "tags": [
+        "Cyberbloks",
+        "whitelist-token",
+        "nfts"
+      ],
+      "extensions": {
+        "website": "http://www.cyberbloks.com"
+      }
     }
   ],
   "version": {
