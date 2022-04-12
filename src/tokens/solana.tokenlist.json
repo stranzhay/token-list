@@ -147774,6 +147774,24 @@
       "name": "GlobalQ",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/89y8rchTsrNwMzDc4YT8iVtsU6wu6rsab9eLGKhictBK/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "RockTZz2q1DoCSt3KDtgSSsDhR3Wi66oeWzNDzgmAXn",
+      "symbol": "ROCKT",
+      "name": "ROCKY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RockTZz2q1DoCSt3KDtgSSsDhR3Wi66oeWzNDzgmAXn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/Crypto-Sport-104470991959649",
+        "instagram": "https://www.instagram.com/cryptosport_official/",
+        "linkedin": "https://www.linkedin.com/company/cryptosportconnection",
+        "twitter": "https://twitter.com/Go_CryptoSport",
+        "website": "https://Gocryptosport.com/"
+      }
     }
   ],
   "version": {
