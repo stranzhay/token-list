@@ -147456,6 +147456,40 @@
       "name": "NERD",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ADcEtKSVKDxBUe3JERgSh9q458w3kRKPMHkihF13vxx2/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2VdpTjG6qwa9Lw5vT6xHYFY8VB7e1P5Y7KSLrTQWwds4",
+      "symbol": "TFT",
+      "name": "Tech Folk",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3VFFHRZZnXeNjFXmQ5n2hy4jBosZ3WCSLHsqjAjajPU6/logo.svg",
+      "tags": [
+        "Tech-Folk",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://techfolk.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CSPToxnAWVb9YNPfrfhkhq2cterzVtgmfYju7nxg9MAA",
+      "symbol": "CSPT",
+      "name": "CryptoSport",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSPToxnAWVb9YNPfrfhkhq2cterzVtgmfYju7nxg9MAA/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/Crypto-Sport-104470991959649",
+        "instagram": "https://www.instagram.com/cryptosport_official/",
+        "linkedin": "https://www.linkedin.com/company/cryptosportconnection",
+        "twitter": "https://twitter.com/Go_CryptoSport",
+        "website": "https://Gocryptosport.com/"
+      }
     }
   ],
   "version": {
