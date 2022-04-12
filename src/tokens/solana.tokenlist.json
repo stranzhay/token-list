@@ -147529,6 +147529,17 @@
         "twitter": "https://twitter.com/lanaprotocol",
         "website": "https://lanafi.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7JD2vvQu5kbegaxDDWWgbYVpufNx7nsxk3k7CmGK76Yb",
+      "symbol": "RMVIP",
+      "name": "Romance Meta NFT VIP Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/romeo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
