@@ -147419,6 +147419,22 @@
       "extensions": {
         "website": "http://www.cyberbloks.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "3VFFHRZZnXeNjFXmQ5n2hy4jBosZ3WCSLHsqjAjajPU6",
+      "symbol": "TFT",
+      "name": "Tech Folk",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3VFFHRZZnXeNjFXmQ5n2hy4jBosZ3WCSLHsqjAjajPU6/logo.svg",
+      "tags": [
+        "Tech-Folk",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://web.dev.techfolk.io"
+      }
     }
   ],
   "version": {
