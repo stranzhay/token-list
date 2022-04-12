@@ -147638,6 +147638,17 @@
       "extensions": {
         "website": "https://www.cosmicsentinels.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ha4iARiVxSsF4vpViqozeAQfFBxR4yubx2apBbxP7kTA",
+      "symbol": "CZT",
+      "name": "Canvaz Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/czt/main/Logo.png",
+      "extensions": {
+        "website": "http://cryptocanvaz.com/"
+      }
     }
   ],
   "version": {
