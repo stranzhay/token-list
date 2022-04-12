@@ -147584,6 +147584,21 @@
         "twitter": "https://twitter.com/fallenangelsxyz",
         "website": "http://fallenangels.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "okaysT2GMaxJgsWR3F4GQKj1bD9Tw23FDjSeuVzeuNW",
+      "symbol": "OKAY",
+      "name": "Okay Bears WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/okaysT2GMaxJgsWR3F4GQKj1bD9Tw23FDjSeuVzeuNW/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/okaybears",
+        "website": "https://www.okaybears.com"
+      }
     }
   ],
   "version": {
