@@ -147435,6 +147435,19 @@
       "extensions": {
         "website": "https://web.dev.techfolk.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9r4V29zLPD8DXbHR3RVjJb7xrrofEnjB2JHfZiGGLAwp",
+      "symbol": "WBNK",
+      "name": "WORLDBANK",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/OnChainPunk/BANK/main/Bank.png",
+      "tags": [
+        "utility-token",
+        "HODL",
+        "OnChainPunk"
+      ]
     }
   ],
   "version": {
