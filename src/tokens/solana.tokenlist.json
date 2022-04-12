@@ -147792,6 +147792,23 @@
         "twitter": "https://twitter.com/Go_CryptoSport",
         "website": "https://Gocryptosport.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "rainH85N1vCoerCi4cQ3w6mCf7oYUdrsTFtFzpaRwjL",
+      "symbol": "RAIN",
+      "name": "Rain Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3BQCm29nq5TincBd3bGrJGu5GJxyxoi43fMUsKfdmBTX/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://linktr.ee/degeneratetrashpandas",
+        "github": "https://github.com/raindrops-protocol/raindrops",
+        "twitter": "https://twitter.com/solflowers_io",
+        "website": "https://degentrashpandas.com/"
+      }
     }
   ],
   "version": {
