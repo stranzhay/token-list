@@ -147728,6 +147728,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EE6DKELzAyPgH26Gqrh9zs14QvGrFYrXePBq2bEjpWgv",
+      "symbol": "MASH",
+      "name": "Mash Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mash111/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
