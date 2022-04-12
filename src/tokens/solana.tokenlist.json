@@ -148030,6 +148030,18 @@
         "twitter": "https://twitter.com/planetariansnft",
         "website": "https://planetarians.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "36EsmEsa5rp3VrZAzLna3UFDEBFihwjsRFciUTfoZ5Qt",
+      "symbol": "BORGS",
+      "name": "BotBorgs - DAO Utility Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LinYu1992/BotBorg_DAO_Utility_Token/main/BotBorgDAOUtilityToken.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
