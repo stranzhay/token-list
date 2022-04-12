@@ -147490,6 +147490,45 @@
         "twitter": "https://twitter.com/Go_CryptoSport",
         "website": "https://Gocryptosport.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "uSuyHGF93xkMU35uUNcAyXWrwLFrzS56kBZYLQVX25R",
+      "symbol": "ATVS",
+      "name": "Adagio TVs Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/uSuyHGF93xkMU35uUNcAyXWrwLFrzS56kBZYLQVX25R/tv.png",
+      "tags": [
+        "social-token",
+        "loop"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Adagio_TVs"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CtBR1SMTEpbNixGdDTD5Xnh4xQQE8NMP2zi5VRWXn3pe",
+      "symbol": "SEWL",
+      "name": "Snake Eyes WL",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/attachments/962058091661234197/963300850254622770/Untitled_200_200_px_1.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "37qK4Nc6ryVZYfNFufx97nJU6QD2hskToSdgL7VXwoJ4",
+      "symbol": "LANA",
+      "name": "LANA TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dev8x/token-list/main/assets/mainnet/37qK4Nc6ryVZYfNFufx97nJU6QD2hskToSdgL7VXwoJ4/icon.png",
+      "extensions": {
+        "medium": "https://lanafinance.medium.com/",
+        "twitter": "https://twitter.com/lanaprotocol",
+        "website": "https://lanafi.app/"
+      }
     }
   ],
   "version": {
