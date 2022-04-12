@@ -147824,6 +147824,49 @@
         "twitter": "https://twitter.com/Bushido_Society",
         "website": "https://bushidosociety.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8sNjQ7xbBeNC44vyyb2Q66FaMPmv6sTsrD89y1KMdcST",
+      "symbol": "69MWL",
+      "name": "69MIKES Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ScarceProject/crypto/main/070C0720-F125-4539-8AFC-459EA9ECBA33.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/69MIKES_BREH"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GGKBRX7h9dZMn8BrwqmKuT43xFnk8C1vDoiRdNFUEkrM",
+      "symbol": "BREH",
+      "name": "Breh Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ScarceProject/crypto/main/070C0720-F125-4539-8AFC-459EA9ECBA33.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/69MIKES_BREH"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3ptz14ZNtX5RGUkY5KQwnCYZ8zUtkZYcG6tGAEcrV2WY",
+      "symbol": "FUND",
+      "name": "Funky Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3ptz14ZNtX5RGUkY5KQwnCYZ8zUtkZYcG6tGAEcrV2WY/logo.png",
+      "tags": [
+        "nfts"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/FunkyDudesNFT",
+        "website": "https://funkydudes.netlify.app/"
+      }
     }
   ],
   "version": {
