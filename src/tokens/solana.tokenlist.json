@@ -147610,6 +147610,45 @@
       "tags": [
         "currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BEBE2QoWKeodTELW8v2aFZHUKsFjiZqb3g9npthHsriJ",
+      "symbol": "BEBE",
+      "name": "BEBE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEBE2QoWKeodTELW8v2aFZHUKsFjiZqb3g9npthHsriJ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.mekababies.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "MRLY2ScVMxXJTieiDi2Ywdm8VjEKeLcY4THL2UyhHRA",
+      "symbol": "MNRL",
+      "name": "MNRL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MRLY2ScVMxXJTieiDi2Ywdm8VjEKeLcY4THL2UyhHRA/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.cosmicsentinels.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Ha4iARiVxSsF4vpViqozeAQfFBxR4yubx2apBbxP7kTA",
+      "symbol": "CZT",
+      "name": "Canvaz Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/danny8252/czt/main/Logo.png",
+      "extensions": {
+        "website": "http://cryptocanvaz.com/"
+      }
     }
   ],
   "version": {
