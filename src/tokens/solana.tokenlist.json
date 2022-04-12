@@ -148079,6 +148079,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "B7vkWNFo2aYcYddtwR8fvDwY1Uc54wHfdTXULjrX7KeL",
+      "symbol": "FOOD",
+      "name": "Foodcoin",
+      "decimals": 2,
+      "logoURI": "https://cdn.hngr.co/foodcoin-final.gif",
+      "extensions": {
+        "website": "https://gocaptain.com"
+      }
     }
   ],
   "version": {
