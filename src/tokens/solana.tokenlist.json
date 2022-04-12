@@ -147946,6 +147946,49 @@
       "extensions": {
         "website": "https://sites.google.com/view/pizzatoru-coin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "33QF5or7ffqbvwGmuLidwimqZze4Cja5n2f8AH9VLUx9",
+      "symbol": "SQL",
+      "name": "Sheqel",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/Chad-Mann/Sheqel/main/Sheqel-Logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Sm5nWgKX4kB5jXhc3Y1Fjx4FfX2fKoxwPX9vq7Fjf2f",
+      "symbol": "LIM",
+      "name": "limine",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Alex000000000010/crypto-limine/main/logo.png",
+      "tags": [
+        "utility-token",
+        "limine",
+        "legal-advice-online"
+      ],
+      "extensions": {
+        "website": "https://www.limine.be"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ECPAzxsa4VBALQ4kh4i9mtUdRTBRhGwrzu7Y2YqwZjsi",
+      "symbol": "BZT",
+      "name": "bZt by Electons",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ECPAzxsa4VBALQ4kh4i9mtUdRTBRhGwrzu7Y2YqwZjsi/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/electons",
+        "twitter": "https://twitter.com/electonsnft",
+        "website": "https://electons.io/"
+      }
     }
   ],
   "version": {
