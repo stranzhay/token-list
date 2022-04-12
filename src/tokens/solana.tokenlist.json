@@ -147867,6 +147867,17 @@
         "twitter": "https://twitter.com/FunkyDudesNFT",
         "website": "https://funkydudes.netlify.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DmF48xHb28GqoBY4NLVzcJr8H6qyRRArfDqx6rNruBGa",
+      "symbol": "MK",
+      "name": "Meta King",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/sol-9/crypto/main/ezgif.com-gif-maker.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
