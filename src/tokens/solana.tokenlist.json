@@ -147540,6 +147540,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AkhxRHBKwhPiv4tvFBQ44nrSmWqM3XqUN7c7nnkPkcAU",
+      "symbol": "MOSQUITO",
+      "name": "MOSQUITO WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AkhxRHBKwhPiv4tvFBQ44nrSmWqM3XqUN7c7nnkPkcAU/mosquito.png",
+      "extensions": {
+        "twitter": "https://twitter.com/mosquitowarrior"
+      }
     }
   ],
   "version": {
