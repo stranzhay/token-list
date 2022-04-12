@@ -147691,6 +147691,17 @@
         "whitelist-token",
         "nfts"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HhFp2Ydkx1xHF9R2bKYgkTagsBo8Jnt2NAKsVRSu4r4r",
+      "symbol": "DSTACKS",
+      "name": "ShortDaddyBigStacks",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mydanadesigns/cryptomachine/main/Dana.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
