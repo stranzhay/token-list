@@ -147490,6 +147490,21 @@
         "twitter": "https://twitter.com/Go_CryptoSport",
         "website": "https://Gocryptosport.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "uSuyHGF93xkMU35uUNcAyXWrwLFrzS56kBZYLQVX25R",
+      "symbol": "ATVS",
+      "name": "Adagio TVs Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/uSuyHGF93xkMU35uUNcAyXWrwLFrzS56kBZYLQVX25R/tv.png",
+      "tags": [
+        "social-token",
+        "loop"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Adagio_TVs"
+      }
     }
   ],
   "version": {
