@@ -905,7 +905,7 @@
       "symbol": "$ASS",
       "name": "Ass Coin",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/daddydonke/token-list/main/src/tokens/solana.tokenlist.json",
+      "logoURI": "https://raw.githubusercontent.com/daddydonke/gem-farm-ui/main/public/images/icon-list-item-peach.png",
       "tags": [
         "MEMES-TOKEN",
         "NFTS",
