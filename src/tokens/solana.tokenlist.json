@@ -147529,6 +147529,76 @@
         "twitter": "https://twitter.com/lanaprotocol",
         "website": "https://lanafi.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7JD2vvQu5kbegaxDDWWgbYVpufNx7nsxk3k7CmGK76Yb",
+      "symbol": "RMVIP",
+      "name": "Romance Meta NFT VIP Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/romeo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AkhxRHBKwhPiv4tvFBQ44nrSmWqM3XqUN7c7nnkPkcAU",
+      "symbol": "MOSQUITO",
+      "name": "MOSQUITO WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AkhxRHBKwhPiv4tvFBQ44nrSmWqM3XqUN7c7nnkPkcAU/mosquito.png",
+      "extensions": {
+        "twitter": "https://twitter.com/mosquitowarrior"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4x41rDCA5jcXBzBr6e8vWh6nU5TDnRU7U1XPcCZFCUvY",
+      "symbol": "WLNOFC",
+      "name": "WL NFT OFF ROAD FAN CLUB",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4x41rDCA5jcXBzBr6e8vWh6nU5TDnRU7U1XPcCZFCUvY/logo.png",
+      "tags": [
+        "4x4-Fan-Club",
+        "4x4FC",
+        "utility-token",
+        "virtual-currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/NFT_Off_Road_FC",
+        "website": "https://nftoffroadfan.club/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "53bovFwsd8eFuBd7tYv9gK8qG2FYJwemLP9zwQsVTJSH",
+      "symbol": "ANGELS",
+      "name": "Fallen Angels",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/53bovFwsd8eFuBd7tYv9gK8qG2FYJwemLP9zwQsVTJSH/logo.png",
+      "tags": [
+        "nft-marketplace"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/fallenangelsxyz",
+        "website": "http://fallenangels.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "okaysT2GMaxJgsWR3F4GQKj1bD9Tw23FDjSeuVzeuNW",
+      "symbol": "OKAY",
+      "name": "Okay Bears WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/okaysT2GMaxJgsWR3F4GQKj1bD9Tw23FDjSeuVzeuNW/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/okaybears",
+        "website": "https://www.okaybears.com"
+      }
     }
   ],
   "version": {
