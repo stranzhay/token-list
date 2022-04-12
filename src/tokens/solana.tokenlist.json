@@ -148053,6 +148053,32 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "TdnwZyyXjwJxe21As5vjKKfJn9Y7mBeEuKLsHxAKvFV",
+      "symbol": "TheSaintsWL",
+      "name": "The Saints WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/ae5e93bde4feb14f033707e151870dcb7532ab4b/assets/mainnet/TdnwZyyXjwJxe21As5vjKKfJn9Y7mBeEuKLsHxAKvFV/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/thesaints_nft",
+        "website": "https://saintsnft.art"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EiThfHf6SMVEPoAds6BjoHu48ayUHRj8drZetG4NVdEn",
+      "symbol": "FMI",
+      "name": "FMI COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fmicoin/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
