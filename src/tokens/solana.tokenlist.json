@@ -148110,6 +148110,17 @@
         "twitter": "https://twitter.com/femolakarot",
         "website": "https://whitespacenft.femolakarot.design/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2XShUPcKwx7MFsx8kVXtd6dvoQq6dYxxJwAXWnTNChEr",
+      "symbol": "NC",
+      "name": "NobelConnect",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Lindon100/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
