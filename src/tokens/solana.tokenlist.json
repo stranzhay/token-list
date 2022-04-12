@@ -148164,6 +148164,22 @@
         "twitter": "https://twitter.com/SolminatorNFT",
         "website": "https://www.solminator.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DKEyAMNSVNdFCSUcunFJ4jn7TzZd8ec9Z4XUACaT37mG",
+      "symbol": "BattleWL",
+      "name": "Battle Drones Wave 2 WL Token",
+      "decimals": 0,
+      "logoURI": "https://battledrones.io/WL_token.png",
+      "tags": [
+        "WL"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/jRz63Dsa3p",
+        "twitter": "https://twitter.com/BattleDronesNFT",
+        "website": "https://battledrones.io"
+      }
     }
   ],
   "version": {
