@@ -147957,6 +147957,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Sm5nWgKX4kB5jXhc3Y1Fjx4FfX2fKoxwPX9vq7Fjf2f",
+      "symbol": "LIM",
+      "name": "limine",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Alex000000000010/crypto-limine/main/logo.png",
+      "tags": [
+        "utility-token",
+        "limine",
+        "legal-advice-online"
+      ],
+      "extensions": {
+        "website": "https://www.limine.be"
+      }
     }
   ],
   "version": {
