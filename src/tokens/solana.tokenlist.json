@@ -147989,6 +147989,32 @@
         "twitter": "https://twitter.com/electonsnft",
         "website": "https://electons.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BxufMweKEqMPgiq4m4ks3rLuoeTKdHe2FismdnGrbwHV",
+      "symbol": "YEAB",
+      "name": "YEAB COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/HaftamuM/Image/main/Correction%20-%20Animal%20.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://mulubeti.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "B93MDnpP14eRZCcNQUYbH5XAQXmdSh3Uq7Y6ya8RVQtF",
+      "symbol": "BBST",
+      "name": "Black Beard Sociaty Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/adabag-pro/Crypton/main/logo_bbst.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
