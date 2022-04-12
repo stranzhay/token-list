@@ -147391,6 +147391,18 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8SxMo8spwojJnReD36RpFhmZzb8UoR2MhWyJfVja5Kx2",
+      "symbol": "BAGS",
+      "name": "Bandits",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8SxMo8spwojJnReD36RpFhmZzb8UoR2MhWyJfVja5Kx2/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
