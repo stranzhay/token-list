@@ -147717,6 +147717,17 @@
         "twitter": "https://twitter.com/chimpfrens",
         "website": "https://www.chimpfrens.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "84magGbPmN5tjVyGYcPfVG93Eb3kbWMGa6zthFkoGiSN",
+      "symbol": "SAMSARIK",
+      "name": "Samsarik Capital",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/84magGbPmN5tjVyGYcPfVG93Eb3kbWMGa6zthFkoGiSN/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
