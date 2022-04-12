@@ -147973,6 +147973,22 @@
       "extensions": {
         "website": "https://www.limine.be"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ECPAzxsa4VBALQ4kh4i9mtUdRTBRhGwrzu7Y2YqwZjsi",
+      "symbol": "BZT",
+      "name": "bZt by Electons",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ECPAzxsa4VBALQ4kh4i9mtUdRTBRhGwrzu7Y2YqwZjsi/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/electons",
+        "twitter": "https://twitter.com/electonsnft",
+        "website": "https://electons.io/"
+      }
     }
   ],
   "version": {
