@@ -147774,6 +147774,56 @@
       "name": "GlobalQ",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/89y8rchTsrNwMzDc4YT8iVtsU6wu6rsab9eLGKhictBK/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "RockTZz2q1DoCSt3KDtgSSsDhR3Wi66oeWzNDzgmAXn",
+      "symbol": "ROCKT",
+      "name": "ROCKY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RockTZz2q1DoCSt3KDtgSSsDhR3Wi66oeWzNDzgmAXn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/Crypto-Sport-104470991959649",
+        "instagram": "https://www.instagram.com/cryptosport_official/",
+        "linkedin": "https://www.linkedin.com/company/cryptosportconnection",
+        "twitter": "https://twitter.com/Go_CryptoSport",
+        "website": "https://Gocryptosport.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "rainH85N1vCoerCi4cQ3w6mCf7oYUdrsTFtFzpaRwjL",
+      "symbol": "RAIN",
+      "name": "Rain Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3BQCm29nq5TincBd3bGrJGu5GJxyxoi43fMUsKfdmBTX/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://linktr.ee/degeneratetrashpandas",
+        "github": "https://github.com/raindrops-protocol/raindrops",
+        "twitter": "https://twitter.com/solflowers_io",
+        "website": "https://degentrashpandas.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BUSHiaBPmXgtuQ69KGyv24UxZqJmQHzkVpQvUyC5EchZ",
+      "symbol": "Bush",
+      "name": "Bushido Society WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BUSHiaBPmXgtuQ69KGyv24UxZqJmQHzkVpQvUyC5EchZ/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Bushido_Society",
+        "website": "https://bushidosociety.com/"
+      }
     }
   ],
   "version": {
