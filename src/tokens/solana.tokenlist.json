@@ -147505,6 +147505,17 @@
       "extensions": {
         "twitter": "https://twitter.com/Adagio_TVs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CtBR1SMTEpbNixGdDTD5Xnh4xQQE8NMP2zi5VRWXn3pe",
+      "symbol": "SEWL",
+      "name": "Snake Eyes WL",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/attachments/962058091661234197/963300850254622770/Untitled_200_200_px_1.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
