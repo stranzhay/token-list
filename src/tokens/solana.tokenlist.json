@@ -147569,6 +147569,21 @@
         "twitter": "https://twitter.com/NFT_Off_Road_FC",
         "website": "https://nftoffroadfan.club/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "53bovFwsd8eFuBd7tYv9gK8qG2FYJwemLP9zwQsVTJSH",
+      "symbol": "ANGELS",
+      "name": "Fallen Angels",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/53bovFwsd8eFuBd7tYv9gK8qG2FYJwemLP9zwQsVTJSH/logo.png",
+      "tags": [
+        "nft-marketplace"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/fallenangelsxyz",
+        "website": "http://fallenangels.com/"
+      }
     }
   ],
   "version": {
