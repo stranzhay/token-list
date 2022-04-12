@@ -148090,6 +148090,26 @@
       "extensions": {
         "website": "https://gocaptain.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9qT2pfuVZYJisNQTfp1sa917e6t4mbi5Po9D3utwwKyj",
+      "symbol": "WCR",
+      "name": "RENDER",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/femolakarot/whitespaceNFT/main/Whitespace-Render-token-logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "NFT-Token"
+      ],
+      "extensions": {
+        "description": "The Whitespace Creatorverse native and governing token, stake creators to earn RENDER",
+        "discord": "https://discord.gg/u25c7PJdKz",
+        "instagram": "https://www.instagram.com/whitespace_creatorverse",
+        "twitter": "https://twitter.com/femolakarot",
+        "website": "https://whitespacenft.femolakarot.design/"
+      }
     }
   ],
   "version": {
