@@ -147448,6 +147448,14 @@
         "HODL",
         "OnChainPunk"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ADcEtKSVKDxBUe3JERgSh9q458w3kRKPMHkihF13vxx2",
+      "symbol": "DYOR",
+      "name": "NERD",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ADcEtKSVKDxBUe3JERgSh9q458w3kRKPMHkihF13vxx2/logo.png"
     }
   ],
   "version": {
