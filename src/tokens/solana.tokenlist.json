@@ -147551,6 +147551,24 @@
       "extensions": {
         "twitter": "https://twitter.com/mosquitowarrior"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4x41rDCA5jcXBzBr6e8vWh6nU5TDnRU7U1XPcCZFCUvY",
+      "symbol": "WLNOFC",
+      "name": "WL NFT OFF ROAD FAN CLUB",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4x41rDCA5jcXBzBr6e8vWh6nU5TDnRU7U1XPcCZFCUvY/logo.png",
+      "tags": [
+        "4x4-Fan-Club",
+        "4x4FC",
+        "utility-token",
+        "virtual-currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/NFT_Off_Road_FC",
+        "website": "https://nftoffroadfan.club/"
+      }
     }
   ],
   "version": {
