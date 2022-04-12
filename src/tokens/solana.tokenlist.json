@@ -147356,6 +147356,14 @@
       "extensions": {
         "website": "http://149.28.21.55/coin/solana/zzz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E4e93CbkTsyPWJ2EYMmDxbTg9dJoE91Rj5Lqq3Pddm5S",
+      "symbol": "PLS",
+      "name": "Pleasure",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E4e93CbkTsyPWJ2EYMmDxbTg9dJoE91Rj5Lqq3Pddm5S/logo.png"
     }
   ],
   "version": {
