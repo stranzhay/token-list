@@ -147946,6 +147946,17 @@
       "extensions": {
         "website": "https://sites.google.com/view/pizzatoru-coin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "33QF5or7ffqbvwGmuLidwimqZze4Cja5n2f8AH9VLUx9",
+      "symbol": "SQL",
+      "name": "Sheqel",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/Chad-Mann/Sheqel/main/Sheqel-Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
