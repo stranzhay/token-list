@@ -148068,6 +148068,17 @@
         "twitter": "https://twitter.com/thesaints_nft",
         "website": "https://saintsnft.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EiThfHf6SMVEPoAds6BjoHu48ayUHRj8drZetG4NVdEn",
+      "symbol": "FMI",
+      "name": "FMI COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fmicoin/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
