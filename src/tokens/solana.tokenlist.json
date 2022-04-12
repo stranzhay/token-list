@@ -147878,6 +147878,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4eLYNzEr1kTmMCECS1Tsmr9ETnouj29S9aqx6pABJmmC",
+      "symbol": "HoneyB",
+      "name": "HoneyB",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4eLYNzEr1kTmMCECS1Tsmr9ETnouj29S9aqx6pABJmmC/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Bear Universe",
+        "twitter": "https://twitter.com/bearuniversenft"
+      }
     }
   ],
   "version": {
