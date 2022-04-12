@@ -147472,6 +147472,24 @@
       "extensions": {
         "website": "https://techfolk.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CSPToxnAWVb9YNPfrfhkhq2cterzVtgmfYju7nxg9MAA",
+      "symbol": "CSPT",
+      "name": "CryptoSport",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSPToxnAWVb9YNPfrfhkhq2cterzVtgmfYju7nxg9MAA/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/Crypto-Sport-104470991959649",
+        "instagram": "https://www.instagram.com/cryptosport_official/",
+        "linkedin": "https://www.linkedin.com/company/cryptosportconnection",
+        "twitter": "https://twitter.com/Go_CryptoSport",
+        "website": "https://Gocryptosport.com/"
+      }
     }
   ],
   "version": {
