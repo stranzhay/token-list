@@ -147391,6 +147391,71 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8SxMo8spwojJnReD36RpFhmZzb8UoR2MhWyJfVja5Kx2",
+      "symbol": "BAGS",
+      "name": "Bandits",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8SxMo8spwojJnReD36RpFhmZzb8UoR2MhWyJfVja5Kx2/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4zwvyYh98HjJjCzt2WvHqxfxU3bg25C2cG3rNniKmf3D",
+      "symbol": "CBWLF",
+      "name": "Cyberbloks whitelist free mint token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4zwvyYh98HjJjCzt2WvHqxfxU3bg25C2cG3rNniKmf3D/wlfree-token3D.png",
+      "tags": [
+        "Cyberbloks",
+        "whitelist-token",
+        "nfts"
+      ],
+      "extensions": {
+        "website": "http://www.cyberbloks.com"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "3VFFHRZZnXeNjFXmQ5n2hy4jBosZ3WCSLHsqjAjajPU6",
+      "symbol": "TFT",
+      "name": "Tech Folk",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3VFFHRZZnXeNjFXmQ5n2hy4jBosZ3WCSLHsqjAjajPU6/logo.svg",
+      "tags": [
+        "Tech-Folk",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://web.dev.techfolk.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9r4V29zLPD8DXbHR3RVjJb7xrrofEnjB2JHfZiGGLAwp",
+      "symbol": "WBNK",
+      "name": "WORLDBANK",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/OnChainPunk/BANK/main/Bank.png",
+      "tags": [
+        "utility-token",
+        "HODL",
+        "OnChainPunk"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ADcEtKSVKDxBUe3JERgSh9q458w3kRKPMHkihF13vxx2",
+      "symbol": "DYOR",
+      "name": "NERD",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ADcEtKSVKDxBUe3JERgSh9q458w3kRKPMHkihF13vxx2/logo.png"
     }
   ],
   "version": {
