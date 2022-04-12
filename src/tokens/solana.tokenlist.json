@@ -147599,6 +147599,17 @@
         "twitter": "https://twitter.com/okaybears",
         "website": "https://www.okaybears.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GL7i9TYcE2pKmVYqPrgZht8LcWKBQF4jvDfXQAFDMVwP",
+      "symbol": "PO",
+      "name": "PO",
+      "decimals": 1,
+      "logoURI": "https://commons.wikimedia.org/wiki/Commons:Quality_images#/media/File:Gull_portrait_ca_usa.jpg",
+      "tags": [
+        "currency"
+      ]
     }
   ],
   "version": {
