@@ -147610,6 +147610,20 @@
       "tags": [
         "currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BEBE2QoWKeodTELW8v2aFZHUKsFjiZqb3g9npthHsriJ",
+      "symbol": "BEBE",
+      "name": "BEBE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEBE2QoWKeodTELW8v2aFZHUKsFjiZqb3g9npthHsriJ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.mekababies.com/"
+      }
     }
   ],
   "version": {
