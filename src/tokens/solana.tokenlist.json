@@ -147649,6 +147649,21 @@
       "extensions": {
         "website": "http://cryptocanvaz.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2rpR7AagtCaa4Dt9HRFXr7cLGAAyMf1uC8HgYRDhPwCA",
+      "symbol": "REE",
+      "name": "Reezez",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Delvobit/reezez/main/reezez.png",
+      "tags": [
+        "social-token",
+        "Community-token"
+      ],
+      "extensions": {
+        "website": "https://reezez.com"
+      }
     }
   ],
   "version": {
