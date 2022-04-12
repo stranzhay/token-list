@@ -147702,6 +147702,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HNm1VgnyhaMZZF71RjNFNiYLN76zyZTDcBZPjYveWFXX",
+      "symbol": "FRENS",
+      "name": "Chimp Frens",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HNm1VgnyhaMZZF71RjNFNiYLN76zyZTDcBZPjYveWFXX/chimp.png",
+      "tags": [
+        "nfts"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/chimpfrens",
+        "website": "https://www.chimpfrens.com/"
+      }
     }
   ],
   "version": {
