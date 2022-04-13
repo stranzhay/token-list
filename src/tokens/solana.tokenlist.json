@@ -148340,6 +148340,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DHGdE3i9eSPq9ZGMJrr4Yxgn9aMBV5tWnZ6UmLQM6prC",
+      "symbol": "PLTC",
+      "name": "plateauCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/husainunwalla/plateaucoin/main/plateau.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
