@@ -148241,6 +148241,42 @@
         "twitter": "https://twitter.com/Trezarcoin",
         "website": "https://trezarcoin.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "t1tkJghUxXFrpdzuMq114VjJ4aHgHZMftDMcZATHrmG",
+      "symbol": "DEAL",
+      "name": "IM THAT FAKE TOKEN SELLER",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/t1tkJghUxXFrpdzuMq114VjJ4aHgHZMftDMcZATHrmG/logo.png",
+      "tags": [
+        "msg-me",
+        "in-Discord",
+        "SonicHASH9622",
+        "HASH-is",
+        "The-Symbol",
+        "I-want",
+        "to-make",
+        "A-DEAL"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Fqd23hsmsyFeZWRzvN8WZUBKhSJFrxrjwVMu3TFM9Ygn",
+      "symbol": "MAKE",
+      "name": "CONTACTME SonicHASH9622",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fqd23hsmsyFeZWRzvN8WZUBKhSJFrxrjwVMu3TFM9Ygn/logo.png",
+      "tags": [
+        "msg-me",
+        "in-Discord",
+        "SonicHASH9622",
+        "HASH-is",
+        "The-Symbol",
+        "I-am",
+        "that-fake",
+        "token-seller"
+      ]
     }
   ],
   "version": {
