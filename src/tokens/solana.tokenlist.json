@@ -148208,6 +148208,21 @@
       "extensions": {
         "twitter": "https://twitter.com/onlymintus"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "moaTKHdUBnQyCTUbaetkPek8tnQkZTN4Z4ALMTHgQr9",
+      "symbol": "MoAToken",
+      "name": "Ministry of Art - Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/moaTKHdUBnQyCTUbaetkPek8tnQkZTN4Z4ALMTHgQr9/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MinistryArt",
+        "website": "https://ministry.art/"
+      }
     }
   ],
   "version": {
