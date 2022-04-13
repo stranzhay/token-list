@@ -148829,6 +148829,21 @@
         "social-token",
         "staking"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Frog3s4ZRPDonJExV2Yw2MgtF7vXMf1f8fx85WM6BV8h",
+      "symbol": "SFWL",
+      "name": "The Stoned Frogs WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Frog3s4ZRPDonJExV2Yw2MgtF7vXMf1f8fx85WM6BV8h/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheStonedFrogs",
+        "website": "https://www.thestonedfrogs.io/"
+      }
     }
   ],
   "version": {
