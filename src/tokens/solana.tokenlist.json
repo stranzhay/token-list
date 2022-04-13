@@ -148757,6 +148757,17 @@
       "extensions": {
         "twitter": "https://twitter.com/metagonnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6qLB8HrouHjQPSAypBfDetAjF1uZJKQjtG7WfpT9Sz5k",
+      "symbol": "ARB",
+      "name": "Arbor",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/svb1995/crypto/main/Thank.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
