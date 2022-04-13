@@ -148516,6 +148516,17 @@
       "extensions": {
         "description": "Broderson Tattoos - Real life masterpieces. Digital artworks."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "57ccgdZuFf3ZuzSzuQrRA37dYWho72yK44zQb2NGC4E1",
+      "symbol": "SRN",
+      "name": "SerenaH",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/benorz/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
