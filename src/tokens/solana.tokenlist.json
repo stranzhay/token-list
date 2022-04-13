@@ -148647,6 +148647,23 @@
       "extensions": {
         "website": "https://theshitz.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7VvNMQQZxPXjK7ZJonXGZ8wK7pmkJJpPyuh1NyF3D33v",
+      "symbol": "ARABZZ",
+      "name": "ArabPunkz 3D Whitelist token",
+      "decimals": 9,
+      "logoURI": "https://imgur.com/k3MITax.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "animationUrl": "https://i.imgur.com/bJQjXLk.mp4",
+        "description": "ArabPunkz 3D Whitelist redeemable token",
+        "imageUrl": "https://arwave.art/upga5v2tzpnak1eqlq5kvc/upga5v2tzp.png",
+        "website": "https://arabpunkz.io"
+      }
     }
   ],
   "version": {
