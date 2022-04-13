@@ -148194,6 +148194,20 @@
       "extensions": {
         "twitter": "https://twitter.com/monkversenfts"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BTuBJVKyD44arpZn5g49h1t9XmBnWWwrGZYkAPqKEJca",
+      "symbol": "MINTUS",
+      "name": "MintUS WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BTuBJVKyD44arpZn5g49h1t9XmBnWWwrGZYkAPqKEJca/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/onlymintus"
+      }
     }
   ],
   "version": {
