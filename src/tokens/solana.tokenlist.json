@@ -148493,6 +148493,14 @@
       "name": "SmokeHeads WLtoken",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SH1f6At4pScGi42Xfp6tvf9eKirfMd5bi2oPmxdpUAF/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "2cpgKn9RtchCLYiXoU7NJasMWcKLYJndHsYBQjcrTjbp",
+      "symbol": "TOM",
+      "name": "Tomcoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2cpgKn9RtchCLYiXoU7NJasMWcKLYJndHsYBQjcrTjbp/siku-square.png"
     }
   ],
   "version": {
