@@ -148448,6 +148448,28 @@
         "twitter": "https://twitter.com/slmasinc",
         "website": "https://slmas.co"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H2QCpfU42RB7KBouuxkyR4qD27UwPzLoTnCLvSPN2hh3",
+      "symbol": "ER",
+      "name": "Ernest Beyond",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H2QCpfU42RB7KBouuxkyR4qD27UwPzLoTnCLvSPN2hh3/logo.png",
+      "tags": [
+        "WL-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AR2KqRonb6ZAspTAJbk2HwCZHgjbz8GL6ZpSA43QsYLo",
+      "symbol": "SS",
+      "name": "Storm",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AR2KqRonb6ZAspTAJbk2HwCZHgjbz8GL6ZpSA43QsYLo/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
