@@ -148223,6 +148223,24 @@
         "twitter": "https://twitter.com/MinistryArt",
         "website": "https://ministry.art/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ETbxzGvuzVrCxVN7cNoT6QBEYwFLBwMUwSYX6pUdHyep",
+      "symbol": "sTZC",
+      "name": "Trezarcoin",
+      "decimals": 6,
+      "logoURI": "https://trezarcoin.com/wp-content/uploads/2018/02/TZC-1000x.png",
+      "tags": [
+        "sTZC",
+        "utility-token",
+        "TZC-on-Sol"
+      ],
+      "extensions": {
+        "description": "sTZC is a bridged version of Trezarcoin on Solana",
+        "twitter": "https://twitter.com/Trezarcoin",
+        "website": "https://trezarcoin.com"
+      }
     }
   ],
   "version": {
