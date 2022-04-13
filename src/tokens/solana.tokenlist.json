@@ -148708,6 +148708,44 @@
         "twitter": "https://twitter.com/TamashiSoulNFT",
         "website": "https://tamashisoul.world"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6efabccMqpTQR9arTi4FsD778ieyY9tVKjbuTcrtc57T",
+      "symbol": "GRCC",
+      "name": "Grumpy Cup Coffee Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/samuelseeman/grumpy-cup-token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ribb7TpYFS1nwDskSEQ1i4nBJ5T5ZZnJTKHRzYVhwrC",
+      "symbol": "RIBBIT",
+      "name": "RIBBIT Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ribb7TpYFS1nwDskSEQ1i4nBJ5T5ZZnJTKHRzYVhwrC/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/wGdfp6TJn9",
+        "twitter": "https://twitter.com/execdao"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6t8DKyndGyqnzP63iNU1zMKWrUfvRZo3iNxaeqhd9Q9b",
+      "symbol": "DEZN",
+      "name": "DeadCitizen",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6t8DKyndGyqnzP63iNU1zMKWrUfvRZo3iNxaeqhd9Q9b/logo.png",
+      "tags": [
+        "community-token",
+        "DeadCitizen-token"
+      ]
     }
   ],
   "version": {
