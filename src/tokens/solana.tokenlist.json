@@ -148379,6 +148379,36 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D985jiWb7dSCAUNPrzfzzMjPYErDwQsBSvRoyQE2ZQLJ",
+      "symbol": "NYC",
+      "name": "New York Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/LassePinga/PNG/main/logos/logo_NYC.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "New York Coin - Where dreams are made of!"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6YCVEZYNR452xf4AYDBDPAKbyDokGaqvFaJQGbdoGV6G",
+      "symbol": "BHH",
+      "name": "Broderson Hamburg",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/LassePinga/PNG/main/logos/logo_broderson_hh.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Broderson Tattoos - Real life masterpieces. Digital artworks."
+      }
     }
   ],
   "version": {
