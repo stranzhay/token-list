@@ -148746,6 +148746,43 @@
         "community-token",
         "DeadCitizen-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "By4SeG9KufEAuBVU4T2wa9s6CfNCPh7YomdzzZAMZoLF",
+      "symbol": "RAWR",
+      "name": "RAWR Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/omer-demir/token-list/main/assets/mainnet/By4SeG9KufEAuBVU4T2wa9s6CfNCPh7YomdzzZAMZoLF/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/metagonnft"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6qLB8HrouHjQPSAypBfDetAjF1uZJKQjtG7WfpT9Sz5k",
+      "symbol": "ARB",
+      "name": "Arbor",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/svb1995/crypto/main/Thank.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2EyAXWi1VKFQwBonEAAk6rhe17vvKC9GXMmAk6V27dVw",
+      "symbol": "DINOSIL",
+      "name": "Dino Silver",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/RolandPixeldust/PXCoin/main/Silver.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/mentalprotocol",
+        "website": "https://twitter.com/PixeldustNFT"
+      }
     }
   ],
   "version": {
