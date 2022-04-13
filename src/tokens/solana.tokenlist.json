@@ -148664,6 +148664,20 @@
         "imageUrl": "https://arwave.art/upga5v2tzpnak1eqlq5kvc/upga5v2tzp.png",
         "website": "https://arabpunkz.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DYorSUf2MBWCBwCHSqmqVXeNLxzNPRMcPZgzhgFZhCDq",
+      "symbol": "DYOR",
+      "name": "DYOR Nerds WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYorSUf2MBWCBwCHSqmqVXeNLxzNPRMcPZgzhgFZhCDq/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DYORNERDS"
+      }
     }
   ],
   "version": {
