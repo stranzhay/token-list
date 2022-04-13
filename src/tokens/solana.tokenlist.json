@@ -148584,6 +148584,22 @@
         "twitter": "https://twitter.com/mentalprotocol",
         "website": "https://mentalprotocol.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JCt4Uq9DnEfUiZ9yQ1ds5c3AnCq76pNHSxCWzLjKSvLJ",
+      "symbol": "ONYX",
+      "name": "Onyx Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JCt4Uq9DnEfUiZ9yQ1ds5c3AnCq76pNHSxCWzLjKSvLJ/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Darkland_creat",
+        "website": "https://darklandcards.netlify.app/"
+      }
     }
   ],
   "version": {
