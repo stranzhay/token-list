@@ -148351,6 +148351,34 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9WgTVodnWjVTwDyp44cEgezKhPhexkJMv1d2MkmGJEWw",
+      "symbol": "TMP",
+      "name": "MXM Alpha Temp Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9WgTVodnWjVTwDyp44cEgezKhPhexkJMv1d2MkmGJEWw/logo.png",
+      "tags": [
+        "GameFi",
+        "Game"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/mixmob",
+        "twitter": "https://twitter.com/mixmoborigin",
+        "website": "https://www.mixmob.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DbaNZcWN2UnRFmVXKPVc9ViqebN6jYn7JyexXctvAq5Z",
+      "symbol": "NEN",
+      "name": "NEN COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jxliana/crypto/main/glow.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
