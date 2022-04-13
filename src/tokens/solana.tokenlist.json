@@ -148600,6 +148600,24 @@
         "twitter": "https://twitter.com/Darkland_creat",
         "website": "https://darklandcards.netlify.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGJUd4fXErst425116mVqffFhfmhVbi3YB4WT37DZeEy",
+      "symbol": "MISK",
+      "name": "MISK Radio",
+      "decimals": 9,
+      "logoURI": "https://imgur.com/dGGwaMj.jpeg",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "animationUrl": "https://imgur.com/CWFVZxE.mp4",
+        "description": "Your number one Radio, Misk FM",
+        "imageUrl": "https://imgur.com/dGGwaMj.jpeg",
+        "website": "http://www.misk.art"
+      }
     }
   ],
   "version": {
