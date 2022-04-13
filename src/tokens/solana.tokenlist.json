@@ -148708,6 +148708,17 @@
         "twitter": "https://twitter.com/TamashiSoulNFT",
         "website": "https://tamashisoul.world"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6efabccMqpTQR9arTi4FsD778ieyY9tVKjbuTcrtc57T",
+      "symbol": "GRCC",
+      "name": "Grumpy Cup Coffee Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/samuelseeman/grumpy-cup-token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
