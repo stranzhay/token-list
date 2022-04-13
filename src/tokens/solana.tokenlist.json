@@ -148768,6 +148768,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2EyAXWi1VKFQwBonEAAk6rhe17vvKC9GXMmAk6V27dVw",
+      "symbol": "DINOSIL",
+      "name": "Dino Silver",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/RolandPixeldust/PXCoin/main/Silver.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/mentalprotocol",
+        "website": "https://twitter.com/PixeldustNFT"
+      }
     }
   ],
   "version": {
