@@ -148633,6 +148633,20 @@
       "extensions": {
         "twitter": "https://twitter.com/nodemonkeynft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4UfwrRqbzjNZbXTKNbWwhScN29Dguj1BiBNwj6JqVsuH",
+      "symbol": "SHITZ",
+      "name": "The Shitz",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4UfwrRqbzjNZbXTKNbWwhScN29Dguj1BiBNwj6JqVsuH/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://theshitz.io"
+      }
     }
   ],
   "version": {
