@@ -148420,6 +148420,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7GeFDSxG5jLsRG7rjNd8hFKaVt49wJQt6tdPMENn41v9",
+      "symbol": "NOMNOM",
+      "name": "nomnom",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7GeFDSxG5jLsRG7rjNd8hFKaVt49wJQt6tdPMENn41v9/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolanaShroomz",
+        "website": "https://www.solanashroomz.io/"
+      }
     }
   ],
   "version": {
