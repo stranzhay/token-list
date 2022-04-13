@@ -148501,6 +148501,44 @@
       "name": "Tomcoin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2cpgKn9RtchCLYiXoU7NJasMWcKLYJndHsYBQjcrTjbp/siku-square.png"
+    },
+    {
+      "chainId": 101,
+      "address": "G2HN9GyKjfkm89Gw1jG3kowfiaTaxvRkRMzrz5QWtwbF",
+      "symbol": "BTX",
+      "name": "Broderson Tattoo",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/LassePinga/PNG/main/logos/logo_broderson_tattoo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Broderson Tattoos - Real life masterpieces. Digital artworks."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "57ccgdZuFf3ZuzSzuQrRA37dYWho72yK44zQb2NGC4E1",
+      "symbol": "SRN",
+      "name": "SerenaH",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/benorz/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "ExW7Yek3vsRJcapsdRKcxF9XRRS8zigLZ8nqqdqnWgQi",
+      "symbol": "unUSDC",
+      "name": "Unloc USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ExW7Yek3vsRJcapsdRKcxF9XRRS8zigLZ8nqqdqnWgQi/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/UnlocNFT",
+        "website": "https://unloc.xyz/"
+      }
     }
   ],
   "version": {
