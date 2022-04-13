@@ -148180,6 +148180,20 @@
         "twitter": "https://twitter.com/BattleDronesNFT",
         "website": "https://battledrones.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MoNKQxmf7jKLrrz695eRGD7z2z13YsLFJaqHM45vPFw",
+      "symbol": "MONK",
+      "name": "MonkVerse",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MoNKQxmf7jKLrrz695eRGD7z2z13YsLFJaqHM45vPFw/logo.png",
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/monkversenfts"
+      }
     }
   ],
   "version": {
