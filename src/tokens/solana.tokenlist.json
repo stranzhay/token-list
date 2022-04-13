@@ -148618,6 +148618,21 @@
         "imageUrl": "https://imgur.com/dGGwaMj.jpeg",
         "website": "http://www.misk.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NodePBhXHVcHom1zekzY4o95EVGg8FtQ29M9pEb3AXJ",
+      "symbol": "NODE",
+      "name": "Node Monkeys Automation Tool Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img922/6391/uKJaL7.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nodemonkeynft"
+      }
     }
   ],
   "version": {
