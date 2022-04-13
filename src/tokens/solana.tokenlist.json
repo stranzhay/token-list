@@ -148501,6 +148501,21 @@
       "name": "Tomcoin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2cpgKn9RtchCLYiXoU7NJasMWcKLYJndHsYBQjcrTjbp/siku-square.png"
+    },
+    {
+      "chainId": 101,
+      "address": "G2HN9GyKjfkm89Gw1jG3kowfiaTaxvRkRMzrz5QWtwbF",
+      "symbol": "BTX",
+      "name": "Broderson Tattoo",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/LassePinga/PNG/main/logos/logo_broderson_tattoo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Broderson Tattoos - Real life masterpieces. Digital artworks."
+      }
     }
   ],
   "version": {
