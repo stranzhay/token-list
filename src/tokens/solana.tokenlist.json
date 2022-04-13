@@ -148817,6 +148817,18 @@
       "tags": [
         "general"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8APsy1a6xejoxnoRYFt99GNuhkFvwMtx4W1tXLPw71Sm",
+      "symbol": "TWC",
+      "name": "THE WOLF CLUB (TWC)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/YBenji/crypto/main/TWCLOGO.png",
+      "tags": [
+        "social-token",
+        "staking"
+      ]
     }
   ],
   "version": {
