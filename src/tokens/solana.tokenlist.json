@@ -148678,6 +148678,20 @@
       "extensions": {
         "twitter": "https://twitter.com/DYORNERDS"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "73ZW3Fr5aPiZCwX3Qv9EoNdmBhoT6KVpvkZemHViB2af",
+      "symbol": "ALDC",
+      "name": "ALEDA Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/AlexDanielC/aledacoin/main/Logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Hi! My name is Alex Daniel and that's my token! Nice to meet you! \u003c3"
+      }
     }
   ],
   "version": {
