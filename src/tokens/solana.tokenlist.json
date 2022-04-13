@@ -148132,6 +148132,23 @@
       "extensions": {
         "twitter": "https://twitter.com/mosquitowarrior"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "imsoVR7F3p9KnmAXDB38EiSjYyLqkgQS8QWj4egsgDz",
+      "symbol": "IMSOMINT",
+      "name": "IMSO Mint Token",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/N6Y8A1lf3uPfvfwLp_09GsU1Wj_VUvI4mrlHoW6Wlbw",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/w9StbG6Fsa",
+        "twitter": "https://twitter.com/IMSO_Game",
+        "website": "https://imsogame.com/",
+        "youtube": "https://www.youtube.com/playlist?list=PLJWpaLg65q8skSdffF2gDE9m5sbCwZWV8"
+      }
     }
   ],
   "version": {
