@@ -148121,6 +148121,65 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DrdaGQsBnxUByKPqm3GFPnobW3FF3YNbKmvnLbjvK5v9",
+      "symbol": "MOSQUITOWARRIORS",
+      "name": "EARLY MINT TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DrdaGQsBnxUByKPqm3GFPnobW3FF3YNbKmvnLbjvK5v9/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/mosquitowarrior"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "imsoVR7F3p9KnmAXDB38EiSjYyLqkgQS8QWj4egsgDz",
+      "symbol": "IMSOMINT",
+      "name": "IMSO Mint Token",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/N6Y8A1lf3uPfvfwLp_09GsU1Wj_VUvI4mrlHoW6Wlbw",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/w9StbG6Fsa",
+        "twitter": "https://twitter.com/IMSO_Game",
+        "website": "https://imsogame.com/",
+        "youtube": "https://www.youtube.com/playlist?list=PLJWpaLg65q8skSdffF2gDE9m5sbCwZWV8"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "MiNAtFMGvaEAJft5VVnVyy5jZy1fBWVEDTuraMmth5P",
+      "symbol": "MINA",
+      "name": "Solmiantor Official WL token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MiNAtFMGvaEAJft5VVnVyy5jZy1fBWVEDTuraMmth5P/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolminatorNFT",
+        "website": "https://www.solminator.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DKEyAMNSVNdFCSUcunFJ4jn7TzZd8ec9Z4XUACaT37mG",
+      "symbol": "BattleWL",
+      "name": "Battle Drones Wave 2 WL Token",
+      "decimals": 0,
+      "logoURI": "https://battledrones.io/WL_token.png",
+      "tags": [
+        "WL"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/jRz63Dsa3p",
+        "twitter": "https://twitter.com/BattleDronesNFT",
+        "website": "https://battledrones.io"
+      }
     }
   ],
   "version": {
