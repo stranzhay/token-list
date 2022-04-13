@@ -148368,6 +148368,17 @@
         "twitter": "https://twitter.com/mixmoborigin",
         "website": "https://www.mixmob.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DbaNZcWN2UnRFmVXKPVc9ViqebN6jYn7JyexXctvAq5Z",
+      "symbol": "NEN",
+      "name": "NEN COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jxliana/crypto/main/glow.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
