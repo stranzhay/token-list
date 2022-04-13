@@ -148329,6 +148329,28 @@
         "twitter": "https://twitter.com/thesmugpugs",
         "website": "https://thesmugpugs.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ArN66gBHM6izxCSMEbtzHh5oYyvAgA2UKcjXmrnagj3k",
+      "symbol": "SKWL",
+      "name": "Synthtopia Key WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ArN66gBHM6izxCSMEbtzHh5oYyvAgA2UKcjXmrnagj3k/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DHGdE3i9eSPq9ZGMJrr4Yxgn9aMBV5tWnZ6UmLQM6prC",
+      "symbol": "PLTC",
+      "name": "plateauCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/husainunwalla/plateaucoin/main/plateau.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
