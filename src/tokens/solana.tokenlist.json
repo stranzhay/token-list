@@ -148783,6 +148783,29 @@
         "twitter": "https://twitter.com/mentalprotocol",
         "website": "https://twitter.com/PixeldustNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8v65mF5HJ5FGrxFoUX2L1uv26L87Cb3e1ikptji91FBJ",
+      "symbol": "ZTBI",
+      "name": "Zotobi Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/zotobicoin/token/raw/main/zotobi_coin.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "F5W7UXQBFif6HgQmHRcZ4Tqz4xDAsbVpj2Qe6KTfRXSp",
+      "symbol": "1337",
+      "name": "Leet Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Peannut/token/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
