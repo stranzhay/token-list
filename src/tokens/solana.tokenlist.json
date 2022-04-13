@@ -148436,6 +148436,18 @@
         "twitter": "https://twitter.com/SolanaShroomz",
         "website": "https://www.solanashroomz.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SMG8HtMAv1XrtcNW4C2TLoGau9BUrwmfgu6Gm8uyven",
+      "symbol": "SMG",
+      "name": "SLMAS INC",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SMG8HtMAv1XrtcNW4C2TLoGau9BUrwmfgu6Gm8uyven/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/slmasinc",
+        "website": "https://slmas.co"
+      }
     }
   ],
   "version": {
