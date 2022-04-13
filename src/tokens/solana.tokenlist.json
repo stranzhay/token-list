@@ -148618,6 +148618,52 @@
         "imageUrl": "https://imgur.com/dGGwaMj.jpeg",
         "website": "http://www.misk.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NodePBhXHVcHom1zekzY4o95EVGg8FtQ29M9pEb3AXJ",
+      "symbol": "NODE",
+      "name": "Node Monkeys Automation Tool Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img922/6391/uKJaL7.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nodemonkeynft"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4UfwrRqbzjNZbXTKNbWwhScN29Dguj1BiBNwj6JqVsuH",
+      "symbol": "SHITZ",
+      "name": "The Shitz",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4UfwrRqbzjNZbXTKNbWwhScN29Dguj1BiBNwj6JqVsuH/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://theshitz.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7VvNMQQZxPXjK7ZJonXGZ8wK7pmkJJpPyuh1NyF3D33v",
+      "symbol": "ARABZZ",
+      "name": "ArabPunkz 3D Whitelist token",
+      "decimals": 9,
+      "logoURI": "https://imgur.com/k3MITax.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "animationUrl": "https://i.imgur.com/bJQjXLk.mp4",
+        "description": "ArabPunkz 3D Whitelist redeemable token",
+        "imageUrl": "https://arwave.art/upga5v2tzpnak1eqlq5kvc/upga5v2tzp.png",
+        "website": "https://arabpunkz.io"
+      }
     }
   ],
   "version": {
