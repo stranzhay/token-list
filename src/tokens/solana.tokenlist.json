@@ -148719,6 +148719,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ribb7TpYFS1nwDskSEQ1i4nBJ5T5ZZnJTKHRzYVhwrC",
+      "symbol": "RIBBIT",
+      "name": "RIBBIT Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ribb7TpYFS1nwDskSEQ1i4nBJ5T5ZZnJTKHRzYVhwrC/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/wGdfp6TJn9",
+        "twitter": "https://twitter.com/execdao"
+      }
     }
   ],
   "version": {
