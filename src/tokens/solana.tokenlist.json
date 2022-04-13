@@ -148527,6 +148527,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "ExW7Yek3vsRJcapsdRKcxF9XRRS8zigLZ8nqqdqnWgQi",
+      "symbol": "unUSDC",
+      "name": "Unloc USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ExW7Yek3vsRJcapsdRKcxF9XRRS8zigLZ8nqqdqnWgQi/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/UnlocNFT",
+        "website": "https://unloc.xyz/"
+      }
     }
   ],
   "version": {
