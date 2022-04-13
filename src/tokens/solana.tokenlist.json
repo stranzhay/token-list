@@ -87762,6 +87762,7 @@
         "stablecoin"
       ],
       "extensions": {
+        "coingeckoId": "usdh",
         "discord": "https://discord.gg/d44A8WvK",
         "twitter": "https://twitter.com/hubbleprotocol",
         "website": "https://hubbleprotocol.io/"
