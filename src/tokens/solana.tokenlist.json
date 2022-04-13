@@ -148470,6 +148470,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5AK5t6AqgfFNoMQAdxxaRETS2xyeEXekiiBWdcfAjm4p",
+      "symbol": "HH",
+      "name": "Hamburg Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/LassePinga/PNG/main/logos/logo_hh.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Hansestadt Hamburg Token"
+      }
     }
   ],
   "version": {
