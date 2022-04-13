@@ -148794,6 +148794,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F5W7UXQBFif6HgQmHRcZ4Tqz4xDAsbVpj2Qe6KTfRXSp",
+      "symbol": "1337",
+      "name": "Leet Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Peannut/token/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
