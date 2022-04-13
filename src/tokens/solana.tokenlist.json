@@ -148746,6 +148746,17 @@
         "community-token",
         "DeadCitizen-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "By4SeG9KufEAuBVU4T2wa9s6CfNCPh7YomdzzZAMZoLF",
+      "symbol": "RAWR",
+      "name": "RAWR Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/omer-demir/token-list/main/assets/mainnet/By4SeG9KufEAuBVU4T2wa9s6CfNCPh7YomdzzZAMZoLF/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/metagonnft"
+      }
     }
   ],
   "version": {
