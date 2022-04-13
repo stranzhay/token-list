@@ -148409,6 +148409,33 @@
       "extensions": {
         "description": "Broderson Tattoos - Real life masterpieces. Digital artworks."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4b8GhzgAPExdcAHTzLppgD4aSqn3UVmJ9pwWTbx3jVT1",
+      "symbol": "RAYC",
+      "name": "Ray Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dmitry-Raevsky/crypto/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7GeFDSxG5jLsRG7rjNd8hFKaVt49wJQt6tdPMENn41v9",
+      "symbol": "NOMNOM",
+      "name": "nomnom",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7GeFDSxG5jLsRG7rjNd8hFKaVt49wJQt6tdPMENn41v9/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolanaShroomz",
+        "website": "https://www.solanashroomz.io/"
+      }
     }
   ],
   "version": {
