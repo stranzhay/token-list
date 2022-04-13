@@ -148294,6 +148294,26 @@
         "serumV3Usdc": "GXnDRNRB3SeAKnAKAZX9WCE5LEvXpjUvFYyvmUsUQDUZ",
         "twitter": "https://twitter.com/noiaducks"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GZP2TeKqbDfEbW398Y56up8eYaZyhW7UE4bAaPFdqtct",
+      "symbol": "SCW",
+      "name": "Sensible Coins Work",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GZP2TeKqbDfEbW398Y56up8eYaZyhW7UE4bAaPFdqtct/logo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/SensibleConcreteWorks",
+        "github": "https://github.com/SmartNET-works",
+        "instagram": "https://www.instagram.com/SensibleConcrete",
+        "linkedin": "https://www.linkedin.com/company/sensible-concrete-works-llc",
+        "twitter": "https://twitter.com/SensibleCompany"
+      }
     }
   ],
   "version": {
