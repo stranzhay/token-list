@@ -148560,6 +148560,22 @@
         "website": "https://www.juiced.fi",
         "whitepaper": "https://juiced.fi/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2KXuiuKwSxatUSN3bYG9i4Mg9T66PYBPAHvVDtiCfoLm",
+      "symbol": "MEN",
+      "name": "Mental Protocol",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/MentalProtocol/uploads/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/mentalprotocol",
+        "twitter": "https://twitter.com/mentalprotocol",
+        "website": "https://mentalprotocol.net/"
+      }
     }
   ],
   "version": {
