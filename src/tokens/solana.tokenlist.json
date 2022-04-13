@@ -148277,6 +148277,23 @@
         "that-fake",
         "token-seller"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GgF2MBgxNSLJSyTLPnib3zpwFTtpdTmRfFhQ9mUuqdNm",
+      "symbol": "NQUACK",
+      "name": "NoiaDucks QUACK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GgF2MBgxNSLJSyTLPnib3zpwFTtpdTmRfFhQ9mUuqdNm/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/aet4ZX9Ptp",
+        "serumV3Usdc": "GXnDRNRB3SeAKnAKAZX9WCE5LEvXpjUvFYyvmUsUQDUZ",
+        "twitter": "https://twitter.com/noiaducks"
+      }
     }
   ],
   "version": {
