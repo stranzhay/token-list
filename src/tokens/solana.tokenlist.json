@@ -148485,6 +148485,14 @@
       "extensions": {
         "description": "Hansestadt Hamburg Token"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SH1f6At4pScGi42Xfp6tvf9eKirfMd5bi2oPmxdpUAF",
+      "symbol": "SH",
+      "name": "SmokeHeads WLtoken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SH1f6At4pScGi42Xfp6tvf9eKirfMd5bi2oPmxdpUAF/logo.png"
     }
   ],
   "version": {
