@@ -148121,6 +148121,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DrdaGQsBnxUByKPqm3GFPnobW3FF3YNbKmvnLbjvK5v9",
+      "symbol": "MOSQUITOWARRIORS",
+      "name": "EARLY MINT TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DrdaGQsBnxUByKPqm3GFPnobW3FF3YNbKmvnLbjvK5v9/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/mosquitowarrior"
+      }
     }
   ],
   "version": {
