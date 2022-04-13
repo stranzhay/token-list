@@ -148409,6 +148409,17 @@
       "extensions": {
         "description": "Broderson Tattoos - Real life masterpieces. Digital artworks."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4b8GhzgAPExdcAHTzLppgD4aSqn3UVmJ9pwWTbx3jVT1",
+      "symbol": "RAYC",
+      "name": "Ray Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dmitry-Raevsky/crypto/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
