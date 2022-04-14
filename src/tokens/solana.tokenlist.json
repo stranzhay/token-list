@@ -148929,6 +148929,22 @@
         "Social-Token",
         "collectible-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "A3LhReqJgCZPsYXiuRqap23JoLaTHyXzFnWFywe3MF2q",
+      "symbol": "HAKUJ",
+      "name": "Hakuj COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/akgbar/hakujtoken/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "DeFi"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bariskgz"
+      }
     }
   ],
   "version": {
