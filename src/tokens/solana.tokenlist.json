@@ -148861,6 +148861,74 @@
         "twitter": "https://twitter.com/theadex2",
         "website": "http://theadex.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DBTGhXu22musU5cCMbfx8XaZxgJJHZANK9RRSUE3KMUx",
+      "symbol": "ADAL",
+      "name": "Ahmadali Jamali",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/AhmadAJamali/Crypto/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ATBuXLdQ7GtFtKUsnT7nBSWfS9ZsStzn5d2UhGsQbAfT",
+      "symbol": "TMS",
+      "name": "Track Master",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/trackmastersteve/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "MoRPDFt2wSNBWfS7f3Pch3gehCUFyouLNCqLMQhJUh4",
+      "symbol": "MORP",
+      "name": "Morpheus",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MoRPDFt2wSNBWfS7f3Pch3gehCUFyouLNCqLMQhJUh4/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "4PJHvHRL44uPEf44LPV6PvwUBMRiKeq5BiLro7ycSAFX",
+      "symbol": "SecT",
+      "name": "Security Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CrashedNetwork/-ecurity-Token/main/BGC_ccexpress.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3fMN5za4iMmatXCeeWpVSjWDurvFGnNRdZFqTwYc2h8U",
+      "symbol": "YDI",
+      "name": "You Deserve It",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MrBrewster1970/YDI-Token/main/logo.png",
+      "tags": [
+        "metaverse",
+        "virtual-real-estate",
+        "utility-token",
+        "community-token",
+        "play-to-earn"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FBCp6ST2R2z7W9fe6xuU9sKPrFDe5cXBuZgjRaYCNssq",
+      "symbol": "BPC",
+      "name": "Black Penny",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/banton84/Black-Penny/main/logo.png.png",
+      "tags": [
+        "Social-Token",
+        "collectible-token"
+      ]
     }
   ],
   "version": {
