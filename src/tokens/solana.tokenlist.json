@@ -149420,6 +149420,26 @@
         "twitter": "https://twitter.com/playeverseed",
         "website": "https://everseed.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7YnPgaCvBjMvkmyzWSFUrdrooxPxyFSTCePQEg7AkTNZ",
+      "symbol": "ASSET",
+      "name": "Real Estate Game",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/RealEstateGame/crypto/main/coinREG_001.png",
+      "tags": [
+        "Social-Token",
+        "Realestate-Token",
+        "Land-Token",
+        "Metaverse-Token",
+        "Asset-Token",
+        "Property-Token",
+        "collectible-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/realestategame_"
+      }
     }
   ],
   "version": {
