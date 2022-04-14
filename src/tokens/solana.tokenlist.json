@@ -149212,6 +149212,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7mUBE2BnPGS7oxhkCFz7GKFsREB1XfoF73ngryiyDwNG",
+      "symbol": "HENTAI",
+      "name": "HENTAI COIN",
+      "decimals": 9,
+      "logoURI": "https://github.com/Hentai-Genesis/fav/blob/main/h.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/smolhentai",
+        "website": "https://hentai.lol/"
+      }
     }
   ],
   "version": {
