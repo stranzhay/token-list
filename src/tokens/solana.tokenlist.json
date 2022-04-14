@@ -149505,6 +149505,14 @@
         "discord": "https://discord.gg/degendojonft",
         "twitter": "https://twitter.com/DegenDojoNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NPCXwv7ag5cFcc4mXnEzCzrsFdCeZLqHx8AXM7W6gPr",
+      "symbol": "NPC",
+      "name": "NPC Club",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NPCXwv7ag5cFcc4mXnEzCzrsFdCeZLqHx8AXM7W6gPr/logo.png"
     }
   ],
   "version": {
