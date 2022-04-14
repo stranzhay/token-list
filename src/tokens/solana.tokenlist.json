@@ -149405,6 +149405,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EVERsR6LBAFAiJQ7x53aXSA9kenwvNqWvcmr2LSzqXB6",
+      "symbol": "Ever",
+      "name": "EverSeed WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EVERsR6LBAFAiJQ7x53aXSA9kenwvNqWvcmr2LSzqXB6/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/playeverseed",
+        "website": "https://everseed.com/"
+      }
     }
   ],
   "version": {
