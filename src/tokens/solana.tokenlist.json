@@ -148872,6 +148872,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ATBuXLdQ7GtFtKUsnT7nBSWfS9ZsStzn5d2UhGsQbAfT",
+      "symbol": "TMS",
+      "name": "Track Master",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/trackmastersteve/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
