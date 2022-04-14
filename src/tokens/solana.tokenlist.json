@@ -149114,6 +149114,20 @@
         "twitter": "https://twitter.com/TinyColonyGame",
         "website": "http://tinycolony.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "RMWLNGZ3aujqFnCE2LYLeRFixxKNuudN4ZrdYnQs8FD",
+      "symbol": "RMWL",
+      "name": "Rag a Muffin WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RMWLNGZ3aujqFnCE2LYLeRFixxKNuudN4ZrdYnQs8FD/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ragamuffinsbw"
+      }
     }
   ],
   "version": {
