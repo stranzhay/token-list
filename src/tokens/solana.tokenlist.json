@@ -149077,6 +149077,14 @@
       "tags": [
         "sports-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "eRkvH2Q8jtfuJMrCX7mDjcNPBix7xPXGpufypY66fyx",
+      "symbol": "BOGWL",
+      "name": "Birth of Galaxy WL token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/eRkvH2Q8jtfuJMrCX7mDjcNPBix7xPXGpufypY66fyx/icon.png"
     }
   ],
   "version": {
