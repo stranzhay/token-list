@@ -149227,6 +149227,17 @@
         "twitter": "https://twitter.com/smolhentai",
         "website": "https://hentai.lol/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HLVa5jbEhAtN8sgvoeSvP7zZCjxVzd2nhfUD15cKXFv5",
+      "symbol": "DROPS",
+      "name": "Drops",
+      "decimals": 0,
+      "logoURI": "https://github.com/Capetownsun/sunny/blob/main/rainbow-drop.png?raw=true",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
