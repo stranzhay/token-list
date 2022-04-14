@@ -149440,6 +149440,21 @@
       "extensions": {
         "twitter": "https://twitter.com/realestategame_"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4wMR7a4WocQsVdQ47B5hk246c5omx8Wh258TYDvf5v38",
+      "symbol": "AST",
+      "name": "Awesome Sales Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AlexAaron1/Crypto/main/Screen%20Shot%202022-04-14%20at%2012.58.20%20PM.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/okaybears",
+        "website": "https://okaybears.com"
+      }
     }
   ],
   "version": {
