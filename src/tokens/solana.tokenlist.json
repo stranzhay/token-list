@@ -149066,6 +149066,17 @@
       "extensions": {
         "website": "http://japsscrew.rf.gd"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GuGhzXWo6ut5m7H1Mng2tYsWde65TqXxeV5HXYJmoSaT",
+      "symbol": "CSL",
+      "name": "CryptoSportsLottery",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/chrisjonssil/clst/main/logo.png",
+      "tags": [
+        "sports-token"
+      ]
     }
   ],
   "version": {
