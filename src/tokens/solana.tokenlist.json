@@ -149364,6 +149364,21 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DBLihAKJbDvidBxVXvbf2SnqYCo9B2sRdPQM5iBk9eRG",
+      "symbol": "NKT",
+      "name": "NOKI Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DBLihAKJbDvidBxVXvbf2SnqYCo9B2sRdPQM5iBk9eRG/logo.png",
+      "tags": [
+        "stablecoin",
+        "asset"
+      ],
+      "extensions": {
+        "website": "https://www.noki-noki.cg/"
+      }
     }
   ],
   "version": {
