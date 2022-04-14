@@ -149321,6 +149321,18 @@
       "extensions": {
         "twitter": "https://twitter.com/Businessbeesc"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3UQEUUQBatrGkaQSVWNgHGUcATWYgeTF5QBr5Bnazaaa",
+      "symbol": "SLPLSS",
+      "name": "Sleepless Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3UQEUUQBatrGkaQSVWNgHGUcATWYgeTF5QBr5Bnazaaa/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/sleepless_sols",
+        "website": "https://www.sleeplesssols.com/"
+      }
     }
   ],
   "version": {
