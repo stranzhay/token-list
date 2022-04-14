@@ -149321,6 +149321,29 @@
       "extensions": {
         "twitter": "https://twitter.com/Businessbeesc"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3UQEUUQBatrGkaQSVWNgHGUcATWYgeTF5QBr5Bnazaaa",
+      "symbol": "SLPLSS",
+      "name": "Sleepless Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3UQEUUQBatrGkaQSVWNgHGUcATWYgeTF5QBr5Bnazaaa/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/sleepless_sols",
+        "website": "https://www.sleeplesssols.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CsN3FctQpFeCqKGBkP5mXLdFcpud515v9WQrfWtNatnH",
+      "symbol": "ITNW",
+      "name": "InfoTech Northwest",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Jakethel/Crypto/main/infotechnorthwest.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
