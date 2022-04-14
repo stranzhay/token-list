@@ -149093,6 +149093,27 @@
       "name": "GlobalQ",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/89y8rchTsrNwMzDc4YT8iVtsU6wu6rsab9eLGKhictBK/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "BXkV5Wn1wJKAYrUZtMj1B4NAGgG983SX8iY8n5qwR6nE",
+      "symbol": "TINY-DEV",
+      "name": "TinyBits (devnet)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXkV5Wn1wJKAYrUZtMj1B4NAGgG983SX8iY8n5qwR6nE/logo.png",
+      "tags": [
+        "devnet"
+      ],
+      "extensions": {
+        "coingeckoId": "tiny-colony",
+        "description": "An expansive pixelated ecosystem on the Solana Blockchain.",
+        "discord": "https://discord.gg/AT9caAbY",
+        "github": "https://github.com/TinyColonyGame",
+        "instagram": "https://www.instagram.com/tinycolonygame",
+        "medium": "https://medium.com/@TinyColonyGame",
+        "twitter": "https://twitter.com/TinyColonyGame",
+        "website": "http://tinycolony.io/"
+      }
     }
   ],
   "version": {
