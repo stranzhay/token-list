@@ -149128,6 +149128,63 @@
       "extensions": {
         "twitter": "https://twitter.com/ragamuffinsbw"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "KidSCfch9MD1zB12s1UmmviXKDZqFEqJEEGuTMiKNFt",
+      "symbol": "KIDS",
+      "name": "Carton Kids Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KidSCfch9MD1zB12s1UmmviXKDZqFEqJEEGuTMiKNFt/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CartonkidsNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "SnapRSXpdqwuX3YFvQgUoZBDKyY5idv1SRMREh2CcHf",
+      "symbol": "SS",
+      "name": "Snapshots Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SnapRSXpdqwuX3YFvQgUoZBDKyY5idv1SRMREh2CcHf/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SnapShotsNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ZenjaZLnm7kj6NMD4YcZBJdqzEETN5UjrZfbHdoKWEe",
+      "symbol": "ZENJ",
+      "name": "Zenjin Viperz Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZenjaZLnm7kj6NMD4YcZBJdqzEETN5UjrZfbHdoKWEe/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZenjinViperz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "orcs67sQW9EHAJqw6ZYHZwbHCY8j7zm4VGc3WUSduUX",
+      "symbol": "ORCS",
+      "name": "The Orcs Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/orcs67sQW9EHAJqw6ZYHZwbHCY8j7zm4VGc3WUSduUX/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheOrcsNFT",
+        "website": "https://theorcs.io"
+      }
     }
   ],
   "version": {
