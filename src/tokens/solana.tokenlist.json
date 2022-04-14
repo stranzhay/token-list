@@ -148891,6 +148891,17 @@
       "name": "Morpheus",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MoRPDFt2wSNBWfS7f3Pch3gehCUFyouLNCqLMQhJUh4/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "4PJHvHRL44uPEf44LPV6PvwUBMRiKeq5BiLro7ycSAFX",
+      "symbol": "SecT",
+      "name": "Security Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CrashedNetwork/-ecurity-Token/main/BGC_ccexpress.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
