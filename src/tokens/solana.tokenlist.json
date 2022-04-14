@@ -148980,6 +148980,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "3Lsr3Am1GZK9NpFMBWXqrAUBPpNb5HGGLVTA8Tjq9m4y",
+      "symbol": "H2O",
+      "name": "H2O Token",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh/1111-1993/H2O/vlcsnap-error289.png",
+      "tags": [
+        "Life-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/NhX5EzH4"
+      }
     }
   ],
   "version": {
