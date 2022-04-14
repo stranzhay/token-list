@@ -149201,6 +149201,17 @@
       "extensions": {
         "twitter": "https://twitter.com/EaglezSOL"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "9Qi5wVDWRAtcnb9u8h9ERT2qSdtkMjj8iJycfJuTdJJ5",
+      "symbol": "AYK",
+      "name": "Aayush1234",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/BlockchainTeamThoughtWin/cropto-solana-logo/main/my_new_logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
