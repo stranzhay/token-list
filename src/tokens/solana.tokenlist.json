@@ -148994,6 +148994,18 @@
       "extensions": {
         "discord": "https://discord.gg/NhX5EzH4"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DKZDN1QM7ZGBfUZhQFPo233ccBxumjLGzFqKvMV43dzH",
+      "symbol": "ANONY",
+      "name": "Anonymous Koin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tatikondarahul2001/Crypto_coin/main/logo.png",
+      "tags": [
+        "social-token",
+        "collectible-token"
+      ]
     }
   ],
   "version": {
