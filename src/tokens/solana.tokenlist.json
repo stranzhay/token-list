@@ -149394,6 +149394,17 @@
         "twitter": "https://twitter.com/okaybears",
         "website": "https://okaybears.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ahiss7vnLA3JZW76TNLkHMHA8FKytdfMnQ5GzEwTt3Ed",
+      "symbol": "AHI",
+      "name": "Ahi Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/ahiphoenixnft/crypto/main/logo.ahi.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
