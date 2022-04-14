@@ -149310,6 +149310,17 @@
         "twitter": "https://twitter.com/Furr_Sols",
         "website": "https://furrsols.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BEEs2KkXbdF5NxTtAN8pM6qthLGapc7vACcA8oCXoYgU",
+      "symbol": "BEE",
+      "name": "Bee Honey",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEEs2KkXbdF5NxTtAN8pM6qthLGapc7vACcA8oCXoYgU/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/Businessbeesc"
+      }
     }
   ],
   "version": {
