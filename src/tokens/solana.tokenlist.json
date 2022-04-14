@@ -149295,6 +149295,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HxgAGBTLCeemm4TVqvYSebpUanJKzuztXTHdhuCt4W2i",
+      "symbol": "$FLUFF",
+      "name": "FLUFF TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/furrsols/assets/main/FLUFF.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Furr_Sols",
+        "website": "https://furrsols.io/"
+      }
     }
   ],
   "version": {
