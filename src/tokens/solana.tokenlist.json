@@ -149394,6 +149394,52 @@
         "twitter": "https://twitter.com/okaybears",
         "website": "https://okaybears.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ahiss7vnLA3JZW76TNLkHMHA8FKytdfMnQ5GzEwTt3Ed",
+      "symbol": "AHI",
+      "name": "Ahi Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/ahiphoenixnft/crypto/main/logo.ahi.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EVERsR6LBAFAiJQ7x53aXSA9kenwvNqWvcmr2LSzqXB6",
+      "symbol": "Ever",
+      "name": "EverSeed WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EVERsR6LBAFAiJQ7x53aXSA9kenwvNqWvcmr2LSzqXB6/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/playeverseed",
+        "website": "https://everseed.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7YnPgaCvBjMvkmyzWSFUrdrooxPxyFSTCePQEg7AkTNZ",
+      "symbol": "ASSET",
+      "name": "Real Estate Game",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/RealEstateGame/crypto/main/coinREG_001.png",
+      "tags": [
+        "Social-Token",
+        "Realestate-Token",
+        "Land-Token",
+        "Metaverse-Token",
+        "Asset-Token",
+        "Property-Token",
+        "collectible-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/realestategame_"
+      }
     }
   ],
   "version": {
