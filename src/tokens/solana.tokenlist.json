@@ -148969,6 +148969,17 @@
         "Social-Token",
         "collectible-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9F6STwpygJj3u5afZ15Cr522MFamqbkNJLa7iamW681D",
+      "symbol": "CWCV",
+      "name": "CowCave",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/cowanmd/cowcave/main/IMG_0103.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
