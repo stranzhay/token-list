@@ -148945,6 +148945,30 @@
       "extensions": {
         "twitter": "https://twitter.com/bariskgz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EG1gutpWC9Y9KhpJe83x435Ho5p2spp1fkdHBUHg6uU2",
+      "symbol": "RAC",
+      "name": "Retro Arcade Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/RetroArcade-project/token/main/Nuevo%20proyecto.png",
+      "tags": [
+        "Bet-token",
+        "collectible-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8KoC6B7ekXKCEucie7skdH3TePx2ja3WeB14bFJKaahX",
+      "symbol": "SNECK",
+      "name": "PussyCets Sneck",
+      "decimals": 6,
+      "logoURI": "https://user-images.githubusercontent.com/93284817/163309826-ae6df615-bbe7-4d24-a522-77414c27e0a4.PNG",
+      "tags": [
+        "Social-Token",
+        "collectible-token"
+      ]
     }
   ],
   "version": {
