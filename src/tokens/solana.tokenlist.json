@@ -149284,6 +149284,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "K1Lm4h2eHqeZySJSmSA166kJj7j9s36nSaGgFJzhDnc",
+      "symbol": "KITS",
+      "name": "Kitsune Token",
+      "decimals": 3,
+      "logoURI": "https://media.discordapp.net/attachments/926535226820276264/964138793315758150/unknown.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
