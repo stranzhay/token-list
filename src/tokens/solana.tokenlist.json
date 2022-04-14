@@ -149257,6 +149257,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5LL1vedTP55UGkGF1x6ZRbefPHANveYpvqF18QSwKx2e",
+      "symbol": "$RAWR",
+      "name": "RAWR Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5LL1vedTP55UGkGF1x6ZRbefPHANveYpvqF18QSwKx2e/logo.png",
+      "tags": [
+        "nft",
+        "game-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metagonnft"
+      }
     }
   ],
   "version": {
