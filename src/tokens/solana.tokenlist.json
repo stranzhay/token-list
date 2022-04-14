@@ -149238,6 +149238,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CRmGfCvD3s43v2X6dGMmA9XVCMXy8jacKGQ6H451afgd",
+      "symbol": "HVEWL",
+      "name": "Heaven Dragons Empire Collection",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CRmGfCvD3s43v2X6dGMmA9XVCMXy8jacKGQ6H451afgd/logo.png"
     }
   ],
   "version": {
