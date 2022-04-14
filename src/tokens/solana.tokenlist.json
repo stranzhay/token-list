@@ -148994,6 +148994,78 @@
       "extensions": {
         "discord": "https://discord.gg/NhX5EzH4"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DKZDN1QM7ZGBfUZhQFPo233ccBxumjLGzFqKvMV43dzH",
+      "symbol": "ANONY",
+      "name": "Anonymous Koin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tatikondarahul2001/Crypto_coin/main/logo.png",
+      "tags": [
+        "social-token",
+        "collectible-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7AfuD3nqZEJSF7oaQgEPmeo7zJi1n8Dh7BedYtgRugFk",
+      "symbol": "July22ppUSDC",
+      "name": "Port Finance 2022 July Principal USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg",
+      "tags": [
+        "port",
+        "lending",
+        "principal-tokens"
+      ],
+      "extensions": {
+        "website": "https://port.finance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4Fo8dh9kHn7WGxPy3MdhaBXLjY5DYStbRPwZudCTo5W4",
+      "symbol": "July22pyUSDC",
+      "name": "Port Finance 2022 July Yield USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg",
+      "tags": [
+        "port",
+        "lending",
+        "yield-tokens"
+      ],
+      "extensions": {
+        "website": "https://port.finance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ExzjFVA1WEKEx7cmavaGkNs1zKLcHWyfsumQqAq381b9",
+      "symbol": "ADTVS",
+      "name": "Adagio TVs WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ExzjFVA1WEKEx7cmavaGkNs1zKLcHWyfsumQqAq381b9/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Adagio_TVs"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2UhohwrJgZfjH9yRuU32fxVoZG1v9n1aYxPqUGWCR5da",
+      "symbol": "JCEC",
+      "name": "JapssCrew Entertainments Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ajubajukajoo/assets/main/JCEToken.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://japsscrew.rf.gd"
+      }
     }
   ],
   "version": {
