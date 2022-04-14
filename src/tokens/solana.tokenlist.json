@@ -148945,6 +148945,18 @@
       "extensions": {
         "twitter": "https://twitter.com/bariskgz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EG1gutpWC9Y9KhpJe83x435Ho5p2spp1fkdHBUHg6uU2",
+      "symbol": "RAC",
+      "name": "Retro Arcade Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/RetroArcade-project/token/main/Nuevo%20proyecto.png",
+      "tags": [
+        "Bet-token",
+        "collectible-token"
+      ]
     }
   ],
   "version": {
