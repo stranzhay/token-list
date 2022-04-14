@@ -149344,6 +149344,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4xFVXVK8Hy28MbF1rKGAU4F3sVLbMmzh63wQJeM8k9NW",
+      "symbol": "BANG",
+      "name": "Bangsta Bear",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/4xFVXVK8Hy28MbF1rKGAU4F3sVLbMmzh63wQJeM8k9NW/logo.png?raw=true"
     }
   ],
   "version": {
