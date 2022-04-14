@@ -149513,6 +149513,51 @@
       "name": "NPC Club",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NPCXwv7ag5cFcc4mXnEzCzrsFdCeZLqHx8AXM7W6gPr/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "LmbrE6H5LYZUVyFLMTURxxT1bCgBKit3LY2nNg8qVFg",
+      "symbol": "LMBR",
+      "name": "Warville Lumber",
+      "decimals": 6,
+      "logoURI": "https://asset.warville.io/token/lmbr.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/warvillenft",
+        "website": "https://warville.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DmndK8QHnrqmXrCF4vaG6LZuw18wout7GP9VkZwdojKo",
+      "symbol": "DMND",
+      "name": "Warville Diamond",
+      "decimals": 6,
+      "logoURI": "https://asset.warville.io/token/dmnd.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/warvillenft",
+        "website": "https://warville.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Food84YUTGWXd2DfYDkDKYRHm64pMe3dcowJkhfFvfmw",
+      "symbol": "FOOD",
+      "name": "Warville Food",
+      "decimals": 6,
+      "logoURI": "https://asset.warville.io/token/food.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/warvillenft",
+        "website": "https://warville.io/"
+      }
     }
   ],
   "version": {
