@@ -148806,6 +148806,17 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4UFiHL1FzUUQPpjsm1gpVDA9ENQQaB81WdvN4HYW24Pa",
+      "symbol": "INCOME",
+      "name": "INCOME",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/danielleonardomorales/incometoken/main/incometoken.png",
+      "tags": [
+        "general"
+      ]
     }
   ],
   "version": {
