@@ -149379,6 +149379,21 @@
       "extensions": {
         "website": "https://www.noki-noki.cg/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BEARSAfSsUmgZNngSeX9CcmLXnSXhdvyVh21Ch1JkCN4",
+      "symbol": "OBWL",
+      "name": "OKAY BEARS-WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEARSAfSsUmgZNngSeX9CcmLXnSXhdvyVh21Ch1JkCN4/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/okaybears",
+        "website": "https://okaybears.com"
+      }
     }
   ],
   "version": {
