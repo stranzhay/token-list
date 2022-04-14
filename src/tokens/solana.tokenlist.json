@@ -149273,6 +149273,17 @@
       "extensions": {
         "twitter": "https://twitter.com/metagonnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EVjuFPAQTLWdLnqFt7JPs7nEbqcqnG7ZFELSACn57Xzi",
+      "symbol": "KRNS",
+      "name": "KARENS",
+      "decimals": 0,
+      "logoURI": "https://github.com/DiscoK1aus/crypto/blob/main/karenlogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
