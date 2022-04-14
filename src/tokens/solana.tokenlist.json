@@ -148883,6 +148883,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MoRPDFt2wSNBWfS7f3Pch3gehCUFyouLNCqLMQhJUh4",
+      "symbol": "MORP",
+      "name": "Morpheus",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MoRPDFt2wSNBWfS7f3Pch3gehCUFyouLNCqLMQhJUh4/logo.png"
     }
   ],
   "version": {
