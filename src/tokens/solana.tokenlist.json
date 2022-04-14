@@ -148917,6 +148917,18 @@
         "community-token",
         "play-to-earn"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FBCp6ST2R2z7W9fe6xuU9sKPrFDe5cXBuZgjRaYCNssq",
+      "symbol": "BPC",
+      "name": "Black Penny",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/banton84/Black-Penny/main/logo.png.png",
+      "tags": [
+        "Social-Token",
+        "collectible-token"
+      ]
     }
   ],
   "version": {
