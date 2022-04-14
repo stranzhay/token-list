@@ -148902,6 +148902,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3fMN5za4iMmatXCeeWpVSjWDurvFGnNRdZFqTwYc2h8U",
+      "symbol": "YDI",
+      "name": "You Deserve It",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MrBrewster1970/YDI-Token/main/logo.png",
+      "tags": [
+        "metaverse",
+        "virtual-real-estate",
+        "utility-token",
+        "community-token",
+        "play-to-earn"
+      ]
     }
   ],
   "version": {
