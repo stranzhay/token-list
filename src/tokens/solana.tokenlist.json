@@ -149246,6 +149246,17 @@
       "name": "Heaven Dragons Empire Collection",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CRmGfCvD3s43v2X6dGMmA9XVCMXy8jacKGQ6H451afgd/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FKebt4KYkV5K6gjn2DNHfoNyhFarThHu2SxrKRFtjgF4",
+      "symbol": "RLW",
+      "name": "RLW Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Jkei-dev/crypto-rlw/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
