@@ -148861,6 +148861,17 @@
         "twitter": "https://twitter.com/theadex2",
         "website": "http://theadex.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DBTGhXu22musU5cCMbfx8XaZxgJJHZANK9RRSUE3KMUx",
+      "symbol": "ADAL",
+      "name": "Ahmadali Jamali",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/AhmadAJamali/Crypto/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
