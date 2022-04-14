@@ -149455,6 +149455,20 @@
         "twitter": "https://twitter.com/okaybears",
         "website": "https://okaybears.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "oneiPVVdLSKMAyntNFPq48m4z5B9NQNoHZ3xb1ERUD8",
+      "symbol": "ONEIRA",
+      "name": "Oneira Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/oneiPVVdLSKMAyntNFPq48m4z5B9NQNoHZ3xb1ERUD8/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/oneira__"
+      }
     }
   ],
   "version": {
