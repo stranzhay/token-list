@@ -148844,6 +148844,23 @@
         "twitter": "https://twitter.com/TheStonedFrogs",
         "website": "https://www.thestonedfrogs.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6QSQ28juyiV5bkQ19AttaLPidtGDZbSKPbM2GrvRAAQA",
+      "symbol": "THEA",
+      "name": "Theadex",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6QSQ28juyiV5bkQ19AttaLPidtGDZbSKPbM2GrvRAAQA/theadex_logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "DeFi"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/theadex2",
+        "website": "http://theadex.io"
+      }
     }
   ],
   "version": {
