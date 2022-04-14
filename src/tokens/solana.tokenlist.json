@@ -149052,6 +149052,20 @@
       "extensions": {
         "twitter": "https://twitter.com/Adagio_TVs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2UhohwrJgZfjH9yRuU32fxVoZG1v9n1aYxPqUGWCR5da",
+      "symbol": "JCEC",
+      "name": "JapssCrew Entertainments Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ajubajukajoo/assets/main/JCEToken.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://japsscrew.rf.gd"
+      }
     }
   ],
   "version": {
