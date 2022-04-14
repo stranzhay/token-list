@@ -149085,6 +149085,14 @@
       "name": "Birth of Galaxy WL token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/eRkvH2Q8jtfuJMrCX7mDjcNPBix7xPXGpufypY66fyx/icon.png"
+    },
+    {
+      "chainId": 103,
+      "address": "89y8rchTsrNwMzDc4YT8iVtsU6wu6rsab9eLGKhictBK",
+      "symbol": "QGL",
+      "name": "GlobalQ",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/89y8rchTsrNwMzDc4YT8iVtsU6wu6rsab9eLGKhictBK/logo.png"
     }
   ],
   "version": {
