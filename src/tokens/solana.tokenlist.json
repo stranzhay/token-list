@@ -149352,6 +149352,18 @@
       "name": "Bangsta Bear",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/4xFVXVK8Hy28MbF1rKGAU4F3sVLbMmzh63wQJeM8k9NW/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "2dVULCNYvpAeJv4N8SmB2EgxLefawp3QvPcSgSujfj1Q",
+      "symbol": "NMW",
+      "name": "NMW Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SAVE2014/crypto/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
