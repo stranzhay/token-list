@@ -149185,6 +149185,22 @@
         "twitter": "https://twitter.com/TheOrcsNFT",
         "website": "https://theorcs.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4h4LvS6NsVjZ87uBwrYyTeppTm1ii5PtRN9A6Ld2kZjw",
+      "symbol": "$FLY",
+      "name": "StayFly",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4h4LvS6NsVjZ87uBwrYyTeppTm1ii5PtRN9A6Ld2kZjw/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "merchandise-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EaglezSOL"
+      }
     }
   ],
   "version": {
