@@ -149686,6 +149686,22 @@
       "extensions": {
         "description": "Gunnar San Beer Token!"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3JAtXbi3CZnEVctrwg9w8TWcpw7gtnCZTira33ddGiXg",
+      "symbol": "FACE",
+      "name": "FACELEZZ TOKEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/facelezz/logo/main/facelogo.png",
+      "tags": [
+        "nft",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/FacelezzNFT",
+        "website": "https://facelezz.xyz/"
+      }
     }
   ],
   "version": {
