@@ -149709,6 +149709,18 @@
       "extensions": {
         "twitter": "https://twitter.com/SkeletonGraveYC"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AMMCAXk5jt5evNb4PR9KprfxhaM2Tbe2ym45L6cjxcEw",
+      "symbol": "NUDI",
+      "name": "NUDI Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/divewithgee/nudibranch/main/a.jpg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
