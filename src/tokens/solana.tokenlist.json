@@ -149702,6 +149702,33 @@
         "twitter": "https://twitter.com/FacelezzNFT",
         "website": "https://facelezz.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "sgsgy4H7TQ5PaSkYPVG7YbU21vnHWQtzwGZf5ftpb5b",
+      "symbol": "SGSWL",
+      "name": "SGS WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sgsgy4H7TQ5PaSkYPVG7YbU21vnHWQtzwGZf5ftpb5b/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SGSociety_",
+        "website": "https://mint.sneakygiraffesociety.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2TWDSoX19ueT8p5HTwKKxBUVn7Y8BisVWZHw3mHYWqgz",
+      "symbol": "THC",
+      "name": "TheHighCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2TWDSoX19ueT8p5HTwKKxBUVn7Y8BisVWZHw3mHYWqgz/thc.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
