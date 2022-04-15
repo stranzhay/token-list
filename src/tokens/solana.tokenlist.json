@@ -149783,6 +149783,23 @@
         "twitter": "https://twitter.com/Articoin1",
         "website": "https://atcsolana.com/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "9r81b1d2KEtcrwmZr9TnNA8xpCciEWk4UJxbwaAzMfYe",
+      "symbol": "HRFX",
+      "name": "Hyper Fenix",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/HyperFenix/HyperFenix/main/assets/Logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Mobile cryptocurrency",
+        "telegram": "https://t.me/hyperfenix",
+        "website": "https://www.hyperfenix.netsons.org/"
+      }
     }
   ],
   "version": {
