@@ -84375,21 +84375,6 @@
     },
     {
       "chainId": 101,
-      "address": "9N96sgWT7ryELfKiReJLHRsDF1JZ2vD2YrBfyL2LdHuV",
-      "symbol": "usdc",
-      "name": "usd coin",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-        "coingeckoId": "usd-coin",
-        "website": "https://www.centre.io/"
-      }
-    },
-    {
-      "chainId": 101,
       "address": "DPkphDcgGjJ3YUH6a1Q6vJHg1J9oWbW7Nd5itZKNLi8U",
       "symbol": "DHS",
       "name": "Diamond Hands SolGnome",
@@ -84408,22 +84393,6 @@
       ],
       "extensions": {
         "website": "https://tomato.ilov.eu"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "HdYDCruDHDw3Hsa4E5PapXiiUYBBGFSECrqP5R4XJD2y",
-      "symbol": "usdc",
-      "name": "usdc coin",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HdYDCruDHDw3Hsa4E5PapXiiUYBBGFSECrqP5R4XJD2y/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-        "coingeckoId": "usd-coin",
-        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "website": "https://www.centre.io/"
       }
     },
     {
