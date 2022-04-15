@@ -149968,6 +149968,22 @@
         "twitter": "https://twitter.com/wobblebug",
         "website": "https://wobblebug.info"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9DV8ocDmmsJEcPX9jvfepjmsgFk97uVSiZQsP5qbMXb9",
+      "symbol": "ONEDROP",
+      "name": "OneDropToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9DV8ocDmmsJEcPX9jvfepjmsgFk97uVSiZQsP5qbMXb9/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/Kd5hAD9gNg",
+        "twitter": "https://twitter.com/OneDropNFTs",
+        "website": "https://onedropnfts.com"
+      }
     }
   ],
   "version": {
