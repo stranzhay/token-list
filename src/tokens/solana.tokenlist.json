@@ -149920,6 +149920,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "49AiDWZ1GU2SHuXoiNPVJrW1MN76zFZBNvqud8yoRuCk",
+      "symbol": "YATR",
+      "name": "Yatr",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/YatterOfficial/YATR-Crypto/main/logo.png",
+      "tags": [
+        "Yatr",
+        "yatter",
+        "You-At-A-Resource",
+        "Yatr-App-Token"
+      ]
     }
   ],
   "version": {
