@@ -149934,6 +149934,56 @@
         "You-At-A-Resource",
         "Yatr-App-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EHj9iUmUrQ5bybEernUPpULfPa1YKkrRArGHckYreRkg",
+      "symbol": "FTRZ",
+      "name": "Fighterz",
+      "decimals": 4,
+      "logoURI": "https://solaboy.github.io/images/fighterz.png",
+      "tags": [
+        "gaming",
+        "utility-token",
+        "solana"
+      ],
+      "extensions": {
+        "description": "$FTRZ is the official utility token for the Bit Fighterz. Use $FTRZ to upgrade your Bit Fighterz! (Exclusive tickets, mints utilizing $FTRZ, in game items)",
+        "discord": "https://discord.gg/26DwVZT6",
+        "twitter": "https://twitter.com/bitfighterz",
+        "website": "https://www.bitfighterz.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Wobb898LuextGV9EcPMxEvWzprPSAAmyo475ZBQxgma",
+      "symbol": "WOBB",
+      "name": "WOBBLEBUG WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Wobb898LuextGV9EcPMxEvWzprPSAAmyo475ZBQxgma/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/wobblebug",
+        "website": "https://wobblebug.info"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9DV8ocDmmsJEcPX9jvfepjmsgFk97uVSiZQsP5qbMXb9",
+      "symbol": "ONEDROP",
+      "name": "OneDropToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9DV8ocDmmsJEcPX9jvfepjmsgFk97uVSiZQsP5qbMXb9/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/Kd5hAD9gNg",
+        "twitter": "https://twitter.com/OneDropNFTs",
+        "website": "https://onedropnfts.com"
+      }
     }
   ],
   "version": {
