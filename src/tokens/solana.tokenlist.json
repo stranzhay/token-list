@@ -149589,6 +149589,21 @@
       "extensions": {
         "website": "https://www.neome.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "66EvNhcyyYLBtpLZhCF8pddqzVhKLrVincYiiQw8pCaT",
+      "symbol": "OP",
+      "name": "Oneiron Coin",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/66EvNhcyyYLBtpLZhCF8pddqzVhKLrVincYiiQw8pCaT/One.png",
+      "tags": [
+        "gaming-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/oneironproject",
+        "website": "http://www.oneironproject.com"
+      }
     }
   ],
   "version": {
