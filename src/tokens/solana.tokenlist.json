@@ -149558,6 +149558,63 @@
         "twitter": "https://twitter.com/warvillenft",
         "website": "https://warville.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8Bm4VdNS9juAtaZVTddgaBbchppDd7M7rerxTVNz5iVv",
+      "symbol": "GRAM",
+      "name": "Anagram",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Bm4VdNS9juAtaZVTddgaBbchppDd7M7rerxTVNz5iVv/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/anagramgg",
+        "website": "https://anagram.gg"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8psN3FhC8FJAD37bRPMNLAYD9PXJnA8zozBn2AfFEoih",
+      "symbol": "NEOME",
+      "name": "NEOME-com Power to the People",
+      "decimals": 9,
+      "logoURI": "https://neome.com/token/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://www.neome.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "66EvNhcyyYLBtpLZhCF8pddqzVhKLrVincYiiQw8pCaT",
+      "symbol": "OP",
+      "name": "Oneiron Coin",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/66EvNhcyyYLBtpLZhCF8pddqzVhKLrVincYiiQw8pCaT/One.png",
+      "tags": [
+        "gaming-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/oneironproject",
+        "website": "http://www.oneironproject.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "wDUsRqqnWQSoanYECLT1PTGvj17WzHwQeujWug6gDb8",
+      "symbol": "JSTBZ",
+      "name": "JustBaze",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/justbaze/crypto/main/JustBazeCoin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
