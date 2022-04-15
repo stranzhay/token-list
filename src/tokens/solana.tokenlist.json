@@ -149800,6 +149800,32 @@
         "telegram": "https://t.me/hyperfenix",
         "website": "https://www.hyperfenix.netsons.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4c1Kajn2GDAR7McHfLBWGqRJSEy5ee2MVQTi77DuSqm6",
+      "symbol": "SRCN",
+      "name": "SaberCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TTVSaber3000/Crypto/main/original_11zon.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HSW1S6xPNR2RXAJKBF6BCSQkoSoLomfm7DVvwydQR2qP",
+      "symbol": "SWRD",
+      "name": "Sword",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/muzammilkhattri/crypto/main/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.dariusdao.com/"
+      }
     }
   ],
   "version": {
