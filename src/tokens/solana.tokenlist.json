@@ -149615,6 +149615,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "yHxDCKFCPh3HvXYkENDpA4nSG49Z9ioNrZLZQUwN6W2",
+      "symbol": "KUD",
+      "name": "Kudos",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SecRocker/Crypto/main/Kudo.PNG",
+      "tags": [
+        "Social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ejk5n6TTb8FsH7UAFu7u4oLT5QfYJ1WgiCfdgzTyVcge",
+      "symbol": "JOES",
+      "name": "Joes Fat Stacks",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/jlmcm/JoesFatStacks/main/joefs.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
