@@ -149953,6 +149953,21 @@
         "twitter": "https://twitter.com/bitfighterz",
         "website": "https://www.bitfighterz.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Wobb898LuextGV9EcPMxEvWzprPSAAmyo475ZBQxgma",
+      "symbol": "WOBB",
+      "name": "WOBBLEBUG WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Wobb898LuextGV9EcPMxEvWzprPSAAmyo475ZBQxgma/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/wobblebug",
+        "website": "https://wobblebug.info"
+      }
     }
   ],
   "version": {
