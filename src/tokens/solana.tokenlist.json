@@ -149909,6 +149909,31 @@
         "twitter": "https://twitter.com/mindfolkart",
         "website": "https://www.mindfolk.art/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FQtkv5hb7irYUqB6429XLSVfkZD1Kp595xP7jZQQKT2u",
+      "symbol": "FPCT",
+      "name": "FINGERPRINT CIRCUS TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TerraFirma1/crypto/main/fpct-logo.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "49AiDWZ1GU2SHuXoiNPVJrW1MN76zFZBNvqud8yoRuCk",
+      "symbol": "YATR",
+      "name": "Yatr",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/YatterOfficial/YATR-Crypto/main/logo.png",
+      "tags": [
+        "Yatr",
+        "yatter",
+        "You-At-A-Resource",
+        "Yatr-App-Token"
+      ]
     }
   ],
   "version": {
