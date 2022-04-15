@@ -149893,6 +149893,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MFP66DGQUp8D4LmgYb6W93Du5XHA4ctzVwmTHkYZQwL",
+      "symbol": "MFP",
+      "name": "Mindfolk Pirates Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img924/1131/e5Ubet.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/mindfolkart",
+        "website": "https://www.mindfolk.art/"
+      }
     }
   ],
   "version": {
