@@ -149934,6 +149934,25 @@
         "You-At-A-Resource",
         "Yatr-App-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EHj9iUmUrQ5bybEernUPpULfPa1YKkrRArGHckYreRkg",
+      "symbol": "FTRZ",
+      "name": "Fighterz",
+      "decimals": 4,
+      "logoURI": "https://solaboy.github.io/images/fighterz.png",
+      "tags": [
+        "gaming",
+        "utility-token",
+        "solana"
+      ],
+      "extensions": {
+        "description": "$FTRZ is the official utility token for the Bit Fighterz. Use $FTRZ to upgrade your Bit Fighterz! (Exclusive tickets, mints utilizing $FTRZ, in game items)",
+        "discord": "https://discord.gg/26DwVZT6",
+        "twitter": "https://twitter.com/bitfighterz",
+        "website": "https://www.bitfighterz.com/"
+      }
     }
   ],
   "version": {
