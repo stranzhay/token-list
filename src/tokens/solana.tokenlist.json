@@ -149469,6 +149469,95 @@
       "extensions": {
         "twitter": "https://twitter.com/oneira__"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6aJhpKmMpWCRw7vFLc5xxC1fJZGKXZspT5Lxjz5PnWtB",
+      "symbol": "SOLARIUM",
+      "name": "AGE of SAM token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/3magine/aos-assets/main/coin_small.png",
+      "tags": [
+        "utility-token",
+        "community-coin",
+        "game-token",
+        "NFT",
+        "age-of-sam"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ageofsam",
+        "twitter": "https://twitter.com/ageofsamnft",
+        "website": "https://ageofsam.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Ehbfbo2eYQYcaPeLK7LHN3gZeXfjBQyKopxTQCCKot4i",
+      "symbol": "TETO",
+      "name": "Poteto",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ehbfbo2eYQYcaPeLK7LHN3gZeXfjBQyKopxTQCCKot4i/logo.svg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/degendojonft",
+        "twitter": "https://twitter.com/DegenDojoNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "NPCXwv7ag5cFcc4mXnEzCzrsFdCeZLqHx8AXM7W6gPr",
+      "symbol": "NPC",
+      "name": "NPC Club",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NPCXwv7ag5cFcc4mXnEzCzrsFdCeZLqHx8AXM7W6gPr/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "LmbrE6H5LYZUVyFLMTURxxT1bCgBKit3LY2nNg8qVFg",
+      "symbol": "LMBR",
+      "name": "Warville Lumber",
+      "decimals": 6,
+      "logoURI": "https://asset.warville.io/token/lmbr.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/warvillenft",
+        "website": "https://warville.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DmndK8QHnrqmXrCF4vaG6LZuw18wout7GP9VkZwdojKo",
+      "symbol": "DMND",
+      "name": "Warville Diamond",
+      "decimals": 6,
+      "logoURI": "https://asset.warville.io/token/dmnd.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/warvillenft",
+        "website": "https://warville.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Food84YUTGWXd2DfYDkDKYRHm64pMe3dcowJkhfFvfmw",
+      "symbol": "FOOD",
+      "name": "Warville Food",
+      "decimals": 6,
+      "logoURI": "https://asset.warville.io/token/food.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/warvillenft",
+        "website": "https://warville.io/"
+      }
     }
   ],
   "version": {
