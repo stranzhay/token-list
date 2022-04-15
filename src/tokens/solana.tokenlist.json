@@ -149469,6 +149469,26 @@
       "extensions": {
         "twitter": "https://twitter.com/oneira__"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6aJhpKmMpWCRw7vFLc5xxC1fJZGKXZspT5Lxjz5PnWtB",
+      "symbol": "SOLARIUM",
+      "name": "AGE of SAM token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/3magine/aos-assets/main/coin_small.png",
+      "tags": [
+        "utility-token",
+        "community-coin",
+        "game-token",
+        "NFT",
+        "age-of-sam"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ageofsam",
+        "twitter": "https://twitter.com/ageofsamnft",
+        "website": "https://ageofsam.io/"
+      }
     }
   ],
   "version": {
