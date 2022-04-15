@@ -149489,6 +149489,22 @@
         "twitter": "https://twitter.com/ageofsamnft",
         "website": "https://ageofsam.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ehbfbo2eYQYcaPeLK7LHN3gZeXfjBQyKopxTQCCKot4i",
+      "symbol": "TETO",
+      "name": "Poteto",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ehbfbo2eYQYcaPeLK7LHN3gZeXfjBQyKopxTQCCKot4i/logo.svg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/degendojonft",
+        "twitter": "https://twitter.com/DegenDojoNFT"
+      }
     }
   ],
   "version": {
