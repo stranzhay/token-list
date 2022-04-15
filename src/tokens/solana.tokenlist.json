@@ -149645,6 +149645,32 @@
       "name": "Pup Club Card Mint",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/metapupsclub/pupcard/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GKJcQCPuaW6xvkRR6EnRHKP7LGWFYCVCjzLGjoimouTY",
+      "symbol": "HEN",
+      "name": "HEN COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GKJcQCPuaW6xvkRR6EnRHKP7LGWFYCVCjzLGjoimouTY/102912813.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/smolhentai",
+        "website": "https://hentai.lol/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "woTu6cugnrEw6tZqePeXrHGbSJJVsBdHgmQwxTER4R3",
+      "symbol": "BUM",
+      "name": "Beach Bum Billionaires",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/cpwall88/bum/main/logoo.png",
+      "tags": [
+        "Defi"
+      ]
     }
   ],
   "version": {
