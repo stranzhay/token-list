@@ -149855,6 +149855,33 @@
         "discord": "https://discord.com/invite/wqfc7xXHf6",
         "twitter": "https://twitter.com/fancyfrenchnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2D2oVygEnGoWrqZVaDvPNPV1iXzJP8NDZ16K2G7Nct9E",
+      "symbol": "cyberbabychimps",
+      "name": "Cyber chimp Babies Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/CyberChimpsnft/chimpstoken/main/token/unknown%20(2).png",
+      "tags": [
+        "utility-token",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wqfc7xXHf6",
+        "twitter": "https://twitter.com/fancyfrenchnft"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "S5VeynSoQZtHN3kN8RxsbD87gXgfFjLCUYK2xGiaLee",
+      "symbol": "CJC",
+      "name": "CJCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mentales2005/CJCoin/main/CJCoin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
