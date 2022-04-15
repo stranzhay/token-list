@@ -149755,6 +149755,17 @@
         "twitter": "https://twitter.com/MiniNations",
         "website": "https://miniroyale.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AQpdnoFZKykAdEBNPBie6EshNrcoPiHrqVX2FBmUqLV7",
+      "symbol": "COFFM",
+      "name": "Coffee-maker",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AQpdnoFZKykAdEBNPBie6EshNrcoPiHrqVX2FBmUqLV7/logo.png",
+      "tags": [
+        "util-token"
+      ]
     }
   ],
   "version": {
