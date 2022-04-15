@@ -149766,6 +149766,40 @@
       "tags": [
         "util-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GXnw9YSt6DANCt84Ti6ZpbaXvrvuEJFCYqrDjygnq4R8",
+      "symbol": "ATC",
+      "name": "ARTICOIN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/mum33n/atc-logo/main/LOGO%20(256).png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/36sYxUUpKn",
+        "twitter": "https://twitter.com/Articoin1",
+        "website": "https://atcsolana.com/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "9r81b1d2KEtcrwmZr9TnNA8xpCciEWk4UJxbwaAzMfYe",
+      "symbol": "HRFX",
+      "name": "Hyper Fenix",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/HyperFenix/HyperFenix/main/assets/Logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Mobile cryptocurrency",
+        "telegram": "https://t.me/hyperfenix",
+        "website": "https://www.hyperfenix.netsons.org/"
+      }
     }
   ],
   "version": {
