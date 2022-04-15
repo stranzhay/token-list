@@ -149637,6 +149637,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MPRp3T7VewfykhrJTD7end3hNgox5eAuBqoQ1VQjVwb",
+      "symbol": "PCC",
+      "name": "Pup Club Card Mint",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/metapupsclub/pupcard/main/logo.png"
     }
   ],
   "version": {
