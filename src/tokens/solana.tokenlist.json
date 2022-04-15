@@ -149660,6 +149660,17 @@
         "twitter": "https://twitter.com/smolhentai",
         "website": "https://hentai.lol/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "woTu6cugnrEw6tZqePeXrHGbSJJVsBdHgmQwxTER4R3",
+      "symbol": "BUM",
+      "name": "Beach Bum Billionaires",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/cpwall88/bum/main/logoo.png",
+      "tags": [
+        "Defi"
+      ]
     }
   ],
   "version": {
