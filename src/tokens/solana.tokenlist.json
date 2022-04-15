@@ -149871,6 +149871,17 @@
         "discord": "https://discord.com/invite/wqfc7xXHf6",
         "twitter": "https://twitter.com/fancyfrenchnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "S5VeynSoQZtHN3kN8RxsbD87gXgfFjLCUYK2xGiaLee",
+      "symbol": "CJC",
+      "name": "CJCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mentales2005/CJCoin/main/CJCoin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
