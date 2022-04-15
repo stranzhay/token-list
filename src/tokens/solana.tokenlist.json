@@ -149721,6 +149721,40 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MArBPDtkLMb5g2964mx3hjRfTCd3ZeGPVZGpjWp7pWL",
+      "symbol": "MRPRBPS2",
+      "name": "MiniRoyale S2 Premium BP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MArBPDtkLMb5g2964mx3hjRfTCd3ZeGPVZGpjWp7pWL/logo.png",
+      "tags": [
+        "game-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/miniroyale",
+        "twitter": "https://twitter.com/MiniNations",
+        "website": "https://miniroyale.io/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "MArBPDtkLMb5g2964mx3hjRfTCd3ZeGPVZGpjWp7pWL",
+      "symbol": "MRPRBPS2",
+      "name": "MiniRoyale S2 Premium BP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MArBPDtkLMb5g2964mx3hjRfTCd3ZeGPVZGpjWp7pWL/logo.png",
+      "tags": [
+        "game-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/miniroyale",
+        "twitter": "https://twitter.com/MiniNations",
+        "website": "https://miniroyale.io/"
+      }
     }
   ],
   "version": {
