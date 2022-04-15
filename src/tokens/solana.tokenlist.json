@@ -149574,6 +149574,21 @@
         "twitter": "https://twitter.com/anagramgg",
         "website": "https://anagram.gg"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8psN3FhC8FJAD37bRPMNLAYD9PXJnA8zozBn2AfFEoih",
+      "symbol": "NEOME",
+      "name": "NEOME-com Power to the People",
+      "decimals": 9,
+      "logoURI": "https://neome.com/token/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://www.neome.com"
+      }
     }
   ],
   "version": {
