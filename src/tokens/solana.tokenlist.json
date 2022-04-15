@@ -149800,6 +149800,17 @@
         "telegram": "https://t.me/hyperfenix",
         "website": "https://www.hyperfenix.netsons.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4c1Kajn2GDAR7McHfLBWGqRJSEy5ee2MVQTi77DuSqm6",
+      "symbol": "SRCN",
+      "name": "SaberCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TTVSaber3000/Crypto/main/original_11zon.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
