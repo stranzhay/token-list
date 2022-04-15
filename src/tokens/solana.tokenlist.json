@@ -149984,6 +149984,21 @@
         "twitter": "https://twitter.com/OneDropNFTs",
         "website": "https://onedropnfts.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D4GGY5JRZNmxnw2XWApruyxDfZd7X9N2xZzBxvJawDCv",
+      "symbol": "OPD",
+      "name": "Oneiron Dark",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D4GGY5JRZNmxnw2XWApruyxDfZd7X9N2xZzBxvJawDCv/OPBlack.png",
+      "tags": [
+        "ownership-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/oneironproject",
+        "website": "http://www.oneironproject.com"
+      }
     }
   ],
   "version": {
