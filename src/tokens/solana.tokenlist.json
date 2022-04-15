@@ -149698,6 +149698,17 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WL18mMeknGmb53BWMU6DYCTCBRLpVXbo8yUSFRGXR46",
+      "symbol": "SGYC",
+      "name": "Skeleton graveyard WL token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WL18mMeknGmb53BWMU6DYCTCBRLpVXbo8yUSFRGXR46/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SkeletonGraveYC"
+      }
     }
   ],
   "version": {
