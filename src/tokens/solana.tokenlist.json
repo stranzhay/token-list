@@ -149604,6 +149604,17 @@
         "twitter": "https://twitter.com/oneironproject",
         "website": "http://www.oneironproject.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "wDUsRqqnWQSoanYECLT1PTGvj17WzHwQeujWug6gDb8",
+      "symbol": "JSTBZ",
+      "name": "JustBaze",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/justbaze/crypto/main/JustBazeCoin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
