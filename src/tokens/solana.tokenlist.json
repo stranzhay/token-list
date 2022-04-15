@@ -149615,6 +149615,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "yHxDCKFCPh3HvXYkENDpA4nSG49Z9ioNrZLZQUwN6W2",
+      "symbol": "KUD",
+      "name": "Kudos",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SecRocker/Crypto/main/Kudo.PNG",
+      "tags": [
+        "Social-token"
+      ]
     }
   ],
   "version": {
