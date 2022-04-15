@@ -149826,6 +149826,35 @@
       "extensions": {
         "website": "https://www.dariusdao.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4oog3cJgry8qrX2KK4nkbq2jZD3vcCmdwpoFykC2fcDW",
+      "symbol": "milox",
+      "name": "MiloX Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/miloxOne/miloxtoken/blob/main/miloxpurple.png",
+      "tags": [
+        "Community-token",
+        "utility-token",
+        "Social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FFTKNbF95yW764GFKS28wYZETMtQvLPCbEzmEjfpGNkq",
+      "symbol": "FRENCHIE",
+      "name": "Frenchie Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FFTKNbF95yW764GFKS28wYZETMtQvLPCbEzmEjfpGNkq/logo.png",
+      "tags": [
+        "utility-token",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wqfc7xXHf6",
+        "twitter": "https://twitter.com/fancyfrenchnft"
+      }
     }
   ],
   "version": {
