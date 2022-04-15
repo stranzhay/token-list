@@ -149811,6 +149811,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HSW1S6xPNR2RXAJKBF6BCSQkoSoLomfm7DVvwydQR2qP",
+      "symbol": "SWRD",
+      "name": "Sword",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/muzammilkhattri/crypto/main/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.dariusdao.com/"
+      }
     }
   ],
   "version": {
