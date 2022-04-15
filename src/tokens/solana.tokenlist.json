@@ -149766,6 +149766,23 @@
       "tags": [
         "util-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GXnw9YSt6DANCt84Ti6ZpbaXvrvuEJFCYqrDjygnq4R8",
+      "symbol": "ATC",
+      "name": "ARTICOIN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/mum33n/atc-logo/main/LOGO%20(256).png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/36sYxUUpKn",
+        "twitter": "https://twitter.com/Articoin1",
+        "website": "https://atcsolana.com/"
+      }
     }
   ],
   "version": {
