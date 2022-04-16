@@ -150289,6 +150289,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "64tNPiqghogsrKuRaHmdP3Pjc39JRvQBnCDh6CjCEw75",
+      "symbol": "PROSPER",
+      "name": "Prosperity",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Prosperity-Coin/crypto/main/PRSPR.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
