@@ -150055,6 +150055,24 @@
       "name": "Stoned Gods WL",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GodsvjpSKruMFKaPCBBWw4S66RepEzToPqjUhiheTNMZ/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "9VXYvA15RhQndzjRrt7DyhiXPSurLKBsfwPHMDyN6s5H",
+      "symbol": "SolPunks",
+      "name": "SolPunks 3D Whitelist",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/solpunkz/logo.png",
+      "tags": [
+        "nft",
+        "community-token"
+      ],
+      "extensions": {
+        "animationUrl": "https://storage.googleapis.com/solpunkz/solpunkz.mp4",
+        "description": "SolPunks 3D Whitelist redeemable token",
+        "imageUrl": "https://arwave.art/gweq2vxtzpngk1eqlq6k/hefh2g.png",
+        "website": "https://solpunks.club"
+      }
     }
   ],
   "version": {
