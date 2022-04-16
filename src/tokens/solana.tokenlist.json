@@ -150254,6 +150254,17 @@
       "extensions": {
         "website": "https://www.meltlabs.tech/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8TmXs3ePSkXNsCrNvMJmgTsdBuHcynCaqVBWmASRVEGV",
+      "symbol": "BET",
+      "name": "Ayt Bet",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/AytBet/aytbet/main/logo.png.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
