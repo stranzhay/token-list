@@ -150265,6 +150265,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D735UtZQuPGXWecCJcJwqk35eydNaXk4b9pryGULrP3i",
+      "symbol": "BPT",
+      "name": "Black Penny token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/banton84/Black-Penny/main/logo.png",
+      "tags": [
+        "utility-Token",
+        "collectible-token",
+        "NFT-token"
+      ]
     }
   ],
   "version": {
