@@ -150047,6 +150047,47 @@
         "twitter": "https://twitter.com/hodlersproject",
         "website": "https://thehodlersproject.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GodsvjpSKruMFKaPCBBWw4S66RepEzToPqjUhiheTNMZ",
+      "symbol": "SGWL",
+      "name": "Stoned Gods WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GodsvjpSKruMFKaPCBBWw4S66RepEzToPqjUhiheTNMZ/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "9VXYvA15RhQndzjRrt7DyhiXPSurLKBsfwPHMDyN6s5H",
+      "symbol": "SolPunks",
+      "name": "SolPunks 3D Whitelist",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/solpunkz/logo.png",
+      "tags": [
+        "nft",
+        "community-token"
+      ],
+      "extensions": {
+        "animationUrl": "https://storage.googleapis.com/solpunkz/solpunkz.mp4",
+        "description": "SolPunks 3D Whitelist redeemable token",
+        "imageUrl": "https://arwave.art/gweq2vxtzpngk1eqlq6k/hefh2g.png",
+        "website": "https://solpunks.club"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DeadKA6Z6GQfsQWjCehzj1gJQ3oPTEXMpQsyKYJr2qR2",
+      "symbol": "DEADREJECT",
+      "name": "Dead Reject Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bitcoinblack482/logo/main/dead%20reject.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DeadRejcts",
+        "website": "https://deadrejects.com/"
+      }
     }
   ],
   "version": {
