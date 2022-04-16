@@ -150169,6 +150169,17 @@
         "twitter": "https://twitter.com/CoralTribeNFT",
         "website": "https://www.cryptocoraltribe.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CX4y3ACwjmfMfK2nfmx2vRq5KDpQnREjLBHVDERSbsu1",
+      "symbol": "EV",
+      "name": "Ev Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Sergioooo94/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
