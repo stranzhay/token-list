@@ -150010,6 +150010,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "KusHsPAeDvxkstzezKxu1FiGQEBU8EhGmPttFuXdZMW",
+      "symbol": "KU$H",
+      "name": "Stoned Shiba Kush",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KusHsPAeDvxkstzezKxu1FiGQEBU8EhGmPttFuXdZMW/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/stonedshibaclub"
+      }
     }
   ],
   "version": {
