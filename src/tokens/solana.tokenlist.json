@@ -150206,6 +150206,21 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CjZUiiXnnjBsALvYLBjwibeBBYSngSKjBE3LbhNZx6yp",
+      "symbol": "$TRASH",
+      "name": "Trash",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CjZUiiXnnjBsALvYLBjwibeBBYSngSKjBE3LbhNZx6yp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Bmx5dep2fM",
+        "twitter": "https://twitter.com/OpossumPosseNFT"
+      }
     }
   ],
   "version": {
