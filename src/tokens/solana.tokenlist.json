@@ -150138,6 +150138,37 @@
         "twitter": "https://twitter.com/plutoniansgame",
         "website": "https://plutonians.tech"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7PAsFWDR9VZosY4NYkXAZZj4kKmHh8zkMh9ea488w8Y6",
+      "symbol": "OPR",
+      "name": "Oneiron Red",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7PAsFWDR9VZosY4NYkXAZZj4kKmHh8zkMh9ea488w8Y6/OPRed.png",
+      "tags": [
+        "ownership-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/oneironproject",
+        "website": "http://www.oneironproject.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CoraLpUPGUUciXJdeS13Ljv6cjXWsnTVSc1ffzFJryib",
+      "symbol": "CCT",
+      "name": "Crypto Coral Tribe Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CoraLpUPGUUciXJdeS13Ljv6cjXWsnTVSc1ffzFJryib/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/B4MJcX72g9",
+        "twitter": "https://twitter.com/CoralTribeNFT",
+        "website": "https://www.cryptocoraltribe.io"
+      }
     }
   ],
   "version": {
