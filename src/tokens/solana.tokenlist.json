@@ -150138,6 +150138,21 @@
         "twitter": "https://twitter.com/plutoniansgame",
         "website": "https://plutonians.tech"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7PAsFWDR9VZosY4NYkXAZZj4kKmHh8zkMh9ea488w8Y6",
+      "symbol": "OPR",
+      "name": "Oneiron Red",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7PAsFWDR9VZosY4NYkXAZZj4kKmHh8zkMh9ea488w8Y6/OPRed.png",
+      "tags": [
+        "ownership-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/oneironproject",
+        "website": "http://www.oneironproject.com"
+      }
     }
   ],
   "version": {
