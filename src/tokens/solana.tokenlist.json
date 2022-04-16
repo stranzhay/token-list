@@ -150350,6 +150350,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DP7F9J3X6g2ikVp6Y8WKVnxYwdXHYCeBHbouBbeQbevy",
+      "symbol": "CHIEF",
+      "name": "CHIEFIN CHIMP COIN",
+      "decimals": 6,
+      "logoURI": "https://github.com/boosbasement/metaboss/blob/main/Gold%20Status.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
