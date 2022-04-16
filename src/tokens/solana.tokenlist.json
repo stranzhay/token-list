@@ -150180,6 +150180,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "PXLSmSBWHU8yAqNof9Ry2LPsZxHSYB4xXsBaQWUmEzV",
+      "symbol": "Pixels",
+      "name": "Pixels",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/GpuEa7JiRH0-trJ-B25Pjh-DYt0-RaXjzPTIEVGUOdk?ext=gif",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solsunsets",
+        "website": "https://solsunsets.com/"
+      }
     }
   ],
   "version": {
