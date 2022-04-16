@@ -150317,6 +150317,39 @@
         "telegram": "https://t.me/bearcoinglobal",
         "twitter": "https://twitter.com/bearcoinsolona"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AnvURtZKryH6WA9zE1JTQM7gnHEHhTzhBnY6825jMwAM",
+      "symbol": "MJTK",
+      "name": "MJToken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/jaszczomp71/krypto/main/ikonahawk.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4SGJGMt8hjHKSFVUZPKUUdZL3cK69avvuUJiizmtVDj5",
+      "symbol": "CHUBBY",
+      "name": "Chubby Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4SGJGMt8hjHKSFVUZPKUUdZL3cK69avvuUJiizmtVDj5/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DKhGCZsC57jNLKJXAfCsPbhVuxKdCCHfJYMhLgXuCvVi",
+      "symbol": "RCKC",
+      "name": "RockyCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/soperio/cripto/main/ratonero.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
