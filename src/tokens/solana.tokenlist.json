@@ -150024,6 +150024,17 @@
       "extensions": {
         "twitter": "https://twitter.com/stonedshibaclub"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2hLu9vvevNRPa8cASbvnest1BrBNAaXL7WiVtvL65QRX",
+      "symbol": "ESPC",
+      "name": "EsportCurrency",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/EsportsCurrency/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
