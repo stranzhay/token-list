@@ -150073,6 +150073,21 @@
         "imageUrl": "https://arwave.art/gweq2vxtzpngk1eqlq6k/hefh2g.png",
         "website": "https://solpunks.club"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DeadKA6Z6GQfsQWjCehzj1gJQ3oPTEXMpQsyKYJr2qR2",
+      "symbol": "DEADREJECT",
+      "name": "Dead Reject Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bitcoinblack482/logo/main/dead%20reject.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DeadRejcts",
+        "website": "https://deadrejects.com/"
+      }
     }
   ],
   "version": {
