@@ -150047,6 +150047,14 @@
         "twitter": "https://twitter.com/hodlersproject",
         "website": "https://thehodlersproject.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GodsvjpSKruMFKaPCBBWw4S66RepEzToPqjUhiheTNMZ",
+      "symbol": "SGWL",
+      "name": "Stoned Gods WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GodsvjpSKruMFKaPCBBWw4S66RepEzToPqjUhiheTNMZ/logo.png"
     }
   ],
   "version": {
