@@ -149999,6 +149999,17 @@
         "twitter": "https://twitter.com/oneironproject",
         "website": "http://www.oneironproject.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8LSLFmXNiuvzWdCfPHtMSnr8k3Knx7AxrYttj3H7HoTu",
+      "symbol": "FIRE",
+      "name": "FireCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/johnyg127/firecoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
