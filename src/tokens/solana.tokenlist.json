@@ -150180,6 +150180,80 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "PXLSmSBWHU8yAqNof9Ry2LPsZxHSYB4xXsBaQWUmEzV",
+      "symbol": "Pixels",
+      "name": "Pixels",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/GpuEa7JiRH0-trJ-B25Pjh-DYt0-RaXjzPTIEVGUOdk?ext=gif",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solsunsets",
+        "website": "https://solsunsets.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "44B2P7F4ArPt9E2t7Kzvzx3BVqWV65Bt6qzJZH2YZmwR",
+      "symbol": "FTH",
+      "name": "Fear The Hill Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BMcBride89/Fear-The-Hill-Coin/main/FTH-logos_transparent%5B1%5D.png",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CjZUiiXnnjBsALvYLBjwibeBBYSngSKjBE3LbhNZx6yp",
+      "symbol": "$TRASH",
+      "name": "Trash",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CjZUiiXnnjBsALvYLBjwibeBBYSngSKjBE3LbhNZx6yp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Bmx5dep2fM",
+        "twitter": "https://twitter.com/OpossumPosseNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "WsyX1zaGR6EMkpXdawxtA7W7cq46zx5LaV6rwwb4Zir",
+      "symbol": "PTK",
+      "name": "PetikuCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SpriteyOnTheDraconic/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8FwNHtCumEnZFAkrQLFEz7ngt2rXPjX3Sqt27d7xp35u",
+      "symbol": "WLT1",
+      "name": "WhiteList MeltLabs 1",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8FwNHtCumEnZFAkrQLFEz7ngt2rXPjX3Sqt27d7xp35u/logo.png",
+      "extensions": {
+        "website": "https://www.meltlabs.tech/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HMBcrrSFdVVn5APB6zT76btXg4TgqBKXioaWzTZDConp",
+      "symbol": "WLT2",
+      "name": "WhiteList MeltLabs 2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HMBcrrSFdVVn5APB6zT76btXg4TgqBKXioaWzTZDConp/logo.png",
+      "extensions": {
+        "website": "https://www.meltlabs.tech/"
+      }
     }
   ],
   "version": {
