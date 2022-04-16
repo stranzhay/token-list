@@ -150278,6 +150278,17 @@
         "collectible-token",
         "NFT-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "p9o6pK39LNrjepTy6vJ9CbebthaMSAdxK797PobEqAf",
+      "symbol": "AYLLA",
+      "name": "Aylla Coin",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmP4Zz9TLxY5agmLrSi3NJuCc9zxeMYoSzvFe8wUXK3hRT",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
