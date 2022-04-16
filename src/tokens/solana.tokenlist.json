@@ -150195,6 +150195,17 @@
         "twitter": "https://twitter.com/solsunsets",
         "website": "https://solsunsets.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "44B2P7F4ArPt9E2t7Kzvzx3BVqWV65Bt6qzJZH2YZmwR",
+      "symbol": "FTH",
+      "name": "Fear The Hill Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BMcBride89/Fear-The-Hill-Coin/main/FTH-logos_transparent%5B1%5D.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
