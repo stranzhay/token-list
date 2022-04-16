@@ -150339,6 +150339,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DKhGCZsC57jNLKJXAfCsPbhVuxKdCCHfJYMhLgXuCvVi",
+      "symbol": "RCKC",
+      "name": "RockyCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/soperio/cripto/main/ratonero.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
