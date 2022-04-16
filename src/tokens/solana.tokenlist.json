@@ -150035,6 +150035,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5uB44vtqsgWMu2BDr4owwSequHDhDYtJ4pBZn4oUFhfi",
+      "symbol": "HODLR",
+      "name": "The Hodlers Project Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Randomkushh/gitnote-images/main/images/HODLR%20token.png",
+      "extensions": {
+        "twitter": "https://twitter.com/hodlersproject",
+        "website": "https://thehodlersproject.com/"
+      }
     }
   ],
   "version": {
