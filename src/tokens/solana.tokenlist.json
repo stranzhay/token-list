@@ -150317,6 +150317,17 @@
         "telegram": "https://t.me/bearcoinglobal",
         "twitter": "https://twitter.com/bearcoinsolona"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AnvURtZKryH6WA9zE1JTQM7gnHEHhTzhBnY6825jMwAM",
+      "symbol": "MJTK",
+      "name": "MJToken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/jaszczomp71/krypto/main/ikonahawk.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
