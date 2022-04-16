@@ -150221,6 +150221,17 @@
         "discord": "https://discord.gg/Bmx5dep2fM",
         "twitter": "https://twitter.com/OpossumPosseNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WsyX1zaGR6EMkpXdawxtA7W7cq46zx5LaV6rwwb4Zir",
+      "symbol": "PTK",
+      "name": "PetikuCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SpriteyOnTheDraconic/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
