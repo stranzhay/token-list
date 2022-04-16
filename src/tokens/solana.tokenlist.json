@@ -150232,6 +150232,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8FwNHtCumEnZFAkrQLFEz7ngt2rXPjX3Sqt27d7xp35u",
+      "symbol": "WLT1",
+      "name": "WhiteList MeltLabs 1",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8FwNHtCumEnZFAkrQLFEz7ngt2rXPjX3Sqt27d7xp35u/logo.png",
+      "extensions": {
+        "website": "https://www.meltlabs.tech/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HMBcrrSFdVVn5APB6zT76btXg4TgqBKXioaWzTZDConp",
+      "symbol": "WLT2",
+      "name": "WhiteList MeltLabs 2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HMBcrrSFdVVn5APB6zT76btXg4TgqBKXioaWzTZDConp/logo.png",
+      "extensions": {
+        "website": "https://www.meltlabs.tech/"
+      }
     }
   ],
   "version": {
