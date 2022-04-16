@@ -150300,6 +150300,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2poDkzS8LQidSmuEeVtYF2faDUkdU8PsRyc7ZS9qiscA",
+      "symbol": "BEARCOIN",
+      "name": "Bearcoin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sarwocrypto/token/main/logo.png",
+      "tags": [
+        "DeFi",
+        "DEX"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/htBfxH9je4",
+        "telegram": "https://t.me/bearcoinglobal",
+        "twitter": "https://twitter.com/bearcoinsolona"
+      }
     }
   ],
   "version": {
