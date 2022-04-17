@@ -150733,6 +150733,23 @@
         "twitter": "https://twitter.com/DecimusDynamic",
         "website": "https://www.decimusdynamics.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3evMUC9VTLsf1QSY7UjJMX2coh3ZvNb1pYCbmcTJQ43o",
+      "symbol": "SMLWL",
+      "name": "SmiliNFT WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3evMUC9VTLsf1QSY7UjJMX2coh3ZvNb1pYCbmcTJQ43o/logo.png",
+      "tags": [
+        "NFT",
+        "Smile",
+        "Whitelist"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nftsmilin",
+        "website": "http://smilinft.xyz/"
+      }
     }
   ],
   "version": {
