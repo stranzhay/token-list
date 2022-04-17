@@ -150521,6 +150521,21 @@
         "twitter": "https://twitter.com/piuchung",
         "website": "https://pchung.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2FtCJ25UmSAHiCwbEccrop24wgybiTYLTYhGXi4nBaVk",
+      "symbol": "SHITZ+",
+      "name": "The Shitz+",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FtCJ25UmSAHiCwbEccrop24wgybiTYLTYhGXi4nBaVk/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/theshitz",
+        "website": "https://theshitz.io"
+      }
     }
   ],
   "version": {
