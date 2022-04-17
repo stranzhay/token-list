@@ -150622,6 +150622,28 @@
         "twitter": "https://twitter.com/CoralTribeNFT",
         "website": "https://www.cryptocoraltribe.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AYHyLqEdGJJUEDYd5NEHrRXRbCJdiSWZvqAzSpxnuJs7",
+      "symbol": "VAULT",
+      "name": "VC Vault",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/istracoin-dev/crypto/main/logo.png",
+      "tags": [
+        "gaming"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "B8U4h9teR9qfjkXRCnmbEcJs8Dimbz2vzdKpHmLPBDVs",
+      "symbol": "HND",
+      "name": "Hand",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B8U4h9teR9qfjkXRCnmbEcJs8Dimbz2vzdKpHmLPBDVs/LogoH.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
