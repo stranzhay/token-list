@@ -150484,6 +150484,20 @@
         "description": "BucketHead Studios Utility Token",
         "discord": "https://discord.gg/bucketheadstudios"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7ZeD9kt1J7n61YJ1fJe9dGDaLzKBktieRGHxjkAk1m7r",
+      "symbol": "ZILLION",
+      "name": "Zillion",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ZeD9kt1J7n61YJ1fJe9dGDaLzKBktieRGHxjkAk1m7r/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BlueChipClique"
+      }
     }
   ],
   "version": {
