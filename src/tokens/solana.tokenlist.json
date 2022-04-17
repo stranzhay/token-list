@@ -150536,6 +150536,20 @@
         "discord": "https://discord.gg/theshitz",
         "website": "https://theshitz.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FXekW7DcvMtfHgamPFk2NddobxnRVxwf592uUpxtykja",
+      "symbol": "AWL",
+      "name": "Astral Witches WL",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/GokhanCerk/assets/main/aw.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AstraIWitches"
+      }
     }
   ],
   "version": {
