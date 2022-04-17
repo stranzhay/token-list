@@ -150707,6 +150707,17 @@
         "twitter": "https://twitter.com/coherencefi",
         "website": "https://coherence.finance"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BLGq9PG22RKVMy28jKrWEvhS9VMPMPFDEj3pRiTqu7T",
+      "symbol": "DRAT",
+      "name": "Dragontongue",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/blackbaron43/crypto2/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
