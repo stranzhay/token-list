@@ -150658,6 +150658,14 @@
       "extensions": {
         "website": "https://www.googlitz.info"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "ABAJYr778ESNN6XKNG83io5HcbEKmnEY3LLxhw5kx5pB",
+      "symbol": "ISSU",
+      "name": "issugo coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/issugo/test_solana_crypto/main/logo.png"
     }
   ],
   "version": {
