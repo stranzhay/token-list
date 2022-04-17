@@ -150550,6 +150550,22 @@
       "extensions": {
         "twitter": "https://twitter.com/AstraIWitches"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "igsvRjB6uyVMGcM9nbWwESxN1eTfVTPiQ1ThoCc8f2g",
+      "symbol": "IGS",
+      "name": "Ielian Global Standard",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/igsvRjB6uyVMGcM9nbWwESxN1eTfVTPiQ1ThoCc8f2g/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/tatsu",
+        "twitter": "https://twitter.com/tatsumeeko",
+        "website": "https://tatsumeeko.com/"
+      }
     }
   ],
   "version": {
