@@ -150550,6 +150550,37 @@
       "extensions": {
         "twitter": "https://twitter.com/AstraIWitches"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "igsvRjB6uyVMGcM9nbWwESxN1eTfVTPiQ1ThoCc8f2g",
+      "symbol": "IGS",
+      "name": "Ielian Global Standard",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/igsvRjB6uyVMGcM9nbWwESxN1eTfVTPiQ1ThoCc8f2g/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/tatsu",
+        "twitter": "https://twitter.com/tatsumeeko",
+        "website": "https://tatsumeeko.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2DwfLs6gTAj7e4PHe9XAZDbv9G8At7YqGcHiRhbFeYhk",
+      "symbol": "GOLOK",
+      "name": "Golok",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2DwfLs6gTAj7e4PHe9XAZDbv9G8At7YqGcHiRhbFeYhk/golok.svg",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discordapp.com/users/839508027446788126",
+        "twitter": "https://twitter.com/5ud1pt0"
+      }
     }
   ],
   "version": {
