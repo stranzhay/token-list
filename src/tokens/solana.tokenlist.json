@@ -150372,6 +150372,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WLwKFNCKESMfbYU1o7hzp868AtyFHGpbC9i4jUTHpQb",
+      "symbol": "TMDC-X-WL",
+      "name": "TMDC-X WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/namu42/ImageRepo/main/WLwKFNCKESMfbYU1o7hzp868AtyFHGpbC9i4jUTHpQb/wl_token_logo.png",
+      "tags": [
+        "Whitelist-Token",
+        "NFT"
+      ]
     }
   ],
   "version": {
