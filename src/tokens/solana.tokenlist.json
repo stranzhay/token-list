@@ -150468,6 +150468,22 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FECgEnETvkCeDpJdLyURiHRZNiXw63JfHfxi1fUL3RrR",
+      "symbol": "OPrism",
+      "name": "Overprism",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FECgEnETvkCeDpJdLyURiHRZNiXw63JfHfxi1fUL3RrR/logo.png",
+      "tags": [
+        "utility-token",
+        "DeFi"
+      ],
+      "extensions": {
+        "description": "BucketHead Studios Utility Token",
+        "discord": "https://discord.gg/bucketheadstudios"
+      }
     }
   ],
   "version": {
