@@ -150666,6 +150666,47 @@
       "name": "issugo coin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/issugo/test_solana_crypto/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "mpcqShNDqz3nLGUXg4cr8bkxiCJEwHvdAJCevouj1nU",
+      "symbol": "MPCWL",
+      "name": "Meta Pups Whitelist",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/metapupsclub/PupMint/main/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metapupsclub",
+        "website": "https://www.metapupsclub.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5QDRAruauPb6pN8oJnHfaNEBr4XZxmwWR6hLs4rha3qs",
+      "symbol": "DSLT",
+      "name": "Defi-SOL-LT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5QDRAruauPb6pN8oJnHfaNEBr4XZxmwWR6hLs4rha3qs/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/6DWz82RWbM",
+        "twitter": "https://twitter.com/coherencefi",
+        "website": "https://coherence.finance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "uWiSDpV8ZBNmpv54PFDdE1RzqmSyiEKZhvFWR5nCPvz",
+      "symbol": "SRMEI",
+      "name": "Serum Ecosystem Index",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/uWiSDpV8ZBNmpv54PFDdE1RzqmSyiEKZhvFWR5nCPvz/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/6DWz82RWbM",
+        "twitter": "https://twitter.com/coherencefi",
+        "website": "https://coherence.finance"
+      }
     }
   ],
   "version": {
