@@ -150401,6 +150401,48 @@
         "linkedin": "https://www.linkedin.com/company/blockstone-online/",
         "website": "https://explorer.solana.com/address/JANSen9otUNFWvBcU6tj3bufozybNZVqvtH64ZXZPggL/tokens"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GNC9uTx8dBun94hM8PeRmEGBb7LJ7uKrgNBnooAaQzXN",
+      "symbol": "GNC",
+      "name": "Gong Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GNC9uTx8dBun94hM8PeRmEGBb7LJ7uKrgNBnooAaQzXN/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/GongMaster6"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp",
+      "symbol": "LFNTY",
+      "name": "Lifinity",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp/logo.svg",
+      "extensions": {
+        "discord": "https://discord.com/invite/K2tvfcXwWr",
+        "medium": "https://medium.com/@lifinity.io",
+        "twitter": "https://twitter.com/Lifinity_io",
+        "website": "https://lifinity.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "xLfNTYy76B8Tiix3hA51Jyvc1kMSFV4sPdR7szTZsRu",
+      "symbol": "xLFNTY",
+      "name": "xLifinity",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xLfNTYy76B8Tiix3hA51Jyvc1kMSFV4sPdR7szTZsRu/logo.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/K2tvfcXwWr",
+        "medium": "https://medium.com/@lifinity.io",
+        "twitter": "https://twitter.com/Lifinity_io",
+        "website": "https://lifinity.io/"
+      }
     }
   ],
   "version": {
