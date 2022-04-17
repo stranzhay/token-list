@@ -150498,6 +150498,29 @@
       "extensions": {
         "twitter": "https://twitter.com/BlueChipClique"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3mnAvh37Zp3iKTmKh7yVZTu1272EdoLDbYPMbwBGqQzF",
+      "symbol": "CHUNG",
+      "name": "Chung Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3mnAvh37Zp3iKTmKh7yVZTu1272EdoLDbYPMbwBGqQzF/logo.svg",
+      "tags": [
+        "social-token",
+        "sports-token",
+        "utility-token",
+        "game-token",
+        "community-token",
+        "metaverse",
+        "GameFi",
+        "SocialFi"
+      ],
+      "extensions": {
+        "github": "https://github.com/piuchung",
+        "twitter": "https://twitter.com/piuchung",
+        "website": "https://pchung.com"
+      }
     }
   ],
   "version": {
