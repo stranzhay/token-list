@@ -150581,6 +150581,32 @@
         "discord": "https://discordapp.com/users/839508027446788126",
         "twitter": "https://twitter.com/5ud1pt0"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EDLY8hdW9aVYNf12WTsRb6qshNqN2SjG7LbAAyQnLBbU",
+      "symbol": "CACLUB",
+      "name": "Cannabis Art Club",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/AMAF90/caclub/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://thcamera.pt/nft/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "WLbrRsNqSSeDvDgJ68pwMgGsH5zQfRBFhe7VMvKf2xM",
+      "symbol": "KLVX-WL",
+      "name": "KLVX-WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/namu42/ImageRepo/main/WLbrRsNqSSeDvDgJ68pwMgGsH5zQfRBFhe7VMvKf2xM/box3.png",
+      "tags": [
+        "Whitelist-Token",
+        "NFT"
+      ]
     }
   ],
   "version": {
