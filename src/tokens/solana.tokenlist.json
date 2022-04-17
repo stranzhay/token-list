@@ -150707,6 +150707,32 @@
         "twitter": "https://twitter.com/coherencefi",
         "website": "https://coherence.finance"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BLGq9PG22RKVMy28jKrWEvhS9VMPMPFDEj3pRiTqu7T",
+      "symbol": "DRAT",
+      "name": "Dragontongue",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/blackbaron43/crypto2/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EAzCTpMGRjFmGf4MaiMVNqv6KxQNoM6HEXtPZLEtEivB",
+      "symbol": "DECI",
+      "name": "Decimus Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAzCTpMGRjFmGf4MaiMVNqv6KxQNoM6HEXtPZLEtEivB/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DecimusDynamic",
+        "website": "https://www.decimusdynamics.io/"
+      }
     }
   ],
   "version": {
