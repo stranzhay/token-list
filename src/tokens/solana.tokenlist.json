@@ -150666,6 +150666,21 @@
       "name": "issugo coin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/issugo/test_solana_crypto/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "mpcqShNDqz3nLGUXg4cr8bkxiCJEwHvdAJCevouj1nU",
+      "symbol": "MPCWL",
+      "name": "Meta Pups Whitelist",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/metapupsclub/PupMint/main/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metapupsclub",
+        "website": "https://www.metapupsclub.io/"
+      }
     }
   ],
   "version": {
