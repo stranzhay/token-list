@@ -150361,6 +150361,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5YqSGoJtA5KZY784hoMV9DAkLDE8EGjSNr3YNQoVW8DK",
+      "symbol": "MAXI",
+      "name": "MAXIG",
+      "decimals": 0,
+      "logoURI": "https://github.com/uulen1/crypto/blob/main/IMG_6102.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
