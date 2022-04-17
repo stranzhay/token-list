@@ -150718,6 +150718,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EAzCTpMGRjFmGf4MaiMVNqv6KxQNoM6HEXtPZLEtEivB",
+      "symbol": "DECI",
+      "name": "Decimus Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAzCTpMGRjFmGf4MaiMVNqv6KxQNoM6HEXtPZLEtEivB/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DecimusDynamic",
+        "website": "https://www.decimusdynamics.io/"
+      }
     }
   ],
   "version": {
