@@ -150644,6 +150644,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3fyPKsFZVmbGPKuYLTf5Pk7NBDQhUqXDMx95gHxmCU4x",
+      "symbol": "GOO",
+      "name": "GOO Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3fyPKsFZVmbGPKuYLTf5Pk7NBDQhUqXDMx95gHxmCU4x/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.googlitz.info"
+      }
     }
   ],
   "version": {
