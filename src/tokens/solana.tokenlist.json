@@ -151282,6 +151282,38 @@
         "community-token",
         "business-coin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ANqY8h3sRSwkC29FvGJenAh7VGRABVVx7Ls6Mq4BuGT",
+      "symbol": "ZIG",
+      "name": "ZIG Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ANqY8h3sRSwkC29FvGJenAh7VGRABVVx7Ls6Mq4BuGT/logo.png",
+      "tags": [
+        "ethereum",
+        "utility-token"
+      ],
+      "extensions": {
+        "address": "0xb2617246d0c6c0087f18703d576831899ca94f01",
+        "assetContract": "https://etherscan.io/token/0xb2617246d0c6c0087f18703d576831899ca94f01",
+        "blog": "https://zignaly.com/blog",
+        "bridgeContract": "https://etherscan.io/address/0x3265bf56ab6c2e3cb39bb0b1bf41307ed87bfa35",
+        "coingeckoId": "zignaly",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/zigcoin/",
+        "description": "ZIG is the token that powers the Zignaly ecosystem: marketplace, vault and launchpad.",
+        "discord": "https://discord.gg/r5qRXDJ",
+        "facebook": "https://www.facebook.com/zignaly",
+        "github": "https://github.com/zignaly-open",
+        "linkedin": "https://www.linkedin.com/company/zignaly",
+        "medium": "https://zignaly.medium.com/",
+        "telegram": "https://t.me/ZignalyHQ",
+        "telegramAnnouncements": "https://t.me/zignalyannouncement",
+        "twitter": "https://twitter.com/zignaly",
+        "vault": "https://zignaly.com/app/dashboard/#vault",
+        "website": "https://zignaly.com/",
+        "youtube": "https://www.youtube.com/c/Zignaly"
+      }
     }
   ],
   "version": {
