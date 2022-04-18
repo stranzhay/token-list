@@ -150815,6 +150815,21 @@
         "twitter": "https://twitter.com/mynftgg",
         "website": "https://mynft.gg"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MPCsKBRTbpNnzJEB9EBxYUF9CZDYuvKBfpVDbTyR1EW",
+      "symbol": "MPCLaunch",
+      "name": "Meta Pups Club Launching 420",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/metapupsclub/PupMint/main/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metapupsclub",
+        "website": "https://www.metapupsclub.io/"
+      }
     }
   ],
   "version": {
