@@ -151518,6 +151518,21 @@
         "twitter": "https://twitter.com/DeadRejcts",
         "website": "https://deadrejects.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "53aeVacJqTA1W3kQXLcGBvT2mxndCGPp7LrYMPGe2L5X",
+      "symbol": "SREBC",
+      "name": "SREBrasil Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/srebrasil/SREBrasilCoin/main/SREBrasilToken.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Token social para a comunidade SRE Brasil",
+        "website": "http://www.srebrasil.com"
+      }
     }
   ],
   "version": {
