@@ -151636,6 +151636,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BFwQLeUYEaU4Sgf6KzxXCcXWzAjEd5iKEjFyE88EpaUE",
+      "symbol": "OMU",
+      "name": "OMU Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BFwQLeUYEaU4Sgf6KzxXCcXWzAjEd5iKEjFyE88EpaUE/logo.png",
+      "tags": [
+        "utility-token",
+        "payment-token"
+      ]
     }
   ],
   "version": {
