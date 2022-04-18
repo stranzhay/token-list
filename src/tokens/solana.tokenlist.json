@@ -151589,6 +151589,42 @@
       "extensions": {
         "website": "https://soniacoin.weebly.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9jDpKzpHz6fatL8CiJjRhAGsLJmLMzXvynwxY5y7ykKF",
+      "symbol": "CAYC",
+      "name": "Official Cyber Ape Yacht Club",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9jDpKzpHz6fatL8CiJjRhAGsLJmLMzXvynwxY5y7ykKF/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://cayc.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GkLcXLnY5C36YKqceD3gpnQuej5xEtFBeRqQqFVGSwrf",
+      "symbol": "GECKO",
+      "name": "GECKO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GkLcXLnY5C36YKqceD3gpnQuej5xEtFBeRqQqFVGSwrf/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2EmWCTJj7TsStdFmWckLXsxcU3S91t7SxEXBuzfas4nW",
+      "symbol": "STT",
+      "name": "STT COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2EmWCTJj7TsStdFmWckLXsxcU3S91t7SxEXBuzfas4nW/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
