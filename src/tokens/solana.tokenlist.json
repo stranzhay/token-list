@@ -151392,6 +151392,52 @@
         "twitter": "https://twitter.com/viraverseio",
         "website": "https://viraverse.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ArBHXMmUeNuaacvPm6YnFd23og5pkpNTxm4gsoh259qc",
+      "symbol": "TRCO",
+      "name": "Trident Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/johno187/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4ZSG9zyxCsDa9VKtXUHkw48aNJS5aikETjA8Z1mP2vcP",
+      "symbol": "AJSP",
+      "name": "Alain Joseph Stephane Painchaud",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AlainSPainchaud/Crypto/main/TokenOfficiel.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "business-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "D9UA6BBwmqYuasyh8ja3LcQ7Tsdib6aa3pticTsSwRTQ",
+      "symbol": "Star",
+      "name": "Estrella Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Crypto-Papi/crypto/main/starlogo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "87dNcieNbSYQXzicLKQpKMHbwbQnKDH9kq6JmQLVw26T",
+      "symbol": "MNPY",
+      "name": "Moon Pie",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/davisayomah/Moon-Pie-Token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
