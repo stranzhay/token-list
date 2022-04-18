@@ -151603,6 +151603,17 @@
       "extensions": {
         "website": "https://cayc.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GkLcXLnY5C36YKqceD3gpnQuej5xEtFBeRqQqFVGSwrf",
+      "symbol": "GECKO",
+      "name": "GECKO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GkLcXLnY5C36YKqceD3gpnQuej5xEtFBeRqQqFVGSwrf/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
