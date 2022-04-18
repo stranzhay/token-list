@@ -151544,6 +151544,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "iMGN7vhNW6N9CugeB9Ac3Syd4aS363TspANMoj9wVxu",
+      "symbol": "$IMGN",
+      "name": "DAHLYS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/iMGN7vhNW6N9CugeB9Ac3Syd4aS363TspANMoj9wVxu/logo.png",
+      "tags": [
+        "STAKING-Tokens"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DahlysArt",
+        "website": "https://www.dahlys.art"
+      }
     }
   ],
   "version": {
