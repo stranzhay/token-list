@@ -150802,6 +150802,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9uBUX5YMtc3iYSmqmxHne8zyn3Hc2xZ3DazDmdZjaxwr",
+      "symbol": "MNWL",
+      "name": "MYNFTGG WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9uBUX5YMtc3iYSmqmxHne8zyn3Hc2xZ3DazDmdZjaxwr/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/7CqqqfNzEe",
+        "twitter": "https://twitter.com/mynftgg",
+        "website": "https://mynft.gg"
+      }
     }
   ],
   "version": {
