@@ -151079,6 +151079,23 @@
       "tags": [
         "arbitrage-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4CHXd5uSMb9qrLfQwvyHzDMiKmNKDP8Np23dAQWTKNEy",
+      "symbol": "LPFi",
+      "name": "LP Finance DAO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/LPFi.png",
+      "tags": [
+        "governance-token",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fbcA5A3T",
+        "telegram": "https://t.me/LP_Defi_Official_group",
+        "twitter": "https://twitter.com/LPFinance_"
+      }
     }
   ],
   "version": {
