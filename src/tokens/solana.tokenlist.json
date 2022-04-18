@@ -151460,6 +151460,18 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8G91aCq96txspm6SZLcCDnopT36NrZ9nEad2XrEuma8",
+      "symbol": "BHS",
+      "name": "BioHumans",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/conqueror1234/crypto/main/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
