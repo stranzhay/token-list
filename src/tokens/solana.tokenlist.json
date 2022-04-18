@@ -151329,6 +151329,21 @@
         "twitter": "https://twitter.com/primexbtp",
         "website": "https://primexbte.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5wM1ukGYSacfAh6QUdjcmftwaZLCfRXFjJBKK9aSCRka",
+      "symbol": "BC",
+      "name": "Ballistik Coin",
+      "decimals": 9,
+      "logoURI": "https://static.vecteezy.com/system/resources/previews/003/450/375/original/chainlink-link-coin-icon-isolated-on-white-background-vector.jpg",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "description": "Ballistik Coin is the first decentralized, capital efficient and over-collateralized protocol",
+        "website": "https://solana.com/"
+      }
     }
   ],
   "version": {
