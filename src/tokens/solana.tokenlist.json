@@ -151268,6 +151268,20 @@
       "extensions": {
         "twitter": "https://twitter.com/AstraIWitches"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9JDC8fFtXNjTDyQbsquAnMPDe66XFXkKcYLubmpywfRg",
+      "symbol": "SAMY",
+      "name": "SAMYBOT COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CryptoBigMike/SAMYBOT/main/logo_crypto.png",
+      "tags": [
+        "metaverse-token",
+        "nft-token",
+        "community-token",
+        "business-coin"
+      ]
     }
   ],
   "version": {
