@@ -151216,6 +151216,17 @@
         "description": "BEVO ROCKS",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CRRPG57uFaG4Rbfauski7PuSRLQDMsoABtF3UTyhFraT",
+      "symbol": "GEC",
+      "name": "Green Energy",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CRRPG57uFaG4Rbfauski7PuSRLQDMsoABtF3UTyhFraT/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
