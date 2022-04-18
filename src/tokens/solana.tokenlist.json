@@ -150963,6 +150963,20 @@
       "extensions": {
         "instagram": "https://www.instagram.com/cyclus.coin/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EWB6knBPpu4LSD5QNYA6tp4QsnnoLcgemhDk2pePPksL",
+      "symbol": "KYOX",
+      "name": "Kyobo Genesis KYOX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EWB6knBPpu4LSD5QNYA6tp4QsnnoLcgemhDk2pePPksL/logo.png",
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://stake.kyobo.io/"
+      }
     }
   ],
   "version": {
