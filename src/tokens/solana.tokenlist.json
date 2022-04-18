@@ -151533,6 +151533,17 @@
         "description": "Token social para a comunidade SRE Brasil",
         "website": "http://www.srebrasil.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AxGonoNW3Qi8GBmcwpRpGE4xPV5v7rz2ug244gHBKfSr",
+      "symbol": "KDWL",
+      "name": "Kiyo Dragon WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AxGonoNW3Qi8GBmcwpRpGE4xPV5v7rz2ug244gHBKfSr/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
