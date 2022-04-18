@@ -151487,6 +151487,78 @@
       "extensions": {
         "website": "https://solden.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8bdpcGxmKukUecR9MzUFmqHudRc89i6DZLJGwdXiA28t",
+      "symbol": "WPWL1",
+      "name": "WOL PLA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8bdpcGxmKukUecR9MzUFmqHudRc89i6DZLJGwdXiA28t/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://wolfeplanet.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DEADgNiYjUUNwy614z7TWpumyoL9k3vKD2irEj43awGB",
+      "symbol": "DEADWL",
+      "name": "Dead Rejects Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/v2/255x255q90/924/82ec2c.png",
+      "tags": [
+        "whitelist-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/deadrejects",
+        "twitter": "https://twitter.com/DeadRejcts",
+        "website": "https://deadrejects.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "53aeVacJqTA1W3kQXLcGBvT2mxndCGPp7LrYMPGe2L5X",
+      "symbol": "SREBC",
+      "name": "SREBrasil Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/srebrasil/SREBrasilCoin/main/SREBrasilToken.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Token social para a comunidade SRE Brasil",
+        "website": "http://www.srebrasil.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AxGonoNW3Qi8GBmcwpRpGE4xPV5v7rz2ug244gHBKfSr",
+      "symbol": "KDWL",
+      "name": "Kiyo Dragon WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AxGonoNW3Qi8GBmcwpRpGE4xPV5v7rz2ug244gHBKfSr/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "iMGN7vhNW6N9CugeB9Ac3Syd4aS363TspANMoj9wVxu",
+      "symbol": "$IMGN",
+      "name": "DAHLYS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/iMGN7vhNW6N9CugeB9Ac3Syd4aS363TspANMoj9wVxu/logo.png",
+      "tags": [
+        "STAKING-Tokens"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DahlysArt",
+        "website": "https://www.dahlys.art"
+      }
     }
   ],
   "version": {
