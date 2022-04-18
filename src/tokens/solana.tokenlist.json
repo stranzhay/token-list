@@ -151501,6 +151501,23 @@
       "extensions": {
         "website": "https://wolfeplanet.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DEADgNiYjUUNwy614z7TWpumyoL9k3vKD2irEj43awGB",
+      "symbol": "DEADWL",
+      "name": "Dead Rejects Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/v2/255x255q90/924/82ec2c.png",
+      "tags": [
+        "whitelist-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/deadrejects",
+        "twitter": "https://twitter.com/DeadRejcts",
+        "website": "https://deadrejects.com/"
+      }
     }
   ],
   "version": {
