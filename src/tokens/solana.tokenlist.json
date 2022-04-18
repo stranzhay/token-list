@@ -151449,6 +151449,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2nwHzfmTjWyHQCNozmmVzViYperzFc5yzLq5Xs2VV4pD",
+      "symbol": "DONKEYWL",
+      "name": "The Donkey Richards WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2nwHzfmTjWyHQCNozmmVzViYperzFc5yzLq5Xs2VV4pD/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
