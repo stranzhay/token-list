@@ -150932,6 +150932,51 @@
         "twitter": "https://twitter.com/Nekoverse_NFT",
         "website": "https://nekoverse.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B3DRD16zzuybK5Ku4Vv79hp6cxkBmZvTnrDx16N5D5ct",
+      "symbol": "Champ",
+      "name": "Champagne",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B3DRD16zzuybK5Ku4Vv79hp6cxkBmZvTnrDx16N5D5ct/logo.png",
+      "tags": [
+        "NFT-Reward-Token"
+      ],
+      "extensions": {
+        "discord": "https://t.co/xSDuZpVj7F",
+        "instagram": "https://www.instagram.com/the_wolves_club_nft/",
+        "twitter": "https://twitter.com/the_wolves_club",
+        "website": "https://thewolvesclub.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2pUjVFjDLM4f5XXZn7b1NmyHhNtUMZvst6FfPU5yonE1",
+      "symbol": "CYC",
+      "name": "CYCLUS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kristerus/CyclusToken/main/logo.jpg",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/cyclus.coin/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EWB6knBPpu4LSD5QNYA6tp4QsnnoLcgemhDk2pePPksL",
+      "symbol": "KYOX",
+      "name": "Kyobo Genesis KYOX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EWB6knBPpu4LSD5QNYA6tp4QsnnoLcgemhDk2pePPksL/logo.png",
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://stake.kyobo.io/"
+      }
     }
   ],
   "version": {
