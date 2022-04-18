@@ -150791,6 +150791,17 @@
       "extensions": {
         "twitter": "https://twitter.com/MakimaNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "653yTMNJUUSvyXPA6rinxzNdeWRRw1VtajhEosihTX9K",
+      "symbol": "BLK",
+      "name": "Blue K",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/avkawakami/bluek/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
