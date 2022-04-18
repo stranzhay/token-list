@@ -151227,6 +151227,33 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FEMcWftTLmnG1vuZZCR1qcRvK5dew4heeaG44QNs5EHS",
+      "symbol": "FEM",
+      "name": "Femnatns Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/v2/225x225q90/923/mCjHD3.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/RemnantsNFT",
+        "website": "https://theremnantsnft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "VoxnYpJxkriwgBdARwsYPbheGCjXfWi8NFsDYsfP14Q",
+      "symbol": "VOXN",
+      "name": "VoxNinjas Loot",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/VoxnYpJxkriwgBdARwsYPbheGCjXfWi8NFsDYsfP14Q/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/VoxNinjasNFT"
+      }
     }
   ],
   "version": {
