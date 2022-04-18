@@ -151614,6 +151614,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2EmWCTJj7TsStdFmWckLXsxcU3S91t7SxEXBuzfas4nW",
+      "symbol": "STT",
+      "name": "STT COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2EmWCTJj7TsStdFmWckLXsxcU3S91t7SxEXBuzfas4nW/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
