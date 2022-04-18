@@ -151068,6 +151068,17 @@
         "jjcverse",
         "common-soul"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HxBtpdMV1FZ4kDeZLkjeWNyFqhk4riNNnd6vMAGA4aYd",
+      "symbol": "SCO",
+      "name": "SCOCOIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/silverspruce/asssets/main/logo.png",
+      "tags": [
+        "arbitrage-token"
+      ]
     }
   ],
   "version": {
