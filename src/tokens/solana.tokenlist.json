@@ -151559,6 +151559,36 @@
         "twitter": "https://twitter.com/DahlysArt",
         "website": "https://www.dahlys.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "wmcSVkHBkGa9MH633Cs1BoPKD2FbuFe8bQBoRTnaEuv",
+      "symbol": "GST",
+      "name": "Grey Sparrow Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/VorobevSA/solana-token-list/main/assets/mainnet/wmcSVkHBkGa9MH633Cs1BoPKD2FbuFe8bQBoRTnaEuv/big_logo2.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/VorobevSA",
+        "linkedin": "https://www.linkedin.com/in/vorobevsa/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "fdtNAbSJtYTDeJxUuoSSH9maQKrJokkJJTJZgSmpZvp",
+      "symbol": "SONIA",
+      "name": "Sonia Investment Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Firebros1/crypto/main/IMG_0509.jpg",
+      "tags": [
+        "market-coin",
+        "investment-coin"
+      ],
+      "extensions": {
+        "website": "https://soniacoin.weebly.com/"
+      }
     }
   ],
   "version": {
