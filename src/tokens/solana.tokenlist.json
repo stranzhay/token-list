@@ -150830,6 +150830,40 @@
         "twitter": "https://twitter.com/metapupsclub",
         "website": "https://www.metapupsclub.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Eggb3Wuuwb6S7dy2swEZC5kLWR16Tq8F9e41jXym1ZHv",
+      "symbol": "EGGMINT",
+      "name": "Moondusa Egg Minter",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/L3vjQctp6E6eRf132es8odtyTZ2FFP0grigdusXE_Ts",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/moondusa",
+        "telegram": "https://t.me/MoondusaTheNFT",
+        "twitter": "https://twitter.com/Moondusa",
+        "website": "https://moondusanft.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "incdcidLUVUGaMtDhkRdfdVDJG6eAxzjAvRzSxjKWWT",
+      "symbol": "INCMINT",
+      "name": "Moondusa Incubator Minter",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/ereeYqNQoJYmXavjVBgApGuDk2TZYktyMIP77GIWmKs",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/moondusa",
+        "telegram": "https://t.me/MoondusaTheNFT",
+        "twitter": "https://twitter.com/Moondusa",
+        "website": "https://moondusanft.io"
+      }
     }
   ],
   "version": {
