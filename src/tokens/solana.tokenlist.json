@@ -151243,6 +151243,17 @@
         "twitter": "https://twitter.com/RemnantsNFT",
         "website": "https://theremnantsnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "VoxnYpJxkriwgBdARwsYPbheGCjXfWi8NFsDYsfP14Q",
+      "symbol": "VOXN",
+      "name": "VoxNinjas Loot",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/VoxnYpJxkriwgBdARwsYPbheGCjXfWi8NFsDYsfP14Q/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/VoxNinjasNFT"
+      }
     }
   ],
   "version": {
