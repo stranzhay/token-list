@@ -151589,6 +151589,20 @@
       "extensions": {
         "website": "https://soniacoin.weebly.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9jDpKzpHz6fatL8CiJjRhAGsLJmLMzXvynwxY5y7ykKF",
+      "symbol": "CAYC",
+      "name": "Official Cyber Ape Yacht Club",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9jDpKzpHz6fatL8CiJjRhAGsLJmLMzXvynwxY5y7ykKF/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://cayc.io/"
+      }
     }
   ],
   "version": {
