@@ -151355,6 +151355,23 @@
       "tags": [
         "art-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8M93YmbZjYzAPNsRjRcerbEydk1eG9EHNBitv4PRVCrf",
+      "symbol": "FEMN",
+      "name": "Remnants Female WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8M93YmbZjYzAPNsRjRcerbEydk1eG9EHNBitv4PRVCrf/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/remnantsnft",
+        "twitter": "https://twitter.com/RemnantsNFT",
+        "website": "https://www.theremnantsnft.com/"
+      }
     }
   ],
   "version": {
