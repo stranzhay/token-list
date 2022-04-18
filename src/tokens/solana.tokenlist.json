@@ -151023,6 +151023,51 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D8tjKUmAGegeeqiWNUYKTiSYH59BWQAUC5ssVno22A5N",
+      "symbol": "CSJ",
+      "name": "Common Soul",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D8tjKUmAGegeeqiWNUYKTiSYH59BWQAUC5ssVno22A5N/logo.png",
+      "tags": [
+        "social-token",
+        "nft-token",
+        "game-token",
+        "jjcverse",
+        "common-soul"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9PBAUwKiB5tWjJZF6Ywa1EwdotVTU74iprxTD72Xjvjq",
+      "symbol": "RSJ",
+      "name": "Rare Soul",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9PBAUwKiB5tWjJZF6Ywa1EwdotVTU74iprxTD72Xjvjq/logo.png",
+      "tags": [
+        "social-token",
+        "nft-token",
+        "game-token",
+        "jjcverse",
+        "common-soul"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AUFCN7XybLNPgFhjenxMfKnWdFonSdNfyKnVqxDq4gwx",
+      "symbol": "LSJ",
+      "name": "Legendary Soul",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AUFCN7XybLNPgFhjenxMfKnWdFonSdNfyKnVqxDq4gwx/logo.png",
+      "tags": [
+        "social-token",
+        "nft-token",
+        "game-token",
+        "jjcverse",
+        "common-soul"
+      ]
     }
   ],
   "version": {
