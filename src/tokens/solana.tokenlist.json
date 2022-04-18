@@ -151392,6 +151392,17 @@
         "twitter": "https://twitter.com/viraverseio",
         "website": "https://viraverse.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ArBHXMmUeNuaacvPm6YnFd23og5pkpNTxm4gsoh259qc",
+      "symbol": "TRCO",
+      "name": "Trident Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/johno187/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
