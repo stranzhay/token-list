@@ -151438,6 +151438,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DvT3MfLQ5eQTzuNRSVj8bVNZYAPcjXMZh4Qf2LoPX1bS",
+      "symbol": "RSPCT",
+      "name": "Respect Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kdr6up/RSPCT/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
