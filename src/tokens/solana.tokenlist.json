@@ -150750,6 +150750,18 @@
         "twitter": "https://twitter.com/nftsmilin",
         "website": "http://smilinft.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GuomCtZ5E8EQAtHFxuPi282w692mKcDNrZ96CiHChLcU",
+      "symbol": "SNIA",
+      "name": "Sonia Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Firebros1/crypto/main/IMG_0509.jpg",
+      "tags": [
+        "Fast-Growing",
+        "Low-quanity"
+      ]
     }
   ],
   "version": {
