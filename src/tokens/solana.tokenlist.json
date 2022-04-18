@@ -150762,6 +150762,21 @@
         "Fast-Growing",
         "Low-quanity"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BbBa2LR1JQ7Scq993vPkYoYDpQDntduMAcRS27wWtEi1",
+      "symbol": "MORPA",
+      "name": "MORP Alpha",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MorpAlpha/crypto/main/MP.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheInfungibles",
+        "website": "https://infungibles.io/"
+      }
     }
   ],
   "version": {
