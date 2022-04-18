@@ -151079,6 +151079,154 @@
       "tags": [
         "arbitrage-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4CHXd5uSMb9qrLfQwvyHzDMiKmNKDP8Np23dAQWTKNEy",
+      "symbol": "LPFi",
+      "name": "LP Finance DAO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/LPFi.png",
+      "tags": [
+        "governance-token",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fbcA5A3T",
+        "telegram": "https://t.me/LP_Defi_Official_group",
+        "twitter": "https://twitter.com/LPFinance_"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FWU58ZPPArx1H2CreBijPi6GeutCrCBwDNGZSqitXP2x",
+      "symbol": "ANZ",
+      "name": "ANZ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FWU58ZPPArx1H2CreBijPi6GeutCrCBwDNGZSqitXP2x/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BZoVtTzp5dLu3PM7svq22tbMeUtVhwLJEKFdYxBh8aPb",
+      "symbol": "NAB",
+      "name": "NAB",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BZoVtTzp5dLu3PM7svq22tbMeUtVhwLJEKFdYxBh8aPb/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2qR6rPek1LnGUMfk8KCLkZRUvJyykUP2ekxjpaoXdnpS",
+      "symbol": "CBA",
+      "name": "CBA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2qR6rPek1LnGUMfk8KCLkZRUvJyykUP2ekxjpaoXdnpS/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "57scJda2NVKMK2F5t3dipHv6RrVNqcMKXXsE77LYqJD7",
+      "symbol": "WBC",
+      "name": "WBC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/57scJda2NVKMK2F5t3dipHv6RrVNqcMKXXsE77LYqJD7/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ChTL913xim59qeXw5Z4unh5cAYPCEWKJWb7RnzRpE99",
+      "symbol": "USB",
+      "name": "US Bancorp",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ChTL913xim59qeXw5Z4unh5cAYPCEWKJWb7RnzRpE99/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DVFQo5ttz5SAhFLKPbbgtfMN6HrePHjurmfZKYWLCQ3i",
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DVFQo5ttz5SAhFLKPbbgtfMN6HrePHjurmfZKYWLCQ3i/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3c6gg3nbzB8tCERQBk8jApUECBktvJrmgeULN9Q7JZSE",
+      "symbol": "BOA",
+      "name": "Bank Of America",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3c6gg3nbzB8tCERQBk8jApUECBktvJrmgeULN9Q7JZSE/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7nuLPp3wKCeFmF6tfSr2bYMrXLh9yFpVpg9RwQsh5BqV",
+      "symbol": "BANKS",
+      "name": "US Bank",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7nuLPp3wKCeFmF6tfSr2bYMrXLh9yFpVpg9RwQsh5BqV/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CRRPG57uFaG4Rbfauski7PuSRLQDMsoABtF3UTyhFraT",
+      "symbol": "GEC",
+      "name": "Green Energy",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CRRPG57uFaG4Rbfauski7PuSRLQDMsoABtF3UTyhFraT/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
