@@ -151314,6 +151314,47 @@
         "website": "https://zignaly.com/",
         "youtube": "https://www.youtube.com/c/Zignaly"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FzuuDH8W6xYFjCKmPugJ2kiUrX2UpVRaYvhonNVmdFs3",
+      "symbol": "PRIMEXBT",
+      "name": "PrimeXbt Trading Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/primexbte/primexbt/main/primexbt.jpg",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/primexbtp",
+        "website": "https://primexbte.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5wM1ukGYSacfAh6QUdjcmftwaZLCfRXFjJBKK9aSCRka",
+      "symbol": "BC",
+      "name": "Ballistik Coin",
+      "decimals": 9,
+      "logoURI": "https://static.vecteezy.com/system/resources/previews/003/450/375/original/chainlink-link-coin-icon-isolated-on-white-background-vector.jpg",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "description": "Ballistik Coin is the first decentralized, capital efficient and over-collateralized protocol",
+        "website": "https://solana.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BMwCgMmcvZ1MAc7dF8SyrpLwpTBPZ9yjSy6mdXizRCjJ",
+      "symbol": "NUT",
+      "name": "Coconut Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/koa808/public-crypto/main/coconutcoin.png",
+      "tags": [
+        "art-token"
+      ]
     }
   ],
   "version": {
