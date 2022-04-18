@@ -150949,6 +150949,20 @@
         "twitter": "https://twitter.com/the_wolves_club",
         "website": "https://thewolvesclub.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2pUjVFjDLM4f5XXZn7b1NmyHhNtUMZvst6FfPU5yonE1",
+      "symbol": "CYC",
+      "name": "CYCLUS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kristerus/CyclusToken/main/logo.jpg",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/cyclus.coin/"
+      }
     }
   ],
   "version": {
