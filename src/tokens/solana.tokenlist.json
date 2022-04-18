@@ -151574,6 +151574,21 @@
         "github": "https://github.com/VorobevSA",
         "linkedin": "https://www.linkedin.com/in/vorobevsa/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "fdtNAbSJtYTDeJxUuoSSH9maQKrJokkJJTJZgSmpZvp",
+      "symbol": "SONIA",
+      "name": "Sonia Investment Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Firebros1/crypto/main/IMG_0509.jpg",
+      "tags": [
+        "market-coin",
+        "investment-coin"
+      ],
+      "extensions": {
+        "website": "https://soniacoin.weebly.com/"
+      }
     }
   ],
   "version": {
