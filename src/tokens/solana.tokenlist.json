@@ -150990,6 +150990,17 @@
         "nft-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ToDvKbmzMmy5DcMDrJr7dw6PEZR19CQzMzmo7dpQ6Wo",
+      "symbol": "CCMINT",
+      "name": "Cyberchips Whitelist Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToDvKbmzMmy5DcMDrJr7dw6PEZR19CQzMzmo7dpQ6Wo/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
