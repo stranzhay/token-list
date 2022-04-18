@@ -151001,6 +151001,28 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FdnJT3tfvytFmb39C1pWZ2udNbcz3stYKF7ZxhQfJzee",
+      "symbol": "BWC",
+      "name": "BIGWHITECOCK",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SamRice07/Assets/main/128474478-ein-cartoon-penis-mit-haltung-sonnenbrillen-und-daumen-hoch.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6n5FDeJYa5DJcqjzfAChtEwMnWJZAKxuTsFLjqPe27YN",
+      "symbol": "BWHC",
+      "name": "BIG WHITE HAIRY COCK",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SamRice07/Assets/main/128474478-ein-cartoon-penis-mit-haltung-sonnenbrillen-und-daumen-hoch.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
