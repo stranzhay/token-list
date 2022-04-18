@@ -151254,6 +151254,20 @@
       "extensions": {
         "twitter": "https://twitter.com/VoxNinjasNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C4VW9CKc8mPBMmJsqDpTF24TwYpbLW1aTzhRevMfWUXi",
+      "symbol": "AW",
+      "name": "Astral Witches Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/GokhanCerk/assets/main/wl.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AstraIWitches"
+      }
     }
   ],
   "version": {
