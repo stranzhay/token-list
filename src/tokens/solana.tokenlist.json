@@ -151314,6 +151314,21 @@
         "website": "https://zignaly.com/",
         "youtube": "https://www.youtube.com/c/Zignaly"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FzuuDH8W6xYFjCKmPugJ2kiUrX2UpVRaYvhonNVmdFs3",
+      "symbol": "PRIMEXBT",
+      "name": "PrimeXbt Trading Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/primexbte/primexbt/main/primexbt.jpg",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/primexbtp",
+        "website": "https://primexbte.com/"
+      }
     }
   ],
   "version": {
