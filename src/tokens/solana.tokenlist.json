@@ -151668,6 +151668,25 @@
         "twitter": "https://twitter.com/Neo3Dxyz",
         "website": "https://www.neo3d.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BmNmsJMqLjqAFVUSdpDvd16jgruoEiAL3r7TCQDHid9J",
+      "symbol": "BXT",
+      "name": "Business Exchange Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/BXT-Project/branding/main/bxt.png",
+      "tags": [
+        "web3",
+        "dapp",
+        "nfc",
+        "transaction",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BxtProject",
+        "website": "https://bxt.org"
+      }
     }
   ],
   "version": {
