@@ -150893,6 +150893,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5U3FjQwMtD2zWqGnMj7WCQEEEfyUChwPUQXVooWEjGpt",
+      "symbol": "MTER",
+      "name": "MOTER COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DCooney104/Moter/main/IMG_7142.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
