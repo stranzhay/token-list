@@ -150977,6 +150977,108 @@
       "extensions": {
         "website": "https://stake.kyobo.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3wRoDsZCKosQQdB7bzL46q9qfEK9PPQrQWKx6R8K4Y5Q",
+      "symbol": "PEAK",
+      "name": "PEAK ATTITUDE COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CryptoBigMike/PEAKATTITUDE/main/PEAK_logo.png",
+      "tags": [
+        "metaverse-token",
+        "nft-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ToDvKbmzMmy5DcMDrJr7dw6PEZR19CQzMzmo7dpQ6Wo",
+      "symbol": "CCMINT",
+      "name": "Cyberchips Whitelist Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToDvKbmzMmy5DcMDrJr7dw6PEZR19CQzMzmo7dpQ6Wo/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FdnJT3tfvytFmb39C1pWZ2udNbcz3stYKF7ZxhQfJzee",
+      "symbol": "BWC",
+      "name": "BIGWHITECOCK",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SamRice07/Assets/main/128474478-ein-cartoon-penis-mit-haltung-sonnenbrillen-und-daumen-hoch.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6n5FDeJYa5DJcqjzfAChtEwMnWJZAKxuTsFLjqPe27YN",
+      "symbol": "BWHC",
+      "name": "BIG WHITE HAIRY COCK",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SamRice07/Assets/main/128474478-ein-cartoon-penis-mit-haltung-sonnenbrillen-und-daumen-hoch.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "D8tjKUmAGegeeqiWNUYKTiSYH59BWQAUC5ssVno22A5N",
+      "symbol": "CSJ",
+      "name": "Common Soul",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D8tjKUmAGegeeqiWNUYKTiSYH59BWQAUC5ssVno22A5N/logo.png",
+      "tags": [
+        "social-token",
+        "nft-token",
+        "game-token",
+        "jjcverse",
+        "common-soul"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9PBAUwKiB5tWjJZF6Ywa1EwdotVTU74iprxTD72Xjvjq",
+      "symbol": "RSJ",
+      "name": "Rare Soul",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9PBAUwKiB5tWjJZF6Ywa1EwdotVTU74iprxTD72Xjvjq/logo.png",
+      "tags": [
+        "social-token",
+        "nft-token",
+        "game-token",
+        "jjcverse",
+        "common-soul"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AUFCN7XybLNPgFhjenxMfKnWdFonSdNfyKnVqxDq4gwx",
+      "symbol": "LSJ",
+      "name": "Legendary Soul",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AUFCN7XybLNPgFhjenxMfKnWdFonSdNfyKnVqxDq4gwx/logo.png",
+      "tags": [
+        "social-token",
+        "nft-token",
+        "game-token",
+        "jjcverse",
+        "common-soul"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HxBtpdMV1FZ4kDeZLkjeWNyFqhk4riNNnd6vMAGA4aYd",
+      "symbol": "SCO",
+      "name": "SCOCOIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/silverspruce/asssets/main/logo.png",
+      "tags": [
+        "arbitrage-token"
+      ]
     }
   ],
   "version": {
