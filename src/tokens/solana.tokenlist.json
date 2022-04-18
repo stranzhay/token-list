@@ -150904,6 +150904,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "By2g5Ln9tNYr5fbxzT8teBLNrYfjjDfXqbCe5Z8ya9X8",
+      "symbol": "UBQUOIN",
+      "name": "UBQUOIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/By2g5Ln9tNYr5fbxzT8teBLNrYfjjDfXqbCe5Z8ya9X8/logo.png",
+      "tags": [
+        "fitness-token"
+      ]
     }
   ],
   "version": {
