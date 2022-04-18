@@ -151427,6 +151427,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "87dNcieNbSYQXzicLKQpKMHbwbQnKDH9kq6JmQLVw26T",
+      "symbol": "MNPY",
+      "name": "Moon Pie",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/davisayomah/Moon-Pie-Token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
