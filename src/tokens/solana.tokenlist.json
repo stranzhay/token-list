@@ -151487,6 +151487,20 @@
       "extensions": {
         "website": "https://solden.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8bdpcGxmKukUecR9MzUFmqHudRc89i6DZLJGwdXiA28t",
+      "symbol": "WPWL1",
+      "name": "WOL PLA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8bdpcGxmKukUecR9MzUFmqHudRc89i6DZLJGwdXiA28t/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://wolfeplanet.io"
+      }
     }
   ],
   "version": {
