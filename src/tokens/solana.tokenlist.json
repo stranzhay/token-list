@@ -151648,6 +151648,26 @@
         "utility-token",
         "payment-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "NEo3D6MXRXf2iAfaqvZYqSmFkfutLvNjm86xmfGWNh5",
+      "symbol": "NEO",
+      "name": "NEO3D TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/minh-git/docusaurus-2/main/static/img/neo3d-logo.jpg",
+      "tags": [
+        "NFT",
+        "gallery",
+        "utility-token",
+        "catpunk",
+        "metaverse",
+        "art"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Neo3Dxyz",
+        "website": "https://www.neo3d.xyz"
+      }
     }
   ],
   "version": {
