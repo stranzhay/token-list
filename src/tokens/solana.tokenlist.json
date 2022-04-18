@@ -151344,6 +151344,17 @@
         "description": "Ballistik Coin is the first decentralized, capital efficient and over-collateralized protocol",
         "website": "https://solana.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BMwCgMmcvZ1MAc7dF8SyrpLwpTBPZ9yjSy6mdXizRCjJ",
+      "symbol": "NUT",
+      "name": "Coconut Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/koa808/public-crypto/main/coconutcoin.png",
+      "tags": [
+        "art-token"
+      ]
     }
   ],
   "version": {
