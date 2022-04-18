@@ -150977,6 +150977,19 @@
       "extensions": {
         "website": "https://stake.kyobo.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3wRoDsZCKosQQdB7bzL46q9qfEK9PPQrQWKx6R8K4Y5Q",
+      "symbol": "PEAK",
+      "name": "PEAK ATTITUDE COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CryptoBigMike/PEAKATTITUDE/main/PEAK_logo.png",
+      "tags": [
+        "metaverse-token",
+        "nft-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
