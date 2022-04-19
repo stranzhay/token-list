@@ -152087,6 +152087,49 @@
       "tags": [
         "commerce"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3gr25JueJADKQrmqeS6cRQukvbiNffHdMofj6xf7XBV5",
+      "symbol": "SLUDO",
+      "name": "Solana Ludo",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/sukhihacker/token-list/main/assets/mainnet/3gr25JueJADKQrmqeS6cRQukvbiNffHdMofj6xf7XBV5/SLUDO.png",
+      "tags": [
+        "Gaming-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/7xctmZgX33",
+        "twitter": "https://twitter.com/SolanaLudo",
+        "website": "https://solanaludo.vercel.app"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2hUCytKiWaqQcu2LhL9dYAfeKSET5G5kF7jiDi78VwxJ",
+      "symbol": "$LOVE",
+      "name": "LOOKS-RARE TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/thislooksrare/public/main/logo.png",
+      "tags": [
+        "ownership-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/thislooksrare",
+        "website": "https://looks-rare.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ptX2XE63jdoA3x9tX1SUgVQpBStgi2516Q4xKR5pWq4",
+      "symbol": "BHU",
+      "name": "Bhoomi",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BoltyCodes/dede/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
