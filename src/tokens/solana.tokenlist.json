@@ -152362,6 +152362,17 @@
       "extensions": {
         "description": "Por los jajas"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7FiMPtv5p4bHMwpynru624QeQAhcvPfgL1K184sxv7ut",
+      "symbol": "JZCN",
+      "name": "JizzerCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mowinters/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
