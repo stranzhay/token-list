@@ -151625,6 +151625,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2hwxARuDydQg4K97u9ho38T9Dc3K5ia6UqfAZ7LyeDPH",
+      "symbol": "MONN",
+      "name": "MonniCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mammimaisteri/MonniCoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
