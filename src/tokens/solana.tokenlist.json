@@ -151852,6 +151852,17 @@
         "description": "BEVO ROCKS",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2QfYSYA7M6HW6LrLUoQXiUpf8EQnqPvoWdaTzPozfUvc",
+      "symbol": "LKF",
+      "name": "LKF Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ll336/cryp/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
