@@ -152119,6 +152119,17 @@
         "twitter": "https://twitter.com/thislooksrare",
         "website": "https://looks-rare.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ptX2XE63jdoA3x9tX1SUgVQpBStgi2516Q4xKR5pWq4",
+      "symbol": "BHU",
+      "name": "Bhoomi",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BoltyCodes/dede/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
