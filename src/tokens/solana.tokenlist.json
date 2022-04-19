@@ -152295,6 +152295,73 @@
       "name": "Neek",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/RaulLL98/neekLogo/main/logo.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "4vp1GYqYkz4qP6UQ1jzgg3MBFb6JJCiUUJKo9W1F2Dds",
+      "symbol": "DSKULLYS",
+      "name": "Disarticulated Skully's Wl Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/abuzer63/token-wl/main/logo.png",
+      "tags": [
+        "Nft-Token",
+        "Wl-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dskullys",
+        "website": "https://www.dskullys.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "B4bEXugU97iLaSaXSpEAhDtTVyCyUnafTcBc7r8QQ3mZ",
+      "symbol": "ERGO",
+      "name": "Ergo Coin",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B4bEXugU97iLaSaXSpEAhDtTVyCyUnafTcBc7r8QQ3mZ/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "website": "https://ergocoin.org/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CNcWCsiggfr6EJcWn3juDKj5L5WygZnEYJ5dXmPuU4mA",
+      "symbol": "SMND",
+      "name": "SchmeckSand",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sraisl/crypto/master/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "474QkZFHJ4GjWRBWgBFmQkGZMfhYcqiyQwPj9oim3fp7",
+      "symbol": "DDAO",
+      "name": "DDAO WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/474QkZFHJ4GjWRBWgBFmQkGZMfhYcqiyQwPj9oim3fp7/logo.png",
+      "tags": [
+        "WL-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ApsWDNN2hyK82e5jaT3z8R3SVRFsp4XH9QqRhqWownfv",
+      "symbol": "CALA",
+      "name": "AlexLopezCoin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ApsWDNN2hyK82e5jaT3z8R3SVRFsp4XH9QqRhqWownfv/logo.png",
+      "tags": [
+        "meme-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Por los jajas"
+      }
     }
   ],
   "version": {
