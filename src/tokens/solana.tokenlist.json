@@ -152145,6 +152145,24 @@
         "twitter": "https://twitter.com/merrabots",
         "website": "https://merrabots.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CkdnbcYZWTaFghf7FbQfJPPH4EFdWuYmze6o9svxy45h",
+      "symbol": "SMLNWL",
+      "name": "SmiliNFT Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CkdnbcYZWTaFghf7FbQfJPPH4EFdWuYmze6o9svxy45h/logo.png",
+      "tags": [
+        "nft",
+        "whitelist",
+        "SmiliNFT"
+      ],
+      "extensions": {
+        "description": "It is a token let you mint first collection of SmiliNFT",
+        "twitter": "https://twitter.com/nftsmilin",
+        "website": "http://smilinft.xyz/"
+      }
     }
   ],
   "version": {
