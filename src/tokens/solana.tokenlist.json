@@ -152336,6 +152336,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "474QkZFHJ4GjWRBWgBFmQkGZMfhYcqiyQwPj9oim3fp7",
+      "symbol": "DDAO",
+      "name": "DDAO WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/474QkZFHJ4GjWRBWgBFmQkGZMfhYcqiyQwPj9oim3fp7/logo.png",
+      "tags": [
+        "WL-token"
+      ]
     }
   ],
   "version": {
