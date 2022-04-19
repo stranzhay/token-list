@@ -151702,6 +151702,40 @@
         "twitter": "https://twitter.com/CoralTribeNFT",
         "website": "https://www.cryptocoraltribe.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4j5wrut5J4Aq81R5daWHUeRwLGz6eBodfRepUnaW473b",
+      "symbol": "PICASO",
+      "name": "Picaso",
+      "decimals": 6,
+      "logoURI": "https://github.com/boosbasement/metaboss/blob/main/Gold%20Status.png?raw=true",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HDvsvRRHDSZ3p2LrKDLZaZrme3X7EYTJRUzQDMFGgqWC",
+      "symbol": "VRN",
+      "name": "Vernolien",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/murasame78/vernolien/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "J6zFwmSndSNBbX2z9xgyU1FtxPB2d6UiSr15yCfDW9Y8",
+      "symbol": "DEGWL",
+      "name": "DegenWhitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J6zFwmSndSNBbX2z9xgyU1FtxPB2d6UiSr15yCfDW9Y8/logo.png",
+      "tags": [
+        "Whitelist",
+        "DegenWhitelist"
+      ]
     }
   ],
   "version": {
