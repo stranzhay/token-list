@@ -152244,6 +152244,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "JDErCVbaRpapLCzu2c4m2F2FfYkS2tuVRp3voSJ69VBE",
+      "symbol": "PDM",
+      "name": "Padeum",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Qersdyn/crypto/main/Padeum.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
