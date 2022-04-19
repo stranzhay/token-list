@@ -152274,6 +152274,27 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AKw8GgQdEmCqb1ngTwDCp31pQW7cKiYERk2CrFS7f2oW",
+      "symbol": "VBPC",
+      "name": "VIRTUAL BIBLE PROJECT COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CryptoBigMike/Virtual_Bible_Project/main/logo_vbpc.png",
+      "tags": [
+        "metaverse-token",
+        "nft-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6QgrTd1r7FLjUzgVXY1dmY9BkS1Uy8BVgunNDbxiSDs7",
+      "symbol": "Neek",
+      "name": "Neek",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/RaulLL98/neekLogo/main/logo.jpg"
     }
   ],
   "version": {
