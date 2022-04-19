@@ -152010,6 +152010,18 @@
         "whitelist-token",
         "nfts"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6jHEQ3HdKb7PpAve2oXpcKRnp6xfEDfM8hWEVBwEE5HP",
+      "symbol": "DUDE",
+      "name": "Dude Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/Randomkushh/gitnote-images/62a3e5727abd6091f4b1e835e1b446a04f9c9ee9/images/dudes%20token.png",
+      "extensions": {
+        "twitter": "https://twitter.com/cool_dudes_nft",
+        "website": "https://www.cooldudes.club/"
+      }
     }
   ],
   "version": {
