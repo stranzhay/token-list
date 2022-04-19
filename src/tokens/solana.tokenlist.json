@@ -152163,6 +152163,17 @@
         "twitter": "https://twitter.com/nftsmilin",
         "website": "http://smilinft.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6Hd62Rsw9cpqpy1nerLa9zGDR5Gbmw8XyUGt7Sbpcf8v",
+      "symbol": "SOL",
+      "name": "Solana",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/gambofafrika/Solana/main/Solana-Crypto-Logo-PNG-File.png",
+      "tags": [
+        "Social-token"
+      ]
     }
   ],
   "version": {
