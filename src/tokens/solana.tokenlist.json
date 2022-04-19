@@ -152263,6 +152263,17 @@
       "name": "ZellionCoin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZEC53gSgrMuJ4Mbbgxzj1ewHpwyA3o1cKRemx9bxrUo/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "AZsaSZSZvy1o9465figrnxZbBa2YqfFnin6cMcTyXN1s",
+      "symbol": "BHC",
+      "name": "Biocoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/conqueror1234/crypto/main/logo.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
