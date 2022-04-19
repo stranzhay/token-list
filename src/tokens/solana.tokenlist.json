@@ -151747,6 +151747,111 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D4ZjNpTteRniyVzM2SSknadfaY7NTiC7jQin2D6PgEfP",
+      "symbol": "CITI",
+      "name": "CITIGROUP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D4ZjNpTteRniyVzM2SSknadfaY7NTiC7jQin2D6PgEfP/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8w4HAirTaY6xVCWpzAb6DiJmmcwD9k5q2De6VyvNJce5",
+      "symbol": "WF",
+      "name": "Wells Fargo and Company",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8w4HAirTaY6xVCWpzAb6DiJmmcwD9k5q2De6VyvNJce5/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Cs2rSoSwohbZ33AtSk8mQmVtfv1hfMMmFNiLzuxqQ7bx",
+      "symbol": "HSBC",
+      "name": "HSBC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cs2rSoSwohbZ33AtSk8mQmVtfv1hfMMmFNiLzuxqQ7bx/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9Rp8wFHgRX1gRZCqNKecVr1GMikp6VmiUVKWa6ojLBeR",
+      "symbol": "OCBC",
+      "name": "OCBC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9Rp8wFHgRX1gRZCqNKecVr1GMikp6VmiUVKWa6ojLBeR/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AX4icbfwXHcNhVFRrNyn4aSPSoykEybvEhSp8NBWUkEi",
+      "symbol": "BHP",
+      "name": "BHP Group Limited",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AX4icbfwXHcNhVFRrNyn4aSPSoykEybvEhSp8NBWUkEi/logo.svg",
+      "tags": [
+        "mining"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CPNTQA3MSjZKw5seVi3XxjM4ed6rxK7BDFgUmjHQ2bsB",
+      "symbol": "RIO",
+      "name": "Rio Tinto Group",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CPNTQA3MSjZKw5seVi3XxjM4ed6rxK7BDFgUmjHQ2bsB/logo.svg",
+      "tags": [
+        "mining"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HQQuaZegBUBuXA3bYTLC48F2drKjtUhCL5YXCq5Zb5dd",
+      "symbol": "CITIGROUP",
+      "name": "CITI",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HQQuaZegBUBuXA3bYTLC48F2drKjtUhCL5YXCq5Zb5dd/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
     }
   ],
   "version": {
