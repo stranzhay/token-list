@@ -151982,6 +151982,22 @@
         "description": "BEVO ROCKS",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GYrcDSCXGWgpLeKSCgNCpHfv4RCG3iSBcQAHgNX9U7wa",
+      "symbol": "$PA",
+      "name": "Police Academy",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GYrcDSCXGWgpLeKSCgNCpHfv4RCG3iSBcQAHgNX9U7wa/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://policeacademynft.com"
+      }
     }
   ],
   "version": {
