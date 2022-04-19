@@ -152233,6 +152233,17 @@
         "twitter": "https://twitter.com/thestonedfrogs",
         "website": "https://www.thestonedfrogs.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E3S8VWKbp15j4aG7UWr1FsRudob16pPuedm3GJiDvhQA",
+      "symbol": "GTCO",
+      "name": "GatorCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/soundmang/cooldude/main/One_Eyed_Alligator.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
