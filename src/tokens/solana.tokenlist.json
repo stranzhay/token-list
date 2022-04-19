@@ -151687,6 +151687,21 @@
         "twitter": "https://twitter.com/BxtProject",
         "website": "https://bxt.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TribjRoptuaFXmSgPXWtJQq4WLt1Gu2PHCWCMdnNbSD",
+      "symbol": "TRIB",
+      "name": "Crypto Coral Tribe Early WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TribjRoptuaFXmSgPXWtJQq4WLt1Gu2PHCWCMdnNbSD/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CoralTribeNFT",
+        "website": "https://www.cryptocoraltribe.io/"
+      }
     }
   ],
   "version": {
