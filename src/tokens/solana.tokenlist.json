@@ -151702,6 +151702,17 @@
         "twitter": "https://twitter.com/CoralTribeNFT",
         "website": "https://www.cryptocoraltribe.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4j5wrut5J4Aq81R5daWHUeRwLGz6eBodfRepUnaW473b",
+      "symbol": "PICASO",
+      "name": "Picaso",
+      "decimals": 6,
+      "logoURI": "https://github.com/boosbasement/metaboss/blob/main/Gold%20Status.png?raw=true",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
