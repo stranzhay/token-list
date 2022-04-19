@@ -152191,6 +152191,22 @@
         "twitter": "https://twitter.com/SOL_Decoder",
         "website": "https://soldecoder.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "59ZGPisCwKJh96FqyMePTM6K3XFUF2y4T6YYFPWxGp3d",
+      "symbol": "ART",
+      "name": "A RODIN TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARTDEV0/ART/main/logo-art.png",
+      "tags": [
+        "ownership-token",
+        "social-token",
+        "art-token"
+      ],
+      "extensions": {
+        "website": "http://www.projectrodin.com/"
+      }
     }
   ],
   "version": {
