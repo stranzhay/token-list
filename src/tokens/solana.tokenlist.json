@@ -151713,6 +151713,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HDvsvRRHDSZ3p2LrKDLZaZrme3X7EYTJRUzQDMFGgqWC",
+      "symbol": "VRN",
+      "name": "Vernolien",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/murasame78/vernolien/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
