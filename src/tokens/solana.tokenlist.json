@@ -151736,6 +151736,17 @@
         "Whitelist",
         "DegenWhitelist"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DWPkCJS4hR3DPXGi3jkmLJSHEm6JLgu8hqNEZfyeh9vr",
+      "symbol": "OGR",
+      "name": "OGRE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/hotmcscott/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
