@@ -151998,6 +151998,18 @@
       "extensions": {
         "website": "https://policeacademynft.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DDCEE8BVKbxZ6TXo8HK7g4qUBpaTocNRX4q7ppt5FKA1",
+      "symbol": "DDCWL",
+      "name": "Dope Duck Club Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DDCEE8BVKbxZ6TXo8HK7g4qUBpaTocNRX4q7ppt5FKA1/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
