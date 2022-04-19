@@ -152215,6 +152215,24 @@
       "name": "Social Donkeys",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/4M48qacBqq5T5YyJs6392EgxZKRja2i5Hz9uLXQKCYmw/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "3YUfxdwg1288BLSqzz6VnVsHwV7vqgbTBoTWqyhP4TEw",
+      "symbol": "FLIES",
+      "name": "TSF Flies",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3YUfxdwg1288BLSqzz6VnVsHwV7vqgbTBoTWqyhP4TEw/logo.jpg",
+      "tags": [
+        "nft-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Collect TSF Flies token to open your mystery box.",
+        "discord": "http://discord.gg/stonedfrogs",
+        "twitter": "https://twitter.com/thestonedfrogs",
+        "website": "https://www.thestonedfrogs.io/"
+      }
     }
   ],
   "version": {
