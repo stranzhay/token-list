@@ -152373,6 +152373,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "KVXJhoJLSSQq2EYPYMP4h2v8AJryQQGeDJcpjRLp96K",
+      "symbol": "ORBWAY",
+      "name": "ORBWAY",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KVXJhoJLSSQq2EYPYMP4h2v8AJryQQGeDJcpjRLp96K/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/planetariansnft",
+        "website": "https://planetarians.io/"
+      }
     }
   ],
   "version": {
