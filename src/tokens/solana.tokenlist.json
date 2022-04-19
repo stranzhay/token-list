@@ -152287,6 +152287,14 @@
         "nft-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6QgrTd1r7FLjUzgVXY1dmY9BkS1Uy8BVgunNDbxiSDs7",
+      "symbol": "Neek",
+      "name": "Neek",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/RaulLL98/neekLogo/main/logo.jpg"
     }
   ],
   "version": {
