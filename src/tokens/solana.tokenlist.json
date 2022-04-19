@@ -152295,6 +152295,22 @@
       "name": "Neek",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/RaulLL98/neekLogo/main/logo.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "4vp1GYqYkz4qP6UQ1jzgg3MBFb6JJCiUUJKo9W1F2Dds",
+      "symbol": "DSKULLYS",
+      "name": "Disarticulated Skully's Wl Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/abuzer63/token-wl/main/logo.png",
+      "tags": [
+        "Nft-Token",
+        "Wl-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dskullys",
+        "website": "https://www.dskullys.com/"
+      }
     }
   ],
   "version": {
