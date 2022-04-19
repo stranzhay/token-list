@@ -152076,6 +152076,17 @@
         "imageUrl": "https://arwave.art/gweq2vxtzpngk1eqlq6k/hefh2g.png",
         "website": "https://solpunks.club"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "bqRNmDUiYFwP3T1kUkvwibkB3xFPKZtE2sQsWHWFewb",
+      "symbol": "ELP",
+      "name": "eCommerce loyalty program",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/Abhijay376/commerce-loyality-1/main/ELP-LOGO-min.png",
+      "tags": [
+        "commerce"
+      ]
     }
   ],
   "version": {
