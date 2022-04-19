@@ -151871,6 +151871,20 @@
       "name": "CARBON",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUkqNMBYqqUacmq68AWH3hkjBsWpzJUQq7RnqFjuPdu/logo.png"
+    },
+    {
+      "chainId": 102,
+      "address": "3FPckdMdGNRyBUTUmMk6rRWHKuNKywUqPtNKvh1GaL4J",
+      "symbol": "SIKU",
+      "name": "Siku Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3FPckdMdGNRyBUTUmMk6rRWHKuNKywUqPtNKvh1GaL4J/siku.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://sikuswap786.netlify.app/"
+      }
     }
   ],
   "version": {
