@@ -151896,6 +151896,17 @@
       "extensions": {
         "website": "https://www.sovana.world"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "VLHLiyR17iN3maDEhLtrFX2K7eFT2wU2bessujU1RBS",
+      "symbol": "VLH",
+      "name": "Valhalla",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/VLHLiyR17iN3maDEhLtrFX2K7eFT2wU2bessujU1RBS/logo_wh.png",
+      "extensions": {
+        "website": "https://v8mech.com"
+      }
     }
   ],
   "version": {
