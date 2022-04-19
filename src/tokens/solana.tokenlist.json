@@ -152362,6 +152362,29 @@
       "extensions": {
         "description": "Por los jajas"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7FiMPtv5p4bHMwpynru624QeQAhcvPfgL1K184sxv7ut",
+      "symbol": "JZCN",
+      "name": "JizzerCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mowinters/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "KVXJhoJLSSQq2EYPYMP4h2v8AJryQQGeDJcpjRLp96K",
+      "symbol": "ORBWAY",
+      "name": "ORBWAY",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KVXJhoJLSSQq2EYPYMP4h2v8AJryQQGeDJcpjRLp96K/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/planetariansnft",
+        "website": "https://planetarians.io/"
+      }
     }
   ],
   "version": {
