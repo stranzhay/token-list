@@ -152059,6 +152059,23 @@
         "twitter": "https://twitter.com/SOlPeepzNFT",
         "website": "https://solpeepz.club/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "81mKGZTjMiUbpZi2Gd3Pn4J3Z3u42U7GtSHC4jZeZxdf",
+      "symbol": "SolPunk",
+      "name": "SolPunks 3D Whitelist ",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/solpunkz/logo.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "animationUrl": "https://storage.googleapis.com/solpunkz/solpunkz.mp4",
+        "description": "SolPunks 3D Whitelist redeemable token",
+        "imageUrl": "https://arwave.art/gweq2vxtzpngk1eqlq6k/hefh2g.png",
+        "website": "https://solpunks.club"
+      }
     }
   ],
   "version": {
