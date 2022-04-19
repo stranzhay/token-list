@@ -151724,6 +151724,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "J6zFwmSndSNBbX2z9xgyU1FtxPB2d6UiSr15yCfDW9Y8",
+      "symbol": "DEGWL",
+      "name": "DegenWhitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J6zFwmSndSNBbX2z9xgyU1FtxPB2d6UiSr15yCfDW9Y8/logo.png",
+      "tags": [
+        "Whitelist",
+        "DegenWhitelist"
+      ]
     }
   ],
   "version": {
