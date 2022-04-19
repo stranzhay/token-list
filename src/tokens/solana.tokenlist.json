@@ -152022,6 +152022,17 @@
         "twitter": "https://twitter.com/cool_dudes_nft",
         "website": "https://www.cooldudes.club/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EzfnjRUKtc5vweE1GCLdHV4MkDQ3ebSpQXLobSKgQ9RB",
+      "symbol": "CSM",
+      "name": "Cricket Star Manager",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzfnjRUKtc5vweE1GCLdHV4MkDQ3ebSpQXLobSKgQ9RB/logo.svg",
+      "extensions": {
+        "website": "https://cricketstarmanager.com/"
+      }
     }
   ],
   "version": {
