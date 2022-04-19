@@ -152207,6 +152207,14 @@
       "extensions": {
         "website": "http://www.projectrodin.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4M48qacBqq5T5YyJs6392EgxZKRja2i5Hz9uLXQKCYmw",
+      "symbol": "SD",
+      "name": "Social Donkeys",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/4M48qacBqq5T5YyJs6392EgxZKRja2i5Hz9uLXQKCYmw/logo.png?raw=true"
     }
   ],
   "version": {
