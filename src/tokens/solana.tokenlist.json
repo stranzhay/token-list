@@ -152255,6 +152255,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ZEC53gSgrMuJ4Mbbgxzj1ewHpwyA3o1cKRemx9bxrUo",
+      "symbol": "ZEC",
+      "name": "ZellionCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZEC53gSgrMuJ4Mbbgxzj1ewHpwyA3o1cKRemx9bxrUo/logo.png"
     }
   ],
   "version": {
