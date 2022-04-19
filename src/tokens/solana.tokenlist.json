@@ -151863,6 +151863,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DUkqNMBYqqUacmq68AWH3hkjBsWpzJUQq7RnqFjuPdu",
+      "symbol": "CO2",
+      "name": "CARBON",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUkqNMBYqqUacmq68AWH3hkjBsWpzJUQq7RnqFjuPdu/logo.png"
     }
   ],
   "version": {
