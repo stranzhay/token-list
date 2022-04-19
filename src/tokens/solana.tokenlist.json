@@ -151982,6 +151982,83 @@
         "description": "BEVO ROCKS",
         "twitter": "https://twitter.com/OzDive"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GYrcDSCXGWgpLeKSCgNCpHfv4RCG3iSBcQAHgNX9U7wa",
+      "symbol": "$PA",
+      "name": "Police Academy",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GYrcDSCXGWgpLeKSCgNCpHfv4RCG3iSBcQAHgNX9U7wa/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://policeacademynft.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DDCEE8BVKbxZ6TXo8HK7g4qUBpaTocNRX4q7ppt5FKA1",
+      "symbol": "DDCWL",
+      "name": "Dope Duck Club Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DDCEE8BVKbxZ6TXo8HK7g4qUBpaTocNRX4q7ppt5FKA1/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6jHEQ3HdKb7PpAve2oXpcKRnp6xfEDfM8hWEVBwEE5HP",
+      "symbol": "DUDE",
+      "name": "Dude Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/Randomkushh/gitnote-images/62a3e5727abd6091f4b1e835e1b446a04f9c9ee9/images/dudes%20token.png",
+      "extensions": {
+        "twitter": "https://twitter.com/cool_dudes_nft",
+        "website": "https://www.cooldudes.club/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EzfnjRUKtc5vweE1GCLdHV4MkDQ3ebSpQXLobSKgQ9RB",
+      "symbol": "CSM",
+      "name": "Cricket Star Manager",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzfnjRUKtc5vweE1GCLdHV4MkDQ3ebSpQXLobSKgQ9RB/logo.svg",
+      "extensions": {
+        "website": "https://cricketstarmanager.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J18t9JWmvGkDTMukS53xLoq8sZn47QwnULmiRrorqiCY",
+      "symbol": "BHT",
+      "name": "Bharath coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Modi08/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "23ochfVnFJcRVsQ43639yY2LbgAzBr6SQefjFeADMsmp",
+      "symbol": "SLPZ",
+      "name": "SolPeepz WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/23ochfVnFJcRVsQ43639yY2LbgAzBr6SQefjFeADMsmp/Logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SOlPeepzNFT",
+        "website": "https://solpeepz.club/"
+      }
     }
   ],
   "version": {
