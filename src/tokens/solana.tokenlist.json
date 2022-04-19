@@ -151907,6 +151907,81 @@
       "extensions": {
         "website": "https://v8mech.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8uVpieRrhs6FxfD8tJYqp66Qf4mmU7yvCxun63AZaDpU",
+      "symbol": "ASX",
+      "name": "ASX Ltd",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8uVpieRrhs6FxfD8tJYqp66Qf4mmU7yvCxun63AZaDpU/logo.svg",
+      "tags": [
+        "finance"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DBsh3k16nYoR46eSoL8oyuG9JXjLbD13cRQUtcVBtpAr",
+      "symbol": "TELSTRA",
+      "name": "Telstra Corporation Ltd",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DBsh3k16nYoR46eSoL8oyuG9JXjLbD13cRQUtcVBtpAr/logo.svg",
+      "tags": [
+        "communication"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "H47tCXRBtB7pbyBmW7RNYqWxMUWGny59WHbm6mN67LWE",
+      "symbol": "MOBILE",
+      "name": "TELSTRA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H47tCXRBtB7pbyBmW7RNYqWxMUWGny59WHbm6mN67LWE/logo.svg",
+      "tags": [
+        "communication"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7fEJR4PTm8cJwcmiyLjDtt98cUL5ynXJQcB5Y7HFd4pM",
+      "symbol": "CELL",
+      "name": "PHONE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7fEJR4PTm8cJwcmiyLjDtt98cUL5ynXJQcB5Y7HFd4pM/logo.svg",
+      "tags": [
+        "communication"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CME7sGyY3jCt2SdxpYfVpqbRBkEE9BvagtAkPTSERGnL",
+      "symbol": "PHONE",
+      "name": "CELL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CME7sGyY3jCt2SdxpYfVpqbRBkEE9BvagtAkPTSERGnL/logo.svg",
+      "tags": [
+        "communication"
+      ],
+      "extensions": {
+        "description": "BEVO ROCKS",
+        "twitter": "https://twitter.com/OzDive"
+      }
     }
   ],
   "version": {
