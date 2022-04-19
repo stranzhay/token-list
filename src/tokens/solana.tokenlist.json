@@ -152311,6 +152311,20 @@
         "twitter": "https://twitter.com/dskullys",
         "website": "https://www.dskullys.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B4bEXugU97iLaSaXSpEAhDtTVyCyUnafTcBc7r8QQ3mZ",
+      "symbol": "ERGO",
+      "name": "Ergo Coin",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B4bEXugU97iLaSaXSpEAhDtTVyCyUnafTcBc7r8QQ3mZ/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "website": "https://ergocoin.org/"
+      }
     }
   ],
   "version": {
