@@ -152103,6 +152103,22 @@
         "twitter": "https://twitter.com/SolanaLudo",
         "website": "https://solanaludo.vercel.app"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2hUCytKiWaqQcu2LhL9dYAfeKSET5G5kF7jiDi78VwxJ",
+      "symbol": "$LOVE",
+      "name": "LOOKS-RARE TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/thislooksrare/public/main/logo.png",
+      "tags": [
+        "ownership-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/thislooksrare",
+        "website": "https://looks-rare.com"
+      }
     }
   ],
   "version": {
