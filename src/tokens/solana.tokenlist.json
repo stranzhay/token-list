@@ -152174,6 +152174,23 @@
       "tags": [
         "Social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DecodezX8BBQRwMevyMmezEGzoZ7vcV4CUfydkcbR78Y",
+      "symbol": "DCDR",
+      "name": "SOL DECODER Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://docs.soldecoder.app/uploads/images/system/2022-03/logo-transparent-mine.png",
+      "tags": [
+        "whitelist-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/sol-decoder",
+        "twitter": "https://twitter.com/SOL_Decoder",
+        "website": "https://soldecoder.app/"
+      }
     }
   ],
   "version": {
