@@ -152033,6 +152033,17 @@
       "extensions": {
         "website": "https://cricketstarmanager.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J18t9JWmvGkDTMukS53xLoq8sZn47QwnULmiRrorqiCY",
+      "symbol": "BHT",
+      "name": "Bharath coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Modi08/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
