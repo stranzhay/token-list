@@ -151625,6 +151625,68 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2hwxARuDydQg4K97u9ho38T9Dc3K5ia6UqfAZ7LyeDPH",
+      "symbol": "MONN",
+      "name": "MonniCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mammimaisteri/MonniCoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BFwQLeUYEaU4Sgf6KzxXCcXWzAjEd5iKEjFyE88EpaUE",
+      "symbol": "OMU",
+      "name": "OMU Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BFwQLeUYEaU4Sgf6KzxXCcXWzAjEd5iKEjFyE88EpaUE/logo.png",
+      "tags": [
+        "utility-token",
+        "payment-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "NEo3D6MXRXf2iAfaqvZYqSmFkfutLvNjm86xmfGWNh5",
+      "symbol": "NEO",
+      "name": "NEO3D TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/minh-git/docusaurus-2/main/static/img/neo3d-logo.jpg",
+      "tags": [
+        "NFT",
+        "gallery",
+        "utility-token",
+        "catpunk",
+        "metaverse",
+        "art"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Neo3Dxyz",
+        "website": "https://www.neo3d.xyz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BmNmsJMqLjqAFVUSdpDvd16jgruoEiAL3r7TCQDHid9J",
+      "symbol": "BXT",
+      "name": "Business Exchange Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/BXT-Project/branding/main/bxt.png",
+      "tags": [
+        "web3",
+        "dapp",
+        "nfc",
+        "transaction",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BxtProject",
+        "website": "https://bxt.org"
+      }
     }
   ],
   "version": {
