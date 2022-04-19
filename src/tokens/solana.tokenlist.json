@@ -152087,6 +152087,22 @@
       "tags": [
         "commerce"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3gr25JueJADKQrmqeS6cRQukvbiNffHdMofj6xf7XBV5",
+      "symbol": "SLUDO",
+      "name": "Solana Ludo",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/sukhihacker/token-list/main/assets/mainnet/3gr25JueJADKQrmqeS6cRQukvbiNffHdMofj6xf7XBV5/SLUDO.png",
+      "tags": [
+        "Gaming-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/7xctmZgX33",
+        "twitter": "https://twitter.com/SolanaLudo",
+        "website": "https://solanaludo.vercel.app"
+      }
     }
   ],
   "version": {
