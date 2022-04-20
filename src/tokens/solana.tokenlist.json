@@ -152730,6 +152730,23 @@
       "extensions": {
         "twitter": "https://twitter.com/DOODLETOWN_sol"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8GEdymZcgjVku6AfQuQCxqgUk8qpigy5LdP9UTRVcMxw",
+      "symbol": "ARABPUNKZ",
+      "name": "ArabPunkz swap token",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/arabpunkz/arab.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "animationUrl": "https://storage.googleapis.com/arabpunkz/arabpunkz.mp4",
+        "description": "ArabPunkz 3D swap token to redeem at arabpunkz.io",
+        "imageUrl": "https://arwave.art/upga5v2tzpnak1eqlq5kvc/upga5v2tzt.png",
+        "website": "https://arabpunkz.io"
+      }
     }
   ],
   "version": {
