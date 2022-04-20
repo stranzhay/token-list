@@ -152852,6 +152852,50 @@
         "twitter": "https://twitter.com/retro_trades",
         "website": "https://retrotrades.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "pMMTGYZ4CjvxTxN3TuwCx11y5CW6zz2MBhXMfWsCGvP",
+      "symbol": "CORALTRIBENFT",
+      "name": "Crypto Coral Tribe WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/robertdoo1/logo/main/xlogo.png",
+      "tags": [
+        "Nft-Token",
+        "Wl-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/B4MJcX72g9",
+        "twitter": "https://twitter.com/coraltribenft",
+        "website": "https://www.cryptocoraltribe.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8xfL5CPfcDfovbBFHZpxPcHeUcYkbFwCGKm2JtrJr3q2",
+      "symbol": "HVCWL",
+      "name": "High Voltage Citizens Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8xfL5CPfcDfovbBFHZpxPcHeUcYkbFwCGKm2JtrJr3q2/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/hvworldsnft",
+        "twitter": "https://twitter.com/hvWorldsNFT_",
+        "website": "https://www.highvoltageworlds.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4hNTCobkw1dKqxj8cBBZYMteH7XN4VczEABWhDRsQ9rr",
+      "symbol": "SUUS",
+      "name": "SUUS AI Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rxshardcore/cryptosuus/main/suuslogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
