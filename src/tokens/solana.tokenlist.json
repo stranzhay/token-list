@@ -152796,6 +152796,31 @@
         "twitter": "https://twitter.com/FoneFanClub",
         "website": "https://fonefan.club/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4NMtJnczmqnEGUn9Gd6cKk5ek8Xb5PvTWFkaBgWj7AWi",
+      "symbol": "NOVA",
+      "name": "Nova-Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4NMtJnczmqnEGUn9Gd6cKk5ek8Xb5PvTWFkaBgWj7AWi/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BLZgcxVfVMgfK7M2zgGVVrC3H2LkC4N7pYgqS1JJAe9h",
+      "symbol": "BFMINT",
+      "name": "Blaze Froman Mint Token",
+      "decimals": 0,
+      "logoURI": "https://vf6wknjlc2ipv4cnwmzzmxt2age65itflbmatfrvswbjvmqj.arweave.net/qX1lNSsWkPrwTbM__zll56AYnuomVYWAmWNZWCmrIJo",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/blazefroman",
+        "instagram": "https://www.instagram.com/blazefroman/",
+        "twitter": "https://twitter.com/BlazeFroman",
+        "website": "https://blazefroman.com/"
+      }
     }
   ],
   "version": {
