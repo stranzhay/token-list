@@ -152519,6 +152519,17 @@
         "discord": "https://discord.gg/zFyscmEfQQ",
         "twitter": "https://twitter.com/welina_nft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9FubRwbEXpXuFh9hs3G8UxcuhGUmUbgJFbUtVs7Ktiji",
+      "symbol": "VOR",
+      "name": "Vormir",
+      "decimals": 0,
+      "logoURI": "https://github.com/aeinase/Solana/blob/main/vor.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
