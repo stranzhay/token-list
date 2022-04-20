@@ -152668,6 +152668,14 @@
       "name": "Teak",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/585mJ5PGUEMZuAEnD3G6DqhxZ6wo6hRBL4JYTtcqArqm/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "noUZHVrcXLW2qBcbQNozzXc73qHvpDoS7TdtijjCzH2",
+      "symbol": "NORS",
+      "name": "Novavers",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/noUZHVrcXLW2qBcbQNozzXc73qHvpDoS7TdtijjCzH2/logo.svg"
     }
   ],
   "version": {
