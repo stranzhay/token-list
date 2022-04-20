@@ -152602,6 +152602,17 @@
         "telegram": "https://t.me/solgreengrove",
         "twitter": "https://twitter.com/GreenGroveio"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cq5pHfXB8zM7GGZ9r9MKLeh8jGK4TTzwhD4EhW8VVaCp",
+      "symbol": "DDAO",
+      "name": "DDAO WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cq5pHfXB8zM7GGZ9r9MKLeh8jGK4TTzwhD4EhW8VVaCp/logo.png",
+      "tags": [
+        "WL-token"
+      ]
     }
   ],
   "version": {
