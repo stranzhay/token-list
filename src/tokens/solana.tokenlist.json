@@ -152714,6 +152714,22 @@
       "extensions": {
         "website": "https://ecorise.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ebb1hE7AN82zMeLLe2JnfJCacnn2zTMP7xfDfqKPcccJ",
+      "symbol": "DDLE",
+      "name": "DDLE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ebb1hE7AN82zMeLLe2JnfJCacnn2zTMP7xfDfqKPcccJ/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DOODLETOWN_sol"
+      }
     }
   ],
   "version": {
