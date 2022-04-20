@@ -152796,6 +152796,14 @@
         "twitter": "https://twitter.com/FoneFanClub",
         "website": "https://fonefan.club/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4NMtJnczmqnEGUn9Gd6cKk5ek8Xb5PvTWFkaBgWj7AWi",
+      "symbol": "NOVA",
+      "name": "Nova-Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4NMtJnczmqnEGUn9Gd6cKk5ek8Xb5PvTWFkaBgWj7AWi/logo.png"
     }
   ],
   "version": {
