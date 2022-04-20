@@ -152660,6 +152660,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "585mJ5PGUEMZuAEnD3G6DqhxZ6wo6hRBL4JYTtcqArqm",
+      "symbol": "$TEAK",
+      "name": "Teak",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/585mJ5PGUEMZuAEnD3G6DqhxZ6wo6hRBL4JYTtcqArqm/logo.png?raw=true"
     }
   ],
   "version": {
