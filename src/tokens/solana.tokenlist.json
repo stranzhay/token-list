@@ -152550,6 +152550,30 @@
         "twitter": "https://twitter.com/CoralTribeNFT",
         "website": "https://www.cryptocoraltribe.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MEDLjqYrYTWBVViMNomU16i6mbvRg4BrQsi6CWJemqz",
+      "symbol": "$MEDALS",
+      "name": "MEDALS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MEDLjqYrYTWBVViMNomU16i6mbvRg4BrQsi6CWJemqz/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7KX3BzaUFZ",
+        "twitter": "https://twitter.com/Project1776NFT",
+        "website": "https://project1776.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Ayf2qMw1G91X1PmoaYjEiAmDmpLi9dC8DhjQaHDu6qFY",
+      "symbol": "SPIN",
+      "name": "Semper-Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ayf2qMw1G91X1PmoaYjEiAmDmpLi9dC8DhjQaHDu6qFY/logo.png"
     }
   ],
   "version": {
