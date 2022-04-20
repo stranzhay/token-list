@@ -152476,6 +152476,29 @@
       "name": "TAE",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2GpWESikbmmQKTkTkcazYtxg3LAozfV8SQ1ozPAvPRzb/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2u67vqX4dDHippARJBvGib8oorMzT5grWt2aKFmBagax",
+      "symbol": "STELLA",
+      "name": "Rocstella",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2u67vqX4dDHippARJBvGib8oorMzT5grWt2aKFmBagax/logo.png",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "community-token",
+        "metaverse"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/rocstella",
+        "facebook": "https://www.facebook.com/rocstella.io",
+        "instagram": "https://www.instagram.com/rocstella.io/",
+        "reddit": "https://www.reddit.com/r/Rocstella/",
+        "telegram": "https://t.me/rocstella",
+        "twitter": "https://twitter.com/rocstella_io",
+        "website": "https://rocstella.io"
+      }
     }
   ],
   "version": {
