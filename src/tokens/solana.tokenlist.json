@@ -152869,6 +152869,22 @@
         "twitter": "https://twitter.com/coraltribenft",
         "website": "https://www.cryptocoraltribe.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8xfL5CPfcDfovbBFHZpxPcHeUcYkbFwCGKm2JtrJr3q2",
+      "symbol": "HVCWL",
+      "name": "High Voltage Citizens Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8xfL5CPfcDfovbBFHZpxPcHeUcYkbFwCGKm2JtrJr3q2/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/hvworldsnft",
+        "twitter": "https://twitter.com/hvWorldsNFT_",
+        "website": "https://www.highvoltageworlds.io/"
+      }
     }
   ],
   "version": {
