@@ -152684,6 +152684,36 @@
       "name": "LimboCoin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/Novak-Fenocchio/LimboCoin/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DjUrGLdzQt9WcU2CWZMzedDLjw35sg4ze2LYi9VfLrvk",
+      "symbol": "DN",
+      "name": "Dinomonz",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DjUrGLdzQt9WcU2CWZMzedDLjw35sg4ze2LYi9VfLrvk/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8vFjsxK4SHg2XVSB6ofqNNvkFF62fx5Uq588a7f8qrjk",
+      "symbol": "SIMS",
+      "name": "Simians Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/8vFjsxK4SHg2XVSB6ofqNNvkFF62fx5Uq588a7f8qrjk/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "63y6SwXnhdFi9hd58b92FKJ4k79nbAsQFetQNvgbWBj6",
+      "symbol": "RISE",
+      "name": "RISE (ECORISE)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/63y6SwXnhdFi9hd58b92FKJ4k79nbAsQFetQNvgbWBj6/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://ecorise.finance/"
+      }
     }
   ],
   "version": {
