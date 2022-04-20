@@ -152885,6 +152885,17 @@
         "twitter": "https://twitter.com/hvWorldsNFT_",
         "website": "https://www.highvoltageworlds.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4hNTCobkw1dKqxj8cBBZYMteH7XN4VczEABWhDRsQ9rr",
+      "symbol": "SUUS",
+      "name": "SUUS AI Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rxshardcore/cryptosuus/main/suuslogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
