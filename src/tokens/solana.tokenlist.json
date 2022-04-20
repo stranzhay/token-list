@@ -152530,6 +152530,26 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CCTprR8uQqwhLEDhwA4yWsMrj4D7LqbH39f54ih4w6pb",
+      "symbol": "CTWLT",
+      "name": "Coral Tribe WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Crypto-Coral-Tribe/media/main/logo.png",
+      "tags": [
+        "nft",
+        "whitelist",
+        "whitelist-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Coral Tribe Whitelist token.",
+        "discord": "https://discord.gg/B4MJcX72g9",
+        "twitter": "https://twitter.com/CoralTribeNFT",
+        "website": "https://www.cryptocoraltribe.io"
+      }
     }
   ],
   "version": {
