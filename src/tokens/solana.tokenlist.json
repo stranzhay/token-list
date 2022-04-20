@@ -152684,6 +152684,14 @@
       "name": "LimboCoin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/Novak-Fenocchio/LimboCoin/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DjUrGLdzQt9WcU2CWZMzedDLjw35sg4ze2LYi9VfLrvk",
+      "symbol": "DN",
+      "name": "Dinomonz",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DjUrGLdzQt9WcU2CWZMzedDLjw35sg4ze2LYi9VfLrvk/logo.png"
     }
   ],
   "version": {
