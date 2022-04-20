@@ -152773,6 +152773,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5DxzUwbRxdB5Hr67qgQ2uCn1wwc3fN9cjKy4CwuqV17r",
+      "symbol": "ALALAWI",
+      "name": "Al-Alawi Network Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nalalawi2022/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
