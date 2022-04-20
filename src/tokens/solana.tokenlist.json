@@ -152649,6 +152649,17 @@
       "extensions": {
         "twitter": "https://twitter.com/ape_nba"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "tFceLf6nLmbWtWjjxEVjmC3Co3r94JNQfbqdbVGnvHt",
+      "symbol": "MAC",
+      "name": "macnicoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/anemone-fish/crypto-macnicoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
