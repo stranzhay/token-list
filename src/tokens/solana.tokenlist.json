@@ -152613,6 +152613,17 @@
       "tags": [
         "WL-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "cr8ooTCpZUx4AQW5GquDzsfDNXEN3xxtEYEz8tAjgsw",
+      "symbol": "CREATE",
+      "name": "CREATE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/cr8ooTCpZUx4AQW5GquDzsfDNXEN3xxtEYEz8tAjgsw/logo.png",
+      "extensions": {
+        "website": "https://www.sovana.world"
+      }
     }
   ],
   "version": {
