@@ -152747,6 +152747,21 @@
         "imageUrl": "https://arwave.art/upga5v2tzpnak1eqlq5kvc/upga5v2tzt.png",
         "website": "https://arabpunkz.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FmzPsB48TSox6VNvpjrciWz43ikS3miBkN9YLZ53heMA",
+      "symbol": "ATC",
+      "name": "Alex tech coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Alex000000000010/Alex-tech-coin/main/A__5_-removebg-preview.png",
+      "tags": [
+        "community-token",
+        "Alex-tech-coin"
+      ],
+      "extensions": {
+        "website": "https://alextech.be"
+      }
     }
   ],
   "version": {
