@@ -152585,6 +152585,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Cy5N1dE6HmBwfkp7DgpEzQBpNjTWo4TnPiNbnd3opmdA",
+      "symbol": "GGT",
+      "name": "Green Grove Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/greengroveio/assets/main/logo64.png",
+      "tags": [
+        "green-grove-token"
+      ],
+      "extensions": {
+        "description": "Green Grove Token. Love Nature Preserve Green.",
+        "github": "https://github.com/greengroveio",
+        "telegram": "https://t.me/solgreengrove",
+        "twitter": "https://twitter.com/GreenGroveio"
+      }
     }
   ],
   "version": {
