@@ -152692,6 +152692,14 @@
       "name": "Dinomonz",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DjUrGLdzQt9WcU2CWZMzedDLjw35sg4ze2LYi9VfLrvk/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8vFjsxK4SHg2XVSB6ofqNNvkFF62fx5Uq588a7f8qrjk",
+      "symbol": "SIMS",
+      "name": "Simians Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/8vFjsxK4SHg2XVSB6ofqNNvkFF62fx5Uq588a7f8qrjk/logo.png?raw=true"
     }
   ],
   "version": {
