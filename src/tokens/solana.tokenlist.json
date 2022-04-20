@@ -152393,6 +152393,22 @@
       "name": "A COIN",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8aQUSX3RxjhXNm9azYbCZD1qXK6tzKrWeWyW9YyKvztK/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "E91hiy2y8asBrvxpfjpN9BntYMwvawJ4DSUPTkTcodBL",
+      "symbol": "FELINE",
+      "name": "Feline Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E91hiy2y8asBrvxpfjpN9BntYMwvawJ4DSUPTkTcodBL/logo.png",
+      "tags": [
+        "meme-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Feline Token is a deflationary crypto currency aimed at cat lovers.",
+        "website": "http://www.felinetoken.xyz"
+      }
     }
   ],
   "version": {
