@@ -152784,6 +152784,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9LtwWPtRLqwKsicJq4KTLid5hkfovxgDxW8AjNDcbEvM",
+      "symbol": "sFFC",
+      "name": "staked Fone Fan Club",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9LtwWPtRLqwKsicJq4KTLid5hkfovxgDxW8AjNDcbEvM/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/FoneFanClub",
+        "website": "https://fonefan.club/"
+      }
     }
   ],
   "version": {
