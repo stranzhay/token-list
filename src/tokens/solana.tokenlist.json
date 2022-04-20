@@ -152635,6 +152635,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8cXAosK13961DmvHuYEuZvoTzNS2yrEg2VVby9AZiLGn",
+      "symbol": "GOAP",
+      "name": "Golden Ticket APE-NBA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8cXAosK13961DmvHuYEuZvoTzNS2yrEg2VVby9AZiLGn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ape_nba"
+      }
     }
   ],
   "version": {
