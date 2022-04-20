@@ -152409,6 +152409,23 @@
         "description": "Feline Token is a deflationary crypto currency aimed at cat lovers.",
         "website": "http://www.felinetoken.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DeViLuoFz6JbDsXk3hifyQCx4CGAgAThyyQjSM6jewKK",
+      "symbol": "LKEY",
+      "name": "Legion Key",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SolStonez/Legion-Key-Logo/main/demon_logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Legion Keys are whitelist tokens to gain access to presale and discounted price of Legion of Sol collection",
+        "discord": "https://discord.gg/9AK64whHFe",
+        "twitter": "https://twitter.com/legion_of_sol",
+        "website": "https://legionofsol.io/"
+      }
     }
   ],
   "version": {
