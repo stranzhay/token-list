@@ -152499,6 +152499,14 @@
         "twitter": "https://twitter.com/rocstella_io",
         "website": "https://rocstella.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TowQvaG4JUUDCY6SYrqq4xh45D6Rrv6cUdSjY86sTVb",
+      "symbol": "GADO",
+      "name": "GADO WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TowQvaG4JUUDCY6SYrqq4xh45D6Rrv6cUdSjY86sTVb/logo.png"
     }
   ],
   "version": {
