@@ -152821,6 +152821,20 @@
         "twitter": "https://twitter.com/BlazeFroman",
         "website": "https://blazefroman.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8GDe3FA2ciLfCNjsg3E9JZEyN2oyNv6yszy3jn7LLPMR",
+      "symbol": "SWTY",
+      "name": "Schawty",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/schwty7/cryptooo/main/logo.png",
+      "tags": [
+        "community-token",
+        "schawty",
+        "777",
+        "schawty777"
+      ]
     }
   ],
   "version": {
