@@ -152924,6 +152924,20 @@
         "twitter": "https://twitter.com/LivingDeadTeds",
         "website": "https://livingdeadteds.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GdsVgJPuCM34tQKQfMpF4mtooGA34oM6NxSpZNrxf1Dx",
+      "symbol": "GV",
+      "name": "Gods Village",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GdsVgJPuCM34tQKQfMpF4mtooGA34oM6NxSpZNrxf1Dx/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Mint token for the SOLGods x Village of Sol collab collection."
+      }
     }
   ],
   "version": {
