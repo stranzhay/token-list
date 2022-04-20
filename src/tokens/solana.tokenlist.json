@@ -152835,6 +152835,23 @@
         "777",
         "schawty777"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ac8HFm7bgEm4bNgbUj1woSqnWJDji9gWkc7uH1TosXSy",
+      "symbol": "RTWL",
+      "name": "RetroTrades WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ac8HFm7bgEm4bNgbUj1woSqnWJDji9gWkc7uH1TosXSy/logo.png",
+      "tags": [
+        "whitelist-token",
+        "retro-trades"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/retrotrades",
+        "twitter": "https://twitter.com/retro_trades",
+        "website": "https://retrotrades.com/"
+      }
     }
   ],
   "version": {
