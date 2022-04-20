@@ -152896,6 +152896,34 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BEzTDHxrd8WCNNqku744CALPqwepWTkgD2rQWvHt1cMP",
+      "symbol": "ANDRE",
+      "name": "axdre",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/andre1code/crypto/main/logosol.png.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "537ZLMxVN8tPrvsyhroC4488s4Ex19f4v764Nre6uhtK",
+      "symbol": "CENTAURI",
+      "name": "Centauri Currency",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/537ZLMxVN8tPrvsyhroC4488s4Ex19f4v764Nre6uhtK/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Centauri is the main currency for the Living Dead Teds economy",
+        "discord": "https://discord.gg/livingdeadteds",
+        "twitter": "https://twitter.com/LivingDeadTeds",
+        "website": "https://livingdeadteds.com"
+      }
     }
   ],
   "version": {
