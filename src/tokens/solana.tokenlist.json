@@ -152955,6 +152955,20 @@
         "twitter": "https://twitter.com/thesmugpugs",
         "website": "https://thesmugpugs.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EiuUs8ZvHWjMgJEgDYtKZEnCPRxnXqFLRqypU6GuUCrS",
+      "symbol": "PWAL",
+      "name": "PWAL Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/elbarko/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "PWAL Esports Fan Token."
+      }
     }
   ],
   "version": {
