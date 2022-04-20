@@ -152852,6 +152852,23 @@
         "twitter": "https://twitter.com/retro_trades",
         "website": "https://retrotrades.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "pMMTGYZ4CjvxTxN3TuwCx11y5CW6zz2MBhXMfWsCGvP",
+      "symbol": "CORALTRIBENFT",
+      "name": "Crypto Coral Tribe WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/robertdoo1/logo/main/xlogo.png",
+      "tags": [
+        "Nft-Token",
+        "Wl-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/B4MJcX72g9",
+        "twitter": "https://twitter.com/coraltribenft",
+        "website": "https://www.cryptocoraltribe.io/"
+      }
     }
   ],
   "version": {
