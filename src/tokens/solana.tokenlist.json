@@ -152821,6 +152821,37 @@
         "twitter": "https://twitter.com/BlazeFroman",
         "website": "https://blazefroman.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8GDe3FA2ciLfCNjsg3E9JZEyN2oyNv6yszy3jn7LLPMR",
+      "symbol": "SWTY",
+      "name": "Schawty",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/schwty7/cryptooo/main/logo.png",
+      "tags": [
+        "community-token",
+        "schawty",
+        "777",
+        "schawty777"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ac8HFm7bgEm4bNgbUj1woSqnWJDji9gWkc7uH1TosXSy",
+      "symbol": "RTWL",
+      "name": "RetroTrades WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ac8HFm7bgEm4bNgbUj1woSqnWJDji9gWkc7uH1TosXSy/logo.png",
+      "tags": [
+        "whitelist-token",
+        "retro-trades"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/retrotrades",
+        "twitter": "https://twitter.com/retro_trades",
+        "website": "https://retrotrades.com/"
+      }
     }
   ],
   "version": {
