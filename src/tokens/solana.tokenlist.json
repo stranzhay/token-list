@@ -152714,6 +152714,76 @@
       "extensions": {
         "website": "https://ecorise.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ebb1hE7AN82zMeLLe2JnfJCacnn2zTMP7xfDfqKPcccJ",
+      "symbol": "DDLE",
+      "name": "DDLE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ebb1hE7AN82zMeLLe2JnfJCacnn2zTMP7xfDfqKPcccJ/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DOODLETOWN_sol"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8GEdymZcgjVku6AfQuQCxqgUk8qpigy5LdP9UTRVcMxw",
+      "symbol": "ARABPUNKZ",
+      "name": "ArabPunkz swap token",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/arabpunkz/arab.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "animationUrl": "https://storage.googleapis.com/arabpunkz/arabpunkz.mp4",
+        "description": "ArabPunkz 3D swap token to redeem at arabpunkz.io",
+        "imageUrl": "https://arwave.art/upga5v2tzpnak1eqlq5kvc/upga5v2tzt.png",
+        "website": "https://arabpunkz.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FmzPsB48TSox6VNvpjrciWz43ikS3miBkN9YLZ53heMA",
+      "symbol": "ATC",
+      "name": "Alex tech coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Alex000000000010/Alex-tech-coin/main/A__5_-removebg-preview.png",
+      "tags": [
+        "community-token",
+        "Alex-tech-coin"
+      ],
+      "extensions": {
+        "website": "https://alextech.be"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "99qRyZNnpS8kumjAGC23RsKsxUiFUh2dzM2ea84ufQ5x",
+      "symbol": "TLSM",
+      "name": "Talisman",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/overload-dev/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5DxzUwbRxdB5Hr67qgQ2uCn1wwc3fN9cjKy4CwuqV17r",
+      "symbol": "ALALAWI",
+      "name": "Al-Alawi Network Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nalalawi2022/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
