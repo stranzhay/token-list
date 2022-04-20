@@ -152574,6 +152574,17 @@
       "name": "Semper-Coin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ayf2qMw1G91X1PmoaYjEiAmDmpLi9dC8DhjQaHDu6qFY/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2qkahneNuubJ6v8PSqVG3knqr8Ndmu2TaxGBtCkUQ8Ak",
+      "symbol": "BEEN",
+      "name": "Been-Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Pandaniel79/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
