@@ -152624,6 +152624,50 @@
       "extensions": {
         "website": "https://www.sovana.world"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WAtEPamrPJxaSrdyJpqroj1FhkUK1ooQWjCiXDrgREi",
+      "symbol": "WATER",
+      "name": "Refined Water Crystal",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bitcoinblack482/logo/main/white.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8cXAosK13961DmvHuYEuZvoTzNS2yrEg2VVby9AZiLGn",
+      "symbol": "GOAP",
+      "name": "Golden Ticket APE-NBA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8cXAosK13961DmvHuYEuZvoTzNS2yrEg2VVby9AZiLGn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ape_nba"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "tFceLf6nLmbWtWjjxEVjmC3Co3r94JNQfbqdbVGnvHt",
+      "symbol": "MAC",
+      "name": "macnicoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/anemone-fish/crypto-macnicoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "585mJ5PGUEMZuAEnD3G6DqhxZ6wo6hRBL4JYTtcqArqm",
+      "symbol": "$TEAK",
+      "name": "Teak",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/585mJ5PGUEMZuAEnD3G6DqhxZ6wo6hRBL4JYTtcqArqm/logo.png?raw=true"
     }
   ],
   "version": {
