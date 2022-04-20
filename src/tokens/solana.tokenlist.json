@@ -152566,6 +152566,14 @@
         "twitter": "https://twitter.com/Project1776NFT",
         "website": "https://project1776.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ayf2qMw1G91X1PmoaYjEiAmDmpLi9dC8DhjQaHDu6qFY",
+      "symbol": "SPIN",
+      "name": "Semper-Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ayf2qMw1G91X1PmoaYjEiAmDmpLi9dC8DhjQaHDu6qFY/logo.png"
     }
   ],
   "version": {
