@@ -152988,6 +152988,20 @@
         "twitter": "https://twitter.com/MfaToken",
         "website": "https://www.mfafinance.space/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GATEsQgEEvavv9gz5mpb4PPDfWNR9PLr3TLq4xuj67SG",
+      "symbol": "GOI",
+      "name": "Gates of Imaginarium WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GATEsQgEEvavv9gz5mpb4PPDfWNR9PLr3TLq4xuj67SG/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Imaginarium_SOL"
+      }
     }
   ],
   "version": {
