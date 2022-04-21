@@ -153383,6 +153383,17 @@
         "twitter": "https://twitter.com/smokeheadsnft",
         "website": "https://smokeheads.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9GqndzQdubZTToSdbRqxEtNEjn6kDBoyeVJCAUCTx9x7",
+      "symbol": "BWL",
+      "name": "Blockchain WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/IMG_4934%20(1)%20(1).png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
