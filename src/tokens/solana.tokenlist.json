@@ -153246,6 +153246,22 @@
         "twitter": "https://twitter.com/anchor_protocol",
         "website": "https://anchorprotocol.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DYvKZYDjBVTmxg22T3Q6z64oxPTSNkknpptqLswiGk6Z",
+      "symbol": "$DARK",
+      "name": "DARK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYvKZYDjBVTmxg22T3Q6z64oxPTSNkknpptqLswiGk6Z/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/3DEGTZJ68J",
+        "twitter": "https://twitter.com/Arkanauts",
+        "website": "https://www.arkanauts.io/"
+      }
     }
   ],
   "version": {
