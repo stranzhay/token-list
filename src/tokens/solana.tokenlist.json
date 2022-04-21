@@ -153439,6 +153439,17 @@
       "extensions": {
         "website": "https://www.rumblemonkeys.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9AyeEQHKS49rp2pUTwXkjnC37xXNb9Gpz72rEZQUvJSo",
+      "symbol": "SPRZ",
+      "name": "SpritzerCoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/spritzercoin/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
