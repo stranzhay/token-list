@@ -153030,6 +153030,70 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ThEJu98i7RUqWpsZNPy7uanted83FP6xGpEpkc9DN2E",
+      "symbol": "WYSI",
+      "name": "ZenithCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ZenithBlockchain/token-assets/main/zcoincircle.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "A cryptocurrency built for the osu! community.",
+        "discord": "https://discord.gg/TkYRqfCT55",
+        "twitter": "https://twitter.com/zenithcoin727"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FHr2iKwqV93UyMA6KJoJJgZcT7WXvE9oxX4qCU1iuzR5",
+      "symbol": "SSAC",
+      "name": "Solana Ape Social",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MichaelohodSOL/SSAC/main/socialape-Recovered.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5e5znzUAuWrM7p96XTZZyn5KWKRikLr1m8rpQESriebT",
+      "symbol": "ERNESTWL",
+      "name": "Ernest Beyond Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5e5znzUAuWrM7p96XTZZyn5KWKRikLr1m8rpQESriebT/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/ernestindisguise"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CcHtGVcHKSy7bGkfu14CsUko5bykGJUSnjKwWQ7HFV6N",
+      "symbol": "HSB",
+      "name": "Heartsbane",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/xForgex/Heartsbane/main/Heartsbane.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DiSAiGzghbx8EUJqjvjAysB7Tw1hLkyLeZn9nDCGNNe",
+      "symbol": "dsku",
+      "name": "DISARTICULATED SKULLYS EARLY WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DiSAiGzghbx8EUJqjvjAysB7Tw1hLkyLeZn9nDCGNNe/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dskullys",
+        "website": "https://dskullys.com/"
+      }
     }
   ],
   "version": {
