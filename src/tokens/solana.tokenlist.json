@@ -153127,6 +153127,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "36234VF2prDP7YmFPQixUi3ikJYULo34yhRobViwerq1",
+      "symbol": "GG",
+      "name": "Golem Guardians",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cashboysen/golem1/main/GolemTokey.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
