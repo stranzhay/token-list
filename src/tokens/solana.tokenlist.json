@@ -153233,6 +153233,19 @@
         "assetwallet",
         "stable-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur",
+      "symbol": "bSOL-Lido",
+      "name": "Lido Bonded SOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
+      "extensions": {
+        "github": "https://github.com/ChorusOne/solido",
+        "twitter": "https://twitter.com/anchor_protocol",
+        "website": "https://anchorprotocol.com/"
+      }
     }
   ],
   "version": {
