@@ -153068,6 +153068,17 @@
       "extensions": {
         "discord": "https://discord.gg/ernestindisguise"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CcHtGVcHKSy7bGkfu14CsUko5bykGJUSnjKwWQ7HFV6N",
+      "symbol": "HSB",
+      "name": "Heartsbane",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/xForgex/Heartsbane/main/Heartsbane.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
