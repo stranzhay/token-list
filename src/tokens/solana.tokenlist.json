@@ -153428,6 +153428,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AjRCYF6Ve8gw3XBF1CYb5E9jpfruiKJNHCNhkfHuEULv",
+      "symbol": "RMBL",
+      "name": "RMBL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/farhan067/RumbleToken/main/logo.png",
+      "extensions": {
+        "website": "https://www.rumblemonkeys.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9AyeEQHKS49rp2pUTwXkjnC37xXNb9Gpz72rEZQUvJSo",
+      "symbol": "SPRZ",
+      "name": "SpritzerCoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/spritzercoin/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
