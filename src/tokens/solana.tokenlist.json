@@ -153184,6 +153184,17 @@
       "tags": [
         "currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EQqRcQ7jL5wdhxqtVdJtnFyCex2pF4NaEKhcHEJFs9P2",
+      "symbol": "2",
+      "name": "sefesaf",
+      "decimals": 1,
+      "logoURI": "https://commons.wikimedia.org/wiki/Commons:Quality_images#/media/File:Gull_portrait_ca_usa.jpg",
+      "tags": [
+        "currency"
+      ]
     }
   ],
   "version": {
