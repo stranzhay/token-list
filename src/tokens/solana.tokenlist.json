@@ -153094,6 +153094,28 @@
         "twitter": "https://twitter.com/dskullys",
         "website": "https://dskullys.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3KXM56KYWfjRUhsLyNZoWKYv2dgNDaXhF9YKb11iB9kK",
+      "symbol": "RABBITS",
+      "name": "Rabbit Tkn",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3KXM56KYWfjRUhsLyNZoWKYv2dgNDaXhF9YKb11iB9kK/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "LiLyT885cG9xZKYQk9x6VWMzmcui4ueV9J1uzPDDajY",
+      "symbol": "LILY",
+      "name": "Solily Protocol Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LiLyT885cG9xZKYQk9x6VWMzmcui4ueV9J1uzPDDajY/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.solily.io/"
+      }
     }
   ],
   "version": {
