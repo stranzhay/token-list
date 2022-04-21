@@ -153002,6 +153002,34 @@
       "extensions": {
         "twitter": "https://twitter.com/Imaginarium_SOL"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3D4zNUJMqXUcShpFC9BeK3ueGodQ8y85iX1uN34YNYss",
+      "symbol": "FEMNS",
+      "name": "Remnants Female Sub-WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3D4zNUJMqXUcShpFC9BeK3ueGodQ8y85iX1uN34YNYss/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/remnantsnft",
+        "twitter": "https://twitter.com/RemnantsNFT",
+        "website": "https://www.theremnantsnft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FPWsFrQRhJpiCZAAUotNes3XZuBTv8M5yLYU7YYGc61J",
+      "symbol": "FPW",
+      "name": "Forart Painter Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FPWsFrQRhJpiCZAAUotNes3XZuBTv8M5yLYU7YYGc61J/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
