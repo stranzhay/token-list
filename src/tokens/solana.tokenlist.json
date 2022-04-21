@@ -153195,6 +153195,17 @@
       "tags": [
         "currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "N9sYFwgtYwkuCFcDhF7CT1Pv6dXrSSifuKLLbgGVcY8",
+      "symbol": "1",
+      "name": "11111",
+      "decimals": 11,
+      "logoURI": "https://commons.wikimedia.org/wiki/Commons:Quality_images#/media/File:Gull_portrait_ca_usa.jpg",
+      "tags": [
+        "currency"
+      ]
     }
   ],
   "version": {
