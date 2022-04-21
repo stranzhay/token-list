@@ -153220,6 +153220,19 @@
       "extensions": {
         "telegram": "https://t.me/omardd"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6meUpSTqqqj8UE1G46fT4M9C8KTvWunrEpAqRdaSNshe",
+      "symbol": "USDP",
+      "name": "Solana USDP ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6meUpSTqqqj8UE1G46fT4M9C8KTvWunrEpAqRdaSNshe/logo.png",
+      "tags": [
+        "social-platform-tf",
+        "assetwallet",
+        "stable-token"
+      ]
     }
   ],
   "version": {
