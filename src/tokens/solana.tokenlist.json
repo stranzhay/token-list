@@ -153417,6 +153417,17 @@
       "extensions": {
         "twitter": "https://twitter.com/wolfeplanetnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "65WJf4jpYjtkjiNo6iMC2zYPsz4y7GfK8sPscaVZkfnb",
+      "symbol": "LTQN",
+      "name": "LitQoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/acorley094/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
