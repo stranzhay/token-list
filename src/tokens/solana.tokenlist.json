@@ -153246,6 +153246,51 @@
         "twitter": "https://twitter.com/anchor_protocol",
         "website": "https://anchorprotocol.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DYvKZYDjBVTmxg22T3Q6z64oxPTSNkknpptqLswiGk6Z",
+      "symbol": "$DARK",
+      "name": "DARK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYvKZYDjBVTmxg22T3Q6z64oxPTSNkknpptqLswiGk6Z/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/3DEGTZJ68J",
+        "twitter": "https://twitter.com/Arkanauts",
+        "website": "https://www.arkanauts.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5nkAGRqgBRJs7fqU4Vkrhu1DDQPKJBvAZsRPGV9vCeYa",
+      "symbol": "BSAMO",
+      "name": "Baby Samo",
+      "decimals": 9,
+      "logoURI": "https://babysamo.io/assets/images/babysamo.png",
+      "tags": [
+        "p2e"
+      ],
+      "extensions": {
+        "website": "https://babysamo.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "TsmrVzWkfBY3VJDWVRfNjqaaBgmLvT4n9qx1uqCk9Fd",
+      "symbol": "SIN",
+      "name": "SIN Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TsmrVzWkfBY3VJDWVRfNjqaaBgmLvT4n9qx1uqCk9Fd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/thesaints_nft",
+        "website": "https://saintsnft.art"
+      }
     }
   ],
   "version": {
