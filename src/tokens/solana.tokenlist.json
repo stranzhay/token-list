@@ -153358,6 +153358,14 @@
       "extensions": {
         "website": "https://scoalabritanica.ro"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E5NEDaxz7o8Vix5ZWx4BC5WR9mavFdBd78t5jeorMr4p",
+      "symbol": "TOTE",
+      "name": "TOTE Club",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E5NEDaxz7o8Vix5ZWx4BC5WR9mavFdBd78t5jeorMr4p/logo.png"
     }
   ],
   "version": {
