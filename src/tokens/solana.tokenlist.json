@@ -153079,6 +153079,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DiSAiGzghbx8EUJqjvjAysB7Tw1hLkyLeZn9nDCGNNe",
+      "symbol": "dsku",
+      "name": "DISARTICULATED SKULLYS EARLY WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DiSAiGzghbx8EUJqjvjAysB7Tw1hLkyLeZn9nDCGNNe/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dskullys",
+        "website": "https://dskullys.com/"
+      }
     }
   ],
   "version": {
