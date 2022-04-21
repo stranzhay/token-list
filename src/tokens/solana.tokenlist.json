@@ -153046,6 +153046,17 @@
         "discord": "https://discord.gg/TkYRqfCT55",
         "twitter": "https://twitter.com/zenithcoin727"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FHr2iKwqV93UyMA6KJoJJgZcT7WXvE9oxX4qCU1iuzR5",
+      "symbol": "SSAC",
+      "name": "Solana Ape Social",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MichaelohodSOL/SSAC/main/socialape-Recovered.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
