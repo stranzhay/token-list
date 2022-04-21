@@ -153291,6 +153291,17 @@
         "twitter": "https://twitter.com/thesaints_nft",
         "website": "https://saintsnft.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9xnUf5okunLfCr5dHsZKms3rukkchh2QBavZ7hUH4v7o",
+      "symbol": "SOR",
+      "name": "Soricu Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sori18/SPC-token/main/logo_token.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
