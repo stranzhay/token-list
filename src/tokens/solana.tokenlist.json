@@ -153019,6 +153019,17 @@
         "twitter": "https://twitter.com/RemnantsNFT",
         "website": "https://www.theremnantsnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FPWsFrQRhJpiCZAAUotNes3XZuBTv8M5yLYU7YYGc61J",
+      "symbol": "FPW",
+      "name": "Forart Painter Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FPWsFrQRhJpiCZAAUotNes3XZuBTv8M5yLYU7YYGc61J/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
