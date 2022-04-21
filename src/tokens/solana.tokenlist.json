@@ -153262,6 +153262,20 @@
         "twitter": "https://twitter.com/Arkanauts",
         "website": "https://www.arkanauts.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5nkAGRqgBRJs7fqU4Vkrhu1DDQPKJBvAZsRPGV9vCeYa",
+      "symbol": "BSAMO",
+      "name": "Baby Samo",
+      "decimals": 9,
+      "logoURI": "https://babysamo.io/assets/images/babysamo.png",
+      "tags": [
+        "p2e"
+      ],
+      "extensions": {
+        "website": "https://babysamo.io"
+      }
     }
   ],
   "version": {
