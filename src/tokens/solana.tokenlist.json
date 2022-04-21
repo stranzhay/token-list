@@ -153206,6 +153206,20 @@
       "tags": [
         "currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2EmsWdDVDZ3B1ZDsM8EMk3s53iygwUFdpmxNnr24VBdg",
+      "symbol": "TT",
+      "name": "ttt",
+      "decimals": 2,
+      "logoURI": "https://commons.wikimedia.org/wiki/Commons:Quality_images#/media/File:Gull_portrait_ca_usa.jpg",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/omardd"
+      }
     }
   ],
   "version": {
