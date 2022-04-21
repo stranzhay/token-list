@@ -153450,6 +153450,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GXzNKiMP9YWHMMvWnT2cag8UHx5fgMHRfqmVW22K2hm7",
+      "symbol": "BSAMO",
+      "name": "BSamo",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GXzNKiMP9YWHMMvWnT2cag8UHx5fgMHRfqmVW22K2hm7/bsamo.png",
+      "tags": [
+        "metaverse"
+      ],
+      "extensions": {
+        "website": "https://babysamo.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "78fRJMzWdKpeb2cAQ1pe25J5Fth9Mmiufzsi4KfazQdL",
+      "symbol": "H2O",
+      "name": "Cactus World H2O",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/78fRJMzWdKpeb2cAQ1pe25J5Fth9Mmiufzsi4KfazQdL/logo.png?raw=true"
     }
   ],
   "version": {
