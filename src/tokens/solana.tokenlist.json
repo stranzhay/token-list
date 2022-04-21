@@ -64160,11 +64160,11 @@
     },
     {
       "chainId": 101,
-      "address": "BNTYkJdHkdP9eH4uGouRkqz9RifYL8knHVVVmBMgcNzx",
+      "address": "BNTY5DaMP9CZhEtmQfMLHfUwwkXropHuCz4m96YqpqKm",
       "symbol": "BNTY",
       "name": "Bounty",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BNTYkJdHkdP9eH4uGouRkqz9RifYL8knHVVVmBMgcNzx/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BNTY5DaMP9CZhEtmQfMLHfUwwkXropHuCz4m96YqpqKm/logo.png",
       "tags": [
         "utility-token"
       ],
