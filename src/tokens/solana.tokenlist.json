@@ -153154,6 +153154,25 @@
         "description": "Solana Eco Index is based on the 5 crypto assets on Solana.",
         "website": "https://sypool.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C22BsnQ7jXT44qwJg1JtcfVxdCtkhjJeN8AKptRv9o1w",
+      "symbol": "ZAZA",
+      "name": "ZA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ZackAttakk1/crypto/main/za_crypto.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "TUXaNJFxPGHUGzAr2pjsYoCZCVCtXKGGWJWFEeKGeRi",
+      "symbol": "TOOX",
+      "name": "TOOX TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TUXaNJFxPGHUGzAr2pjsYoCZCVCtXKGGWJWFEeKGeRi/logo.png"
     }
   ],
   "version": {
