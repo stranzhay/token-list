@@ -153173,6 +153173,79 @@
       "name": "TOOX TOKEN",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TUXaNJFxPGHUGzAr2pjsYoCZCVCtXKGGWJWFEeKGeRi/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "baFwxU2f4ePZDWaYFBNWi4xHUFVTVyKiEknCQNfNi7Q",
+      "symbol": "RERE",
+      "name": "RERE",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TUXaNJFxPGHUGzAr2pjsYoCZCVCtXKGGWJWFEeKGeRi/logo.png",
+      "tags": [
+        "currency"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EQqRcQ7jL5wdhxqtVdJtnFyCex2pF4NaEKhcHEJFs9P2",
+      "symbol": "2",
+      "name": "sefesaf",
+      "decimals": 1,
+      "logoURI": "https://commons.wikimedia.org/wiki/Commons:Quality_images#/media/File:Gull_portrait_ca_usa.jpg",
+      "tags": [
+        "currency"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "N9sYFwgtYwkuCFcDhF7CT1Pv6dXrSSifuKLLbgGVcY8",
+      "symbol": "1",
+      "name": "11111",
+      "decimals": 11,
+      "logoURI": "https://commons.wikimedia.org/wiki/Commons:Quality_images#/media/File:Gull_portrait_ca_usa.jpg",
+      "tags": [
+        "currency"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2EmsWdDVDZ3B1ZDsM8EMk3s53iygwUFdpmxNnr24VBdg",
+      "symbol": "TT",
+      "name": "ttt",
+      "decimals": 2,
+      "logoURI": "https://commons.wikimedia.org/wiki/Commons:Quality_images#/media/File:Gull_portrait_ca_usa.jpg",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/omardd"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6meUpSTqqqj8UE1G46fT4M9C8KTvWunrEpAqRdaSNshe",
+      "symbol": "USDP",
+      "name": "Solana USDP ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6meUpSTqqqj8UE1G46fT4M9C8KTvWunrEpAqRdaSNshe/logo.png",
+      "tags": [
+        "social-platform-tf",
+        "assetwallet",
+        "stable-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur",
+      "symbol": "bSOL-Lido",
+      "name": "Lido Bonded SOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
+      "extensions": {
+        "github": "https://github.com/ChorusOne/solido",
+        "twitter": "https://twitter.com/anchor_protocol",
+        "website": "https://anchorprotocol.com/"
+      }
     }
   ],
   "version": {
