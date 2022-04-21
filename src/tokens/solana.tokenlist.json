@@ -152938,6 +152938,37 @@
       "extensions": {
         "description": "Mint token for the SOLGods x Village of Sol collab collection."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WuvZRuMuLVh7XdvzLGd26RhMqgwSqzJGm9bZ7vpimxn",
+      "symbol": "WUV",
+      "name": "WUV Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WuvZRuMuLVh7XdvzLGd26RhMqgwSqzJGm9bZ7vpimxn/logo.png",
+      "tags": [
+        "utility-token",
+        "smug-pugs"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/thesmugpugs",
+        "twitter": "https://twitter.com/thesmugpugs",
+        "website": "https://thesmugpugs.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EiuUs8ZvHWjMgJEgDYtKZEnCPRxnXqFLRqypU6GuUCrS",
+      "symbol": "PWAL",
+      "name": "PWAL Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/elbarko/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "PWAL Esports Fan Token."
+      }
     }
   ],
   "version": {
