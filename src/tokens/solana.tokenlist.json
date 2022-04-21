@@ -153173,6 +153173,17 @@
       "name": "TOOX TOKEN",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TUXaNJFxPGHUGzAr2pjsYoCZCVCtXKGGWJWFEeKGeRi/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "baFwxU2f4ePZDWaYFBNWi4xHUFVTVyKiEknCQNfNi7Q",
+      "symbol": "RERE",
+      "name": "RERE",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TUXaNJFxPGHUGzAr2pjsYoCZCVCtXKGGWJWFEeKGeRi/logo.png",
+      "tags": [
+        "currency"
+      ]
     }
   ],
   "version": {
