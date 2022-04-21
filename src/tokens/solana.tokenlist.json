@@ -152969,6 +152969,39 @@
       "extensions": {
         "description": "PWAL Esports Fan Token."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5E8bAHYXaEaxw3yXDKEnbAjtTM4QRjivRmNDpaczY1gD",
+      "symbol": "MFAT",
+      "name": "MFA TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MFAToken/mfa-logo/main/mfa.png.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "building the next generation of ecofriendly technology through the blockchain technology",
+        "discord": "https://www.discord.gg/GUHt6KmekA",
+        "telegram": "https://t.me/MFAToken",
+        "twitter": "https://twitter.com/MfaToken",
+        "website": "https://www.mfafinance.space/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GATEsQgEEvavv9gz5mpb4PPDfWNR9PLr3TLq4xuj67SG",
+      "symbol": "GOI",
+      "name": "Gates of Imaginarium WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GATEsQgEEvavv9gz5mpb4PPDfWNR9PLr3TLq4xuj67SG/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Imaginarium_SOL"
+      }
     }
   ],
   "version": {
