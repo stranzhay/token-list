@@ -153030,6 +153030,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ThEJu98i7RUqWpsZNPy7uanted83FP6xGpEpkc9DN2E",
+      "symbol": "WYSI",
+      "name": "ZenithCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ZenithBlockchain/token-assets/main/zcoincircle.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "A cryptocurrency built for the osu! community.",
+        "discord": "https://discord.gg/TkYRqfCT55",
+        "twitter": "https://twitter.com/zenithcoin727"
+      }
     }
   ],
   "version": {
