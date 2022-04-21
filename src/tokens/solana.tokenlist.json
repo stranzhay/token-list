@@ -153464,6 +153464,14 @@
       "extensions": {
         "website": "https://babysamo.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "78fRJMzWdKpeb2cAQ1pe25J5Fth9Mmiufzsi4KfazQdL",
+      "symbol": "H2O",
+      "name": "Cactus World H2O",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/78fRJMzWdKpeb2cAQ1pe25J5Fth9Mmiufzsi4KfazQdL/logo.png?raw=true"
     }
   ],
   "version": {
