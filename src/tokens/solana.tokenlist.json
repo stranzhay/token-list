@@ -153318,6 +153318,19 @@
         "twitter": "https://twitter.com/mindfolkART",
         "website": "https://www.mindfolk.art/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DxTqxF6mbaznxyLv3aWHJydoCSiLwjw3xWb5fsqFSMzk",
+      "symbol": "USDP-Sol",
+      "name": "Social Platform USDP ",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DxTqxF6mbaznxyLv3aWHJydoCSiLwjw3xWb5fsqFSMzk/logo.png",
+      "tags": [
+        "social-platform-tf",
+        "assetwallet",
+        "stable-token"
+      ]
     }
   ],
   "version": {
