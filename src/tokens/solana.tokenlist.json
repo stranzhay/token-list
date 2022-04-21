@@ -153116,6 +153116,17 @@
       "extensions": {
         "website": "https://www.solily.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8yuQCKTxmQTVXcEFUFUsKyFeaMALcQqMSAHzRua3x5BJ",
+      "symbol": "SMKR",
+      "name": "Stoney",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cashboysen/StoneyToken/main/Stoney-token.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
