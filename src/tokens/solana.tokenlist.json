@@ -153331,6 +153331,17 @@
         "assetwallet",
         "stable-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6D7nXHAhsRbwj8KFZR2agB6GEjMLg4BM7MAqZzRT8F1j",
+      "symbol": "GOSU",
+      "name": "Gosu",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/jGosu/gosu/main/GOSU%20COIN.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
