@@ -153303,6 +153303,46 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MindKcJKhBwNAboyrWh8Ku6GGKrP6kS6TSkr7zzWZJ9",
+      "symbol": "MINDFOLK",
+      "name": "Mind Folk White List Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bitcoinblack482/logo/main/mind.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/mindfolk",
+        "twitter": "https://twitter.com/mindfolkART",
+        "website": "https://www.mindfolk.art/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DxTqxF6mbaznxyLv3aWHJydoCSiLwjw3xWb5fsqFSMzk",
+      "symbol": "USDP-Sol",
+      "name": "Social Platform USDP ",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DxTqxF6mbaznxyLv3aWHJydoCSiLwjw3xWb5fsqFSMzk/logo.png",
+      "tags": [
+        "social-platform-tf",
+        "assetwallet",
+        "stable-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6D7nXHAhsRbwj8KFZR2agB6GEjMLg4BM7MAqZzRT8F1j",
+      "symbol": "GOSU",
+      "name": "Gosu",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/jGosu/gosu/main/GOSU%20COIN.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
