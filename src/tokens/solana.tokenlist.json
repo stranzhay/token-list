@@ -96131,15 +96131,15 @@
       "symbol": "DUST",
       "name": "DUST Protocol",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ/logo.jpg",
       "tags": [
         "NFT",
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.com/invite/degods",
+        "discord": "https://discord.com/invite/dedao",
         "twitter": "https://twitter.com/degodsnft",
-        "website": "https://www.dustprotocol.com/"
+        "website": "https://docs.dustprotocol.com/"
       }
     },
     {
