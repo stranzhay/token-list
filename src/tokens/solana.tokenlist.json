@@ -153343,6 +153343,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7sKGwnwpfJCYdwKzGzSUwUUf5TFPh9yuQXcVe3wgUHUm",
+      "symbol": "SRBAN",
+      "name": "SRBan",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/scoalabritanica/srban/main/logo.png",
+      "tags": [
+        "srb",
+        "srban"
+      ],
+      "extensions": {
+        "website": "https://scoalabritanica.ro"
+      }
     }
   ],
   "version": {
