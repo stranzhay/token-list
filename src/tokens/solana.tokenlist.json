@@ -153480,6 +153480,17 @@
       "name": "HodlVerse Token",
       "decimals": 6,
       "logoURI": "https://github.com/LungTied/assets/blob/main/logo_blue.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "DPHUre2EzbEwpXQ8ratzPTR7oaNWFZDxPoPzjHaqfgbb",
+      "symbol": "LIMP",
+      "name": "LIMP",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DPHUre2EzbEwpXQ8ratzPTR7oaNWFZDxPoPzjHaqfgbb/logolimp.png",
+      "tags": [
+        "NFT"
+      ]
     }
   ],
   "version": {
