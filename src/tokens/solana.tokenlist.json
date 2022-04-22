@@ -153645,6 +153645,20 @@
       "extensions": {
         "website": "https://twitter.com/PICASOAPES"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "yPAhSbua2wEWLtRR2nyxV1xsXogx41JUV3kPmJ9NNxW",
+      "symbol": "y-USTv2-3Pool",
+      "name": "Yield Mercurial LP Token (USTv2-3Pool)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yPAhSbua2wEWLtRR2nyxV1xsXogx41JUV3kPmJ9NNxW/logo.svg",
+      "tags": [
+        "yield-token"
+      ],
+      "extensions": {
+        "website": "https://bunnyducky.com/"
+      }
     }
   ],
   "version": {
