@@ -153679,6 +153679,40 @@
         "website": "https://thesasn.com/",
         "youtube": "https://www.youtube.com/user/catchphrayse"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8pmrtk2L3hnrF83FKx746VnG28Be9zxTphxa7VFabTjc",
+      "symbol": "FLOAT",
+      "name": "Float",
+      "decimals": 1,
+      "logoURI": "https://bafybeidcqhtql7u6ppdgttwrx2e2qhb64mrvhqyilgks43msuhaisz3juu.ipfs.dweb.link/?ext=png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7sBZAuUP",
+        "twitter": "https://twitter.com/FloatingApesNFT",
+        "website": "https://floatingapesnft.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9RNdhLncFBD9E8gX6JyZh6QoxBzqfeivMyBacu42omH8",
+      "symbol": "D3D",
+      "name": "D3D",
+      "decimals": 0,
+      "logoURI": "https://bafkreidhiegzjjqnikoevl4fbuuocdrnvmxyy2bnnoeoha6kwykhgscuwm.ipfs.dweb.link/?ext=png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7sBZAuUP",
+        "twitter": "https://twitter.com/DeadRejcts",
+        "website": "https://discord.gg/deadrejects"
+      }
     }
   ],
   "version": {
