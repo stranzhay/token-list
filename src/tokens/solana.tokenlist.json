@@ -153631,6 +153631,20 @@
       "extensions": {
         "website": "https://www.bitcode.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3bMghewsbjApquGDRJNRs6J9eqVxiZgc4PZq2CY6Smoq",
+      "symbol": "$PICASO",
+      "name": "PICASO COIN",
+      "decimals": 6,
+      "logoURI": "https://github.com/boosbasement/metaboss/blob/main/Abstract%20Art%20Framed%20Art%20Print.png?raw=true",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/PICASOAPES"
+      }
     }
   ],
   "version": {
