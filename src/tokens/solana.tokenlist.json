@@ -153823,6 +153823,39 @@
       "tags": [
         "Social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8zTUiMnMUFeSEV5iZjmY4v8TZTj5fw9Hx7ex9XEZULWC",
+      "symbol": "FIT",
+      "name": "Fit Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8zTUiMnMUFeSEV5iZjmY4v8TZTj5fw9Hx7ex9XEZULWC/logo.png",
+      "tags": [
+        "utility-token",
+        "fitness-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/fitroomnft",
+        "website": "https://www.fitroomproject.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BAaN4r6pPHNLhm5t5FssMLpcnYFz9MpxUBc1gVox4jRF",
+      "symbol": "SHADE",
+      "name": "SHADES",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BAaN4r6pPHNLhm5t5FssMLpcnYFz9MpxUBc1gVox4jRF/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/Y72V9wn3Yw",
+        "reddit": "https://www.reddit.com/r/AikoNFT/",
+        "twitter": "https://twitter.com/aikonft",
+        "website": "https://aiko.io/"
+      }
     }
   ],
   "version": {
