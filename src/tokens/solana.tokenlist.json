@@ -153726,6 +153726,25 @@
         "twitter": "https://twitter.com/lanaprotocol",
         "website": "https://lanafi.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3uJmmABv4B2W7Qih1DdjrzvtdAbkuishC7vqq3UN2X1h",
+      "symbol": "uHOD",
+      "name": "HOD Utility Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/hodrbrth/assets/main/hodjpg.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "The utility token for House of Dracula NFT Project. Use this token to benefit from the entire HOD ecosystem.",
+        "discord": "https://discord.gg/nYaH78mm",
+        "instagram": "https://www.instagram.com/wearehod",
+        "twitter": "https://twitter.com/wearehod",
+        "website": "https://houseofdracula.io/"
+      }
     }
   ],
   "version": {
