@@ -153713,6 +153713,19 @@
         "twitter": "https://twitter.com/DeadRejcts",
         "website": "https://discord.gg/deadrejects"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2QQSvZYmMRBvqmJXWeSBNhDvRWQ6b4PgB5cYhVkE1xjt",
+      "symbol": "LANA-SOL",
+      "name": "LANA SOL LP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dev8x/token-list/main/assets/mainnet/2QQSvZYmMRBvqmJXWeSBNhDvRWQ6b4PgB5cYhVkE1xjt/icon.png",
+      "extensions": {
+        "medium": "https://lanafinance.medium.com/",
+        "twitter": "https://twitter.com/lanaprotocol",
+        "website": "https://lanafi.app/"
+      }
     }
   ],
   "version": {
