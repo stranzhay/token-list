@@ -153790,6 +153790,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "6kkSMsndFkxvGLMbmDXrA2rcEgyaipQwQM5mpCCK1hAa",
+      "symbol": "Sb",
+      "name": "Shaaban",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/abeddshaban/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
