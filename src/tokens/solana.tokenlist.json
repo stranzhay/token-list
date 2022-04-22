@@ -153616,6 +153616,35 @@
       "extensions": {
         "website": "https://kineticpay.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BCAph72Lo4kGuF5LnN2KMy5BGwe97eyWkbYZX44AsVeG",
+      "symbol": "BCA",
+      "name": "BitcodeArt Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BCAph72Lo4kGuF5LnN2KMy5BGwe97eyWkbYZX44AsVeG/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.bitcode.art"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3bMghewsbjApquGDRJNRs6J9eqVxiZgc4PZq2CY6Smoq",
+      "symbol": "$PICASO",
+      "name": "PICASO COIN",
+      "decimals": 6,
+      "logoURI": "https://github.com/boosbasement/metaboss/blob/main/Abstract%20Art%20Framed%20Art%20Print.png?raw=true",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/PICASOAPES"
+      }
     }
   ],
   "version": {
