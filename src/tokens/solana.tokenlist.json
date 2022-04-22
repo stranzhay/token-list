@@ -153574,6 +153574,20 @@
       "extensions": {
         "twitter": "https://twitter.com/Cheetahs_Cartel"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EDkC5pB4TWNL2dcpBFfGpKuJTYzhAPvhrMyXgRnyKFT8",
+      "symbol": "SDRAW",
+      "name": "SolDragon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EDkC5pB4TWNL2dcpBFfGpKuJTYzhAPvhrMyXgRnyKFT8/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://dragonwar.io"
+      }
     }
   ],
   "version": {
