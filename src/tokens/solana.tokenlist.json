@@ -153812,6 +153812,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5ade7tniH92hsvySFFTCLMoDLj1BXndWtwMmqAJVFdmp",
+      "symbol": "soI",
+      "name": "soIana",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Solofuu/sol-project/main/sol%20logo.png",
+      "tags": [
+        "Social-token"
+      ]
     }
   ],
   "version": {
