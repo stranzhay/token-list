@@ -153779,6 +153779,17 @@
         "gaming-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6kkSMsndFkxvGLMbmDXrA2rcEgyaipQwQM5mpCCK1hAa",
+      "symbol": "SB",
+      "name": "Shaaban",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/abeddshaban/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
