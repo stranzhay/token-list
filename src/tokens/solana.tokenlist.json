@@ -153823,6 +153823,22 @@
       "tags": [
         "Social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8zTUiMnMUFeSEV5iZjmY4v8TZTj5fw9Hx7ex9XEZULWC",
+      "symbol": "FIT",
+      "name": "Fit Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8zTUiMnMUFeSEV5iZjmY4v8TZTj5fw9Hx7ex9XEZULWC/logo.png",
+      "tags": [
+        "utility-token",
+        "fitness-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/fitroomnft",
+        "website": "https://www.fitroomproject.io/"
+      }
     }
   ],
   "version": {
