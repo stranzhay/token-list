@@ -153560,6 +153560,34 @@
         "website": "https://www.metaarttoken.info/",
         "whitepaper": "https://metaart.network/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BEDKeYwngxh6ii8zJPJGkGEqE5ocMYtgqy5RYYoxGfDE",
+      "symbol": "CCART",
+      "name": "CHEETAHS CARTEL",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEDKeYwngxh6ii8zJPJGkGEqE5ocMYtgqy5RYYoxGfDE/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Cheetahs_Cartel"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EDkC5pB4TWNL2dcpBFfGpKuJTYzhAPvhrMyXgRnyKFT8",
+      "symbol": "SDRAW",
+      "name": "SolDragon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EDkC5pB4TWNL2dcpBFfGpKuJTYzhAPvhrMyXgRnyKFT8/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://dragonwar.io"
+      }
     }
   ],
   "version": {
