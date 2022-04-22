@@ -153745,6 +153745,17 @@
         "twitter": "https://twitter.com/wearehod",
         "website": "https://houseofdracula.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3ht2fqucXTo2MxSYf4ynFk38czcacMz8enk3NQBS9QsE",
+      "symbol": "END",
+      "name": "Coinecny",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/PepeUltim/pepe2/main/coinecny.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
