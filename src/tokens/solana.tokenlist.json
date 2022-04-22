@@ -153560,6 +153560,20 @@
         "website": "https://www.metaarttoken.info/",
         "whitepaper": "https://metaart.network/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BEDKeYwngxh6ii8zJPJGkGEqE5ocMYtgqy5RYYoxGfDE",
+      "symbol": "CCART",
+      "name": "CHEETAHS CARTEL",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEDKeYwngxh6ii8zJPJGkGEqE5ocMYtgqy5RYYoxGfDE/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Cheetahs_Cartel"
+      }
     }
   ],
   "version": {
