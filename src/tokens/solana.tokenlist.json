@@ -153588,6 +153588,20 @@
       "extensions": {
         "website": "https://dragonwar.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4hDLn4g4b3NvBzN33nfiHf6W7uX3rfDqkyPt3v4atgbs",
+      "symbol": "WFE",
+      "name": "Wolfee coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Gorillad/crypto/main/wolfee-logo.png",
+      "tags": [
+        "social-token",
+        "XO-token",
+        "community-token",
+        "metaverse"
+      ]
     }
   ],
   "version": {
