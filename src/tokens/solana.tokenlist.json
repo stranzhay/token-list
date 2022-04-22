@@ -153801,6 +153801,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "31GHSSaLHJyUVXzXFLe9GrZYBVeamW81Jgvibz2LkvgC",
+      "symbol": "P2PCO",
+      "name": "Peer2Peer Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/robbescobedo/P2PCOIN-DEV/main/P2PCOIN.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
