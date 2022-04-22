@@ -153659,6 +153659,26 @@
       "extensions": {
         "website": "https://bunnyducky.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CyWGk1hWVQsGmDt3Na5MyNcWaEDh6MSkTCvAdA5h1Ke8",
+      "symbol": "SaSN",
+      "name": "SaSN Coin",
+      "decimals": 9,
+      "logoURI": "https://seth.kitchen/images/sasn.png",
+      "tags": [
+        "social-token",
+        "metaverse",
+        "game-token",
+        "payment-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/MarquettDavon",
+        "instagram": "https://www.instagram.com/marquettdavon/?hl=en",
+        "website": "https://thesasn.com/",
+        "youtube": "https://www.youtube.com/user/catchphrayse"
+      }
     }
   ],
   "version": {
