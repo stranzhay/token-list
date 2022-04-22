@@ -153491,6 +153491,24 @@
       "tags": [
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Lionf78kvavZVYrxrTvhkVaAsUPukxxaRa1PSUzVr4Q",
+      "symbol": "LPC",
+      "name": "Lion Pride Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Lionf78kvavZVYrxrTvhkVaAsUPukxxaRa1PSUzVr4Q/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://t.co/te0ypLTUGO",
+        "medium": "https://medium.com/@lionprideclub",
+        "telegram": "https://t.me/LionPrideClub",
+        "twitter": "https://twitter.com/LionPrideClub",
+        "website": "https://lionprideclub.io/"
+      }
     }
   ],
   "version": {
