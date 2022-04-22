@@ -153520,6 +153520,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CzJ1VW76gnBzgYrNhcz5CRN8PcUEV3vSDixoxWsz4PNL",
+      "symbol": "WIPS",
+      "name": "WIP INTL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/wipintl/Tokens22/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
