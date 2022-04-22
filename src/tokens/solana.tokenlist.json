@@ -153645,6 +153645,74 @@
       "extensions": {
         "website": "https://twitter.com/PICASOAPES"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "yPAhSbua2wEWLtRR2nyxV1xsXogx41JUV3kPmJ9NNxW",
+      "symbol": "y-USTv2-3Pool",
+      "name": "Yield Mercurial LP Token (USTv2-3Pool)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yPAhSbua2wEWLtRR2nyxV1xsXogx41JUV3kPmJ9NNxW/logo.svg",
+      "tags": [
+        "yield-token"
+      ],
+      "extensions": {
+        "website": "https://bunnyducky.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CyWGk1hWVQsGmDt3Na5MyNcWaEDh6MSkTCvAdA5h1Ke8",
+      "symbol": "SaSN",
+      "name": "SaSN Coin",
+      "decimals": 9,
+      "logoURI": "https://seth.kitchen/images/sasn.png",
+      "tags": [
+        "social-token",
+        "metaverse",
+        "game-token",
+        "payment-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/MarquettDavon",
+        "instagram": "https://www.instagram.com/marquettdavon/?hl=en",
+        "website": "https://thesasn.com/",
+        "youtube": "https://www.youtube.com/user/catchphrayse"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8pmrtk2L3hnrF83FKx746VnG28Be9zxTphxa7VFabTjc",
+      "symbol": "FLOAT",
+      "name": "Float",
+      "decimals": 1,
+      "logoURI": "https://bafybeidcqhtql7u6ppdgttwrx2e2qhb64mrvhqyilgks43msuhaisz3juu.ipfs.dweb.link/?ext=png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7sBZAuUP",
+        "twitter": "https://twitter.com/FloatingApesNFT",
+        "website": "https://floatingapesnft.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9RNdhLncFBD9E8gX6JyZh6QoxBzqfeivMyBacu42omH8",
+      "symbol": "D3D",
+      "name": "D3D",
+      "decimals": 0,
+      "logoURI": "https://bafkreidhiegzjjqnikoevl4fbuuocdrnvmxyy2bnnoeoha6kwykhgscuwm.ipfs.dweb.link/?ext=png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7sBZAuUP",
+        "twitter": "https://twitter.com/DeadRejcts",
+        "website": "https://discord.gg/deadrejects"
+      }
     }
   ],
   "version": {
