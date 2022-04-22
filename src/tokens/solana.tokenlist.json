@@ -153756,6 +153756,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EHzG5r13iUB1AAYgBZUsqr6wrsgN9Ukt4ti6kiZsYLqk",
+      "symbol": "QDRO",
+      "name": "Quadro",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/thaguss/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
