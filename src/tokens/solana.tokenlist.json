@@ -153767,6 +153767,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4Up16GyRmybEEDfaCsDszkzkvtWgoKDtS4cUyBEjvPBM",
+      "symbol": "VAULT",
+      "name": "Vandal City Vault",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4Up16GyRmybEEDfaCsDszkzkvtWgoKDtS4cUyBEjvPBM/logo.png",
+      "tags": [
+        "gaming-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
