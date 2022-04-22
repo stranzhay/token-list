@@ -153542,6 +153542,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "92Xve6K3BJc1nr571MTPmyXdn18GuBqY95Wvnb1PsKG5",
+      "symbol": "MART",
+      "name": "MetaArt",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/92Xve6K3BJc1nr571MTPmyXdn18GuBqY95Wvnb1PsKG5/logo.png",
+      "tags": [
+        "MetaArt"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/metaarttoken",
+        "telegram": "https://t.me/metaartglobal",
+        "twitter": "https://twitter.com/metaartoffici",
+        "website": "https://www.metaarttoken.info/",
+        "whitepaper": "https://metaart.network/whitepaper.pdf"
+      }
     }
   ],
   "version": {
