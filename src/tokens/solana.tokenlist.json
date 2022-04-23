@@ -154109,6 +154109,19 @@
       "name": "Chicken Diddle WL Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HCP8hGKS6fUGfTA1tQxBKzbXuQk7yktzz71pY8LXVJyR/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "E85VGYoRTojo2tYvoCqEtKUTr16Xcm6DbxcooK1T4mwJ",
+      "symbol": "ST",
+      "name": "Solmon Trainer Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jwurrow/solmon/a715cead035d9182efe018ff11827ccec4fc7dd1/solmon-token.png",
+      "extensions": {
+        "description": "Solmon Trainer Whitelist Token",
+        "imageUrl": "https://raw.githubusercontent.com/jwurrow/solmon/a715cead035d9182efe018ff11827ccec4fc7dd1/solmon-token.png",
+        "website": "https://solmon.game/"
+      }
     }
   ],
   "version": {
