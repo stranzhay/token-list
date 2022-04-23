@@ -154007,6 +154007,32 @@
         "twitter": "https://twitter.com/silicatoken",
         "website": "http://www.silicatoken.tech"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "hsySZyND6UyLm748LDcWG7SLDzyTpgF4jpFnZdMwPXh",
+      "symbol": "BVLL-G-OG",
+      "name": "BVLL-G OG Mint Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/noFAYZ/bvll-g/main/public/bvllgog.png",
+      "extensions": {
+        "description": "BVLL-G OG Mint Pass",
+        "imageUrl": "https://raw.githubusercontent.com/noFAYZ/bvll-g/main/public/bvllgog.png",
+        "website": "https://bvll-g.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "B2K7et7RDYjpuaYFcspBYxbnWP7C3v85cQif7ZsntVtz",
+      "symbol": "BVLL-G-WL",
+      "name": "BVLL-G WL Mint Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/noFAYZ/bvll-g/main/public/bvllgwl.png",
+      "extensions": {
+        "description": "BVLL-G WL Mint Pass",
+        "imageUrl": "https://raw.githubusercontent.com/noFAYZ/bvll-g/main/public/bvllgwl.png",
+        "website": "https://bvll-g.com/"
+      }
     }
   ],
   "version": {
