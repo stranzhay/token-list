@@ -154033,6 +154033,39 @@
         "imageUrl": "https://raw.githubusercontent.com/noFAYZ/bvll-g/main/public/bvllgwl.png",
         "website": "https://bvll-g.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7utH6rGUdnuji8mMmRQxqysYyzTAH7bbL11Abzpon3s1",
+      "symbol": "UB",
+      "name": "UB WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7utH6rGUdnuji8mMmRQxqysYyzTAH7bbL11Abzpon3s1/logo.png",
+      "tags": [
+        "WL-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8Z7AmnrU8LXpjPj81Ge4hSAB58cG7EAEpNiHv5sNPXBb",
+      "symbol": "PANDASK",
+      "name": "PandaSk-Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Panda36987/PNG/main/dddweewe.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GJ6pXFziLYZXQoEfuhMsemvBYwYi8BbDwBV41gHGPtaF",
+      "symbol": "CHRS",
+      "name": "Chriscoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/vekioschristos/coin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
