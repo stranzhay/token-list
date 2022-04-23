@@ -905,7 +905,7 @@
       "symbol": "$ASS",
       "name": "Ass Coin",
       "decimals": 9,
-      "logoURI": "https://static-api-cuazlhxxrq-uk.a.run.app/static/token.png",
+      "logoURI": "https://raw.githubusercontent.com/daddydonke/gem-farm-ui/main/public/images/icon.png",
       "tags": [
         "MEMES-TOKEN",
         "NFTS",
