@@ -153902,6 +153902,19 @@
         "twitter": "https://twitter.com/solhellcats",
         "website": "https://www.solhellcats.com/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "7nQYf1SWiWzdyb3yBX9zab9faCqtPQojka7Qu7YARiBn",
+      "symbol": "OUTO",
+      "name": "Outcast Otter Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7nQYf1SWiWzdyb3yBX9zab9faCqtPQojka7Qu7YARiBn/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/jQECYpurkm",
+        "twitter": "https://twitter.com/outcastotters",
+        "website": "https://outcastotters.com"
+      }
     }
   ],
   "version": {
