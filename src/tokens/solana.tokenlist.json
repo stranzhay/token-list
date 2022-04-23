@@ -153915,6 +153915,33 @@
         "twitter": "https://twitter.com/outcastotters",
         "website": "https://outcastotters.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CUvVMqXAcyFJnwMhojQ9jmGuWrijGt26HfY7b99dyBeB",
+      "symbol": "FLWRS",
+      "name": "FLWRS Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pablolefleur/flwrsimage/main/flwrs%20logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ANjyHtneJY7ntKwgd9F5Xy2ui3zzn6NYyGEXQzaVzQnK",
+      "symbol": "OCEAN",
+      "name": "Rich Water Reserve Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ANjyHtneJY7ntKwgd9F5Xy2ui3zzn6NYyGEXQzaVzQnK/logo.png",
+      "tags": [
+        "currency",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/RichwaterNFT",
+        "website": "https://www.richwaternft.com/"
+      }
     }
   ],
   "version": {
