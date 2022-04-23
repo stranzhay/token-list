@@ -154066,6 +154066,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FmQ7v2QUqXVVtAXkngBh3Mwx7s3mKT55nQ5Z673dURYS",
+      "symbol": "DARK",
+      "name": "The Dark Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FmQ7v2QUqXVVtAXkngBh3Mwx7s3mKT55nQ5Z673dURYS/logo.png",
+      "tags": [
+        "nfts",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/anonclub",
+        "medium": "https://theanonclub.medium.com/",
+        "twitter": "https://twitter.com/theanonclub",
+        "website": "https://theanonclub.com/"
+      }
     }
   ],
   "version": {
