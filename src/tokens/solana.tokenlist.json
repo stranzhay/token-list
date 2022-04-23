@@ -154185,6 +154185,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "93dbPLEUYm3Res4t9CTRn1GQq9qs24PdZrxonRicpbr2",
+      "symbol": "saSOL",
+      "name": "Saturn Solana",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/93dbPLEUYm3Res4t9CTRn1GQq9qs24PdZrxonRicpbr2/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/FQRfWwJzYR",
+        "twitter": "https://twitter.com/saturnfi_io"
+      }
     }
   ],
   "version": {
