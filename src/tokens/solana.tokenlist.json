@@ -154044,6 +154044,17 @@
       "tags": [
         "WL-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8Z7AmnrU8LXpjPj81Ge4hSAB58cG7EAEpNiHv5sNPXBb",
+      "symbol": "PANDASK",
+      "name": "PandaSk-Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Panda36987/PNG/main/dddweewe.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
