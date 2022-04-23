@@ -154239,6 +154239,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AtPYo7iR8PSVXWAugzFvHpN7K1AG9PTdXwxEnMjZBBxX",
+      "symbol": "DBRB",
+      "name": "Doberbull",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/abdallahbaddi/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
