@@ -154285,6 +154285,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2MrEUc687HeyCZbv8GqszwBD2UPNVnRxiWdqdDrRtGpE",
+      "symbol": "SCTY",
+      "name": "SCARCITY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/hazza24951/SWP_NFT/main/logo.png.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
