@@ -154263,6 +154263,17 @@
         "twitter": "https://twitter.com/magic_mushies",
         "website": "https://magicmushies.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3NXwmG2qpve7EmRBKA1G8T87s8Vj5H62M7Pt5HYRVuKf",
+      "symbol": "omarjjjim",
+      "name": "omarjjjim",
+      "decimals": 2,
+      "logoURI": "https://images.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+      "tags": [
+        "currency"
+      ]
     }
   ],
   "version": {
