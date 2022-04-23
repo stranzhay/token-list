@@ -154250,6 +154250,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "756wgK33gHAZcLAaS6BTx7jkNetVX6WiMcNmcwrwLWCQ",
+      "symbol": "MMWL",
+      "name": "Mythic Mushies WL",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/756wgK33gHAZcLAaS6BTx7jkNetVX6WiMcNmcwrwLWCQ/logo.png",
+      "extensions": {
+        "discord": "http://discord.gg/QT8TX7QDt2",
+        "twitter": "https://twitter.com/magic_mushies",
+        "website": "https://magicmushies.io"
+      }
     }
   ],
   "version": {
