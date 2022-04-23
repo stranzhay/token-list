@@ -153942,6 +153942,22 @@
         "twitter": "https://twitter.com/RichwaterNFT",
         "website": "https://www.richwaternft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BBaUcA9HFb6iJgXBzWn7pi1bptuBMETNXzge2BGti9Ts",
+      "symbol": "RMBLWL",
+      "name": "Rumble Monkeys Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BBaUcA9HFb6iJgXBzWn7pi1bptuBMETNXzge2BGti9Ts/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/RumbleMonkeys",
+        "website": "https://rumblemonkeys.io"
+      }
     }
   ],
   "version": {
