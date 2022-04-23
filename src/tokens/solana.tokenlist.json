@@ -154174,6 +154174,17 @@
         "twitter": "https://twitter.com/Gen3studios",
         "website": "https://gen3.studio"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fb9krWjycVnuxPXo52k5BgHf7tXpG88HsD4aMQB5oXn2",
+      "symbol": "CRNY",
+      "name": "Corny Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jtcordrick1/crypto/main/corn3.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
