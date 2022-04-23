@@ -154055,6 +154055,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GJ6pXFziLYZXQoEfuhMsemvBYwYi8BbDwBV41gHGPtaF",
+      "symbol": "CHRS",
+      "name": "Chriscoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/vekioschristos/coin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
