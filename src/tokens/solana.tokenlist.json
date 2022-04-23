@@ -153915,6 +153915,17 @@
         "twitter": "https://twitter.com/outcastotters",
         "website": "https://outcastotters.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CUvVMqXAcyFJnwMhojQ9jmGuWrijGt26HfY7b99dyBeB",
+      "symbol": "FLWRS",
+      "name": "FLWRS Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pablolefleur/flwrsimage/main/flwrs%20logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
