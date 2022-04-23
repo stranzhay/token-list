@@ -154216,6 +154216,29 @@
         "discord": "https://discord.com/invite/kButrWVqCM",
         "website": "https://wiseree.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8RKSaCnMxeo23Lcu6CdGSg32NE5Rb7ZN7AK2FjbRAG3v",
+      "symbol": "WISEREE",
+      "name": "Wiseree",
+      "decimals": 0,
+      "logoURI": "https://i.imgur.com/Sah8lD1.png",
+      "tags": [
+        "equity-token",
+        "wiseree"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6fzEHmkH42eekd9g6HyNRtMjjzUg7hHfyH2HppNBVeVe",
+      "symbol": "MACTN",
+      "name": "Moon Man Crew",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Nazerath/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
