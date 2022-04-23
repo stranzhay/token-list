@@ -154297,6 +154297,36 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Aj7p7pCarQFvtSVv5gvRGbJ5yddpAajqpHgJmZWboTnD",
+      "symbol": "IMGN",
+      "name": "Imagine Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Aj7p7pCarQFvtSVv5gvRGbJ5yddpAajqpHgJmZWboTnD/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DahlysArt",
+        "website": "https://www.dahlys.art/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3vV1J2ZyxhGpWhNxQoCN9o6kKqTSmvwavnagbbtfn9GC",
+      "symbol": "DRMS",
+      "name": "Dream Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3vV1J2ZyxhGpWhNxQoCN9o6kKqTSmvwavnagbbtfn9GC/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DahlysArt",
+        "website": "https://www.dahlys.art/"
+      }
     }
   ],
   "version": {
