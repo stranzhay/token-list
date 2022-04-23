@@ -154201,6 +154201,21 @@
         "discord": "https://discord.com/invite/FQRfWwJzYR",
         "twitter": "https://twitter.com/saturnfi_io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6mB8su3dqgyw4yZWgWZ43aJwGm8CzLfM8LJAmDHL8cNL",
+      "symbol": "WISER",
+      "name": "Wiseree Coin",
+      "decimals": 9,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/0/01/Wiseree_Coin_%24WISER.png",
+      "tags": [
+        "tokenized-stock"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/kButrWVqCM",
+        "website": "https://wiseree.com"
+      }
     }
   ],
   "version": {
