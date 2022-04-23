@@ -153990,6 +153990,23 @@
         "twitter": "https://twitter.com/ARTIFAKTS_sol",
         "website": "https://www.future-relics.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "45tMkQQo6edS4qaYkSn6u835KE5J11R8xpp8G2VCSwXE",
+      "symbol": "SILT",
+      "name": "SILICA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/GameSlaveSA/crypto/main/silicalogo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/silicatoken",
+        "website": "http://www.silicatoken.tech"
+      }
     }
   ],
   "version": {
