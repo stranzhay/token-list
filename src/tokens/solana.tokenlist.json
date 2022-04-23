@@ -154084,6 +154084,23 @@
         "twitter": "https://twitter.com/theanonclub",
         "website": "https://theanonclub.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CRWkXevcvWpkftaCFWKnxpeoAiBvRJy4vLCAo8sFqxs5",
+      "symbol": "THUGZ",
+      "name": "3D THUGZ WHITELIST TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CRWkXevcvWpkftaCFWKnxpeoAiBvRJy4vLCAo8sFqxs5/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/wK4Sxdjn55",
+        "twitter": "https://twitter.com/3d_thugz",
+        "website": "https://3dthugz.com"
+      }
     }
   ],
   "version": {
