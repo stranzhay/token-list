@@ -154122,6 +154122,42 @@
         "imageUrl": "https://raw.githubusercontent.com/jwurrow/solmon/a715cead035d9182efe018ff11827ccec4fc7dd1/solmon-token.png",
         "website": "https://solmon.game/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FGWLpx2iQntuhYcLfECbJcDDpQ6LW2feHJA7ZYv3F244",
+      "symbol": "FGWL",
+      "name": "Float Goat Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FGWLpx2iQntuhYcLfECbJcDDpQ6LW2feHJA7ZYv3F244/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "TFTY9zFrum5FkJ63WqJFFSti7mAXyMSNvodx1xnHL1H",
+      "symbol": "TFWL",
+      "name": "Top Floater Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FGWLpx2iQntuhYcLfECbJcDDpQ6LW2feHJA7ZYv3F244/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "SFTZFZd9t4uCmRqdDL3WY248Bbdkdgv5Q6PUHc9bPNC",
+      "symbol": "SFWL",
+      "name": "Sky Floater Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FGWLpx2iQntuhYcLfECbJcDDpQ6LW2feHJA7ZYv3F244/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
