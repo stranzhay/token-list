@@ -154158,6 +154158,64 @@
         "whitelist-token",
         "nfts"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GEN3cWvZvGphDWGe534R7bgttgHiZ4TbZ9EUBLgEo6EG",
+      "symbol": "GEN3MINT",
+      "name": "Gen3 Studios Mint Token",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/_Q3yzSqPrGlAS6Jr3f5L-y3w9nLm66_0ru8kVXNUYnY",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/haK4f52h",
+        "twitter": "https://twitter.com/Gen3studios",
+        "website": "https://gen3.studio"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Fb9krWjycVnuxPXo52k5BgHf7tXpG88HsD4aMQB5oXn2",
+      "symbol": "CRNY",
+      "name": "Corny Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jtcordrick1/crypto/main/corn3.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "93dbPLEUYm3Res4t9CTRn1GQq9qs24PdZrxonRicpbr2",
+      "symbol": "saSOL",
+      "name": "Saturn Solana",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/93dbPLEUYm3Res4t9CTRn1GQq9qs24PdZrxonRicpbr2/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/FQRfWwJzYR",
+        "twitter": "https://twitter.com/saturnfi_io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6mB8su3dqgyw4yZWgWZ43aJwGm8CzLfM8LJAmDHL8cNL",
+      "symbol": "WISER",
+      "name": "Wiseree Coin",
+      "decimals": 9,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/0/01/Wiseree_Coin_%24WISER.png",
+      "tags": [
+        "tokenized-stock"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/kButrWVqCM",
+        "website": "https://wiseree.com"
+      }
     }
   ],
   "version": {
