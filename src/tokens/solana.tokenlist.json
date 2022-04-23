@@ -153856,6 +153856,52 @@
         "twitter": "https://twitter.com/aikonft",
         "website": "https://aiko.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HYb8vNQmJxbwcW6vwM6b5pk54uqC3z2VyhvkF6SUJLuE",
+      "symbol": "BWL",
+      "name": "Bandit Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HYb8vNQmJxbwcW6vwM6b5pk54uqC3z2VyhvkF6SUJLuE/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "TooaT4kKfpGQ7bD9NsZhEU81qDXoAn2GzqBLyaGY1e8",
+      "symbol": "WLHELLCATS",
+      "name": "SOLHELLCATS Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TooaT4kKfpGQ7bD9NsZhEU81qDXoAn2GzqBLyaGY1e8/logo.png",
+      "tags": [
+        "utility-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Fpb5Z3rEkN",
+        "twitter": "https://twitter.com/solhellcats",
+        "website": "https://www.solhellcats.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Bdx9ATvoc2xnieDPRyeCcxpxNsk9fFUUwixhN4rmH6Lo",
+      "symbol": "HELL",
+      "name": "HELL Protocol Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bdx9ATvoc2xnieDPRyeCcxpxNsk9fFUUwixhN4rmH6Lo/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "game-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Fpb5Z3rEkN",
+        "twitter": "https://twitter.com/solhellcats",
+        "website": "https://www.solhellcats.com/"
+      }
     }
   ],
   "version": {
