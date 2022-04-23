@@ -154342,6 +154342,17 @@
         "twitter": "https://twitter.com/spacesocietynft",
         "website": "https://thespacesociety.co"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "75KALs9asCxh1nPaNdL75tqBA8gQuP8mx3psemhZUavG",
+      "symbol": "MPT",
+      "name": "Mortal Powers Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MortalPowers/MP_Token/main/MortalPowers-Final-Sm.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
