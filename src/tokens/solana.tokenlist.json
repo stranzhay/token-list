@@ -154818,6 +154818,20 @@
         "tulip",
         "staking"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3DGWuX6nnGmza9Xk6GuXQnUEFRcXmc9y9NYndB96RpHW",
+      "symbol": "SUS",
+      "name": "Impostor",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3DGWuX6nnGmza9Xk6GuXQnUEFRcXmc9y9NYndB96RpHW/logo.png",
+      "tags": [
+        "currency",
+        "utility-token",
+        "meme-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
