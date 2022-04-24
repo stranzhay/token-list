@@ -154777,6 +154777,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2qayh5Qc3BBR91KA6CemKN7vmzmexRJJw2KWFPzn53Uw",
+      "symbol": "BELL",
+      "name": "BELL",
+      "decimals": 6,
+      "logoURI": "https://cdn.discordapp.com/attachments/928110149388869684/967531744741957632/bell_282.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
