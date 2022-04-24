@@ -154805,6 +154805,19 @@
       "extensions": {
         "website": "https://biznessmennft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "STuLiPmUCUtG1hQcwdc9de9sjYhVsYoucCiWqbApbpM",
+      "symbol": "sTulip",
+      "name": "Staked Tulip",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/164987734-11c00b2e-07d7-47ce-8441-63b063ec8bb2.png",
+      "tags": [
+        "solfarm",
+        "tulip",
+        "staking"
+      ]
     }
   ],
   "version": {
