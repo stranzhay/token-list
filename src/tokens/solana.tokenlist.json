@@ -154487,6 +154487,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D4L61nbUsaNngn5rYfAQAhV7QasffCcoKqQitbMyNMtB",
+      "symbol": "RCWL",
+      "name": "Royal Crows WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D4L61nbUsaNngn5rYfAQAhV7QasffCcoKqQitbMyNMtB/rc.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "description": "Royal Crows WL is a whitelist token for RC candy machine."
+      }
     }
   ],
   "version": {
