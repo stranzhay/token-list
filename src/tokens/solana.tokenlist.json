@@ -154754,6 +154754,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Fh7ZuBQzTP84y3kyjyBnNivJq7LzZkPJRbUkJaMPQxHg",
+      "symbol": "RZPP",
+      "name": "Rzeczpospolita Polska",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fh7ZuBQzTP84y3kyjyBnNivJq7LzZkPJRbUkJaMPQxHg/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
