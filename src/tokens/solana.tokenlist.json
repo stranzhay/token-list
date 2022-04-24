@@ -154551,6 +154551,17 @@
         "discord": "https://discord.com/invite/kButrWVqCM",
         "website": "https://wiseree.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "ToxQEMzPrMFg6EbreSkzP76kVq3QtHbiiYJ9QkpMYjn",
+      "symbol": "BT",
+      "name": "Brownie Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToxQEMzPrMFg6EbreSkzP76kVq3QtHbiiYJ9QkpMYjn/tokb.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
