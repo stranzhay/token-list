@@ -154654,6 +154654,17 @@
         "twitter": "https://twitter.com/SolminatorNFT",
         "website": "https://www.solminator.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7BaHC9YUWRGqa7BSq3pBMJZSaATaNQRDt7q7AFPbrjcj",
+      "symbol": "CHLO",
+      "name": "ClorofilaCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/marianelo-crypto/ClorofilaCoin/principal/logo_ClorofilaCoin_CHLO.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
