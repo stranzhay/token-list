@@ -154845,6 +154845,20 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "49hmSAZ8oqf2u4QQ31qUAk6PHqvMsCBt27zFSx6CsY1w",
+      "symbol": "LPROT",
+      "name": "Lucky clover Protocol",
+      "decimals": 9,
+      "logoURI": "https://yourimageshare.com/ib/6AJLQG2VvZ",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/clover_finance"
+      }
     }
   ],
   "version": {
