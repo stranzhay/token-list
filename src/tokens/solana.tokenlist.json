@@ -154425,6 +154425,57 @@
         "twitter": "https://twitter.com/spacesocietynft",
         "website": "https://thespacesociety.co"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "kUNGFUYSTn7c6S7nUjTYsKiyTQ4FVf3cPnwW5zzeaLg",
+      "symbol": "KFWT",
+      "name": "Kungfu Warriors Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Ashtar-Global-Solutions/spl-tokens/main/kfw/kfwt-icon.GIF",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/3NRuj7xktT",
+        "instagram": "https://www.instagram.com/KungFuWarriors",
+        "twitter": "https://twitter.com/KungFuWarriors",
+        "website": "https://kungfuwarriors.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "MiLKR8QYixQxp5wDXwfC8fLVH4AiAyb3X9YpAcXvtWe",
+      "symbol": "KLIM",
+      "name": "WiseCats Milk",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Ashtar-Global-Solutions/spl-tokens/main/wisecats/milk-icon.png",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wisecats",
+        "instagram": "https://www.instagram.com/wisecatsnft",
+        "twitter": "https://twitter.com/WiseCatsNFT",
+        "website": "https://www.wisecatsnft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DBRL2h748M2DgvfFoWSZhnBCakGWUbY2Z3NzghQcFt3R",
+      "symbol": "$BUDZ",
+      "name": "BUDZ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Ashtar-Global-Solutions/spl-tokens/main/KryptoKronikz/budz-icon.png",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/krypto-kronikz",
+        "instagram": "https://www.instagram.com/kryptokronikz",
+        "twitter": "https://twitter.com/KryptoKronikz",
+        "website": "https://www.kryptokronikz.co.uk/"
+      }
     }
   ],
   "version": {
