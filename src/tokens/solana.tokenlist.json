@@ -154353,6 +154353,78 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3yNEo7jmJPPCr5mtHotYAyxdaVJpJS1Jqw9E52dgobu3",
+      "symbol": "SGM",
+      "name": "SOLGEM",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3yNEo7jmJPPCr5mtHotYAyxdaVJpJS1Jqw9E52dgobu3/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Solg3m",
+        "website": "https://solgem.finance/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "JoZoiu7Mxr8P4exP7zcfp5GKg3vv3w3z9q5gpLZ2Jkz",
+      "symbol": "JOZO",
+      "name": "JOZO GATORS WL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JoZoiu7Mxr8P4exP7zcfp5GKg3vv3w3z9q5gpLZ2Jkz/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/JozoGators"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "xkqjobmo1kUgN4P7jcsWe5ud657oA3co4PnwKoQKG12",
+      "symbol": "$DRAY",
+      "name": "DRAY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/benpazzo/dray/main/assets/draytoken.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Draygon is DAO and Alpha NFT project. ",
+        "discord": "http://discord.gg/draygonco",
+        "twitter": "https://twitter.com/DraygonCo",
+        "website": "https://draygoninvestment.co/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "519W6ZZnduudeo6tp1YMgeWiNFeoq4kTVS4uMZggKE5r",
+      "symbol": "KLGT",
+      "name": "Kleyne Gelt",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/klglt/Crypto/main/menorah.png",
+      "tags": [
+        "currency"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7KUcrx2aNjF9H6eLVKCkeYqou7d6KddSTJEM3TCJQPwJ",
+      "symbol": "TUNAt",
+      "name": "TUNA-test",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/hydrated-seal/tunaimage/main/tuna.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/spacesocietynft",
+        "website": "https://thespacesociety.co"
+      }
     }
   ],
   "version": {
