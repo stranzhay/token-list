@@ -154859,6 +154859,20 @@
       "extensions": {
         "website": "https://twitter.com/clover_finance"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5grpAJejHkwUaSRedSUw4vWerFGpgtc4gjVxu8GxuVRe",
+      "symbol": "HOM3",
+      "name": "Hom3 Protocol",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/H2bm0z1/Untitled-design-1.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/hom3/"
+      }
     }
   ],
   "version": {
