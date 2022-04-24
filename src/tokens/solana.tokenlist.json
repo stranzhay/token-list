@@ -154523,6 +154523,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4gvGHL1mtEBWd1YJUNBJBJJFF9EsGesq1DsKwJXb8QEp",
+      "symbol": "RB",
+      "name": "ReluBit",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/relu1000/ReluBit/main/unnamed.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
