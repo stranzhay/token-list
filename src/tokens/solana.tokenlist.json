@@ -154399,6 +154399,17 @@
         "twitter": "https://twitter.com/DraygonCo",
         "website": "https://draygoninvestment.co/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "519W6ZZnduudeo6tp1YMgeWiNFeoq4kTVS4uMZggKE5r",
+      "symbol": "KLGT",
+      "name": "Kleyne Gelt",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/klglt/Crypto/main/menorah.png",
+      "tags": [
+        "currency"
+      ]
     }
   ],
   "version": {
