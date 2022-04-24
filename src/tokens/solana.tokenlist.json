@@ -154624,6 +154624,21 @@
         "whitepaper": "https://gateway.ipfs.io/ipfs/QmdD12pqJHApFrUAbxVs9BwFLhjBtXd5cjZ1fD2YLe3Abs/whitepaper.html",
         "youtube": "https://www.youtube.com/channel/UChQiCa4_Dqg7Htqop5xbV2g"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "7KUcrx2aNjF9H6eLVKCkeYqou7d6KddSTJEM3TCJQPwJ",
+      "symbol": "TUNAt",
+      "name": "TUNA-test",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/hydrated-seal/tunaimage/main/tuna.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/spacesocietynft",
+        "website": "https://thespacesociety.co"
+      }
     }
   ],
   "version": {
