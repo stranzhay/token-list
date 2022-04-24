@@ -154639,6 +154639,43 @@
         "twitter": "https://twitter.com/spacesocietynft",
         "website": "https://thespacesociety.co"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "87rSGrpYdmTxfNBf8o2cpyiNcxCmNhUPBXjT8aoyfob5",
+      "symbol": "ENX",
+      "name": "Equinox",
+      "decimals": 9,
+      "logoURI": "https://ixrjpmbgkspkjaueqzmyhb3fbca5atffgsrqyt527d2x3ycdlgqq.arweave.net/ReKXsCZUnqSChIZZg4dlCIHQTKU0owxPuvj1feBDWaE",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolminatorNFT",
+        "website": "https://www.solminator.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7BaHC9YUWRGqa7BSq3pBMJZSaATaNQRDt7q7AFPbrjcj",
+      "symbol": "CHLO",
+      "name": "ClorofilaCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/marianelo-crypto/ClorofilaCoin/principal/logo_ClorofilaCoin_CHLO.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9H4reH91YZb7Mp7rBGkvzqdgTxHmr56w3ywW5E3nqghN",
+      "symbol": "HMOD",
+      "name": "Hairmod",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/bteberci/crypto/main/hairmodlogo.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
