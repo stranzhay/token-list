@@ -154687,6 +154687,17 @@
       "tags": [
         "BPT-Invest"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3xjxZZxht4HL3SxSDMgMiHckMe7prj9xfCq62RCgiLzA",
+      "symbol": "JNDN",
+      "name": "JUNDAN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/kingsirc9891/jundan/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
