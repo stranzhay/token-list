@@ -154639,6 +154639,21 @@
         "twitter": "https://twitter.com/spacesocietynft",
         "website": "https://thespacesociety.co"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "87rSGrpYdmTxfNBf8o2cpyiNcxCmNhUPBXjT8aoyfob5",
+      "symbol": "ENX",
+      "name": "Equinox",
+      "decimals": 9,
+      "logoURI": "https://ixrjpmbgkspkjaueqzmyhb3fbca5atffgsrqyt527d2x3ycdlgqq.arweave.net/ReKXsCZUnqSChIZZg4dlCIHQTKU0owxPuvj1feBDWaE",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolminatorNFT",
+        "website": "https://www.solminator.com/"
+      }
     }
   ],
   "version": {
