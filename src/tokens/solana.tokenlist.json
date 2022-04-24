@@ -154476,6 +154476,17 @@
         "twitter": "https://twitter.com/KryptoKronikz",
         "website": "https://www.kryptokronikz.co.uk/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G5Lxk35xEXLCrp4PRMpymZGBCuTPRNeDRHfEWyj67fK8",
+      "symbol": "PONO",
+      "name": "Pono Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G5Lxk35xEXLCrp4PRMpymZGBCuTPRNeDRHfEWyj67fK8/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
