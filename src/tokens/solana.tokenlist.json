@@ -154368,6 +154368,20 @@
         "twitter": "https://twitter.com/Solg3m",
         "website": "https://solgem.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JoZoiu7Mxr8P4exP7zcfp5GKg3vv3w3z9q5gpLZ2Jkz",
+      "symbol": "JOZO",
+      "name": "JOZO GATORS WL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JoZoiu7Mxr8P4exP7zcfp5GKg3vv3w3z9q5gpLZ2Jkz/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/JozoGators"
+      }
     }
   ],
   "version": {
