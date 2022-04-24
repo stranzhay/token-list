@@ -154832,6 +154832,19 @@
         "meme-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "C9x1Kx6A7GvgKfrLWdcNdpzvUK1XwF71UTErxK5mCJSh",
+      "symbol": "FOLI",
+      "name": "Foli",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C9x1Kx6A7GvgKfrLWdcNdpzvUK1XwF71UTErxK5mCJSh/logo.png",
+      "tags": [
+        "reward-token",
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
