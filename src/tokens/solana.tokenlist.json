@@ -154766,6 +154766,72 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "97eJ4n5UyhDzZX6qvUKgV5tpJnd6xn2ARrARAzk73Nkf",
+      "symbol": "TO$HI",
+      "name": "Toshcoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97eJ4n5UyhDzZX6qvUKgV5tpJnd6xn2ARrARAzk73Nkf/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2qayh5Qc3BBR91KA6CemKN7vmzmexRJJw2KWFPzn53Uw",
+      "symbol": "BELL",
+      "name": "BELL",
+      "decimals": 6,
+      "logoURI": "https://cdn.discordapp.com/attachments/928110149388869684/967531744741957632/bell_282.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "A12U6EVQZghbQGQ8qedttVgtMBQYFqLTzA9HcSVTToJF",
+      "symbol": "BIZ",
+      "name": "Biznessmen",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A12U6EVQZghbQGQ8qedttVgtMBQYFqLTzA9HcSVTToJF/BIZ-Logo.png",
+      "tags": [
+        "game-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://biznessmennft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "STuLiPmUCUtG1hQcwdc9de9sjYhVsYoucCiWqbApbpM",
+      "symbol": "sTulip",
+      "name": "Staked Tulip",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/164987734-11c00b2e-07d7-47ce-8441-63b063ec8bb2.png",
+      "tags": [
+        "solfarm",
+        "tulip",
+        "staking"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3DGWuX6nnGmza9Xk6GuXQnUEFRcXmc9y9NYndB96RpHW",
+      "symbol": "SUS",
+      "name": "Impostor",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3DGWuX6nnGmza9Xk6GuXQnUEFRcXmc9y9NYndB96RpHW/logo.png",
+      "tags": [
+        "currency",
+        "utility-token",
+        "meme-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
