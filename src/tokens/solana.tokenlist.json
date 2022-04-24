@@ -154906,6 +154906,19 @@
       "extensions": {
         "website": "https://c2ocoin.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BqwNZxHDBm3T2DfNbQdMdrkSHp5fb73MovZd7g5MeeFa",
+      "symbol": "ACO",
+      "name": "Air Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/moonfall22/logo/main/aircoin.png",
+      "tags": [
+        "reward-token",
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
