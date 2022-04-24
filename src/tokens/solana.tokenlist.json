@@ -154501,6 +154501,17 @@
       "extensions": {
         "description": "Royal Crows WL is a whitelist token for RC candy machine."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "53PDMXwN8Gv6zq1a8FcqeDRC9quma5RaX9veqWnmFY3p",
+      "symbol": "RYCO",
+      "name": "Rycoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/265866/crypto/main/rycoin.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
