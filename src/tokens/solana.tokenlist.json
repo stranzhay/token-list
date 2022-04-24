@@ -154676,6 +154676,17 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Aw6KrYrZW8KEujVBVRfnGGf3mwfqss2JD3muoZtvBuhR",
+      "symbol": "BPt",
+      "name": "BluePanda",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/pppanda369/tokenP/main/tokenP.png",
+      "tags": [
+        "BPT-Invest"
+      ]
     }
   ],
   "version": {
