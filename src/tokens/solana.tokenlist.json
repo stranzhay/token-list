@@ -154562,6 +154562,68 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "E5d55Pq6SfTHjaLyjrvMb1kdcVeyvifricA9NV1JJtqh",
+      "symbol": "CSAP",
+      "name": "Crypto Seed Accountancy Platform (devnet)",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/michel47/csap/master/assets/csap.svg",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "wrapped",
+        "green-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9EPrkNg8jMNhQQM3bpKt2NJHSKQoNCHuaqDF5o4BPvR9",
+      "symbol": "phxcoin",
+      "name": "PhenomX Coin",
+      "decimals": 5,
+      "logoURI": "https://bafybeice4ze77lnjlrv42d2pyobeccwc6guyfw7absvt7fhfjv5ofgm5pe.ipfs.nftstorage.link/?ext=svg",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "address": "AJBRVyfxgA29CU2aACYe2Dhs41GYgQDPa7cXod394PS7",
+        "blog": "https://www.phenomxhealth.com/blog",
+        "description": "PhenomX Coin is the token that power the phenomX ecosystem",
+        "discord": "https://discord.gg/vwkCmMQv",
+        "imageUrl": "https://gateway.ipfs.io/ipns/QmXdq8c7fUT9Vmo7SkCQG7gPRrZV89L3n5eRdPVnSTG5W7/phxcoin-shinier.svg",
+        "linkedin": "https://linkedin.com/company/phenomxhealth",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://phenomxhealth.com",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmXdq8c7fUT9Vmo7SkCQG7gPRrZV89L3n5eRdPVnSTG5W7/whitepaper.html",
+        "youtube": "https://www.youtube.com/channel/UChQiCa4_Dqg7Htqop5xbV2g"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "PVit7qYXHVt5VExukg9DQgPa2p4QRGfRmU7z8U6e5xq",
+      "symbol": "PVIT",
+      "name": "e-Vitamins",
+      "decimals": 0,
+      "logoURI": "https://ipfs.safewatch.care/ipfs/QmdD12pqJHApFrUAbxVs9BwFLhjBtXd5cjZ1fD2YLe3Abs/vitamins-nft.svg",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "green-token"
+      ],
+      "extensions": {
+        "address": "FsMKihJmPpnDsXBnTfRiH5ciDi2vyS43UheMLNwKqUXs",
+        "blog": "https://www.phenomxhealth.com/blog",
+        "description": "PhenomX Virtual Vitamins",
+        "discord": "https://discord.gg/vwkCmMQv",
+        "imageUrl": "https://gateway.ipfs.io/ipfs/QmdD12pqJHApFrUAbxVs9BwFLhjBtXd5cjZ1fD2YLe3Abs/vitamins-nft.svg",
+        "linkedin": "https://linkedin.com/company/phenomxhealth",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://phenomxhealth.com",
+        "whitepaper": "https://gateway.ipfs.io/ipfs/QmdD12pqJHApFrUAbxVs9BwFLhjBtXd5cjZ1fD2YLe3Abs/whitepaper.html",
+        "youtube": "https://www.youtube.com/channel/UChQiCa4_Dqg7Htqop5xbV2g"
+      }
     }
   ],
   "version": {
