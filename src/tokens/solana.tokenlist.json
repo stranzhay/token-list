@@ -154845,6 +154845,49 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "49hmSAZ8oqf2u4QQ31qUAk6PHqvMsCBt27zFSx6CsY1w",
+      "symbol": "LPROT",
+      "name": "Lucky clover Protocol",
+      "decimals": 9,
+      "logoURI": "https://yourimageshare.com/ib/6AJLQG2VvZ",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/clover_finance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5grpAJejHkwUaSRedSUw4vWerFGpgtc4gjVxu8GxuVRe",
+      "symbol": "HOM3",
+      "name": "Hom3 Protocol",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/H2bm0z1/Untitled-design-1.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/hom3/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7VqabivpX5z9sjd7QjVrGyzQkdrRQFC5jARnBTUQWKjc",
+      "symbol": "CAREIV",
+      "name": "Care IV Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/crcnum4/careiv/main/assets/logo.png",
+      "tags": [
+        "social-token",
+        "DAO-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CliffC_4"
+      }
     }
   ],
   "version": {
