@@ -154789,6 +154789,22 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "A12U6EVQZghbQGQ8qedttVgtMBQYFqLTzA9HcSVTToJF",
+      "symbol": "BIZ",
+      "name": "Biznessmen",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A12U6EVQZghbQGQ8qedttVgtMBQYFqLTzA9HcSVTToJF/BIZ-Logo.png",
+      "tags": [
+        "game-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://biznessmennft.com/"
+      }
     }
   ],
   "version": {
