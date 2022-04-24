@@ -154353,6 +154353,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3yNEo7jmJPPCr5mtHotYAyxdaVJpJS1Jqw9E52dgobu3",
+      "symbol": "SGM",
+      "name": "SOLGEM",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3yNEo7jmJPPCr5mtHotYAyxdaVJpJS1Jqw9E52dgobu3/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Solg3m",
+        "website": "https://solgem.finance/"
+      }
     }
   ],
   "version": {
