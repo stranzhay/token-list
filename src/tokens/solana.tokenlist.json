@@ -154512,6 +154512,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AEzCK6jhPpZgTwoVh3dpQHR8d5sTxnmSvqegbgsxyfTa",
+      "symbol": "APWL",
+      "name": "Alpha Pharaohs Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AEzCK6jhPpZgTwoVh3dpQHR8d5sTxnmSvqegbgsxyfTa/Logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
