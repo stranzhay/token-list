@@ -154730,6 +154730,30 @@
         "website": "https://duckduckgo.com/?q=Virtual+K(h)ash+khash",
         "whitepaper": "https://gateway.ipfs.io/ipfs/QmXbedz6CMuP1CyJFsQ95ZnSepAMbuMVdLbfDFtbszeFk4/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5Ty5cZXX7MrsY9EgFZzJk4dpve8UqXrns8bB8qbaLiFw",
+      "symbol": "DogeThug",
+      "name": "DogeThug",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dogethug/dogethug/main/logo.png",
+      "tags": [
+        "social-token",
+        "meme-coin",
+        "doge"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FhSL8uPeXtfdMiEwSmPh7VBR2dcTj2AUR64aiFJGiYN2",
+      "symbol": "Pulgui",
+      "name": "Pulguita Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/VRES2022/crypto/main/pulgui.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
