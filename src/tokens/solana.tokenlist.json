@@ -154665,6 +154665,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9H4reH91YZb7Mp7rBGkvzqdgTxHmr56w3ywW5E3nqghN",
+      "symbol": "HMOD",
+      "name": "Hairmod",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/bteberci/crypto/main/hairmodlogo.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
