@@ -154523,6 +154523,34 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4gvGHL1mtEBWd1YJUNBJBJJFF9EsGesq1DsKwJXb8QEp",
+      "symbol": "RB",
+      "name": "ReluBit",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/relu1000/ReluBit/main/unnamed.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "63codSeTmtG9BBQmjZdNZiFzWPV3KD8RrNPcXAREvk2F",
+      "symbol": "WISR",
+      "name": "Wiseree Token",
+      "decimals": 9,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/0/01/Wiseree_Coin_%24WISER.png",
+      "tags": [
+        "tokenized-stock",
+        "equity-token",
+        "wiseree"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/kButrWVqCM",
+        "website": "https://wiseree.com"
+      }
     }
   ],
   "version": {
