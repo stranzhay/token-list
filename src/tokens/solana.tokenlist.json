@@ -154382,6 +154382,23 @@
       "extensions": {
         "twitter": "https://twitter.com/JozoGators"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "xkqjobmo1kUgN4P7jcsWe5ud657oA3co4PnwKoQKG12",
+      "symbol": "$DRAY",
+      "name": "DRAY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/benpazzo/dray/main/assets/draytoken.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Draygon is DAO and Alpha NFT project. ",
+        "discord": "http://discord.gg/draygonco",
+        "twitter": "https://twitter.com/DraygonCo",
+        "website": "https://draygoninvestment.co/"
+      }
     }
   ],
   "version": {
