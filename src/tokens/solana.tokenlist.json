@@ -154873,6 +154873,21 @@
       "extensions": {
         "website": "https://twitter.com/hom3/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7VqabivpX5z9sjd7QjVrGyzQkdrRQFC5jARnBTUQWKjc",
+      "symbol": "CAREIV",
+      "name": "Care IV Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/crcnum4/careiv/main/assets/logo.png",
+      "tags": [
+        "social-token",
+        "DAO-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CliffC_4"
+      }
     }
   ],
   "version": {
