@@ -155476,6 +155476,103 @@
         "twitter": "https://twitter.com/CCBNFT",
         "website": "https://www.coolcucumberbash.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CrhMZTJdZMNLvZoNdjZT1SFToT34NYLUf2W2VaMLKQqf",
+      "symbol": "SAY",
+      "name": "Say Network",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SayNetworkOfficial/say-network-token/master/logo.jpg",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Decentralized social media token powering uSay."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8cqc6k5nwoBYJVqGk8dvxyVFHaaGvmUNP5ydpbmASeCZ",
+      "symbol": "FANCY",
+      "name": "Fancy Potatoes",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DaPrince2106/Fancy-PNG/main/0023.png",
+      "tags": [
+        "NFT",
+        "Art",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/FANCY_POTATOES",
+        "website": "https://fancypotatoes.art"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CJ9G8mxRu5jwmtjnCLt4KGCJwKM47GNCTknMUbZXQvN3",
+      "symbol": "MRB",
+      "name": "Mr Breakfast",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CJ9G8mxRu5jwmtjnCLt4KGCJwKM47GNCTknMUbZXQvN3/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/mrbreakfastja",
+        "twitter": "https://twitter.com/mrbreakfastja",
+        "website": "https://www.mrbreakfastja.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "UruquUouaaJ7oo4hUmJ41bk2SXYpQ4PwR9Jnbsk7kHN",
+      "symbol": "WRCK",
+      "name": "White Rock",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UruquUouaaJ7oo4hUmJ41bk2SXYpQ4PwR9Jnbsk7kHN/logo.jpg",
+      "tags": [
+        "tokenomics",
+        "social-network",
+        "new-world-order",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://thetribes.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8zyDKf16k8o3JpJ8A14tZVQdaSvN1mkMVuPSy6Cgjv5C",
+      "symbol": "BRCK",
+      "name": "Black Rock",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8zyDKf16k8o3JpJ8A14tZVQdaSvN1mkMVuPSy6Cgjv5C/logo.jpg",
+      "tags": [
+        "tokenomics",
+        "social-network",
+        "new-world-order",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://thetribes.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7G5sVZBP9322r3DWcTw9pDWz31BicMSP9thKrD55uWp8",
+      "symbol": "CADPT",
+      "name": "Canadian Dollar Partoken",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7G5sVZBP9322r3DWcTw9pDWz31BicMSP9thKrD55uWp8/logo.png",
+      "tags": [
+        "stablecoin",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Canadian Dollar Partoken (CADPT) is a one-for-one Canadian Dollar collateralized stablecoin token.",
+        "website": "https://partokens.com"
+      }
     }
   ],
   "version": {
