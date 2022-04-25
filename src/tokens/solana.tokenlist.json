@@ -155490,6 +155490,23 @@
       "extensions": {
         "description": "Decentralized social media token powering uSay."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8cqc6k5nwoBYJVqGk8dvxyVFHaaGvmUNP5ydpbmASeCZ",
+      "symbol": "FANCY",
+      "name": "Fancy Potatoes",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DaPrince2106/Fancy-PNG/main/0023.png",
+      "tags": [
+        "NFT",
+        "Art",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/FANCY_POTATOES",
+        "website": "https://fancypotatoes.art"
+      }
     }
   ],
   "version": {
