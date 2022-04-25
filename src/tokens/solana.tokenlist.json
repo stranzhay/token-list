@@ -155507,6 +155507,22 @@
         "twitter": "https://twitter.com/FANCY_POTATOES",
         "website": "https://fancypotatoes.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CJ9G8mxRu5jwmtjnCLt4KGCJwKM47GNCTknMUbZXQvN3",
+      "symbol": "MRB",
+      "name": "Mr Breakfast",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CJ9G8mxRu5jwmtjnCLt4KGCJwKM47GNCTknMUbZXQvN3/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/mrbreakfastja",
+        "twitter": "https://twitter.com/mrbreakfastja",
+        "website": "https://www.mrbreakfastja.com/"
+      }
     }
   ],
   "version": {
