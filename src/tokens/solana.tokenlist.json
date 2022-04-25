@@ -155307,6 +155307,17 @@
         "twitter": "https://twitter.com/TheDnkyRichards",
         "website": "https://www.donkeyrichard.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "33EGqaNcakXZNefyZj3WgeP47kMFFLBQPwBBPToywC3W",
+      "symbol": "ATLO",
+      "name": "ATTOLLO COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jbecks95/crypto/main/LOGO.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
