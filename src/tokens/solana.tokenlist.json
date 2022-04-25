@@ -155410,6 +155410,72 @@
       "extensions": {
         "twitter": "https://twitter.com/robbersfoxes"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gxn3A9LYAbjx4XqmB5QX6niAJVQVEx2bBaNfWD6jnjXP",
+      "symbol": "TT",
+      "name": "Tata",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gxn3A9LYAbjx4XqmB5QX6niAJVQVEx2bBaNfWD6jnjXP/logo.png",
+      "tags": [
+        "utility-token",
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/CXV7CRbr",
+        "twitter": "https://twitter.com/Tata_1000Faces",
+        "website": "https://www.tata1000faces.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5K6Fj5dxcmCTeGCBHAEh6JRtKdPkoQx4aCRYYtyetbZh",
+      "symbol": "BPUPS",
+      "name": "Battle Pups WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5K6Fj5dxcmCTeGCBHAEh6JRtKdPkoQx4aCRYYtyetbZh/logo.png",
+      "tags": [
+        "WL-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "H4p41zzwg2gSzSEhhXwvrnGznyHetW9Fgj7UYyjVm7Qd",
+      "symbol": "BASH",
+      "name": "BASH Rewards",
+      "decimals": 2,
+      "logoURI": "https://solaboy.github.io/images/bash.jpeg",
+      "tags": [
+        "meta-verse",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "BASH reward token that can be earned from an interactive game with limitless ideas then redeemed.",
+        "discord": "http://discord.gg/NuhBakrakN",
+        "instagram": "https://www.instagram.com/coolcucumberbash",
+        "twitter": "https://twitter.com/CCBNFT",
+        "website": "https://www.coolcucumberbash.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EbDzfYUoWs5X9MKQ54Yued9oNbJGwQERgCJpKYBuHiqs",
+      "symbol": "CUC",
+      "name": "CUCOIN",
+      "decimals": 2,
+      "logoURI": "https://solaboy.github.io/images/cucoin.jpeg",
+      "tags": [
+        "meta-verse",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Cucoin(CUC)  would be used in making in game purchases such as battle passes, power ups, costume, skin/avatar customization.",
+        "discord": "http://discord.gg/NuhBakrakN",
+        "instagram": "https://www.instagram.com/coolcucumberbash",
+        "twitter": "https://twitter.com/CCBNFT",
+        "website": "https://www.coolcucumberbash.io"
+      }
     }
   ],
   "version": {
