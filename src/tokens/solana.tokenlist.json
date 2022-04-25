@@ -155318,6 +155318,34 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ccgr6gWvT5U4F38ND2D3EnRPtdp4L9AHpVY3apg35QgS",
+      "symbol": "ATLOG",
+      "name": "ATLARIA OG TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/GaitanaruAndrei/assets/main/loglaunch.png",
+      "tags": [
+        "mint-token"
+      ],
+      "extensions": {
+        "website": "https://atlaria.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EGFTKxNyoHKa16dsXMvMkoz2VfebkTxPjNBheNbpKRbT",
+      "symbol": "ATLWL",
+      "name": "ATLARIA WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/GaitanaruAndrei/assets/main/loglaunch.png",
+      "tags": [
+        "mint-token"
+      ],
+      "extensions": {
+        "website": "https://atlaria.io/"
+      }
     }
   ],
   "version": {
