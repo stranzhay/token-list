@@ -155078,6 +155078,20 @@
         "twitter": "https://twitter.com/magic_mushies",
         "website": "https://magicmushies.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "62s6EQ6s3hpRufbispzk5DD1yt7JjPzoTUewNYtMmjFW",
+      "symbol": "KPRO",
+      "name": "Kproapps Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/62s6EQ6s3hpRufbispzk5DD1yt7JjPzoTUewNYtMmjFW/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://kproapps.com/"
+      }
     }
   ],
   "version": {
