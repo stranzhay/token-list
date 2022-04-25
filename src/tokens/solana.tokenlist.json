@@ -155092,6 +155092,17 @@
       "extensions": {
         "website": "https://kproapps.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7tMVov1P9beex6rphq3iaox1TrTPUscgS8Ay4oLWSSVh",
+      "symbol": "MRWL",
+      "name": "Mutant Miner WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7tMVov1P9beex6rphq3iaox1TrTPUscgS8Ay4oLWSSVh/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
