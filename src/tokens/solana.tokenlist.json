@@ -155357,6 +155357,14 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "TomonpwmzyveJRXKCTbJxpyDuYLPgpugU3pCK5aceWi",
+      "symbol": "$SLURP",
+      "name": "SLURP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TomonpwmzyveJRXKCTbJxpyDuYLPgpugU3pCK5aceWi/logo.png"
     }
   ],
   "version": {
