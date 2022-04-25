@@ -155042,6 +155042,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "TUXUczFDB2w6EqR3gRfhgqLq6xuaAY5SEzTELu2qKGq",
+      "symbol": "TuXWL",
+      "name": "Tuxedo WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TUXUczFDB2w6EqR3gRfhgqLq6xuaAY5SEzTELu2qKGq/logo.png"
     }
   ],
   "version": {
