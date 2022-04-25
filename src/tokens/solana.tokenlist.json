@@ -155186,6 +155186,31 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EpQCQsK6mLg64oVN2VRBvYV5DbzX5wTpVc8fCWS8bVJ2",
+      "symbol": "FOS",
+      "name": "Founders of Solana",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EpQCQsK6mLg64oVN2VRBvYV5DbzX5wTpVc8fCWS8bVJ2/fos_token_logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/FoundersOfSol"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ZyTQ5Fx2c6ArvMivaD8Y4pBrTF7PQsDDfgU5vDgpV6R",
+      "symbol": "MILO",
+      "name": "Milosound",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/crypto-king99/crypto/main/MILOSOUND.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
