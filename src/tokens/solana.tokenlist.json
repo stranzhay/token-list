@@ -155410,6 +155410,23 @@
       "extensions": {
         "twitter": "https://twitter.com/robbersfoxes"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gxn3A9LYAbjx4XqmB5QX6niAJVQVEx2bBaNfWD6jnjXP",
+      "symbol": "TT",
+      "name": "Tata",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gxn3A9LYAbjx4XqmB5QX6niAJVQVEx2bBaNfWD6jnjXP/logo.png",
+      "tags": [
+        "utility-token",
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/CXV7CRbr",
+        "twitter": "https://twitter.com/Tata_1000Faces",
+        "website": "https://www.tata1000faces.com/"
+      }
     }
   ],
   "version": {
