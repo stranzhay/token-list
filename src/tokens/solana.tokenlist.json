@@ -155065,6 +155065,19 @@
         "description": "This token is for a free rental from the Official Node Monkey marketplace.",
         "twitter": "https://twitter.com/nodemonkeynft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HnhhXtqCoYzQpV8doDB4MXkPnpUUajUD6BQt6nkpbcMa",
+      "symbol": "MYTH",
+      "name": "Mythic Mushies Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HnhhXtqCoYzQpV8doDB4MXkPnpUUajUD6BQt6nkpbcMa/logo.png",
+      "extensions": {
+        "discord": "http://discord.gg/QT8TX7QDt2",
+        "twitter": "https://twitter.com/magic_mushies",
+        "website": "https://magicmushies.io"
+      }
     }
   ],
   "version": {
