@@ -155031,6 +155031,17 @@
       "extensions": {
         "website": "https://bloomverse.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DtSs1GN6PzyLWESWf7QoAys5j6GvPoNk2GaiuXx12Y3f",
+      "symbol": "CIBA",
+      "name": "Ciba Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Curlyfriesssss/crytpo/main/asdw.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
