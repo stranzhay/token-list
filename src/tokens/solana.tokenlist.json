@@ -154933,6 +154933,17 @@
       "extensions": {
         "website": "https://www.mercurial.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HwxBPJSgiHpwqDFACnN19X9jpDDqs3HpoYoLpR9ocYTU",
+      "symbol": "ALC",
+      "name": "Al-Alawi Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nalalawi2022/Al-Alawi-Coin/main/logo3.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
