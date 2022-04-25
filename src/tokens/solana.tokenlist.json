@@ -155395,6 +155395,21 @@
         "twitter": "https://twitter.com/betyardao",
         "website": "https://betyardao.hu"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Rog3V7CzPXkRd1qotc2JwPuW1ijkZogircFNkGdY5Ej",
+      "symbol": "$ROFO",
+      "name": "ROFO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Rog3V7CzPXkRd1qotc2JwPuW1ijkZogircFNkGdY5Ej/logo.png",
+      "tags": [
+        "utility-token",
+        "work-to-earn"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/robbersfoxes"
+      }
     }
   ],
   "version": {
