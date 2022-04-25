@@ -155211,6 +155211,30 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WL3qRqfiBegtSZs5da6yVNkyh7AmZa5aWhZir3xBDAz",
+      "symbol": "TMDC-X-WL",
+      "name": "TMDCXWL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/namu42/ImageRepo/main/WLwKFNCKESMfbYU1o7hzp868AtyFHGpbC9i4jUTHpQb/wl_token_logo.png",
+      "tags": [
+        "Whitelist-Token",
+        "NFT"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "WLMpGG6n4iaCQY9gEw3eFqTg2XY4JvkRye6KaFQiz6q",
+      "symbol": "TMDC-X-WL",
+      "name": "TMDC_ WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/namu42/ImageRepo/main/WLwKFNCKESMfbYU1o7hzp868AtyFHGpbC9i4jUTHpQb/wl_token_logo.png",
+      "tags": [
+        "Whitelist-Token",
+        "NFT"
+      ]
     }
   ],
   "version": {
