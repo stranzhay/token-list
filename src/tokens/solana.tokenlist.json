@@ -155016,6 +155016,21 @@
         "description": "Valt CryptoPumps NFT Whitelist Token",
         "discord": "https://discord.gg/qYn9gQPPSQ"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C7SBQ7Pb8D9wbkfkvjXRCdAEukubXdYC38fp4yBTz2ue",
+      "symbol": "BLOOMIE",
+      "name": "BLOOMIE",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C7SBQ7Pb8D9wbkfkvjXRCdAEukubXdYC38fp4yBTz2ue/logo.svg",
+      "tags": [
+        "utility-token",
+        "game-token"
+      ],
+      "extensions": {
+        "website": "https://bloomverse.io"
+      }
     }
   ],
   "version": {
