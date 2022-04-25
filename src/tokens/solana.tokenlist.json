@@ -155148,6 +155148,22 @@
       "extensions": {
         "website": "https://twitter.com/definow/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7bJ4cuaScXBcL6SB5cbypmx9Ra79JrokdYdpxoXc6jBi",
+      "symbol": "ATK",
+      "name": "AuToKen",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/gYomii/ATK-Crypto/main/ATK5.png",
+      "tags": [
+        "Firm-Token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Autos-bot.fr",
+        "twitter": "https://twitter.com/SocialMedia_car",
+        "website": "https://www.autos-bot.fr"
+      }
     }
   ],
   "version": {
