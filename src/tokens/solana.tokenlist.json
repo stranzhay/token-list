@@ -155523,6 +155523,40 @@
         "twitter": "https://twitter.com/mrbreakfastja",
         "website": "https://www.mrbreakfastja.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "UruquUouaaJ7oo4hUmJ41bk2SXYpQ4PwR9Jnbsk7kHN",
+      "symbol": "WRCK",
+      "name": "White Rock",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UruquUouaaJ7oo4hUmJ41bk2SXYpQ4PwR9Jnbsk7kHN/logo.jpg",
+      "tags": [
+        "tokenomics",
+        "social-network",
+        "new-world-order",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://thetribes.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8zyDKf16k8o3JpJ8A14tZVQdaSvN1mkMVuPSy6Cgjv5C",
+      "symbol": "BRCK",
+      "name": "Black Rock",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8zyDKf16k8o3JpJ8A14tZVQdaSvN1mkMVuPSy6Cgjv5C/logo.jpg",
+      "tags": [
+        "tokenomics",
+        "social-network",
+        "new-world-order",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://thetribes.io"
+      }
     }
   ],
   "version": {
