@@ -155103,6 +155103,23 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "23WuycvPjEuzJTsBPBZqnbFZFcBtBKAMTowUDHwagkuD",
+      "symbol": "GEAR",
+      "name": "Starbots GEAR",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/23WuycvPjEuzJTsBPBZqnbFZFcBtBKAMTowUDHwagkuD/logo.png",
+      "tags": [
+        "utility-token",
+        "play-to-earn",
+        "game-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Starbots_game",
+        "website": "https://starbots.net"
+      }
     }
   ],
   "version": {
