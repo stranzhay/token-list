@@ -155246,6 +155246,50 @@
       "tags": [
         "lkc-whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HzJuAKFRozvgxKnFvLqtNuc88w8UmB42SQd7vAibVVU",
+      "symbol": "ZQWWL",
+      "name": "Zero Quantum Warriors WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HzJuAKFRozvgxKnFvLqtNuc88w8UmB42SQd7vAibVVU/zqwlogo.png",
+      "extensions": {
+        "discord": "https://discord.gg/QnS27AGyeQ",
+        "twitter": "https://twitter.com/ZQWarriors",
+        "website": "https://zqwarriors.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ZMpvsJ51GyYMmD9r3GEW9pCeAYF8TRbmqa9KgBE2aHr",
+      "symbol": "MUSA",
+      "name": "MUSA MALI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZMpvsJ51GyYMmD9r3GEW9pCeAYF8TRbmqa9KgBE2aHr/logomusa.png",
+      "tags": [
+        "utility-token",
+        "game-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ExN3MaZLB5VhjGZ75qUuJ8ENkNiUvCCdA7j85vCcNicQ",
+      "symbol": "MODS",
+      "name": "MetaOps Genesis",
+      "decimals": 9,
+      "logoURI": "https://github.com/numpynewb33/token-list/blob/main/assets/mainnet/ExN3MaZLB5VhjGZ75qUuJ8ENkNiUvCCdA7j85vCcNicQ/logo.png?raw=true",
+      "tags": [
+        "utility-token",
+        "reward-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "This is a reward token that can be claimed from staking MetaOps Genesis NFTs",
+        "discord": "https://discord.com/invite/metaops",
+        "twitter": "https://twitter.com/metaopsgaming",
+        "website": "https://metaopsgaming.com/"
+      }
     }
   ],
   "version": {
