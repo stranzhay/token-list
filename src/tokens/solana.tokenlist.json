@@ -155120,6 +155120,20 @@
         "twitter": "https://twitter.com/Starbots_game",
         "website": "https://starbots.net"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FjMQibN74kDTDVwGhMjoPP9YjsrGdULwnCdxK5U6Hxxz",
+      "symbol": "PANTHEON",
+      "name": "Olympus pantheon",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/dcHtR9V/6.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/Imperius_Ira?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      }
     }
   ],
   "version": {
