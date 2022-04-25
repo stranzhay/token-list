@@ -155573,6 +155573,31 @@
         "description": "Canadian Dollar Partoken (CADPT) is a one-for-one Canadian Dollar collateralized stablecoin token.",
         "website": "https://partokens.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Az887ysr8zW72pVB2QgyuvomWsrNAaWA9EpbFAmSBAkD",
+      "symbol": "COUCH",
+      "name": "The Couch Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/couchcoin9990/couch/main/logo.png",
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4ewdr269QKV9SC1N855LUhXAe3YevASjQHoR7bzg9JKW",
+      "symbol": "XDRIP",
+      "name": "0xDRIP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ewdr269QKV9SC1N855LUhXAe3YevASjQHoR7bzg9JKW/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/0xDRIP"
+      }
     }
   ],
   "version": {
