@@ -154998,6 +154998,24 @@
         "twitter": "https://twitter.com/populart_nft",
         "website": "https://www.populart.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4Ra2qncf7F3t2z8HHtK3mdgmec7wMs9XgW9a45gS8rqR",
+      "symbol": "VALT",
+      "name": "Valt Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4Ra2qncf7F3t2z8HHtK3mdgmec7wMs9XgW9a45gS8rqR/logo.png",
+      "tags": [
+        "ValtGym",
+        "Valt",
+        "Whitelist",
+        "Metaverse"
+      ],
+      "extensions": {
+        "description": "Valt CryptoPumps NFT Whitelist Token",
+        "discord": "https://discord.gg/qYn9gQPPSQ"
+      }
     }
   ],
   "version": {
