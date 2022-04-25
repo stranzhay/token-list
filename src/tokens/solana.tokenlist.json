@@ -155365,6 +155365,36 @@
       "name": "SLURP",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TomonpwmzyveJRXKCTbJxpyDuYLPgpugU3pCK5aceWi/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "PToAqfWfY79uFyXaWafC1MNpSnrX3BXAgSJvMgbU1U7",
+      "symbol": "BETYAR",
+      "name": "Betyár Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PToAqfWfY79uFyXaWafC1MNpSnrX3BXAgSJvMgbU1U7/logo.png",
+      "extensions": {
+        "description": "BetyarDAO",
+        "discord": "https://discord.io/betyardao",
+        "instagram": "https://www.instagram.com/betyardao",
+        "twitter": "https://twitter.com/betyardao",
+        "website": "https://betyardao.hu"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "PToAqfWfY79uFyXaWafC1MNpSnrX3BXAgSJvMgbU1U7",
+      "symbol": "BETYAR",
+      "name": "Betyár Dev Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PToAqfWfY79uFyXaWafC1MNpSnrX3BXAgSJvMgbU1U7/logo.png",
+      "extensions": {
+        "description": "BetyarDAO",
+        "discord": "https://discord.io/betyardao",
+        "instagram": "https://www.instagram.com/betyardao",
+        "twitter": "https://twitter.com/betyardao",
+        "website": "https://betyardao.hu"
+      }
     }
   ],
   "version": {
