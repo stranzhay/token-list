@@ -155598,6 +155598,25 @@
       "extensions": {
         "twitter": "https://twitter.com/0xDRIP"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6z9oBZ84zSx2uPvPofyaAABmBaWUk1BmDkMQryiYorzk",
+      "symbol": "PURP",
+      "name": "purple squirrel",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/PurpleSquirrelMedia/SQRL/main/purp-metaverse-utility-token.png",
+      "tags": [
+        "meta-verse",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "WEB3 based meta verse web utility token based on SOLANA Blockchain",
+        "discord": "http://discord.gg/2AKuWnyr",
+        "instagram": "https://www.instagram.com/purplesquirrelexchange",
+        "twitter": "https://twitter.com/squirrel_eth",
+        "website": "https://www.purplesquirrelmedia.io"
+      }
     }
   ],
   "version": {
