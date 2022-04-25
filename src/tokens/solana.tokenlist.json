@@ -155427,6 +155427,17 @@
         "twitter": "https://twitter.com/Tata_1000Faces",
         "website": "https://www.tata1000faces.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5K6Fj5dxcmCTeGCBHAEh6JRtKdPkoQx4aCRYYtyetbZh",
+      "symbol": "BPUPS",
+      "name": "Battle Pups WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5K6Fj5dxcmCTeGCBHAEh6JRtKdPkoQx4aCRYYtyetbZh/logo.png",
+      "tags": [
+        "WL-token"
+      ]
     }
   ],
   "version": {
