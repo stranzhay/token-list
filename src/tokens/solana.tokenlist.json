@@ -154962,6 +154962,42 @@
         "serumV3Usdc": "BxTfmxEQf6FQ6F1cQ3fi6o6FPG52hiZXi4DTGYRhsmPo",
         "twitter": "https://twitter.com/CreamyFriends"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WLfsPBJYqawoAK54RxEQk8uNFTxnzjWmYtaApRQJg5e",
+      "symbol": "LARTFF",
+      "name": "Populart FF",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLfsPBJYqawoAK54RxEQk8uNFTxnzjWmYtaApRQJg5e/logo.png",
+      "tags": [
+        "FF-Token",
+        "community-token",
+        "utility-token",
+        "populart-nft"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/populart_nft",
+        "website": "https://www.populart.xyz/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "WLtPRknre13aWE4QqsSbcEpQG8W4aApUJ3NT4YPfQrr",
+      "symbol": "LART",
+      "name": "Populart WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLtPRknre13aWE4QqsSbcEpQG8W4aApUJ3NT4YPfQrr/logo.png",
+      "tags": [
+        "WL-Token",
+        "community-token",
+        "utility-token",
+        "populart-nft"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/populart_nft",
+        "website": "https://www.populart.xyz/"
+      }
     }
   ],
   "version": {
