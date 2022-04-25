@@ -154888,6 +154888,24 @@
       "extensions": {
         "twitter": "https://twitter.com/CliffC_4"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DsmHzZmJSjtvSabgP1njqYN249UVEvFnNd1F9ZVHPTXR",
+      "symbol": "c2oCoinNFT",
+      "name": "c2oCoin NFT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/c2ocoin/nftsolana/main/logoc2o_frente300x300.png",
+      "tags": [
+        "NFT",
+        "NFT-collection",
+        "investment-NFT",
+        "collection",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://c2ocoin.com"
+      }
     }
   ],
   "version": {
