@@ -155476,6 +155476,20 @@
         "twitter": "https://twitter.com/CCBNFT",
         "website": "https://www.coolcucumberbash.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CrhMZTJdZMNLvZoNdjZT1SFToT34NYLUf2W2VaMLKQqf",
+      "symbol": "SAY",
+      "name": "Say Network",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SayNetworkOfficial/say-network-token/master/logo.jpg",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Decentralized social media token powering uSay."
+      }
     }
   ],
   "version": {
