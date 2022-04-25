@@ -155164,6 +155164,28 @@
         "twitter": "https://twitter.com/SocialMedia_car",
         "website": "https://www.autos-bot.fr"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HrP2nSa1EH5q6SfzRTpuWrGC6QTfQMgboKponkxB7mzH",
+      "symbol": "WLMSD",
+      "name": "WLMSD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/PnW1/WLMSD/main/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ChGzR85wmFFKSpy1NQ9uEgMkmxM9mV5oj4ZX4eWKGHUL",
+      "symbol": "PPWL",
+      "name": "Polepenguins WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/polepeng.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
