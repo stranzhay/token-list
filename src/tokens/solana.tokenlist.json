@@ -155346,6 +155346,17 @@
       "extensions": {
         "website": "https://atlaria.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9RbTen9wL7hTZRKZUMBPNpGGKsjRAM8LHokphuoCWK5w",
+      "symbol": "BOSSWL",
+      "name": "BOSS WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ttarabay/token-list/main/assets/mainnet/9RbTen9wL7hTZRKZUMBPNpGGKsjRAM8LHokphuoCWK5w/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
