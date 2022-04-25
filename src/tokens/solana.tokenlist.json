@@ -155290,6 +155290,23 @@
         "twitter": "https://twitter.com/metaopsgaming",
         "website": "https://metaopsgaming.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GzTxngZwZ2ZcDydepix1cTMRcooDxfK32Px5ZZkcjtX6",
+      "symbol": "DRICH",
+      "name": " Donkey Richard Coin",
+      "decimals": 9,
+      "logoURI": "https://www.dropbox.com/s/cssc839nr1sjedt/Donkey%20Richards%20Logo.jpg?dl=0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Currency for Use in Donkey Richard Universe",
+        "discord": "https://discord.gg/JXQYJfThm6",
+        "twitter": "https://twitter.com/TheDnkyRichards",
+        "website": "https://www.donkeyrichard.com/"
+      }
     }
   ],
   "version": {
