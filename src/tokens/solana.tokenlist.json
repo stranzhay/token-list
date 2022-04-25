@@ -155200,6 +155200,17 @@
       "extensions": {
         "twitter": "https://twitter.com/FoundersOfSol"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ZyTQ5Fx2c6ArvMivaD8Y4pBrTF7PQsDDfgU5vDgpV6R",
+      "symbol": "MILO",
+      "name": "Milosound",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/crypto-king99/crypto/main/MILOSOUND.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
