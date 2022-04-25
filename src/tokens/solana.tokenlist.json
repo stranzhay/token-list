@@ -155259,6 +155259,18 @@
         "twitter": "https://twitter.com/ZQWarriors",
         "website": "https://zqwarriors.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ZMpvsJ51GyYMmD9r3GEW9pCeAYF8TRbmqa9KgBE2aHr",
+      "symbol": "MUSA",
+      "name": "MUSA MALI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZMpvsJ51GyYMmD9r3GEW9pCeAYF8TRbmqa9KgBE2aHr/logomusa.png",
+      "tags": [
+        "utility-token",
+        "game-token"
+      ]
     }
   ],
   "version": {
