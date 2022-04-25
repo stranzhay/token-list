@@ -155235,6 +155235,17 @@
         "Whitelist-Token",
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ToyurSx9LsMTKNoNMZx4EExXgW8DWc6gjw3z2RKfkz7",
+      "symbol": "LKC",
+      "name": "LKC Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToyurSx9LsMTKNoNMZx4EExXgW8DWc6gjw3z2RKfkz7/logo.png",
+      "tags": [
+        "lkc-whitelist-token"
+      ]
     }
   ],
   "version": {
