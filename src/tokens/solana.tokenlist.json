@@ -155164,6 +155164,17 @@
         "twitter": "https://twitter.com/SocialMedia_car",
         "website": "https://www.autos-bot.fr"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HrP2nSa1EH5q6SfzRTpuWrGC6QTfQMgboKponkxB7mzH",
+      "symbol": "WLMSD",
+      "name": "WLMSD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/PnW1/WLMSD/main/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
