@@ -155584,6 +155584,20 @@
       "tags": [
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4ewdr269QKV9SC1N855LUhXAe3YevASjQHoR7bzg9JKW",
+      "symbol": "XDRIP",
+      "name": "0xDRIP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ewdr269QKV9SC1N855LUhXAe3YevASjQHoR7bzg9JKW/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/0xDRIP"
+      }
     }
   ],
   "version": {
