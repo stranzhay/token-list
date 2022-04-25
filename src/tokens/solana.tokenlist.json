@@ -155438,6 +155438,44 @@
       "tags": [
         "WL-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H4p41zzwg2gSzSEhhXwvrnGznyHetW9Fgj7UYyjVm7Qd",
+      "symbol": "BASH",
+      "name": "BASH Rewards",
+      "decimals": 2,
+      "logoURI": "https://solaboy.github.io/images/bash.jpeg",
+      "tags": [
+        "meta-verse",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "BASH reward token that can be earned from an interactive game with limitless ideas then redeemed.",
+        "discord": "http://discord.gg/NuhBakrakN",
+        "instagram": "https://www.instagram.com/coolcucumberbash",
+        "twitter": "https://twitter.com/CCBNFT",
+        "website": "https://www.coolcucumberbash.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EbDzfYUoWs5X9MKQ54Yued9oNbJGwQERgCJpKYBuHiqs",
+      "symbol": "CUC",
+      "name": "CUCOIN",
+      "decimals": 2,
+      "logoURI": "https://solaboy.github.io/images/cucoin.jpeg",
+      "tags": [
+        "meta-verse",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Cucoin(CUC)  would be used in making in game purchases such as battle passes, power ups, costume, skin/avatar customization.",
+        "discord": "http://discord.gg/NuhBakrakN",
+        "instagram": "https://www.instagram.com/coolcucumberbash",
+        "twitter": "https://twitter.com/CCBNFT",
+        "website": "https://www.coolcucumberbash.io"
+      }
     }
   ],
   "version": {
