@@ -155050,6 +155050,21 @@
       "name": "Tuxedo WL Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TUXUczFDB2w6EqR3gRfhgqLq6xuaAY5SEzTELu2qKGq/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7nTddmDiPiTaahTHfj441PW8bTjLbYUf3KyzrGnankvZ",
+      "symbol": "NMR",
+      "name": "Node Monkey Free Rental",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7nTddmDiPiTaahTHfj441PW8bTjLbYUf3KyzrGnankvZ/logo.jpg",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "description": "This token is for a free rental from the Official Node Monkey marketplace.",
+        "twitter": "https://twitter.com/nodemonkeynft"
+      }
     }
   ],
   "version": {
