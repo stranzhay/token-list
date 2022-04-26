@@ -155768,6 +155768,22 @@
       "extensions": {
         "website": "https://www.solspacemen.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "USDtoXB6AGW87Wj8p3HNdnVPAgXBpwjTXtVnKgiPR16",
+      "symbol": "USD_X",
+      "name": "USD for Duck Exchange",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/duckdex/token-list/main/assets/mainnet/USDtoXB6AGW87Wj8p3HNdnVPAgXBpwjTXtVnKgiPR16/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/2ySvY6Vrv7",
+        "twitter": "https://twitter.com/duck_dex",
+        "website": "https://duckdex.github.io"
+      }
     }
   ],
   "version": {
