@@ -155806,6 +155806,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3rFgy3p5u6NFRbEzDqt1NyHp1g3wX8WiWkEWZkmtxdFm",
+      "symbol": "CHOMPS",
+      "name": "Shkary Sharks CHOMPS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3rFgy3p5u6NFRbEzDqt1NyHp1g3wX8WiWkEWZkmtxdFm/logo.png",
+      "tags": [
+        "NFT-token"
+      ],
+      "extensions": {
+        "website": "https://shkarysharks.com/"
+      }
     }
   ],
   "version": {
