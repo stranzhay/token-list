@@ -156073,6 +156073,21 @@
       "extensions": {
         "website": "https://www.cprodiamond.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Etr45gAt9WKsuWiiHa3vhTNnDSMG8ihKS35RbPoWGww2",
+      "symbol": "HSL",
+      "name": "HSL Lotto",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Etr45gAt9WKsuWiiHa3vhTNnDSMG8ihKS35RbPoWGww2/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Vaf54vCMYg",
+        "twitter": "https://twitter.com/HeavensLotto"
+      }
     }
   ],
   "version": {
