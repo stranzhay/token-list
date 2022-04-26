@@ -155753,6 +155753,21 @@
       "extensions": {
         "twitter": "https://twitter.com/loveonsolana"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk",
+      "symbol": "$PARTS",
+      "name": "Space Parts",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk/logo.png",
+      "tags": [
+        "Utility-Token",
+        "Social-Token"
+      ],
+      "extensions": {
+        "website": "https://www.solspacemen.com"
+      }
     }
   ],
   "version": {
