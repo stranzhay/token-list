@@ -155958,6 +155958,14 @@
         "twitter": "https://twitter.com/Bear_Pad_Crypto",
         "website": "https://bearpad.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EG9JDbEiCFpQ8a9LCi8AXskKvqZy757n3yFCnBvLrZRd",
+      "symbol": "OTAKU",
+      "name": "OTAKU Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EG9JDbEiCFpQ8a9LCi8AXskKvqZy757n3yFCnBvLrZRd/logo.png"
     }
   ],
   "version": {
