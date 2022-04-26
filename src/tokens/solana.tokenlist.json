@@ -155966,6 +155966,22 @@
       "name": "OTAKU Coin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EG9JDbEiCFpQ8a9LCi8AXskKvqZy757n3yFCnBvLrZRd/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GvBcdeaThoyzFBzmkv91kz4Z5GMD1PvaQy22JGXeYfeH",
+      "symbol": "BOXT",
+      "name": "BOXT",
+      "decimals": 6,
+      "logoURI": "https://testgpex.s3.ap-northeast-1.amazonaws.com/test/coin/2022/04/25/87f9d1a728a84bc1aadc7dac3ed165cd.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/BfvrvSMuVR",
+        "twitter": "https://twitter.com/box_trad",
+        "website": "https://www.boxtradex.io"
+      }
     }
   ],
   "version": {
