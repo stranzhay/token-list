@@ -155731,6 +155731,17 @@
         "twitter": "https://twitter.com/scumbags_nft",
         "website": "https://scumbags.io"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "3ixUSBBzwKeoaJMcABxhRBaUadVR6SZyzNv2gRcDjpap",
+      "symbol": "RBO",
+      "name": "Robo Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/robo360/token-list/122f24c7909c6275cc677fbe0ff027247bcbfa2f/assets/mainnet/3ixUSBBzwKeoaJMcABxhRBaUadVR6SZyzNv2gRcDjpap/Robo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/robo3601"
+      }
     }
   ],
   "version": {
