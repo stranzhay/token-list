@@ -156016,6 +156016,20 @@
         "twitter": "https://twitter.com/DeadRejcts",
         "website": "https://deadrejects.com/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "FwM1JzPYupzk6HEJnAqAnL5AFqJCSpkJtgyREfc6aCQN",
+      "symbol": "BGTC",
+      "name": "Baby Groot Test Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FwM1JzPYupzk6HEJnAqAnL5AFqJCSpkJtgyREfc6aCQN/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/azvrma"
+      }
     }
   ],
   "version": {
