@@ -155644,6 +155644,25 @@
       "name": "Right Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/PowerRob/right-token/main/Screenshot_2022-01-19_142451-removebg-preview.png"
+    },
+    {
+      "chainId": 101,
+      "address": "CW2sMRF3JJ7q8rqamJz3iZcdPRNiv3RYKDQ4LfKTkUm7",
+      "symbol": "GRT",
+      "name": "Greenies Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/drsaint1/drsaint/main/logo512.png",
+      "tags": [
+        "Meme-Token",
+        "NFT",
+        "Utility-Token",
+        "Social-Token",
+        "Social-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/4V9b5qCMDK",
+        "twitter": "https://twitter.com/greenie_planet"
+      }
     }
   ],
   "version": {
