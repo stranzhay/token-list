@@ -155883,6 +155883,24 @@
       "extensions": {
         "twitter": "https://twitter.com/BlackDiamon_sol"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "22tWadU1wwH6UNnn14ZdHX7weuWDccP53CWYXdsYq2dE",
+      "symbol": "LPG",
+      "name": "Little Piggy Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/22tWadU1wwH6UNnn14ZdHX7weuWDccP53CWYXdsYq2dE/logo.png",
+      "tags": [
+        "NFT",
+        "DAO",
+        "GameFi"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/TaWMQbuZ",
+        "instagram": "https://www.instagram.com/littlepiggynftclub/",
+        "twitter": "https://twitter.com/NFT_LittlePiggy"
+      }
     }
   ],
   "version": {
