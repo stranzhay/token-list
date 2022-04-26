@@ -155872,6 +155872,17 @@
         "instagram": "https://www.instagram.com/dossais__/",
         "twitter": "https://twitter.com/DadoKingCura"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FvtLzn4xKhpk4Gwhq3SkwvPYdzCXCJ4DoggczmjYcuiG",
+      "symbol": "Diamond",
+      "name": "Black Diamond",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FvtLzn4xKhpk4Gwhq3SkwvPYdzCXCJ4DoggczmjYcuiG/logo.jpg",
+      "extensions": {
+        "twitter": "https://twitter.com/BlackDiamon_sol"
+      }
     }
   ],
   "version": {
