@@ -155742,6 +155742,17 @@
       "extensions": {
         "twitter": "https://twitter.com/robo3601"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "LUVumGBdVkaPYbGyjjRJtsbYoVtZ1h7AaX1Hh2bcaqn",
+      "symbol": "$LUV",
+      "name": "LUV",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUVumGBdVkaPYbGyjjRJtsbYoVtZ1h7AaX1Hh2bcaqn/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/loveonsolana"
+      }
     }
   ],
   "version": {
