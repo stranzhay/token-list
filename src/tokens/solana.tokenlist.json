@@ -155713,6 +155713,24 @@
         "twitter": "https://twitter.com/NFTMonarchs",
         "website": "https://www.nftmonarchs.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ao8BZG21WAVuPCjSuh5SKM5F8yEMnyrvhJiCMXiGEggD",
+      "symbol": "DripChips",
+      "name": "Drip Chips",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/BHALEYART/scum-experimental/main/drip-coin-logo.png",
+      "tags": [
+        "scumbags-nft",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Drip is a flexible digital currecy created for the Scumbag$ NFT community. For use with Drip partners and related utilities.",
+        "discord": "http://discord.gg/scumbags",
+        "twitter": "https://twitter.com/scumbags_nft",
+        "website": "https://scumbags.io"
+      }
     }
   ],
   "version": {
