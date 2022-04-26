@@ -155617,6 +155617,17 @@
         "twitter": "https://twitter.com/squirrel_eth",
         "website": "https://www.purplesquirrelmedia.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HRHdJZcy5BKeY2Twu2k8oJk7uEyDAqtQJ28cXF4V3Bma",
+      "symbol": "BLNK",
+      "name": "Blank Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/petlikarayan/BLNK-Coin/main/BLNK.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
