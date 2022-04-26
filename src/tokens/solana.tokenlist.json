@@ -155784,6 +155784,17 @@
         "twitter": "https://twitter.com/duck_dex",
         "website": "https://duckdex.github.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6WLdnp1JhBbk2xQ2PqRnade1dZTj1GbGfo8eAz4Skbko",
+      "symbol": "FXZ",
+      "name": "Foxeez",
+      "decimals": 0,
+      "logoURI": "https://github.com/foxeez/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
