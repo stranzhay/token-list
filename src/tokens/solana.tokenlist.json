@@ -156151,6 +156151,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8ABT3crsLdhx7KdstReh9sGXhZgDkssNXzAZzqNYEfFZ",
+      "symbol": "CHUMS",
+      "name": "CHUMS",
+      "decimals": 6,
+      "logoURI": "https://sun9-88.userapi.com/s/v1/if2/KPH5miDn6Uf5zcFpWjmVZwPwJcSZfipH-9ra3x8yJ-OCQ0bwyjKCNgWP3XQvTniNoLIeZpMqpG49AbFYc5Bmc1qB.jpg?size=2560x1919\u0026quality=96\u0026type=album",
+      "tags": [
+        "GENERAL",
+        "FARMING"
+      ]
     }
   ],
   "version": {
