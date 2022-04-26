@@ -155685,6 +155685,63 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8vZXUmzowpYJCzVbGXBGqjP8bsQ7VJBJajniHyWuHht3",
+      "symbol": "CWGC",
+      "name": "CowardCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Swahgner/cowardcoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HK4RnWAiaLJt3kqc3a3B5CdjnKGzBz8ykaemGcyQ9E9S",
+      "symbol": "WING",
+      "name": "Wings",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MonarchButterflySquad/NFTMonarchsGeneral/main/HK4RnWAiaLJt3kqc3a3B5CdjnKGzBz8ykaemGcyQ9E9S/goldwings.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "NFT Monarch WL token + extra.",
+        "discord": "https://discord.gg/nftmonarchs",
+        "twitter": "https://twitter.com/NFTMonarchs",
+        "website": "https://www.nftmonarchs.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Ao8BZG21WAVuPCjSuh5SKM5F8yEMnyrvhJiCMXiGEggD",
+      "symbol": "DripChips",
+      "name": "Drip Chips",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/BHALEYART/scum-experimental/main/drip-coin-logo.png",
+      "tags": [
+        "scumbags-nft",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Drip is a flexible digital currecy created for the Scumbag$ NFT community. For use with Drip partners and related utilities.",
+        "discord": "http://discord.gg/scumbags",
+        "twitter": "https://twitter.com/scumbags_nft",
+        "website": "https://scumbags.io"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "3ixUSBBzwKeoaJMcABxhRBaUadVR6SZyzNv2gRcDjpap",
+      "symbol": "RBO",
+      "name": "Robo Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/robo360/token-list/122f24c7909c6275cc677fbe0ff027247bcbfa2f/assets/mainnet/3ixUSBBzwKeoaJMcABxhRBaUadVR6SZyzNv2gRcDjpap/Robo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/robo3601"
+      }
     }
   ],
   "version": {
