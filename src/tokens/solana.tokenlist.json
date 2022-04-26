@@ -155628,6 +155628,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3tW1UvWctG6qsjcpSBKVwKRy1zAwxtEVcZU6icnXXsvp",
+      "symbol": "LEFT",
+      "name": "Left Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/PowerRob/left-token/main/Screenshot%202022-01-17%20132316.png"
+    },
+    {
+      "chainId": 101,
+      "address": "HC6Um2wBfVWZYUov6QbwkYV2oNr8VT2RsgufMptPqaCC",
+      "symbol": "RGHT",
+      "name": "Right Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/PowerRob/right-token/main/Screenshot_2022-01-19_142451-removebg-preview.png"
     }
   ],
   "version": {
