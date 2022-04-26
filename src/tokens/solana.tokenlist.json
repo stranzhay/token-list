@@ -156127,6 +156127,19 @@
       "extensions": {
         "website": "https://www.kadlab.se"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3sNZ2c2uFdzAt15zSw6EzANC9NN4qC3SsrdyTW7tSn7w",
+      "symbol": "UAA",
+      "name": "Urijah Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/UrijahAl3xander/UrijahCoin/main/UrijahCoinLogo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "currency-token"
+      ]
     }
   ],
   "version": {
