@@ -156163,6 +156163,47 @@
         "GENERAL",
         "FARMING"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "G7S1cJ1TYyHdvBZWCr9LEAQu2HD2mE9D4qxyxtiWTo2q",
+      "symbol": "NCL",
+      "name": "No Child Labor",
+      "decimals": 0,
+      "logoURI": "https://github.com/DanaJameel/crypto/blob/main/LogoCoin.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5FozDe1UB9cJZmWKxGg6nBSBSu2A51DXowshCtYeKWEp",
+      "symbol": "SKULL",
+      "name": "SKULL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5FozDe1UB9cJZmWKxGg6nBSBSu2A51DXowshCtYeKWEp/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ],
+      "extensions": {
+        "description": "SKULL WL Token "
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ZENJfNsHnRSnzMnwsPapKSczkSq4TgHM8548cVyUSS8",
+      "symbol": "ZENJW",
+      "name": "Zenjin Viperz Early WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZENJfNsHnRSnzMnwsPapKSczkSq4TgHM8548cVyUSS8/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZenjinViperz",
+        "website": "https://www.zenjinviperz.io/"
+      }
     }
   ],
   "version": {
