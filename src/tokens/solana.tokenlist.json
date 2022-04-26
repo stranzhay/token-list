@@ -156189,6 +156189,21 @@
       "extensions": {
         "description": "SKULL WL Token "
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ZENJfNsHnRSnzMnwsPapKSczkSq4TgHM8548cVyUSS8",
+      "symbol": "ZENJW",
+      "name": "Zenjin Viperz Early WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZENJfNsHnRSnzMnwsPapKSczkSq4TgHM8548cVyUSS8/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZenjinViperz",
+        "website": "https://www.zenjinviperz.io/"
+      }
     }
   ],
   "version": {
