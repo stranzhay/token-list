@@ -155820,6 +155820,20 @@
       "extensions": {
         "website": "https://shkarysharks.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "yP3PcccLpc22nSrJRbRLySuroYpKiVT2ENRfiQGNNAB",
+      "symbol": "y-PAI-3Pool",
+      "name": "Yield Mercurial LP Token (PAI-3Pool)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yP3PcccLpc22nSrJRbRLySuroYpKiVT2ENRfiQGNNAB/logo.svg",
+      "tags": [
+        "yield-token"
+      ],
+      "extensions": {
+        "website": "https://bunnyducky.com/"
+      }
     }
   ],
   "version": {
