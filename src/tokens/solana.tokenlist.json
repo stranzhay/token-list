@@ -155685,6 +155685,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8vZXUmzowpYJCzVbGXBGqjP8bsQ7VJBJajniHyWuHht3",
+      "symbol": "CWGC",
+      "name": "CowardCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Swahgner/cowardcoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
