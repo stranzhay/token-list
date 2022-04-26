@@ -155768,6 +155768,83 @@
       "extensions": {
         "website": "https://www.solspacemen.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "USDtoXB6AGW87Wj8p3HNdnVPAgXBpwjTXtVnKgiPR16",
+      "symbol": "USD_X",
+      "name": "USD for Duck Exchange",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/duckdex/token-list/main/assets/mainnet/USDtoXB6AGW87Wj8p3HNdnVPAgXBpwjTXtVnKgiPR16/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/2ySvY6Vrv7",
+        "twitter": "https://twitter.com/duck_dex",
+        "website": "https://duckdex.github.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6WLdnp1JhBbk2xQ2PqRnade1dZTj1GbGfo8eAz4Skbko",
+      "symbol": "FXZ",
+      "name": "Foxeez",
+      "decimals": 0,
+      "logoURI": "https://github.com/foxeez/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AU4bT5vsa8Dqsd9BXEzsW5QSeDQ97QwKx8oEum8GMKpG",
+      "symbol": "SAI",
+      "name": "SAI Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/peakypandas/icon/blob/main/SAI.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3rFgy3p5u6NFRbEzDqt1NyHp1g3wX8WiWkEWZkmtxdFm",
+      "symbol": "CHOMPS",
+      "name": "Shkary Sharks CHOMPS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3rFgy3p5u6NFRbEzDqt1NyHp1g3wX8WiWkEWZkmtxdFm/logo.png",
+      "tags": [
+        "NFT-token"
+      ],
+      "extensions": {
+        "website": "https://shkarysharks.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "yP3PcccLpc22nSrJRbRLySuroYpKiVT2ENRfiQGNNAB",
+      "symbol": "y-PAI-3Pool",
+      "name": "Yield Mercurial LP Token (PAI-3Pool)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yP3PcccLpc22nSrJRbRLySuroYpKiVT2ENRfiQGNNAB/logo.svg",
+      "tags": [
+        "yield-token"
+      ],
+      "extensions": {
+        "website": "https://bunnyducky.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4AsEadPPuD1183oD6aqBsqrY2afGzZWtxqF1GkAjpQeE",
+      "symbol": "LAGERCOIN",
+      "name": "Lager Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/Paul-Sizon/BeerCoinLogo/blob/main/logo2.png?raw=true",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
