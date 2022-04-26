@@ -155999,6 +155999,23 @@
         "twitter": "https://twitter.com/lofts_club",
         "website": "https://agoraverse.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7VEyj9ooKPLaxd4rxwRWB4J5Yo1upymWwNs7RL78i8Nj",
+      "symbol": "D3DNETWORK",
+      "name": "D3D Network",
+      "decimals": 0,
+      "logoURI": "https://bafkreidhiegzjjqnikoevl4fbuuocdrnvmxyy2bnnoeoha6kwykhgscuwm.ipfs.dweb.link/?ext=png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/saDbn3BFU9",
+        "twitter": "https://twitter.com/DeadRejcts",
+        "website": "https://deadrejects.com/"
+      }
     }
   ],
   "version": {
