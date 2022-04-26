@@ -155916,6 +155916,22 @@
         "twitter": "https://twitter.com/worldoftacos_",
         "website": "https://worldoftaco.com.mx"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "DFF6xxSfKnggsdL4MACp2iLJaMtTTDA9gQkDXrAxGqeJ",
+      "symbol": "KTST",
+      "name": "TEST TOKEN FOR KÖRA",
+      "decimals": 8,
+      "logoURI": "https://gitcdn.link/cdn/nramamur/koracoin/main/Original.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "KÖRA (KTST) is a utility coin that powers KöRa, a decentralized shipment delivery network connecting shippers with drivers",
+        "twitter": "https://twitter.com/koraconnect",
+        "website": "https://koraconnect.com"
+      }
     }
   ],
   "version": {
