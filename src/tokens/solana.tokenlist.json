@@ -156030,6 +156030,88 @@
       "extensions": {
         "twitter": "https://twitter.com/azvrma"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FdSBbLHK8hfc6BSqjrhQZaGj7jgd5vfPcchDB2RDAQFA",
+      "symbol": "DMNDS",
+      "name": "DH Diamonds",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FdSBbLHK8hfc6BSqjrhQZaGj7jgd5vfPcchDB2RDAQFA/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.cprodiamond.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9t9KEtXY6rxyctXE99mkuk3XbZF8zuEvVoCMWnP4KWU2",
+      "symbol": "DHHDY",
+      "name": "DH Hoodie",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9t9KEtXY6rxyctXE99mkuk3XbZF8zuEvVoCMWnP4KWU2/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.cprodiamond.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8JQBQ2uCLxLP2pskrVpAjuHGQNVbWp3Xaqu3Whr5Ssy",
+      "symbol": "DHTSRT",
+      "name": "DH Tshirt",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8JQBQ2uCLxLP2pskrVpAjuHGQNVbWp3Xaqu3Whr5Ssy/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.cprodiamond.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Etr45gAt9WKsuWiiHa3vhTNnDSMG8ihKS35RbPoWGww2",
+      "symbol": "HSL",
+      "name": "HSL Lotto",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Etr45gAt9WKsuWiiHa3vhTNnDSMG8ihKS35RbPoWGww2/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Vaf54vCMYg",
+        "twitter": "https://twitter.com/HeavensLotto"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ZWL17C2DMPXTAmjHL8nNkg2RFMzMRGXdA28pas8s67a",
+      "symbol": "ZWL1T",
+      "name": "Zombiees Whitelist 1 Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZWL17C2DMPXTAmjHL8nNkg2RFMzMRGXdA28pas8s67a/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ZWL2AknBaix1oZMV1QZGDmMWthMkJc44Rk51Z6L2XYc",
+      "symbol": "ZWL2T",
+      "name": "Zombiees Whitelist 2 Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZWL2AknBaix1oZMV1QZGDmMWthMkJc44Rk51Z6L2XYc/logo.PNG",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
