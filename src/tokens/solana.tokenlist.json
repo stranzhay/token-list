@@ -155932,6 +155932,14 @@
         "twitter": "https://twitter.com/koraconnect",
         "website": "https://koraconnect.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gj5CxKTz5m6vMaaq7ksgAPLbZFGTC97EpNinLggB2yax",
+      "symbol": "GojiraWhitelist",
+      "name": "Gojira WLtoken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gj5CxKTz5m6vMaaq7ksgAPLbZFGTC97EpNinLggB2yax/logo.png"
     }
   ],
   "version": {
