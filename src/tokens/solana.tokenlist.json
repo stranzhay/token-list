@@ -155860,6 +155860,18 @@
         "discord": "https://discord.gg/CatVNbgakx",
         "twitter": "https://twitter.com/air_care1"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5U39RWhvpQqkASZBN2wqkii3JBRGwha9uC7xQJodcpFa",
+      "symbol": "DCoin",
+      "name": "DadoCoin",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/DadoKingCur/crypto/main/pink-blue-d-alphabet-letter-logo-for-business-and-company-with-gradient-design-pastel-colour-for-corporate-identity-vector%20(2).jpg",
+      "extensions": {
+        "instagram": "https://www.instagram.com/dossais__/",
+        "twitter": "https://twitter.com/DadoKingCura"
+      }
     }
   ],
   "version": {
