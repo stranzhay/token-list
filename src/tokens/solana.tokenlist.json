@@ -155834,6 +155834,17 @@
       "extensions": {
         "website": "https://bunnyducky.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4AsEadPPuD1183oD6aqBsqrY2afGzZWtxqF1GkAjpQeE",
+      "symbol": "LAGERCOIN",
+      "name": "Lager Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/Paul-Sizon/BeerCoinLogo/blob/main/logo2.png?raw=true",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
