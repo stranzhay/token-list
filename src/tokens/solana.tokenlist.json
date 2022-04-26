@@ -155663,6 +155663,28 @@
         "discord": "https://discord.gg/4V9b5qCMDK",
         "twitter": "https://twitter.com/greenie_planet"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5tMhmodggwwcdcQQUZXJabXbU5NAbpWqMXkUjeFs9X72",
+      "symbol": "SDWL",
+      "name": "SolarDex WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5tMhmodggwwcdcQQUZXJabXbU5NAbpWqMXkUjeFs9X72/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "jBunk7zcKaVuWJtFJcYkStA3aqmEBu4R2jXRHNa9kbh",
+      "symbol": "SSSH",
+      "name": "SSS Holders SD",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/jBunk7zcKaVuWJtFJcYkStA3aqmEBu4R2jXRHNa9kbh/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
