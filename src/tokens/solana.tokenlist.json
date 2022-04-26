@@ -155901,6 +155901,21 @@
         "instagram": "https://www.instagram.com/littlepiggynftclub/",
         "twitter": "https://twitter.com/NFT_LittlePiggy"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F8pZGcGBiN5nd15RKybZmYLszwdejVvVzSMzXSMqvWJj",
+      "symbol": "SALSA",
+      "name": "Salsa",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/salsalogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/worldoftacos_",
+        "website": "https://worldoftaco.com.mx"
+      }
     }
   ],
   "version": {
