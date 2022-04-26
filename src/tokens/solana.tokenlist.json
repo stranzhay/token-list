@@ -155795,6 +155795,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AU4bT5vsa8Dqsd9BXEzsW5QSeDQ97QwKx8oEum8GMKpG",
+      "symbol": "SAI",
+      "name": "SAI Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/peakypandas/icon/blob/main/SAI.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
