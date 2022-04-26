@@ -156112,6 +156112,21 @@
         "whitelist-token",
         "nfts"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DS9Fzb4QC53aHAgsS4UMG5ZL1ejdU5x4wbAdJ16AY4n7",
+      "symbol": "KAD",
+      "name": "Kad Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kadcoin/kadcoin/main/kadcoin-01.png",
+      "tags": [
+        "community-token",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://www.kadlab.se"
+      }
     }
   ],
   "version": {
