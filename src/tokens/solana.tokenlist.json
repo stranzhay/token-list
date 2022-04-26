@@ -155966,6 +155966,39 @@
       "name": "OTAKU Coin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EG9JDbEiCFpQ8a9LCi8AXskKvqZy757n3yFCnBvLrZRd/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GvBcdeaThoyzFBzmkv91kz4Z5GMD1PvaQy22JGXeYfeH",
+      "symbol": "BOXT",
+      "name": "BOXT",
+      "decimals": 6,
+      "logoURI": "https://testgpex.s3.ap-northeast-1.amazonaws.com/test/coin/2022/04/25/87f9d1a728a84bc1aadc7dac3ed165cd.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/BfvrvSMuVR",
+        "twitter": "https://twitter.com/box_trad",
+        "website": "https://www.boxtradex.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GQnKiouoweU9rv9VMLQbrJwbjL7FLFjXAKp7Pj668iy3",
+      "symbol": "AGORA",
+      "name": "AGORA",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GQnKiouoweU9rv9VMLQbrJwbjL7FLFjXAKp7Pj668iy3/logo.png",
+      "tags": [
+        "utility-token",
+        "stake-pool-token"
+      ],
+      "extensions": {
+        "description": "The $AGORA token is the shopping currency of the Agora, our Metaverse. It will be used to purchase items inside our Metashops : whether it is for NFTs or material items is up to you. Our goal is to create a currency that bridges blockchain related utility and real life utility. You could potentially plan your next road trip with $AGORA or even purchase your engagement ring with it. The more businesses that partner with us the more $AGORA will have tangible utility.",
+        "twitter": "https://twitter.com/lofts_club",
+        "website": "https://agoraverse.org/"
+      }
     }
   ],
   "version": {
