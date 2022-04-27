@@ -156964,6 +156964,17 @@
         "social-token",
         "utility-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3ZB5G65aYUfnJP9NM3FkpenCYYy198NgJUFG68RdSVXU",
+      "symbol": "DOOF",
+      "name": "Doof Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/schraderweb/crypto/main/dooflogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
