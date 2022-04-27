@@ -156375,6 +156375,22 @@
         "twitter": "https://twitter.com/lanaprotocol",
         "website": "https://lanafi.app"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J5VXnHqrr36DxXm3SsXQavfUKZ5DsE9dZxnKeZtUUMkq",
+      "symbol": "ANM",
+      "name": "ANIMETA TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/GaitanaruAndrei/assets/main/bun2_ccexpress.png",
+      "tags": [
+        "meta-verse",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "ANIMETA(ANM) token that can be earned from an interactive game with limitless ideas then redeemed.",
+        "website": "https://www.ani-meta.io"
+      }
     }
   ],
   "version": {
