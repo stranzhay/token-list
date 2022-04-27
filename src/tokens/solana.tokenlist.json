@@ -156780,6 +156780,23 @@
       "extensions": {
         "twitter": "https://twitter.com/JIKANSTUDIOS"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B7oUeMmDT2ZjsCXUVtvTBYcBb4jJy5CXW1FE3Wqr68Gb",
+      "symbol": "VYV",
+      "name": "Vyvest",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Vyvest/vyvest_token/main/logo.png",
+      "tags": [
+        "utility-token",
+        "currency",
+        "vyvest"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/vyvest/",
+        "twitter": "https://twitter.com/vyvest"
+      }
     }
   ],
   "version": {
