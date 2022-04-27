@@ -156598,6 +156598,23 @@
         "telegram": "https://t.me/LP_Defi_Official_group",
         "twitter": "https://twitter.com/LPFinance_"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AotgToH2CXpWh1m8xsCrYQ46fz4n4FdEnL3FgTYcSnt2",
+      "symbol": "AOTG",
+      "name": "Apes Of the Gods Governance Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AotgToH2CXpWh1m8xsCrYQ46fz4n4FdEnL3FgTYcSnt2/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/apesofthegods",
+        "twitter": "https://twitter.com/ApesoftheGods",
+        "website": "https://apesofthegods.com/"
+      }
     }
   ],
   "version": {
