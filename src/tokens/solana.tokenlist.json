@@ -156327,6 +156327,17 @@
       "extensions": {
         "description": "StonedFarms Dank Token "
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HREpY3ciGUwXkjTcsJfEVyWtsvgLLNSoz9KBUVHLGkkK",
+      "symbol": "CRETE",
+      "name": "CRETERNITY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/creternity/crypto/main/creternity_35.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
