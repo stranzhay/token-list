@@ -156707,6 +156707,19 @@
         "twitter": "https://twitter.com/metaversiumgame",
         "website": "https://metaversium.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8fAt3GoA7vp1m6JWw4xKwyXM7QMHrapbA25x5wmkZD2v",
+      "symbol": "MAYAX",
+      "name": "Mayax",
+      "decimals": 4,
+      "logoURI": "https://github.com/suleymanusmahmutus/mayax-token/blob/main/$MAYX%20logo.png?raw=true",
+      "tags": [
+        "NFT",
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
