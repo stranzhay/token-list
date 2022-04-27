@@ -156898,6 +156898,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7BjLhYaF6cayDiCEZ77UnKuEPmK52CkL5bybJ7ZFrjyu",
+      "symbol": "WLS",
+      "name": "WLSkeletonz",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Deghf666g/wltoken/main/Bones.png?token=GHSAT0AAAAAABTUJFEMQQ75RK4YB3RNOWNKYTJUIEA",
+      "tags": [
+        "NFT",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SkeletonzNFT",
+        "website": "https://skeletons-nft.com/"
+      }
     }
   ],
   "version": {
