@@ -156338,6 +156338,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2g8238SLAkUSoRVATfKT5sV3121J9LUaCvCuez7iyNDW",
+      "symbol": "CFSC",
+      "name": "CloudFit Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/brandoncamerer/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
