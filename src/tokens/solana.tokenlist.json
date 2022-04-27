@@ -156681,6 +156681,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AuFj6v1RSGv5fgPAhGMEHy7VEDQD97DRphBMRSo2218q",
+      "symbol": "KAV1",
+      "name": "Kawaii DAO Vote Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AuFj6v1RSGv5fgPAhGMEHy7VEDQD97DRphBMRSo2218q/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
