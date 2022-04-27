@@ -156952,6 +156952,18 @@
         "twitter": "https://twitter.com/communi3_io",
         "website": "https://nft.communi3.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GG7y153Enp7VaNbbGKLtgrhY7B8x2PFawvx445FQkf9L",
+      "symbol": "OZK",
+      "name": "OZAK",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/St33b8n/asset/main/logo.jpg",
+      "tags": [
+        "social-token",
+        "utility-Token"
+      ]
     }
   ],
   "version": {
