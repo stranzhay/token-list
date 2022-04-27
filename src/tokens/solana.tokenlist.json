@@ -156249,6 +156249,22 @@
       "extensions": {
         "twitter": "https://twitter.com/ascii_punk"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GEMSkjHriJp95iSZpRgb5ym3RQeaMFig7cfWvnWTT4An",
+      "symbol": "GEMS",
+      "name": "Good Earth Mood Stones",
+      "decimals": 8,
+      "logoURI": "https://media.kaijucards.io/misc/gem.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fVmPr5uefk",
+        "twitter": "https://twitter.com/kaijucards",
+        "website": "https://kaijucards.io"
+      }
     }
   ],
   "version": {
