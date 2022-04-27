@@ -156204,6 +156204,67 @@
         "twitter": "https://twitter.com/ZenjinViperz",
         "website": "https://www.zenjinviperz.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EvQPSR1TwrCJwapoXgLtCiEaiRdbBefkNaqPcUPKzJV3",
+      "symbol": "PSAGE",
+      "name": "Passage Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/njericooper/Passage/main/Official_Passage_Token_Logo_x100.png",
+      "tags": [
+        "nft-token",
+        "community-token",
+        "transactional-token"
+      ],
+      "extensions": {
+        "description": "Passage Token is the official currency for The Soverign Nation of New Lemuria",
+        "website": "https://passage.trinitymedianetwork.org/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C3n8hVc6fkTW9rpNaYv3zQT2vUen7Ujzy93F9BWd8F7R",
+      "symbol": "FACES",
+      "name": "Caras",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C3n8hVc6fkTW9rpNaYv3zQT2vUen7Ujzy93F9BWd8F7R/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/jooselito12"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "D4KVLfryvPdjPsWRKDWGz4YpqpqZHkrjk1JzUMeBG8JJ",
+      "symbol": "APUNK",
+      "name": "AsciiPunk Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D4KVLfryvPdjPsWRKDWGz4YpqpqZHkrjk1JzUMeBG8JJ/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ascii_punk"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GEMSkjHriJp95iSZpRgb5ym3RQeaMFig7cfWvnWTT4An",
+      "symbol": "GEMS",
+      "name": "Good Earth Mood Stones",
+      "decimals": 8,
+      "logoURI": "https://media.kaijucards.io/misc/gem.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fVmPr5uefk",
+        "twitter": "https://twitter.com/kaijucards",
+        "website": "https://kaijucards.io"
+      }
     }
   ],
   "version": {
