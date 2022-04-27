@@ -156670,6 +156670,17 @@
         "twitter": "https://twitter.com/artmonkees",
         "website": "https://artmonkees.io/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "CyRFrieoNB1hxw8bjyoh3y7eYA5QeFS9PsdpkM3VSJwR",
+      "symbol": "CHILL",
+      "name": "Chill Fish Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CyRFrieoNB1hxw8bjyoh3y7eYA5QeFS9PsdpkM3VSJwR/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
