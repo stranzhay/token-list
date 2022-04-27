@@ -156273,6 +156273,22 @@
       "name": "CFT Test Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LZBmYxFxxh4DrEbaRTY9tJ5JzsfRPSGXhDswSDR9wSX/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "AcZLBqhVjqnd4aoyRQ4fQpsBQnPtwNAFFHEmsedctmUR",
+      "symbol": "DPAY",
+      "name": "Daupay",
+      "decimals": 9,
+      "logoURI": "https://daupay.com/logo.png",
+      "tags": [
+        "finance",
+        "trading",
+        "swap"
+      ],
+      "extensions": {
+        "website": "https://daupay.com"
+      }
     }
   ],
   "version": {
