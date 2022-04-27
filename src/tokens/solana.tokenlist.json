@@ -157002,6 +157002,17 @@
       "extensions": {
         "twitter": "https://twitter.com/wmonkeysc"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C38sEPwJa6zSCmrZjbnmeST3ACjsZiJ3VfZMb3Wz9CVR",
+      "symbol": "SPN",
+      "name": "Solar Panel",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Acidias/CryptoSolToken/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
