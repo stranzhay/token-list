@@ -156289,6 +156289,17 @@
       "extensions": {
         "website": "https://daupay.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A3cTUqeYDWiYrapPi9ooanhkn8Cmj82bXxqWxezJW6sf",
+      "symbol": "TIGER",
+      "name": "TIGER City Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A3cTUqeYDWiYrapPi9ooanhkn8Cmj82bXxqWxezJW6sf/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
