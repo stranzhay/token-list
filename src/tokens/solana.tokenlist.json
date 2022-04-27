@@ -156530,6 +156530,18 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe",
+      "symbol": "DARKELVSF",
+      "name": "DARKELV Spiky Freak",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
