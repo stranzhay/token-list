@@ -156554,6 +156554,18 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH",
+      "symbol": "DARKELVHA",
+      "name": "DARKELV Half Abstract",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
