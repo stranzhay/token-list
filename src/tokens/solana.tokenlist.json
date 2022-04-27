@@ -156566,6 +156566,66 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CweMB86iVRjF7hn4rq2tDcdz6HzDaTNAHEaAB9VKADov",
+      "symbol": "RAG",
+      "name": "RAM-G",
+      "decimals": 0,
+      "logoURI": "https://www.ram-g.ml/RamG.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Nvs6ebZb",
+        "website": "https://www.ram-g.ml"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "H5cDniBsyfoddtHrfz6gCSw7R23ZwRuzozD4Fek9WUsS",
+      "symbol": "lpUSD",
+      "name": "LP Finance USD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/lpUSD.png",
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ug7mstrHNW",
+        "telegram": "https://t.me/LP_Defi_Official_group",
+        "twitter": "https://twitter.com/LPFinance_"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AotgToH2CXpWh1m8xsCrYQ46fz4n4FdEnL3FgTYcSnt2",
+      "symbol": "AOTG",
+      "name": "Apes Of the Gods Governance Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AotgToH2CXpWh1m8xsCrYQ46fz4n4FdEnL3FgTYcSnt2/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/apesofthegods",
+        "twitter": "https://twitter.com/ApesoftheGods",
+        "website": "https://apesofthegods.com/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "ErdkWPCAJP3cXH56ZeRCPqpHkJFtNyF3gPuEjxkwwgBq",
+      "symbol": "PH",
+      "name": "Phenal",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rohitrj22/phenal/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
