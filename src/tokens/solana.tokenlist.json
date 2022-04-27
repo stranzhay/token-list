@@ -156838,6 +156838,32 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Bb9MA1zCZ6qHTavbpxGe6Gwei1TrnPqv9AHJ6B38yeut",
+      "symbol": "A8",
+      "name": "Ancient8",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bb9MA1zCZ6qHTavbpxGe6Gwei1TrnPqv9AHJ6B38yeut/logo.png",
+      "tags": [
+        "DAO-token",
+        "social-token",
+        "community-token",
+        "utility-token",
+        "governance-token"
+      ],
+      "extensions": {
+        "address": "Bb9MA1zCZ6qHTavbpxGe6Gwei1TrnPqv9AHJ6B38yeut",
+        "blog": "https://blog.ancient8.gg/",
+        "discord": "https://discord.com/invite/ancient8",
+        "facebook": "https://www.facebook.com/groups/222117549944333",
+        "telegram": "https://t.me/ancient8_gg",
+        "twitter": "https://twitter.com/Ancient8_gg",
+        "website": "https://ancient8.gg/",
+        "whitepaper": "https://whitepaper.ancient8.gg/ancient8/",
+        "youtube": "https://www.youtube.com/channel/UCv4p3wP6A6Li2UYhGsh3tDQ"
+      }
     }
   ],
   "version": {
