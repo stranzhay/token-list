@@ -156952,6 +156952,40 @@
         "twitter": "https://twitter.com/communi3_io",
         "website": "https://nft.communi3.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GG7y153Enp7VaNbbGKLtgrhY7B8x2PFawvx445FQkf9L",
+      "symbol": "OZK",
+      "name": "OZAK",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/St33b8n/asset/main/logo.jpg",
+      "tags": [
+        "social-token",
+        "utility-Token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3ZB5G65aYUfnJP9NM3FkpenCYYy198NgJUFG68RdSVXU",
+      "symbol": "DOOF",
+      "name": "Doof Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/schraderweb/crypto/main/dooflogo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6LYebwvX39zn18XA4692s3h8UsbmBzmnLKmzz1CPm8Ta",
+      "symbol": "SKNK",
+      "name": "SkunkworksCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LYebwvX39zn18XA4692s3h8UsbmBzmnLKmzz1CPm8Ta/logo.svg",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
