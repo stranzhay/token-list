@@ -156273,6 +156273,71 @@
       "name": "CFT Test Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LZBmYxFxxh4DrEbaRTY9tJ5JzsfRPSGXhDswSDR9wSX/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "AcZLBqhVjqnd4aoyRQ4fQpsBQnPtwNAFFHEmsedctmUR",
+      "symbol": "DPAY",
+      "name": "Daupay",
+      "decimals": 9,
+      "logoURI": "https://daupay.com/logo.png",
+      "tags": [
+        "finance",
+        "trading",
+        "swap"
+      ],
+      "extensions": {
+        "website": "https://daupay.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "A3cTUqeYDWiYrapPi9ooanhkn8Cmj82bXxqWxezJW6sf",
+      "symbol": "TIGER",
+      "name": "TIGER City Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A3cTUqeYDWiYrapPi9ooanhkn8Cmj82bXxqWxezJW6sf/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp",
+      "symbol": "DARKELVCF",
+      "name": "DARKELV Crystal Freak",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AMNrJcZb4efKBjCg9djRmYacLgGRT7fR8LA48evGeLK7",
+      "symbol": "DANK",
+      "name": "DANK Token",
+      "decimals": 6,
+      "logoURI": "https://w7.pngwing.com/pngs/541/141/png-transparent-gold-coin-gold-coin-free-to-pull-the-year-of-the-goat-commemorative-coins-free-logo-design-template-animals-gold-coin.png",
+      "tags": [
+        "DANK",
+        "StonedFarms"
+      ],
+      "extensions": {
+        "description": "StonedFarms Dank Token "
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HREpY3ciGUwXkjTcsJfEVyWtsvgLLNSoz9KBUVHLGkkK",
+      "symbol": "CRETE",
+      "name": "CRETERNITY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/creternity/crypto/main/creternity_35.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
