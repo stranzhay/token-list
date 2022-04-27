@@ -156485,6 +156485,17 @@
         "twitter": "https://twitter.com/projectgne",
         "website": "https://projectgne.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EpjyMYD46ebnpxDqt8qwPsK2MCaqvuhB82UBnwhShoaN",
+      "symbol": "BHMT",
+      "name": "BioHumans Mint Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/chillingonsol/logo-/main/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
