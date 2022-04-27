@@ -156692,6 +156692,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "8uvYjAw7U9DJzpN1rCuxRXGLx4acureuKQwjHyrPcoUP",
+      "symbol": "WOOD",
+      "name": "WOOD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/5Ns2m2oBWyj7Kz4VgGgenHZA5dUTJ224AbtjUjaDB651/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metaversiumgame",
+        "website": "https://metaversium.io/"
+      }
     }
   ],
   "version": {
