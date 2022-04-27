@@ -156221,6 +156221,20 @@
         "description": "Passage Token is the official currency for The Soverign Nation of New Lemuria",
         "website": "https://passage.trinitymedianetwork.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C3n8hVc6fkTW9rpNaYv3zQT2vUen7Ujzy93F9BWd8F7R",
+      "symbol": "FACES",
+      "name": "Caras",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C3n8hVc6fkTW9rpNaYv3zQT2vUen7Ujzy93F9BWd8F7R/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/jooselito12"
+      }
     }
   ],
   "version": {
