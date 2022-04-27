@@ -156581,6 +156581,23 @@
         "discord": "https://discord.gg/Nvs6ebZb",
         "website": "https://www.ram-g.ml"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H5cDniBsyfoddtHrfz6gCSw7R23ZwRuzozD4Fek9WUsS",
+      "symbol": "lpUSD",
+      "name": "LP Finance USD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/lpUSD.png",
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ug7mstrHNW",
+        "telegram": "https://t.me/LP_Defi_Official_group",
+        "twitter": "https://twitter.com/LPFinance_"
+      }
     }
   ],
   "version": {
