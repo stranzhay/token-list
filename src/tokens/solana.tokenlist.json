@@ -156766,6 +156766,20 @@
         "twitter": "https://twitter.com/ogali3n",
         "website": "https://linktr.ee/ogali3n"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JiKavX2Z9muwFR3M9eXn9NgHgsT3xUw7QXKWeid2TnY",
+      "symbol": "JIKAN",
+      "name": "JIKAN STUDIOS WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JiKavX2Z9muwFR3M9eXn9NgHgsT3xUw7QXKWeid2TnY/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/JIKANSTUDIOS"
+      }
     }
   ],
   "version": {
