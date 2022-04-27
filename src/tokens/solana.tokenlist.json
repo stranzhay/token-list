@@ -156655,6 +156655,21 @@
         "twitter": "https://twitter.com/VoucherSol",
         "website": "https://medium.com/@vouchersolana"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9jcibqjEh988j7szCXB9jKgF3hH17CYbjrDYoGYGmmne",
+      "symbol": "SOLNANA",
+      "name": "Solnana",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9jcibqjEh988j7szCXB9jKgF3hH17CYbjrDYoGYGmmne/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/artmonkees",
+        "website": "https://artmonkees.io/"
+      }
     }
   ],
   "version": {
