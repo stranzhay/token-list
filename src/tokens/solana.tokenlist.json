@@ -156338,6 +156338,43 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2g8238SLAkUSoRVATfKT5sV3121J9LUaCvCuez7iyNDW",
+      "symbol": "CFSC",
+      "name": "CloudFit Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/brandoncamerer/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9z8UpvjyH17UC8FoWFvmkke4hCfMjpFyVExZy61WHH2L",
+      "symbol": "LSHARE",
+      "name": "LSHARE TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dev8x/token-list/main/assets/mainnet/9z8UpvjyH17UC8FoWFvmkke4hCfMjpFyVExZy61WHH2L/lshare.png",
+      "extensions": {
+        "medium": "https://lanafinance.medium.com/",
+        "twitter": "https://twitter.com/lanaprotocol",
+        "website": "https://lanafi.app/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6rYHThD7ZQAWJmseRzvFro98Pg11K4hYmsHEn9nuM69",
+      "symbol": "LSHARE-SOL",
+      "name": "LSHARE SOL LP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dev8x/token-list/main/assets/mainnet/6rYHThD7ZQAWJmseRzvFro98Pg11K4hYmsHEn9nuM69/lshare-sol.png",
+      "extensions": {
+        "medium": "https://lanafinance.medium.com/",
+        "twitter": "https://twitter.com/lanaprotocol",
+        "website": "https://lanafi.app"
+      }
     }
   ],
   "version": {
