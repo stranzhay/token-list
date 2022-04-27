@@ -156312,6 +156312,21 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AMNrJcZb4efKBjCg9djRmYacLgGRT7fR8LA48evGeLK7",
+      "symbol": "DANK",
+      "name": "DANK Token",
+      "decimals": 6,
+      "logoURI": "https://w7.pngwing.com/pngs/541/141/png-transparent-gold-coin-gold-coin-free-to-pull-the-year-of-the-goat-commemorative-coins-free-logo-design-template-animals-gold-coin.png",
+      "tags": [
+        "DANK",
+        "StonedFarms"
+      ],
+      "extensions": {
+        "description": "StonedFarms Dank Token "
+      }
     }
   ],
   "version": {
