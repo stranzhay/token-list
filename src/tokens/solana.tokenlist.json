@@ -156827,6 +156827,17 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "9ycjFE7CrhKY121J3tupqiCNaYsgSvmnszjaGKKWPRHi",
+      "symbol": "PHEN",
+      "name": "Phenos",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rohitrj22/Phenos/main/logo1.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
