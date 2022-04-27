@@ -156914,6 +156914,17 @@
         "twitter": "https://twitter.com/SkeletonzNFT",
         "website": "https://skeletons-nft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "942JqBf2PipzDyHM5sQyfLh21XUVFmGAoSReMMe1Gfba",
+      "symbol": "SCWL",
+      "name": "SolClones WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/pablolefleur/solcloneswltoken/main/solcloneswlimg.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
