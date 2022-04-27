@@ -156797,6 +156797,96 @@
         "instagram": "https://www.instagram.com/vyvest/",
         "twitter": "https://twitter.com/vyvest"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGpVGTyeofBeQDWRFjyvaC3NzASLNMrKbx1Mno4QSkDb",
+      "symbol": "TCAC",
+      "name": "TCAC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/TCACBot/TCACBot/main/Token1.png",
+      "tags": [
+        "NFT",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/nXN6F4YfGd",
+        "twitter": "https://twitter.com/TCAC_Solana",
+        "website": "https://thecasinoape.club"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4r7pQ4Eu2d8PBukP9XxXymze8a7VKwE6Ta7TqnM7yELQ",
+      "symbol": "NSN",
+      "name": "NS-Network",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/steebxx/asset/main/nslogo14.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "9ycjFE7CrhKY121J3tupqiCNaYsgSvmnszjaGKKWPRHi",
+      "symbol": "PHEN",
+      "name": "Phenos",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rohitrj22/Phenos/main/logo1.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Bb9MA1zCZ6qHTavbpxGe6Gwei1TrnPqv9AHJ6B38yeut",
+      "symbol": "A8",
+      "name": "Ancient8",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bb9MA1zCZ6qHTavbpxGe6Gwei1TrnPqv9AHJ6B38yeut/logo.png",
+      "tags": [
+        "DAO-token",
+        "social-token",
+        "community-token",
+        "utility-token",
+        "governance-token"
+      ],
+      "extensions": {
+        "address": "Bb9MA1zCZ6qHTavbpxGe6Gwei1TrnPqv9AHJ6B38yeut",
+        "blog": "https://blog.ancient8.gg/",
+        "discord": "https://discord.com/invite/ancient8",
+        "facebook": "https://www.facebook.com/groups/222117549944333",
+        "telegram": "https://t.me/ancient8_gg",
+        "twitter": "https://twitter.com/Ancient8_gg",
+        "website": "https://ancient8.gg/",
+        "whitepaper": "https://whitepaper.ancient8.gg/ancient8/",
+        "youtube": "https://www.youtube.com/channel/UCv4p3wP6A6Li2UYhGsh3tDQ"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "4uQikXdLpygqu5dD76FMeVhm5VadVw4ekqWuXsUDp2Xo",
+      "symbol": "AMWL",
+      "name": "Alien Mentors WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/alien2.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "SLYRnc8efXUZjMVQiG65p2RUsukQPEdgPWLGYn3oHrF",
+      "symbol": "SLYR",
+      "name": "SuperLayer",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLYRnc8efXUZjMVQiG65p2RUsukQPEdgPWLGYn3oHrF/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/SuperLayerio",
+        "website": "https://superlayer.io"
+      }
     }
   ],
   "version": {
