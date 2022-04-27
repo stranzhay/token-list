@@ -156720,6 +156720,21 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "A823zwVE6dfjJJ3WDcxkPycZX7LkCiF7jazt1V9rxvWr",
+      "symbol": "TMMT",
+      "name": "The Mouse Mouse Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/llaera/TMMT/main/logoTMMT.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/lorislaera",
+        "website": "http://loris.lu/"
+      }
     }
   ],
   "version": {
