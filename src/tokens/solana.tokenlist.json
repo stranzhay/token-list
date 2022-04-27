@@ -156815,6 +156815,18 @@
         "twitter": "https://twitter.com/TCAC_Solana",
         "website": "https://thecasinoape.club"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4r7pQ4Eu2d8PBukP9XxXymze8a7VKwE6Ta7TqnM7yELQ",
+      "symbol": "NSN",
+      "name": "NS-Network",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/steebxx/asset/main/nslogo14.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
