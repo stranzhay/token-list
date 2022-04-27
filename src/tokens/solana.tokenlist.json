@@ -156681,6 +156681,32 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AuFj6v1RSGv5fgPAhGMEHy7VEDQD97DRphBMRSo2218q",
+      "symbol": "KAV1",
+      "name": "Kawaii DAO Vote Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AuFj6v1RSGv5fgPAhGMEHy7VEDQD97DRphBMRSo2218q/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "8uvYjAw7U9DJzpN1rCuxRXGLx4acureuKQwjHyrPcoUP",
+      "symbol": "WOOD",
+      "name": "WOOD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/5Ns2m2oBWyj7Kz4VgGgenHZA5dUTJ224AbtjUjaDB651/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metaversiumgame",
+        "website": "https://metaversium.io/"
+      }
     }
   ],
   "version": {
