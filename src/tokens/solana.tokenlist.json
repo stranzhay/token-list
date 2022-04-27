@@ -156432,6 +156432,21 @@
         "discord": "https://discord.com/invite/wzEfUjmpFw",
         "twitter": "https://twitter.com/JellyBabiesNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6e5HkEuXdUQrVYxbbAQiNfBQhre79jyrkBqenmPgdqcG",
+      "symbol": "JELLYwl3",
+      "name": "Jelly Babies Phase 3 WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6e5HkEuXdUQrVYxbbAQiNfBQhre79jyrkBqenmPgdqcG/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wzEfUjmpFw",
+        "twitter": "https://twitter.com/JellyBabiesNFT"
+      }
     }
   ],
   "version": {
