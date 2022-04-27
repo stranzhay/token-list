@@ -156566,6 +156566,21 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CweMB86iVRjF7hn4rq2tDcdz6HzDaTNAHEaAB9VKADov",
+      "symbol": "RAG",
+      "name": "RAM-G",
+      "decimals": 0,
+      "logoURI": "https://www.ram-g.ml/RamG.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Nvs6ebZb",
+        "website": "https://www.ram-g.ml"
+      }
     }
   ],
   "version": {
