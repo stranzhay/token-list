@@ -156637,6 +156637,50 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DR8thdhLWjw5ZEahtn53SLgzAWqZQ3ZyhQQCHomC95Ut",
+      "symbol": "Voucher",
+      "name": "Voucher Solana",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/VoucherSol/Crypto/main/vouchersol-logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "The world's first innovation project integrating blockchain technology into the education system to enhance learning enthusiasm",
+        "github": "https://github.com/VoucherSol",
+        "twitter": "https://twitter.com/VoucherSol",
+        "website": "https://medium.com/@vouchersolana"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9jcibqjEh988j7szCXB9jKgF3hH17CYbjrDYoGYGmmne",
+      "symbol": "SOLNANA",
+      "name": "Solnana",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9jcibqjEh988j7szCXB9jKgF3hH17CYbjrDYoGYGmmne/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/artmonkees",
+        "website": "https://artmonkees.io/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "CyRFrieoNB1hxw8bjyoh3y7eYA5QeFS9PsdpkM3VSJwR",
+      "symbol": "CHILL",
+      "name": "Chill Fish Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CyRFrieoNB1hxw8bjyoh3y7eYA5QeFS9PsdpkM3VSJwR/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
