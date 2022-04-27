@@ -156887,6 +156887,17 @@
         "twitter": "https://twitter.com/SuperLayerio",
         "website": "https://superlayer.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fe49uKc9471umPfsSqPbJQR473dYMokdqNuLtWLCPxss",
+      "symbol": "SLHK",
+      "name": "SolheimKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/krso1002/crypto/main/logoSolheinCoin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
