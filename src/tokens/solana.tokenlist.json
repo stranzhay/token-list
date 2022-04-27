@@ -156235,6 +156235,20 @@
       "extensions": {
         "facebook": "https://facebook.com/jooselito12"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D4KVLfryvPdjPsWRKDWGz4YpqpqZHkrjk1JzUMeBG8JJ",
+      "symbol": "APUNK",
+      "name": "AsciiPunk Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D4KVLfryvPdjPsWRKDWGz4YpqpqZHkrjk1JzUMeBG8JJ/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ascii_punk"
+      }
     }
   ],
   "version": {
