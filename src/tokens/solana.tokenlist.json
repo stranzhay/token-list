@@ -156507,6 +156507,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2wqKmDPQeyJrrBLsFvkebD7xXbwAMdHqb6o1ZrUKWagW",
+      "symbol": "ALPHA-WL",
+      "name": "ALPHA WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wqKmDPQeyJrrBLsFvkebD7xXbwAMdHqb6o1ZrUKWagW/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
