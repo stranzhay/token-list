@@ -156975,6 +156975,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6LYebwvX39zn18XA4692s3h8UsbmBzmnLKmzz1CPm8Ta",
+      "symbol": "SKNK",
+      "name": "SkunkworksCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LYebwvX39zn18XA4692s3h8UsbmBzmnLKmzz1CPm8Ta/logo.svg",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
