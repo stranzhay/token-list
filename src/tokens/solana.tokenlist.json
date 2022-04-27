@@ -156507,6 +156507,65 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2wqKmDPQeyJrrBLsFvkebD7xXbwAMdHqb6o1ZrUKWagW",
+      "symbol": "ALPHA-WL",
+      "name": "ALPHA WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wqKmDPQeyJrrBLsFvkebD7xXbwAMdHqb6o1ZrUKWagW/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FxyCwJDEHXePAE6Fph6eiwsCvkJw8kV8vnPnSwBFdPPW",
+      "symbol": "DARKELVTV",
+      "name": "DARKELV Tech Vulture",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FxyCwJDEHXePAE6Fph6eiwsCvkJw8kV8vnPnSwBFdPPW/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe",
+      "symbol": "DARKELVSF",
+      "name": "DARKELV Spiky Freak",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh",
+      "symbol": "DARKELVLD",
+      "name": "DARKELV Liquid Demon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH",
+      "symbol": "DARKELVHA",
+      "name": "DARKELV Half Abstract",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
