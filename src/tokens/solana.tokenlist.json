@@ -156265,6 +156265,14 @@
         "twitter": "https://twitter.com/kaijucards",
         "website": "https://kaijucards.io"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "4LZBmYxFxxh4DrEbaRTY9tJ5JzsfRPSGXhDswSDR9wSX",
+      "symbol": "CFT",
+      "name": "CFT Test Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LZBmYxFxxh4DrEbaRTY9tJ5JzsfRPSGXhDswSDR9wSX/logo.png"
     }
   ],
   "version": {
