@@ -156468,6 +156468,23 @@
         "website": "https://ipfs.safewatch.xyz/ipns/QmTo1AnNH7Snu37Dotphw2fX54u1S5VLFpnnERN7GbyUrW/#gcoin",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmTo1AnNH7Snu37Dotphw2fX54u1S5VLFpnnERN7GbyUrW/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5RRQKdF4MSicGSgx2HiGf9Fr4SN5m5743S3qpbcEc5fk",
+      "symbol": "GNE",
+      "name": "Project GNE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/vking45/assets/main/gne.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ympTZR9jY8",
+        "instagram": "https://instagram.com/projectgne",
+        "twitter": "https://twitter.com/projectgne",
+        "website": "https://projectgne.com/"
+      }
     }
   ],
   "version": {
