@@ -156615,6 +156615,17 @@
         "twitter": "https://twitter.com/ApesoftheGods",
         "website": "https://apesofthegods.com/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "ErdkWPCAJP3cXH56ZeRCPqpHkJFtNyF3gPuEjxkwwgBq",
+      "symbol": "PH",
+      "name": "Phenal",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rohitrj22/phenal/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
