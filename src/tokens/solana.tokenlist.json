@@ -156720,6 +156720,83 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "A823zwVE6dfjJJ3WDcxkPycZX7LkCiF7jazt1V9rxvWr",
+      "symbol": "TMMT",
+      "name": "The Mouse Mouse Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/llaera/TMMT/main/logoTMMT.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/lorislaera",
+        "website": "http://loris.lu/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4qHdtf8B5mWC9dPeZzBryWmrF4s4cyGEdBnYeyNdSP7y",
+      "symbol": "DEU",
+      "name": "DEUTERIUM",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4qHdtf8B5mWC9dPeZzBryWmrF4s4cyGEdBnYeyNdSP7y/deulogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "$DEU is literally the fuel of the entire OG Ali3n ecosystem, it is a Token created on the Solana Blockchain",
+        "discord": "https://discord.gg/wU2VVbnJwa",
+        "twitter": "https://twitter.com/ogali3n",
+        "website": "https://linktr.ee/ogali3n"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ABi53CLHZeS4gFsRhrLwxWg2BD1WyymyXBBgD7aC1svb",
+      "symbol": "OGAN3",
+      "name": "OG Ali3n WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ABi53CLHZeS4gFsRhrLwxWg2BD1WyymyXBBgD7aC1svb/logo.png",
+      "extensions": {
+        "description": "This token will grant you access to 1 mint during Presale of OG Ali3n",
+        "discord": "https://discord.gg/wU2VVbnJwa",
+        "twitter": "https://twitter.com/ogali3n",
+        "website": "https://linktr.ee/ogali3n"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "JiKavX2Z9muwFR3M9eXn9NgHgsT3xUw7QXKWeid2TnY",
+      "symbol": "JIKAN",
+      "name": "JIKAN STUDIOS WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JiKavX2Z9muwFR3M9eXn9NgHgsT3xUw7QXKWeid2TnY/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/JIKANSTUDIOS"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "B7oUeMmDT2ZjsCXUVtvTBYcBb4jJy5CXW1FE3Wqr68Gb",
+      "symbol": "VYV",
+      "name": "Vyvest",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Vyvest/vyvest_token/main/logo.png",
+      "tags": [
+        "utility-token",
+        "currency",
+        "vyvest"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/vyvest/",
+        "twitter": "https://twitter.com/vyvest"
+      }
     }
   ],
   "version": {
