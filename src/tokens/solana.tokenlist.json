@@ -156300,6 +156300,18 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp",
+      "symbol": "DARKELVCF",
+      "name": "DARKELV Crystal Freak",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
