@@ -156402,6 +156402,72 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "APGCvZeM2ZVTjeMftVuVwPAKXfmZRj4AYkjURvwgGvpN",
+      "symbol": "JELLYwl2",
+      "name": "Jelly Phase 2 WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/APGCvZeM2ZVTjeMftVuVwPAKXfmZRj4AYkjURvwgGvpN/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wzEfUjmpFw",
+        "twitter": "https://twitter.com/JellyBabiesNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3PGgQnN1icXNscLCjwF6zdyeCrDP4vmBg6LBK5MLdAC4",
+      "symbol": "JELLYwl1",
+      "name": "Jelly Babies Phase 1 WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3PGgQnN1icXNscLCjwF6zdyeCrDP4vmBg6LBK5MLdAC4/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wzEfUjmpFw",
+        "twitter": "https://twitter.com/JellyBabiesNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6e5HkEuXdUQrVYxbbAQiNfBQhre79jyrkBqenmPgdqcG",
+      "symbol": "JELLYwl3",
+      "name": "Jelly Babies Phase 3 WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6e5HkEuXdUQrVYxbbAQiNfBQhre79jyrkBqenmPgdqcG/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wzEfUjmpFw",
+        "twitter": "https://twitter.com/JellyBabiesNFT"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "CarbonRRCJA2wMpHY2P4iP9KS4DScun5sdbv3PvNa4aZ",
+      "symbol": "gcoin",
+      "name": "Green Coin",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/gcoin/gcoin.svg",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "The only way to get carbon negative cryptocurrency is using gcoin: a CO2 accountancy NFT",
+        "imageUrl": "https://bafybeibcchigmrbxhijavgamnmpg3qcqj4tccgaux64ctirymqetlzng3q.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://ipfs.safewatch.xyz/ipns/QmTo1AnNH7Snu37Dotphw2fX54u1S5VLFpnnERN7GbyUrW/#gcoin",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmTo1AnNH7Snu37Dotphw2fX54u1S5VLFpnnERN7GbyUrW/whitepaper.pdf"
+      }
     }
   ],
   "version": {
