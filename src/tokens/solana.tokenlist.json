@@ -156925,6 +156925,17 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "J1gpNtGmUqrZ5RuaVLep8UsMjtL1jjiBU7Zvea72xegn",
+      "symbol": "MIAPSO",
+      "name": "MIAPSO Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/mihaiapso/1stcrypto/main/256.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
