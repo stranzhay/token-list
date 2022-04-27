@@ -156518,6 +156518,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FxyCwJDEHXePAE6Fph6eiwsCvkJw8kV8vnPnSwBFdPPW",
+      "symbol": "DARKELVTV",
+      "name": "DARKELV Tech Vulture",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FxyCwJDEHXePAE6Fph6eiwsCvkJw8kV8vnPnSwBFdPPW/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
