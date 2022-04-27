@@ -156542,6 +156542,18 @@
         "NFT",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh",
+      "symbol": "DARKELVLD",
+      "name": "DARKELV Liquid Demon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
