@@ -156797,6 +156797,24 @@
         "instagram": "https://www.instagram.com/vyvest/",
         "twitter": "https://twitter.com/vyvest"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGpVGTyeofBeQDWRFjyvaC3NzASLNMrKbx1Mno4QSkDb",
+      "symbol": "TCAC",
+      "name": "TCAC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/TCACBot/TCACBot/main/Token1.png",
+      "tags": [
+        "NFT",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/nXN6F4YfGd",
+        "twitter": "https://twitter.com/TCAC_Solana",
+        "website": "https://thecasinoape.club"
+      }
     }
   ],
   "version": {
