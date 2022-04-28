@@ -157443,6 +157443,34 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "tojixS2xsLhpSfYRvLfALmMehyQMEUDwV9RH7TMQmkY",
+      "symbol": "$IJOT",
+      "name": "Tojiba CPU IJOT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tojibaceo/tojibaceo/main/ijot2.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Tojiba CPU Corps native token IJOT",
+        "discord": "https://discord.gg/br3Cfh56kF",
+        "twitter": "https://twitter.com/tojibaceo",
+        "website": "https://www.tojiba.biz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "G2y1fVA8Rx5dTg21xsDGwJycZAqr4uhLYussCgu1V3LM",
+      "symbol": "$KIBBLE",
+      "name": "BABC Kibbles",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G2y1fVA8Rx5dTg21xsDGwJycZAqr4uhLYussCgu1V3LM/logo.png",
+      "extensions": {
+        "website": "https://babclub.io/"
+      }
     }
   ],
   "version": {
