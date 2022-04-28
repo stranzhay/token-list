@@ -157292,6 +157292,30 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6xwLaeaZdV3WTQ3CEaau3CdRggj13Sg91ddNaZCHpr4G",
+      "symbol": "ATT",
+      "name": "Akvo Test Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/scgithubcs/AKVOTest/blob/main/akvo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CqoMXWaoTMfYNtTTwTadz9bMxg8DkZJVKtVRcw77nmYg",
+      "symbol": "ALT2B",
+      "name": "Bitcoin Alternative Coin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/alt2b/crypto/main/a2BTC%20logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
