@@ -157188,6 +157188,22 @@
         "twitter": "https://twitter.com/Houseofsparta_",
         "website": "https://houseofsparta.art/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A3epfzWH65DHqYa8ZMkpg1MwPyhV6RU6TeTTuXAzR6TQ",
+      "symbol": "USDPT",
+      "name": "United States Dollar Partoken",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A3epfzWH65DHqYa8ZMkpg1MwPyhV6RU6TeTTuXAzR6TQ/logo.png",
+      "tags": [
+        "stablecoin",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "United States Dollar Partoken (USDPT) is a one-for-one United States Dollar collateralized stablecoin token.",
+        "website": "https://partokens.com/usdpt"
+      }
     }
   ],
   "version": {
