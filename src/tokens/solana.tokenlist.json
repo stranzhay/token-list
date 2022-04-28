@@ -157402,6 +157402,17 @@
         "instagram": "https://instagram.com/cryptoscoffee?igshid=YmMyMTA2M2Y=",
         "website": "https://www.cryptoscoffee.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "k6DGTMnEvS5XZRJpq39rF5WFm2Htukc4iFBTXe6gbPG",
+      "symbol": "WLIST",
+      "name": "Web3 Trollz Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/k6DGTMnEvS5XZRJpq39rF5WFm2Htukc4iFBTXe6gbPG/UndergroundLogo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
