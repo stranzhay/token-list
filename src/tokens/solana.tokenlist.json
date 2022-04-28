@@ -156986,6 +156986,41 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "WMC5QepSBi8wdGt84pa2vvZBuhksEVrADaVNMci8sgq",
+      "symbol": "WMC",
+      "name": "Wonder Monkeys Club",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WMC5QepSBi8wdGt84pa2vvZBuhksEVrADaVNMci8sgq/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/wmonkeysc"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C38sEPwJa6zSCmrZjbnmeST3ACjsZiJ3VfZMb3Wz9CVR",
+      "symbol": "SPN",
+      "name": "Solar Panel",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Acidias/CryptoSolToken/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3i6AKKC2WGd7qgqFJmSxKUGBWAui91upsMGu82xszTL2",
+      "symbol": "vBARN",
+      "name": "BARN",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/3i6AKKC2WGd7qgqFJmSxKUGBWAui91upsMGu82xszTL2/logo.png?raw=true"
     }
   ],
   "version": {
