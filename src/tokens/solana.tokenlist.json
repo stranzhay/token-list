@@ -157386,6 +157386,22 @@
       "extensions": {
         "website": "https://getyoursports.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EZ6eshad6T4Wp4YZhKtkCMJHMfPwyBkLaQCv8ULVagdv",
+      "symbol": "CRCO",
+      "name": "Crypto's Coffee",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/mihaiapso/newcryptologo/main/newlogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/kb2yrgMTpK",
+        "instagram": "https://instagram.com/cryptoscoffee?igshid=YmMyMTA2M2Y=",
+        "website": "https://www.cryptoscoffee.io/"
+      }
     }
   ],
   "version": {
