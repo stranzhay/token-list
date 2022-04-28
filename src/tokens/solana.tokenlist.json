@@ -157443,6 +157443,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "tojixS2xsLhpSfYRvLfALmMehyQMEUDwV9RH7TMQmkY",
+      "symbol": "$IJOT",
+      "name": "Tojiba CPU IJOT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tojibaceo/tojibaceo/main/ijot2.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Tojiba CPU Corps native token IJOT",
+        "discord": "https://discord.gg/br3Cfh56kF",
+        "twitter": "https://twitter.com/tojibaceo",
+        "website": "https://www.tojiba.biz"
+      }
     }
   ],
   "version": {
