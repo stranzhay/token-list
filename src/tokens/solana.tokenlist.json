@@ -157204,6 +157204,17 @@
         "description": "United States Dollar Partoken (USDPT) is a one-for-one United States Dollar collateralized stablecoin token.",
         "website": "https://partokens.com/usdpt"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "GVEjcbQQK5DdGSYNX1CN2n8X5iThTRXUCzhe3cuW7kcM",
+      "symbol": "KBT",
+      "name": "KBToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GVEjcbQQK5DdGSYNX1CN2n8X5iThTRXUCzhe3cuW7kcM/logo-coin.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
