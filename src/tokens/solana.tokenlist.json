@@ -157303,6 +157303,19 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CqoMXWaoTMfYNtTTwTadz9bMxg8DkZJVKtVRcw77nmYg",
+      "symbol": "ALT2B",
+      "name": "Bitcoin Alternative Coin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/alt2b/crypto/main/a2BTC%20logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
