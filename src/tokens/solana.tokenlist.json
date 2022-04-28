@@ -157332,6 +157332,17 @@
       "name": "Chill Koala Club",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/To8njmYMGz3x7ZAE2gcQpSyyaHsLz1vd8xzzQD5tfKh/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "igYvQesuheKUuvkGS5YnK6HX4udg86Dxbce6TZncqEx",
+      "symbol": "GBITS-POC",
+      "name": "Gbits-PoC",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/gbits-io/gbits-public-storage/main/gbits-logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
