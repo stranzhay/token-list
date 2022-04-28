@@ -157085,6 +157085,18 @@
         "twitter": "https://twitter.com/CandyDealersNFT",
         "website": "https://www.candydealersnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9DHhXz8BNcWHmPDQ9Bj418erzEgZsEPFSBCV2yi8XjcC",
+      "symbol": "GPV",
+      "name": "GP5 Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/AshtonCable/gp5-coin/main/gp5icon.jpg",
+      "tags": [
+        "social-token",
+        "meme-token"
+      ]
     }
   ],
   "version": {
