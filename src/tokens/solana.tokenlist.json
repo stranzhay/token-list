@@ -157316,6 +157316,22 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4QYu5xC7yCWj7KWz6vG8GqbQwpF7u6WR87CVNhELvsb2",
+      "symbol": "SPXT",
+      "name": "Space-X Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/kazilop/SpaceXCoin/main/SPXC.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "To8njmYMGz3x7ZAE2gcQpSyyaHsLz1vd8xzzQD5tfKh",
+      "symbol": "CKC",
+      "name": "Chill Koala Club",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/To8njmYMGz3x7ZAE2gcQpSyyaHsLz1vd8xzzQD5tfKh/logo.png"
     }
   ],
   "version": {
