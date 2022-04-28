@@ -157021,6 +157021,82 @@
       "name": "BARN",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/3i6AKKC2WGd7qgqFJmSxKUGBWAui91upsMGu82xszTL2/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "EJEnW3ym7CGoRHSaAtx3aEUZ9qMGcRvdHaMuJtgX9bJ3",
+      "symbol": "VALLE",
+      "name": "Ribrito do Valle",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tarvcoin/crypto/main/logo_valle_token.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "APkf6LAn4uiSHWBFuXiaq6GaJQzNHNzcK5TSsxRUA3bh",
+      "symbol": "XONE",
+      "name": "Xone Spaces",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/APkf6LAn4uiSHWBFuXiaq6GaJQzNHNzcK5TSsxRUA3bh/logo.png",
+      "tags": [
+        "estate-token",
+        "metaverse-token",
+        "virtual-land",
+        "play-to-earn",
+        "metaball-nfts",
+        "plasmaverse",
+        "metaballix"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/metaballix",
+        "twitter": "https://twitter.com/metaballix",
+        "website": "https://xone.land"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "45hSWcupwLpq5AgQU6V6socGn9EsHP59qVeVKmXyrbqi",
+      "symbol": "GMC",
+      "name": "GMC coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/GalaxyMoonClub/assets/main/assets/GMC.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/galaxymoonclub",
+        "twitter": "https://twitter.com/galaxymoonclub",
+        "website": "https://www.galaxymoonclub.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CWLA8Kks4qJ5ain6cdhDnqC2Tns5osbakBLoZvzHhpGV",
+      "symbol": "CANDD",
+      "name": "CANDY DEALERS WL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CWLA8Kks4qJ5ain6cdhDnqC2Tns5osbakBLoZvzHhpGV/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CandyDealersNFT",
+        "website": "https://www.candydealersnft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9DHhXz8BNcWHmPDQ9Bj418erzEgZsEPFSBCV2yi8XjcC",
+      "symbol": "GPV",
+      "name": "GP5 Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/AshtonCable/gp5-coin/main/gp5icon.jpg",
+      "tags": [
+        "social-token",
+        "meme-token"
+      ]
     }
   ],
   "version": {
