@@ -157343,6 +157343,26 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DNwaofk8qHpoPx9MZ4aKbvA2isR5d7xv5wcfKnzgV31S",
+      "symbol": "FBTB",
+      "name": "FBT Beta",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DNwaofk8qHpoPx9MZ4aKbvA2isR5d7xv5wcfKnzgV31S/logo.png",
+      "tags": [
+        "drive-to-earn",
+        "IoT",
+        "web3"
+      ],
+      "extensions": {
+        "description": "FBT Beta is the pre-launch token for FrodoBots, which is a decentralised network of tele-operated delivery robots powered by a 'drive-to-earn' model.",
+        "discord": "https://discord.com/invite/bwUfNA2xgr",
+        "twitter": "https://twitter.com/frodobots",
+        "website": "https://www.frodobots.com",
+        "youtube": "https://www.youtube.com/channel/UCYTWaYN7a2sCPwG0WSNl3Yg"
+      }
     }
   ],
   "version": {
