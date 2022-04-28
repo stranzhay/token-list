@@ -157413,6 +157413,14 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SiCKr9KxWv9pA9q35qoaKu9ZhEKZngscLjcREogaobh",
+      "symbol": "SBT",
+      "name": "SickBoys-WL-Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SiCKr9KxWv9pA9q35qoaKu9ZhEKZngscLjcREogaobh/logo.png"
     }
   ],
   "version": {
