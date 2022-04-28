@@ -157471,6 +157471,25 @@
       "extensions": {
         "website": "https://babclub.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CyZDc8wbDmtT88YVLAfvrH7QSsGdAreXkNKjWVQDDzCn",
+      "symbol": "MFCMC",
+      "name": "MFC M1 Mint Confirmation",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CyZDc8wbDmtT88YVLAfvrH7QSsGdAreXkNKjWVQDDzCn/logo.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "description": "This trophy proves that you were one of MFC's first trainers. You were one of the very first 6,969 to join the revolution!",
+        "discord": "https://discord.gg/mechafightclub",
+        "instagram": "https://www.instagram.com/mechafightclub/",
+        "linkedin": "https://www.linkedin.com/company/irreverentlabs/",
+        "twitter": "https://twitter.com/MechaFightClub",
+        "website": "https://mechafightclub.com"
+      }
     }
   ],
   "version": {
