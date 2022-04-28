@@ -157363,6 +157363,14 @@
         "website": "https://www.frodobots.com",
         "youtube": "https://www.youtube.com/channel/UCYTWaYN7a2sCPwG0WSNl3Yg"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8c71AvjQeKKeWRe8jtTGG1bJ2WiYXQdbjqFbUfhHgSVk",
+      "symbol": "$GARY",
+      "name": "GARY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/GARY_coin.jpg"
     }
   ],
   "version": {
