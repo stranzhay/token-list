@@ -157460,6 +157460,17 @@
         "twitter": "https://twitter.com/tojibaceo",
         "website": "https://www.tojiba.biz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G2y1fVA8Rx5dTg21xsDGwJycZAqr4uhLYussCgu1V3LM",
+      "symbol": "$KIBBLE",
+      "name": "BABC Kibbles",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G2y1fVA8Rx5dTg21xsDGwJycZAqr4uhLYussCgu1V3LM/logo.png",
+      "extensions": {
+        "website": "https://babclub.io/"
+      }
     }
   ],
   "version": {
