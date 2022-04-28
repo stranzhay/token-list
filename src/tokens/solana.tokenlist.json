@@ -157421,6 +157421,17 @@
       "name": "SickBoys-WL-Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SiCKr9KxWv9pA9q35qoaKu9ZhEKZngscLjcREogaobh/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GPrRVFvMmLyygT3iNCyaGrMAWpyRsGNmmoHzLcQV8gHT",
+      "symbol": "WASS",
+      "name": "WillThickie ACoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Tedas1/Solana/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
