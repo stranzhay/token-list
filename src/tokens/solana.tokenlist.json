@@ -157136,6 +157136,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CRTRFiHiddN7UMR5LR4SgDB4VuX6s4SKm2Ltms7ui7Tu",
+      "symbol": "$CRTR",
+      "name": "CRTR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CRTRFiHiddN7UMR5LR4SgDB4VuX6s4SKm2Ltms7ui7Tu/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/badcreatureSOC",
+        "website": "https://www.badcreaturesociety.com/"
+      }
     }
   ],
   "version": {
