@@ -157227,6 +157227,23 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "USXdsB36PkdbzLRdYEHp9oDcaR2Qu9FLG59tyfzkEDW",
+      "symbol": "USX",
+      "name": "USD Exchange Token for Duck Swap",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/duckdex/token-list/main/assets/mainnet/USXdsB36PkdbzLRdYEHp9oDcaR2Qu9FLG59tyfzkEDW/logo.png",
+      "tags": [
+        "stablecoin",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/2ySvY6Vrv7",
+        "twitter": "https://twitter.com/duck_dex",
+        "website": "https://duckdex.github.io"
+      }
     }
   ],
   "version": {
