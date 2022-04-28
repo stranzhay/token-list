@@ -157162,6 +157162,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CWLAETW6Pty2VqPm3MTs47FhVNdQmEPfDm6yZBkQcZz2",
+      "symbol": "SC1M",
+      "name": "FAKE TOKEN BUY THE OFFICIAL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CWLAETW6Pty2VqPm3MTs47FhVNdQmEPfDm6yZBkQcZz2/logo.png",
+      "tags": [
+        "scam-token"
+      ]
     }
   ],
   "version": {
