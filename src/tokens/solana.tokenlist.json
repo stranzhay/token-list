@@ -157125,6 +157125,17 @@
       "extensions": {
         "website": "http://ageofdefi.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dx3qUh6f5GMaBQeMPYKPH1p8uaiCBYLj2eYDzqW6uCjy",
+      "symbol": "SFS",
+      "name": "SnakeFS",
+      "decimals": 9,
+      "logoURI": "https://github.com/firassaada/CRYPTO/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
