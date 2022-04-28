@@ -157173,6 +157173,21 @@
       "tags": [
         "scam-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ELECtZbpWTUGcxYTvmqTu2gRH8GVMVWuE4dkULDapp8F",
+      "symbol": "ELECTRUM",
+      "name": "Electrum",
+      "decimals": 9,
+      "logoURI": "https://imgur.com/a/QxWOaTj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Houseofsparta_",
+        "website": "https://houseofsparta.art/"
+      }
     }
   ],
   "version": {
