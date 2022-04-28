@@ -157371,6 +157371,17 @@
       "name": "GARY",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/GARY_coin.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "CLkGAwfhBmL3oNmNppqPUCYu6sAFzfymkmZ7FP1qQVYS",
+      "symbol": "GYS",
+      "name": "GYS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLkGAwfhBmL3oNmNppqPUCYu6sAFzfymkmZ7FP1qQVYS/logo.png",
+      "extensions": {
+        "website": "https://getyoursports.com/"
+      }
     }
   ],
   "version": {
