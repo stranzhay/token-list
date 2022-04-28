@@ -157215,6 +157215,18 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "86gDCtTxEa2UssuCGPF8nTGEcXnyPXCPRHVqyWn6rrS8",
+      "symbol": "zza",
+      "name": "Pizza",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/86gDCtTxEa2UssuCGPF8nTGEcXnyPXCPRHVqyWn6rrS8/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
