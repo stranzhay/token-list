@@ -157097,6 +157097,34 @@
         "social-token",
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "waodQ3T7DKY3LPa2wLnMCnDnYEWvtL6Xj1BfqjDQ89z",
+      "symbol": "AOD-WL",
+      "name": "Age of DeFi WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/waodQ3T7DKY3LPa2wLnMCnDnYEWvtL6Xj1BfqjDQ89z/wl-logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://ageofdefi.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "oaodTnNEYCKMH9yfzgeJkXyKQtu2ZYrkZw93JcP3ECQ",
+      "symbol": "AOD-OG",
+      "name": "Age of DeFi OG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/oaodTnNEYCKMH9yfzgeJkXyKQtu2ZYrkZw93JcP3ECQ/og-logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://ageofdefi.io/"
+      }
     }
   ],
   "version": {
