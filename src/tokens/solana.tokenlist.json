@@ -157244,6 +157244,43 @@
         "twitter": "https://twitter.com/duck_dex",
         "website": "https://duckdex.github.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "83AaQeJ5WDZepgZds3TDQNZbJxQdH2rCXD7aXs5WcY61",
+      "symbol": "MDAO",
+      "name": "Monsta Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/monstadao/logo/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/monstadao_",
+        "website": "https://monstadao.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2Sqcg3LCSe5zJeYnpYrvB9BbVDgoLkZLqut4GKb8hYFW",
+      "symbol": "MDAOWL",
+      "name": "Monsta Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/monstadao/logo/main/wl.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/monstadao_"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3akU98ei7LMrB1DwZV2aNZqL1FySLTBE4exCQKYbByBT",
+      "symbol": "MCWT",
+      "name": "MUTANT CETS WL TOKENS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3akU98ei7LMrB1DwZV2aNZqL1FySLTBE4exCQKYbByBT/logo.png"
     }
   ],
   "version": {
