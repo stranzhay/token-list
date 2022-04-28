@@ -157054,6 +157054,22 @@
         "twitter": "https://twitter.com/metaballix",
         "website": "https://xone.land"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "45hSWcupwLpq5AgQU6V6socGn9EsHP59qVeVKmXyrbqi",
+      "symbol": "GMC",
+      "name": "GMC coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/GalaxyMoonClub/assets/main/assets/GMC.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/galaxymoonclub",
+        "twitter": "https://twitter.com/galaxymoonclub",
+        "website": "https://www.galaxymoonclub.com/"
+      }
     }
   ],
   "version": {
