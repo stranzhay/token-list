@@ -157316,6 +157316,14 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4QYu5xC7yCWj7KWz6vG8GqbQwpF7u6WR87CVNhELvsb2",
+      "symbol": "SPXT",
+      "name": "Space-X Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/kazilop/SpaceXCoin/main/SPXC.jpg"
     }
   ],
   "version": {
