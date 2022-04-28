@@ -157070,6 +157070,21 @@
         "twitter": "https://twitter.com/galaxymoonclub",
         "website": "https://www.galaxymoonclub.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CWLA8Kks4qJ5ain6cdhDnqC2Tns5osbakBLoZvzHhpGV",
+      "symbol": "CANDD",
+      "name": "CANDY DEALERS WL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CWLA8Kks4qJ5ain6cdhDnqC2Tns5osbakBLoZvzHhpGV/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CandyDealersNFT",
+        "website": "https://www.candydealersnft.com/"
+      }
     }
   ],
   "version": {
