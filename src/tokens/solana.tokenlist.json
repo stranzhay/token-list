@@ -157432,6 +157432,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3fsRZntJ3mKLXFt2MjgXY7KT8ppSXCpqFGUzTHA37rN4",
+      "symbol": "RVALLE",
+      "name": "Ribeiro do Valle",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tarvcoin/token-list-v6/main/assets/mainnet/3fsRZntJ3mKLXFt2MjgXY7KT8ppSXCpqFGUzTHA37rN4/logoRvalle.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
