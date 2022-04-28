@@ -157490,6 +157490,18 @@
         "twitter": "https://twitter.com/MechaFightClub",
         "website": "https://mechafightclub.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WL7fRmbPfu3U45ZWPrXyfJTjzneFahC2X2pMsBESL4g",
+      "symbol": "ZWLT",
+      "name": "Zombiees Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WL7fRmbPfu3U45ZWPrXyfJTjzneFahC2X2pMsBESL4g/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
