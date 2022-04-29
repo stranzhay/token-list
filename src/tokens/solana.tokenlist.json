@@ -157598,6 +157598,21 @@
       "extensions": {
         "website": "https://bunnyducky.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A4DpjBEAL9U8crHRNKrbtdbH1wziiAkavNKPnwaetnyS",
+      "symbol": "TWDNEW",
+      "name": "(FIXED) The Wolf Den WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A4DpjBEAL9U8crHRNKrbtdbH1wziiAkavNKPnwaetnyS/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/thewolfden",
+        "twitter": "https://twitter.com/TheWolfDenNFT"
+      }
     }
   ],
   "version": {
