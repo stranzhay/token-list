@@ -157727,6 +157727,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FxPQz8vFuCdKnU5CimjggFqSRa7gr3Bik43cYmQV1bTB",
+      "symbol": "sca1m",
+      "name": "This is a scam token h",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FxPQz8vFuCdKnU5CimjggFqSRa7gr3Bik43cYmQV1bTB/logo.png",
+      "tags": [
+        "scam-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Fi3cR6X8oAKcmYkQmDcfL6ZYT1EVRC8FEPEWvgLJLKPw",
+      "symbol": "VNAR",
+      "name": "Vnarchy Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BigGucciSosa300/VnarchyToken/main/tokenValoche.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
