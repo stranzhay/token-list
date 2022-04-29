@@ -157823,6 +157823,22 @@
       "extensions": {
         "twitter": "https://twitter.com/Pompeizz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EjaC7vKgimdVMyaF7SkNNaY2D8PDRVfAwThuAoeVvE7V",
+      "symbol": "BSAMO",
+      "name": "BabySamo",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GXzNKiMP9YWHMMvWnT2cag8UHx5fgMHRfqmVW22K2hm7/bsamo.png",
+      "tags": [
+        "p2e"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/babysamoyedin",
+        "twitter": "https://twitter.com/babysamoyedin",
+        "website": "https://babysamo.io"
+      }
     }
   ],
   "version": {
