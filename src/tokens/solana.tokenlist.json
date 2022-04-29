@@ -157863,6 +157863,20 @@
         "twitter": "https://twitter.com/MetaDragoNFT",
         "website": "https://metadrago.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Comm3ZKs8EnEvxiNp3X9PhkjWDNc2VDozwYEKDcCzSti",
+      "symbol": "Communi",
+      "name": "Communi3 WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Comm3ZKs8EnEvxiNp3X9PhkjWDNc2VDozwYEKDcCzSti/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/communi3_io"
+      }
     }
   ],
   "version": {
