@@ -157798,6 +157798,17 @@
         "twitter": "https://twitter.com/communi3_io",
         "website": "https://nft.communi3.io/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "J5MjLfQjnHSsWurBgaejgpsomZVRckUYCbiQjPMbYVBf",
+      "symbol": "$STKD",
+      "name": "Stacked",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/robo360/token-list/8f3ef4c943be3fa71b75ee0ae06e8a4cc6132f06/assets/mainnet/J5MjLfQjnHSsWurBgaejgpsomZVRckUYCbiQjPMbYVBf/Stacked-Verical-White.png",
+      "tags": [
+        "Governance-token"
+      ]
     }
   ],
   "version": {
