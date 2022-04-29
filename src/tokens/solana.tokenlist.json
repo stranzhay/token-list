@@ -157731,12 +157731,12 @@
     {
       "chainId": 101,
       "address": "FxPQz8vFuCdKnU5CimjggFqSRa7gr3Bik43cYmQV1bTB",
-      "symbol": "sca1m",
-      "name": "This is a scam token h",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FxPQz8vFuCdKnU5CimjggFqSRa7gr3Bik43cYmQV1bTB/logo.png",
+      "symbol": "GBG",
+      "name": "GBG WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mitchcrompton/goldbar/ba790237a4b45f407d05f1aeb6f87294798b8595/GBG-Logo2.png",
       "tags": [
-        "scam-token"
+        "whitelist"
       ]
     },
     {
