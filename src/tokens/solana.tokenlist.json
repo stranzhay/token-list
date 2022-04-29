@@ -157760,6 +157760,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AAKGBKbQVoraQFLTdu7Jc6yg5yzyAfaYFmiAaBxVj1Vd",
+      "symbol": "WTK",
+      "name": "WenToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/drunkEmu/Wen_Tech_Logo/main/WenToken.png",
+      "tags": [
+        "burger-token"
+      ]
     }
   ],
   "version": {
