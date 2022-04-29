@@ -157640,6 +157640,14 @@
       "name": "DICKY",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9p2xfkvfSrX9Li7fUPog4Z1owetZLnEKxeuexcRMXH1a/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "AaE7ktigdArb5tXRvZPuTYqqKTAzsFoLHa6WQ1icvCEg",
+      "symbol": "SEWT",
+      "name": "SolExpress WL Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SEPAD12/Logo/main/SE-Logo.png"
     }
   ],
   "version": {
