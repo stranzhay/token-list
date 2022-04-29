@@ -157885,6 +157885,23 @@
       "name": "ELEVATE",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/ELEVATE_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "kronKPwYDbmtNgynPMGwyMyV6PrgJffNuvG3EvjTiVa",
+      "symbol": "$BUDZ",
+      "name": "Krypto Kronikz Budz",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Ashtar-Global-Solutions/spl-tokens/main/KryptoKronikz/budz-icon.png",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/krypto-kronikz",
+        "instagram": "https://www.instagram.com/kryptokronikz",
+        "twitter": "https://twitter.com/KryptoKronikz",
+        "website": "https://www.kryptokronikz.co.uk/"
+      }
     }
   ],
   "version": {
