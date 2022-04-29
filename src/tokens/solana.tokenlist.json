@@ -157716,6 +157716,17 @@
       "extensions": {
         "website": "https://itembancindex.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bo1hj1f1ms62Cbps9yJxUwCYmsDjXQqjJBq4K9kRKG9w",
+      "symbol": "ETHN",
+      "name": "Eternel Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/8rch/criptologo/creator/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
