@@ -157538,6 +157538,21 @@
       "extensions": {
         "twitter": "https://twitter.com/YakuCorp"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3aX4hAyEZcMCn4DmFGPJSguodx7HrwxHr2dFRCD3ec1K",
+      "symbol": "TWD",
+      "name": "The Wolf Den WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3aX4hAyEZcMCn4DmFGPJSguodx7HrwxHr2dFRCD3ec1K/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/thewolfden",
+        "twitter": "https://twitter.com/TheWolfDenNFT"
+      }
     }
   ],
   "version": {
