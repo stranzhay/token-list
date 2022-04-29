@@ -157738,6 +157738,17 @@
       "tags": [
         "scam-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Fi3cR6X8oAKcmYkQmDcfL6ZYT1EVRC8FEPEWvgLJLKPw",
+      "symbol": "VNAR",
+      "name": "Vnarchy Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BigGucciSosa300/VnarchyToken/main/tokenValoche.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
