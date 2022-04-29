@@ -157648,6 +157648,25 @@
       "name": "SolExpress WL Token",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SEPAD12/Logo/main/SE-Logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "HYHtT5bixTKEWPYwiUC5vCqTzSaoTQzNoMmy2GsPDgqQ",
+      "symbol": "CROAK",
+      "name": "The Great Croak Club Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HYHtT5bixTKEWPYwiUC5vCqTzSaoTQzNoMmy2GsPDgqQ/coin.png"
+    },
+    {
+      "chainId": 103,
+      "address": "6xwLaeaZdV3WTQ3CEaau3CdRggj13Sg91ddNaZCHpr4G",
+      "symbol": "ATT",
+      "name": "Akvo Test Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/scgithubcs/AKVOTest/blob/main/akvo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
