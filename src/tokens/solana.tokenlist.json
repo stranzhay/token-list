@@ -157502,6 +157502,17 @@
         "whitelist-token",
         "nfts"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HGthk49ocEHRK4zAEVGrnATug1jo795m8nKmYHMxPFmb",
+      "symbol": "RCHG",
+      "name": "CheonHae ReeCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/carolprogrammer/julieyoon/main/RCoinLogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
