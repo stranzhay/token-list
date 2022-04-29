@@ -157567,6 +157567,23 @@
       "extensions": {
         "twitter": "https://twitter.com/DeadSoulsDAO"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Giihhh4rD5QMF49EExf5k8qbxftaqRWzLi4tS6YcrvR",
+      "symbol": "DGOLD",
+      "name": "Degen Gold",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Giihhh4rD5QMF49EExf5k8qbxftaqRWzLi4tS6YcrvR/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "$DGOLD is the official governance token for Degen Islands",
+        "discord": "https://discord.gg/degenislands",
+        "twitter": "https://twitter.com/degenislands",
+        "website": "https://degenislands.com"
+      }
     }
   ],
   "version": {
