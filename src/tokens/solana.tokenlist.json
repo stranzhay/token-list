@@ -157667,6 +157667,25 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Do5AbqdEbj742B2Cm8BypAGg3h1skLaAVTbT2mLRcW8c",
+      "symbol": "HALO",
+      "name": "HALO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/farhan067/HaloTokenLogo/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "CxtwGnhLFaHNYYJg9wzBjYoyBR7MZDrf3SSEAnobWf7t",
+      "symbol": "SHMC",
+      "name": "Sheeshmon Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CxtwGnhLFaHNYYJg9wzBjYoyBR7MZDrf3SSEAnobWf7t/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
