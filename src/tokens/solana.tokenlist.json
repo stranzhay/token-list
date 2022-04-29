@@ -157524,6 +157524,20 @@
       "tags": [
         "Payments-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "YAKUAzPYctt3wFvDWHXkKUa4c3Vxx33Voui2HEiE8gA",
+      "symbol": "YAKUx",
+      "name": "YAKU x avatars Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/YAKUAzPYctt3wFvDWHXkKUa4c3Vxx33Voui2HEiE8gA/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/YakuCorp"
+      }
     }
   ],
   "version": {
