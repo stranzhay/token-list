@@ -157598,6 +157598,48 @@
       "extensions": {
         "website": "https://bunnyducky.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A4DpjBEAL9U8crHRNKrbtdbH1wziiAkavNKPnwaetnyS",
+      "symbol": "TWDNEW",
+      "name": "(FIXED) The Wolf Den WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A4DpjBEAL9U8crHRNKrbtdbH1wziiAkavNKPnwaetnyS/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/thewolfden",
+        "twitter": "https://twitter.com/TheWolfDenNFT"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "3oGc7tXAPDQkM8XtDcVZTs3kUMZUMiTQihhXC6nMpUPJ",
+      "symbol": "KBSol",
+      "name": "KBSol Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3oGc7tXAPDQkM8XtDcVZTs3kUMZUMiTQihhXC6nMpUPJ/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EXwT5bkDvTD136eqySjTu5xsNkeeTa9vdTM6f9NdGn8j",
+      "symbol": "VICHE",
+      "name": "VICHE of Ukraine Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/vicheua/logo/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "9p2xfkvfSrX9Li7fUPog4Z1owetZLnEKxeuexcRMXH1a",
+      "symbol": "DICK",
+      "name": "DICKY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9p2xfkvfSrX9Li7fUPog4Z1owetZLnEKxeuexcRMXH1a/logo.png"
     }
   ],
   "version": {
