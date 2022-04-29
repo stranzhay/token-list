@@ -157613,6 +157613,17 @@
         "discord": "https://discord.gg/thewolfden",
         "twitter": "https://twitter.com/TheWolfDenNFT"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "3oGc7tXAPDQkM8XtDcVZTs3kUMZUMiTQihhXC6nMpUPJ",
+      "symbol": "KBSol",
+      "name": "KBSol Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3oGc7tXAPDQkM8XtDcVZTs3kUMZUMiTQihhXC6nMpUPJ/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
