@@ -157667,6 +157667,14 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Do5AbqdEbj742B2Cm8BypAGg3h1skLaAVTbT2mLRcW8c",
+      "symbol": "HALO",
+      "name": "HALO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/farhan067/HaloTokenLogo/main/logo.png"
     }
   ],
   "version": {
