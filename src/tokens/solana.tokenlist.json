@@ -157823,6 +157823,46 @@
       "extensions": {
         "twitter": "https://twitter.com/Pompeizz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EjaC7vKgimdVMyaF7SkNNaY2D8PDRVfAwThuAoeVvE7V",
+      "symbol": "BSAMO",
+      "name": "BabySamo",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GXzNKiMP9YWHMMvWnT2cag8UHx5fgMHRfqmVW22K2hm7/bsamo.png",
+      "tags": [
+        "p2e"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/babysamoyedin",
+        "twitter": "https://twitter.com/babysamoyedin",
+        "website": "https://babysamo.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4yoWgpCg5KciCPuA6LxDFpJHa53Jjj6XU9RLFJCgdakL",
+      "symbol": "$DRIVE",
+      "name": "DRIVE COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DRIVE_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Emberc567ToSP9FgAMuJWHXiQnEKVWrWC6gy64zbsK8u",
+      "symbol": "EMBER",
+      "name": "Meta Drago Ember",
+      "decimals": 9,
+      "logoURI": "https://metadrago.art/resources/images/EmberLogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/metadrago",
+        "twitter": "https://twitter.com/MetaDragoNFT",
+        "website": "https://metadrago.art"
+      }
     }
   ],
   "version": {
