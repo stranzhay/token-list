@@ -157624,6 +157624,14 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EXwT5bkDvTD136eqySjTu5xsNkeeTa9vdTM6f9NdGn8j",
+      "symbol": "VICHE",
+      "name": "VICHE of Ukraine Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/vicheua/logo/main/logo.png"
     }
   ],
   "version": {
