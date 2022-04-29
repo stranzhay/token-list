@@ -157809,6 +157809,20 @@
       "tags": [
         "Governance-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "PompZYYD9zSatYYncTzPQcTvnGUoaDFDptQPnDaRsu3",
+      "symbol": "Pompeizz",
+      "name": "Pompeizz OG Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PompZYYD9zSatYYncTzPQcTvnGUoaDFDptQPnDaRsu3/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Pompeizz"
+      }
     }
   ],
   "version": {
