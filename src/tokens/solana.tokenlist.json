@@ -157782,6 +157782,47 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8SDZEuvdWyuKFmX72Hn1t6kFR9JfxiWzNCsyXnJnmAQH",
+      "symbol": "CW3T",
+      "name": "Communi3 Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/EDDARI/Communi3-Whitelist-Token/main/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/communi3",
+        "twitter": "https://twitter.com/communi3_io",
+        "website": "https://nft.communi3.io/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "J5MjLfQjnHSsWurBgaejgpsomZVRckUYCbiQjPMbYVBf",
+      "symbol": "$STKD",
+      "name": "Stacked",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/robo360/token-list/8f3ef4c943be3fa71b75ee0ae06e8a4cc6132f06/assets/mainnet/J5MjLfQjnHSsWurBgaejgpsomZVRckUYCbiQjPMbYVBf/Stacked-Verical-White.png",
+      "tags": [
+        "Governance-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "PompZYYD9zSatYYncTzPQcTvnGUoaDFDptQPnDaRsu3",
+      "symbol": "Pompeizz",
+      "name": "Pompeizz OG Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PompZYYD9zSatYYncTzPQcTvnGUoaDFDptQPnDaRsu3/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Pompeizz"
+      }
     }
   ],
   "version": {
