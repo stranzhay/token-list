@@ -157553,6 +157553,20 @@
         "discord": "https://discord.gg/thewolfden",
         "twitter": "https://twitter.com/TheWolfDenNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SouLMDHmcNVqMusHpdCrWQEh9HWiQYdLiR28XkhveSL",
+      "symbol": "Deadsouls",
+      "name": "Dead Souls Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SouLMDHmcNVqMusHpdCrWQEh9HWiQYdLiR28XkhveSL/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DeadSoulsDAO"
+      }
     }
   ],
   "version": {
