@@ -157686,6 +157686,14 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FAn4hcD345ugybXc6aDivPnLAnBLhjNKcRGkZt2bGiCb",
+      "symbol": "$BAGS",
+      "name": "BAGS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/BAGS_coin.png"
     }
   ],
   "version": {
