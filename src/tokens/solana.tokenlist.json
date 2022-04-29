@@ -157877,6 +157877,14 @@
       "extensions": {
         "twitter": "https://twitter.com/communi3_io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FyXLF1fFAnKjby8f2pYXeyBWgB5hmon2DmCjytZEfkcz",
+      "symbol": "$ELEVATE",
+      "name": "ELEVATE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/ELEVATE_coin.png"
     }
   ],
   "version": {
