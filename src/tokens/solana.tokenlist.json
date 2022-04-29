@@ -157584,6 +157584,20 @@
         "twitter": "https://twitter.com/degenislands",
         "website": "https://degenislands.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "yCUh3GqnQdus9rj7iEheJDNVsbwYnd4WYgwjQkwnHSH",
+      "symbol": "y-cUSDC-cUSDT",
+      "name": "Yield Saber LP Token (cUSDC-cUSDT)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yCUh3GqnQdus9rj7iEheJDNVsbwYnd4WYgwjQkwnHSH/logo.svg",
+      "tags": [
+        "yield-token"
+      ],
+      "extensions": {
+        "website": "https://bunnyducky.com/"
+      }
     }
   ],
   "version": {
