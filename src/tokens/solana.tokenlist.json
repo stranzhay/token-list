@@ -157847,6 +157847,22 @@
       "name": "DRIVE COIN",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DRIVE_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Emberc567ToSP9FgAMuJWHXiQnEKVWrWC6gy64zbsK8u",
+      "symbol": "EMBER",
+      "name": "Meta Drago Ember",
+      "decimals": 9,
+      "logoURI": "https://metadrago.art/resources/images/EmberLogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/metadrago",
+        "twitter": "https://twitter.com/MetaDragoNFT",
+        "website": "https://metadrago.art"
+      }
     }
   ],
   "version": {
