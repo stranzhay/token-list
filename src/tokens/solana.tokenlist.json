@@ -157694,6 +157694,14 @@
       "name": "BAGS",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/BAGS_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GpVdc5pgP32JU2SNYWWpGerMGNVf7V5t5pgjdLgBQ7gd",
+      "symbol": "AUE",
+      "name": "Aue",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GpVdc5pgP32JU2SNYWWpGerMGNVf7V5t5pgjdLgBQ7gd/logo.png"
     }
   ],
   "version": {
