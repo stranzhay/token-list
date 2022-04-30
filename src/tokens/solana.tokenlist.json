@@ -158168,6 +158168,22 @@
         "twitter": "https://twitter.com/apecoin",
         "website": "https://apecoin.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BF5JzxS9ZKnv9t84EFFvG5M8JgKJ5XRQvxPsuzHSKXDL",
+      "symbol": "AURA",
+      "name": "Aura Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BF5JzxS9ZKnv9t84EFFvG5M8JgKJ5XRQvxPsuzHSKXDL/aura.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/xmMwQJZDT4",
+        "twitter": "https://twitter.com/heyiloveyousol",
+        "website": "https://heyiloveu.com"
+      }
     }
   ],
   "version": {
