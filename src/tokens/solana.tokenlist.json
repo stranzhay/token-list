@@ -158007,6 +158007,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "VisDZunhfXf29cxyZ2pGWvsrpye5FnCgScnRZ2d9WVG",
+      "symbol": "$VISN",
+      "name": "VISN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/VisDZunhfXf29cxyZ2pGWvsrpye5FnCgScnRZ2d9WVG/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
