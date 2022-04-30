@@ -158148,6 +158148,26 @@
       "name": "Pushin' P",
       "decimals": 6,
       "logoURI": "https://github.com/boosbasement/metaboss/blob/main/pushinp.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "64Hw4Hm4WLC1Ty6p8g5vLZNCS37msb9Qq8ZFJE6UConN",
+      "symbol": "sAPE",
+      "name": "APE (Synthetic)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/64Hw4Hm4WLC1Ty6p8g5vLZNCS37msb9Qq8ZFJE6UConN/logo.png",
+      "tags": [
+        "meme-token",
+        "wrapped",
+        "synthetic"
+      ],
+      "extensions": {
+        "coingeckoId": "apecoin",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/apecoin-ape/",
+        "description": "ApeCoin is a decentralized project inspired by Yuga Labs Bored Ape Yacht Club project. ApeCoin was founded to be used within the burgeoning APE Ecosystem, which is supported by the APE Foundation.",
+        "twitter": "https://twitter.com/apecoin",
+        "website": "https://apecoin.com/"
+      }
     }
   ],
   "version": {
