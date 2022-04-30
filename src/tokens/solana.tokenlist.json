@@ -158007,6 +158007,30 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "VisDZunhfXf29cxyZ2pGWvsrpye5FnCgScnRZ2d9WVG",
+      "symbol": "$VISN",
+      "name": "VISN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/VisDZunhfXf29cxyZ2pGWvsrpye5FnCgScnRZ2d9WVG/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "tDWgfue1v4JNMHmgxi7Qd2xzNpLhGFhaghcwAvnsYsv",
+      "symbol": "$t",
+      "name": "tDWOS",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tDWgfue1v4JNMHmgxi7Qd2xzNpLhGFhaghcwAvnsYsv/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/gXpvbWftH7",
+        "twitter": "https://twitter.com/dwosol",
+        "website": "https://www.dwos.app/"
+      }
     }
   ],
   "version": {
