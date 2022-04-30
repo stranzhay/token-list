@@ -158031,6 +158031,45 @@
         "twitter": "https://twitter.com/dwosol",
         "website": "https://www.dwos.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BLweBxTVWKL1X5ghQF2eb67JReF56zesgTbN91C7nJb",
+      "symbol": "ASC",
+      "name": "Aliens Space Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BobLiterman/PizzaPal/master/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/tUEwbEfZgE",
+        "twitter": "https://twitter.com/aliensspaceclub"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "omnLJ3LyDz3kGYdDevm5guym7cU95kkz85FU9hvj5cZ",
+      "symbol": "OMNI",
+      "name": "Omniscient222",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/omnLJ3LyDz3kGYdDevm5guym7cU95kkz85FU9hvj5cZ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/K7BpCPSUqv",
+        "twitter": "https://twitter.com/Omniscient222",
+        "website": "https://www.omniscient222.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "68zeUZMhsYxVHrETjmVvz8ADZmWP8rvTiLpgq6SbyKdW",
+      "symbol": "ISIS",
+      "name": "Shariff",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/shariffi/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
