@@ -158118,6 +158118,20 @@
       "name": "DABL",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DABL_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DmfyVkaHF3xcYoZZJNVQxz32dSfPwrk9fDe5APc8Qop1",
+      "symbol": "SLMN-WL",
+      "name": "Solmon WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jwurrow/solmon/main/solmon-token.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "website": "https://solmon.game/"
+      }
     }
   ],
   "version": {
