@@ -158070,6 +158070,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "C4xU8aLc1DDjYS2WqvJkqTbZHLMfQs42MkXmViqAhPHE",
+      "symbol": "$BST",
+      "name": "BatsToken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C4xU8aLc1DDjYS2WqvJkqTbZHLMfQs42MkXmViqAhPHE/logo.png"
     }
   ],
   "version": {
