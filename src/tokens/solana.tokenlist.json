@@ -157969,6 +157969,22 @@
       "extensions": {
         "twitter": "https://twitter.com/DroidBits"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ABFkiQcLuCjicoCddXHuiPN9S653StWuySCHvWYF5oEy",
+      "symbol": "SMWL",
+      "name": "SolMonkeez WLToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ABFkiQcLuCjicoCddXHuiPN9S653StWuySCHvWYF5oEy/logo.png",
+      "tags": [
+        "NFT",
+        "dao",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolMonkeez"
+      }
     }
   ],
   "version": {
