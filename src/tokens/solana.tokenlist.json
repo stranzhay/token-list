@@ -157937,6 +157937,22 @@
         "twitter": "https://twitter.com/_Naxar",
         "website": "https://naxar.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GzAr3oY2nZJnnbsvyRTYy7PW9Dp9hThGgiUpzs3HE8ns",
+      "symbol": "$TUITON",
+      "name": "TUITION",
+      "decimals": 2,
+      "logoURI": "https://i.ibb.co/W0Zp6RS/Tuiton-Coin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/8GZyJ3BnYw",
+        "twitter": "https://twitter.com/DropoutUniv",
+        "website": "https://www.dropoutuniversity.co/"
+      }
     }
   ],
   "version": {
