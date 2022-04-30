@@ -158192,6 +158192,28 @@
       "name": "NERDx",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2R2KgDgAEKksVYbH7GRwuemvnQUg6h6Knhq9mVyNAnzF/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "4ePVDsHuGLNhypuxLdUmyDonYEThfsKTA7Vd3fCxvm2m",
+      "symbol": "PRXMD",
+      "name": "mzX3z6Nc7a Project X",
+      "decimals": 0,
+      "logoURI": "https://i.ibb.co/RB5vhYz/1.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "omg6vAatLFChVhicZqFvBLd7vEqJqjp7KPR5CxKjMjR",
+      "symbol": "omgWL",
+      "name": "Oh My Girls - WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/omg6vAatLFChVhicZqFvBLd7vEqJqjp7KPR5CxKjMjR/logo.png",
+      "tags": [
+        "wl-token"
+      ]
     }
   ],
   "version": {
