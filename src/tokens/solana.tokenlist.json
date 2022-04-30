@@ -158018,6 +158018,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "tDWgfue1v4JNMHmgxi7Qd2xzNpLhGFhaghcwAvnsYsv",
+      "symbol": "$t",
+      "name": "tDWOS",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tDWgfue1v4JNMHmgxi7Qd2xzNpLhGFhaghcwAvnsYsv/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/gXpvbWftH7",
+        "twitter": "https://twitter.com/dwosol",
+        "website": "https://www.dwos.app/"
+      }
     }
   ],
   "version": {
