@@ -157902,6 +157902,17 @@
         "twitter": "https://twitter.com/KryptoKronikz",
         "website": "https://www.kryptokronikz.co.uk/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HPs8A1WiRypdPwFBG32KaA9qHLt4VDKJ7sWUF5HKoicP",
+      "symbol": "FSOSA",
+      "name": "FerSosa",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/neoxolotl/logo/master/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
