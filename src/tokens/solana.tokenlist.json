@@ -158110,6 +158110,14 @@
       "extensions": {
         "website": "https://solmon.game/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2YmFbkbfPMiUivS5TtSnzLGPM32iapkHBUvKB7XVYuoi",
+      "symbol": "$DABL",
+      "name": "DABL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DABL_coin.png"
     }
   ],
   "version": {
