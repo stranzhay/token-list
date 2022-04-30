@@ -158059,6 +158059,17 @@
         "twitter": "https://twitter.com/Omniscient222",
         "website": "https://www.omniscient222.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "68zeUZMhsYxVHrETjmVvz8ADZmWP8rvTiLpgq6SbyKdW",
+      "symbol": "ISIS",
+      "name": "Shariff",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/shariffi/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
