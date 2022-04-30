@@ -158184,6 +158184,14 @@
         "twitter": "https://twitter.com/heyiloveyousol",
         "website": "https://heyiloveu.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2R2KgDgAEKksVYbH7GRwuemvnQUg6h6Knhq9mVyNAnzF",
+      "symbol": "DYORNERDS",
+      "name": "NERDx",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2R2KgDgAEKksVYbH7GRwuemvnQUg6h6Knhq9mVyNAnzF/logo.png"
     }
   ],
   "version": {
