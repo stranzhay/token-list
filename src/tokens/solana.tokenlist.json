@@ -158096,6 +158096,28 @@
         "twitter": "https://twitter.com/TSSCiberseg_ast",
         "website": "https://tssciberseguridad.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3HDLkGsdEh9mRupFax1k2RnFJJRNKhqJaouWhVnrGEfK",
+      "symbol": "SLMN-WL-T",
+      "name": "Solmon WL Token Trainer",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jwurrow/solmon/main/solmon-token.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "website": "https://solmon.game/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2YmFbkbfPMiUivS5TtSnzLGPM32iapkHBUvKB7XVYuoi",
+      "symbol": "$DABL",
+      "name": "DABL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DABL_coin.png"
     }
   ],
   "version": {
