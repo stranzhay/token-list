@@ -158031,6 +158031,18 @@
         "twitter": "https://twitter.com/dwosol",
         "website": "https://www.dwos.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BLweBxTVWKL1X5ghQF2eb67JReF56zesgTbN91C7nJb",
+      "symbol": "ASC",
+      "name": "Aliens Space Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BobLiterman/PizzaPal/master/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/tUEwbEfZgE",
+        "twitter": "https://twitter.com/aliensspaceclub"
+      }
     }
   ],
   "version": {
