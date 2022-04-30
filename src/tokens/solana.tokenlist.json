@@ -158132,6 +158132,22 @@
       "extensions": {
         "website": "https://solmon.game/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5mRj82qzktE2Ab7ZvoeWUYk6gnuRynTJaPs3YuFQW1gt",
+      "symbol": "$CYBER",
+      "name": "CYBER",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/CYBER_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "5ETtNMdco1tqLyJuLTFTxwy913ahA7CfAtp3PGuxhMkA",
+      "symbol": "P",
+      "name": "Pushin' P",
+      "decimals": 6,
+      "logoURI": "https://github.com/boosbasement/metaboss/blob/main/pushinp.png?raw=true"
     }
   ],
   "version": {
