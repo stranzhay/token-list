@@ -157985,6 +157985,17 @@
       "extensions": {
         "twitter": "https://twitter.com/SolMonkeez"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FQde6nK4HKfhCNuxZ8FHAJ7EKi7qtxMZbBMSXWeAZX31",
+      "symbol": "MGL",
+      "name": "Audio Moguls",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/audiomoguls/crypto/main/Token.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
