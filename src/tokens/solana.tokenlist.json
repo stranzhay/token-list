@@ -158132,6 +158132,14 @@
       "extensions": {
         "website": "https://solmon.game/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5mRj82qzktE2Ab7ZvoeWUYk6gnuRynTJaPs3YuFQW1gt",
+      "symbol": "$CYBER",
+      "name": "CYBER",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/CYBER_coin.png"
     }
   ],
   "version": {
