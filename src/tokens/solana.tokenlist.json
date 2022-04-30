@@ -157913,6 +157913,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CxNiD5CKv3JMZc3LDUQjHJX17BFnpGDDU38PGPnnBRx7",
+      "symbol": "SMWL",
+      "name": "SolMonkeez WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CxNiD5CKv3JMZc3LDUQjHJX17BFnpGDDU38PGPnnBRx7/logo.png"
     }
   ],
   "version": {
