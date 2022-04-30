@@ -157921,6 +157921,54 @@
       "name": "SolMonkeez WL Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CxNiD5CKv3JMZc3LDUQjHJX17BFnpGDDU38PGPnnBRx7/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Aif78Nq87kjvRzk2TGn1Q6r2gECddPHCcxYsdxGpPpDM",
+      "symbol": "NS12",
+      "name": "Naxar s12",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Aif78Nq87kjvRzk2TGn1Q6r2gECddPHCcxYsdxGpPpDM/logo.png",
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "description": "Naxar s12 is an NFTs card for mining tokens in the Boxch app. APY 12%",
+        "twitter": "https://twitter.com/_Naxar",
+        "website": "https://naxar.net/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GzAr3oY2nZJnnbsvyRTYy7PW9Dp9hThGgiUpzs3HE8ns",
+      "symbol": "$TUITON",
+      "name": "TUITION",
+      "decimals": 2,
+      "logoURI": "https://i.ibb.co/W0Zp6RS/Tuiton-Coin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/8GZyJ3BnYw",
+        "twitter": "https://twitter.com/DropoutUniv",
+        "website": "https://www.dropoutuniversity.co/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DroidnX5oC42WDw2yfcU1VziNs9CUcTV145p6cZRQiFq",
+      "symbol": "DRB",
+      "name": "DroidBits",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DroidnX5oC42WDw2yfcU1VziNs9CUcTV145p6cZRQiFq/logo.png",
+      "tags": [
+        "NFT",
+        "Metaverse",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DroidBits"
+      }
     }
   ],
   "version": {
