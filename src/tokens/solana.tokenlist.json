@@ -157953,6 +157953,22 @@
         "twitter": "https://twitter.com/DropoutUniv",
         "website": "https://www.dropoutuniversity.co/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DroidnX5oC42WDw2yfcU1VziNs9CUcTV145p6cZRQiFq",
+      "symbol": "DRB",
+      "name": "DroidBits",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DroidnX5oC42WDw2yfcU1VziNs9CUcTV145p6cZRQiFq/logo.png",
+      "tags": [
+        "NFT",
+        "Metaverse",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DroidBits"
+      }
     }
   ],
   "version": {
