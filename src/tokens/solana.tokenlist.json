@@ -158070,6 +158070,32 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "C4xU8aLc1DDjYS2WqvJkqTbZHLMfQs42MkXmViqAhPHE",
+      "symbol": "$BST",
+      "name": "BatsToken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C4xU8aLc1DDjYS2WqvJkqTbZHLMfQs42MkXmViqAhPHE/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3DyBTasPCdXPzohx8ri3KAiKXkeugqXt5sSqopNn4G7J",
+      "symbol": "TSST",
+      "name": "TSS Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3DyBTasPCdXPzohx8ri3KAiKXkeugqXt5sSqopNn4G7J/logo.png",
+      "tags": [
+        "community-token",
+        "Metaverse",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/HnKkJa8P",
+        "twitter": "https://twitter.com/TSSCiberseg_ast",
+        "website": "https://tssciberseguridad.com"
+      }
     }
   ],
   "version": {
