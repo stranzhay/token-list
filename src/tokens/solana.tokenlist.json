@@ -158474,6 +158474,49 @@
         "twitter": "https://twitter.com/shark_lounge",
         "website": "https://www.sharklounge.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bq5wDcoXfAjZq7w4JhpcQ5AyG9ugo2xETdA7BefFNu1T",
+      "symbol": "LIRA",
+      "name": "Lira",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/zeinhd/Dota-coin/main/LOGO.PNG.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "AFw8FY138GyFjM2KP254ZAbFdWrG9tyhLM8ct4jAsnT9",
+      "symbol": "META",
+      "name": "MetaSects",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/sxdhercules/meta/main/MetaSects-removebg-preview-removebg-preview.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "We're the #1 on Solana to build an NFT Marketplace for content creators, Stake to Earn $META. Join the Movement!",
+        "twitter": "https://twitter.com/metasectsnft",
+        "website": "https://www.metasects.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AB9dE76Sf8c7mi8cxFC7e9n8xz7z4zNQQinEDpgmiHmA",
+      "symbol": "ABTWL",
+      "name": "Anonymous Beartoshi SRC Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AB9dE76Sf8c7mi8cxFC7e9n8xz7z4zNQQinEDpgmiHmA/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://anonbeartoshi.com/"
+      }
     }
   ],
   "version": {
