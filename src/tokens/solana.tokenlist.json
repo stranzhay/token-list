@@ -158214,6 +158214,14 @@
       "tags": [
         "wl-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "gciPtrB8rbCVSoJmyvZZZqzUSqSqAdxxEtHzcTo6gp5",
+      "symbol": "GC",
+      "name": "Galactic Credits",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/gciPtrB8rbCVSoJmyvZZZqzUSqSqAdxxEtHzcTo6gp5/logo.png"
     }
   ],
   "version": {
