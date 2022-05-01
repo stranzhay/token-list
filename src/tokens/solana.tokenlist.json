@@ -158356,6 +158356,17 @@
         "monetary-token",
         "currency-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DophZJDTFC3sYvu7KJC5cDJdDd4UEYne3GkHc3oKY2fh",
+      "symbol": "DOPHWLT",
+      "name": "DopeHeadz WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DophZJDTFC3sYvu7KJC5cDJdDd4UEYne3GkHc3oKY2fh/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/dopeheadznft"
+      }
     }
   ],
   "version": {
