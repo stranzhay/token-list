@@ -158253,6 +158253,22 @@
       "name": "W NAc",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5qf6ftkBT7vDZawJgCj3J4L8Xb25wTcgZftCc4vZTHSM/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3uKPwVQ7cjnCJWgpFLRfMDkJzAEaV6o7uMJUyZErT6V4",
+      "symbol": "$MAES",
+      "name": "MAES",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/MAES_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FgkPeKEDfb2mfbf3at8TVcZE8YdKxpdTTyqabqXqB33Y",
+      "symbol": "$ACCESS",
+      "name": "ACCESS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/ACCESS_coin.png"
     }
   ],
   "version": {
