@@ -158261,6 +158261,14 @@
       "name": "MAES",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/MAES_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FgkPeKEDfb2mfbf3at8TVcZE8YdKxpdTTyqabqXqB33Y",
+      "symbol": "$ACCESS",
+      "name": "ACCESS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/ACCESS_coin.png"
     }
   ],
   "version": {
