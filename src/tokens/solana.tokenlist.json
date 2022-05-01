@@ -158551,6 +158551,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BPotsRFqBpxbaggDrgUBN96nAU7hTA7VtFruyidPodJN",
+      "symbol": "SONN",
+      "name": "SonniCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mammimaisteri/SonniCoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
