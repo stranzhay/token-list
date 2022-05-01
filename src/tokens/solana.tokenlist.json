@@ -158415,6 +158415,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FgvaSzNW852UGYA84ZkE1MHpUFihbw2xCzq4aqPNRJyq",
+      "symbol": "BULUK",
+      "name": "Buluk Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JoshMusty/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
