@@ -158367,6 +158367,17 @@
       "extensions": {
         "twitter": "https://twitter.com/dopeheadznft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CkumP8q2xDLFYZ1HgvKPWPEwRdNxgpX1oEEaaGXR3txA",
+      "symbol": "ENMA",
+      "name": "ENMA Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/HATEM-CHAABINI/ENMA/main/ENMA.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
