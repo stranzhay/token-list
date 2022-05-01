@@ -158315,6 +158315,31 @@
         "twitter": "https://twitter.com/TrippinApeNFT",
         "website": "https://www.trippinapetribe.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5EDqX91uTrXWaPXjrJ8wGF2bNDa7t8tYbtAJ4em2Puyu",
+      "symbol": "TAKU",
+      "name": "TAKUKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ChristosVoutselas/TAKUKoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DopeHrLeKKyMhVaQ1nFDUaiN2ZcoiUTteTJMmpq3vZzB",
+      "symbol": "DopeHeadz",
+      "name": "DopeHeadz WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DopeHrLeKKyMhVaQ1nFDUaiN2ZcoiUTteTJMmpq3vZzB/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DopeHeadzNFT"
+      }
     }
   ],
   "version": {
