@@ -158540,6 +158540,17 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Byn1P6nsVZnKWDLguHgw6aTJ8HDgcjUz5ArboK8irECP",
+      "symbol": "CRAB",
+      "name": "CryptoCrab",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jsmx125/CryptoCrab/main/CryptoCrab.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
