@@ -158222,6 +158222,21 @@
       "name": "Galactic Credits",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/gciPtrB8rbCVSoJmyvZZZqzUSqSqAdxxEtHzcTo6gp5/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "63DpCYu4LPCqUzM9o7UMiGmsyJ5gVeFE9drzujGqqZHa",
+      "symbol": "SLIME",
+      "name": "Slime",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/AJeUAHLNk2pv5P9CIURqu_u6dfSiE_bvVqFDriUzdQw",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/2zvACqhDNz",
+        "twitter": "https://twitter.com/WeAreSlimes"
+      }
     }
   ],
   "version": {
