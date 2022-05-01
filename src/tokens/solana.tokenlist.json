@@ -158517,6 +158517,17 @@
       "extensions": {
         "website": "https://anonbeartoshi.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hd4TfdGjSwtqSBntCCPtF3fKiMHMHUN3mbCmzP8i2asi",
+      "symbol": "EUR",
+      "name": "Blackrock",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/xBlackrock/EUR_Token/main/Logo.png",
+      "tags": [
+        "financial-token"
+      ]
     }
   ],
   "version": {
