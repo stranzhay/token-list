@@ -158459,6 +158459,21 @@
         "website": "https://PurpleZone.github.io/NFTs/btcg/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmUs6X2QHrPSAW9mZYtHGNCDjMDWTk7cg3EiEQ1Ao4PvL9/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DBEW3nPWQMWeSN7bav5RprJRyUopd4NGkhtVsEmoNA94",
+      "symbol": "SKIN",
+      "name": "SKIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/shark.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/shark_lounge",
+        "website": "https://www.sharklounge.io/"
+      }
     }
   ],
   "version": {
