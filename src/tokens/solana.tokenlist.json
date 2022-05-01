@@ -158486,6 +158486,23 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "AFw8FY138GyFjM2KP254ZAbFdWrG9tyhLM8ct4jAsnT9",
+      "symbol": "META",
+      "name": "MetaSects",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/sxdhercules/meta/main/MetaSects-removebg-preview-removebg-preview.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "We're the #1 on Solana to build an NFT Marketplace for content creators, Stake to Earn $META. Join the Movement!",
+        "twitter": "https://twitter.com/metasectsnft",
+        "website": "https://www.metasects.com/"
+      }
     }
   ],
   "version": {
