@@ -158280,6 +158280,25 @@
       "extensions": {
         "website": "https://bind.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ab7jUsWFTdVNmdCC3ZwjbNGnpt9E4qSh9oSZ6hYMBBaw",
+      "symbol": "$LEGEND",
+      "name": "LEGEND COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/LEGEND_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "C7nRGKutiD8YBVt1z7TxP5tTuoBac8dDgLoM47tmCjyk",
+      "symbol": "JTTE",
+      "name": "JOURNEY TO THE EAST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/chinahustle/MonkeyKing/main/MKCOIN.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
