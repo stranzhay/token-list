@@ -158340,6 +158340,44 @@
       "extensions": {
         "twitter": "https://twitter.com/DopeHeadzNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3XJzFnkisu24GkVLGB3ATjUjKV99vY4tQaiHXBuJXenE",
+      "symbol": "AJSP20k",
+      "name": "AJSP1 20k Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AlainPainchaud/Crypto/main/TokenOfficiel2.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "business-token",
+        "financial-token",
+        "monetary-token",
+        "currency-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DophZJDTFC3sYvu7KJC5cDJdDd4UEYne3GkHc3oKY2fh",
+      "symbol": "DOPHWLT",
+      "name": "DopeHeadz WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DophZJDTFC3sYvu7KJC5cDJdDd4UEYne3GkHc3oKY2fh/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/dopeheadznft"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CkumP8q2xDLFYZ1HgvKPWPEwRdNxgpX1oEEaaGXR3txA",
+      "symbol": "ENMA",
+      "name": "ENMA Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/HATEM-CHAABINI/ENMA/main/ENMA.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
