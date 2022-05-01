@@ -158315,6 +158315,17 @@
         "twitter": "https://twitter.com/TrippinApeNFT",
         "website": "https://www.trippinapetribe.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5EDqX91uTrXWaPXjrJ8wGF2bNDa7t8tYbtAJ4em2Puyu",
+      "symbol": "TAKU",
+      "name": "TAKUKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ChristosVoutselas/TAKUKoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
