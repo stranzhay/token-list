@@ -158588,6 +158588,34 @@
       "extensions": {
         "twitter": "https://twitter.com/DopeHeadzNFT"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "orcarKHSqC5CDDsGbho8GKvwExejWHxTqGzXgcewB9L",
+      "symbol": "ORCA-DEV",
+      "name": "Orca Dev",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/logo.png",
+      "extensions": {
+        "medium": "https://orca-so.medium.com",
+        "website": "https://orca.so"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "Ff5JqsAYUD4vAfQUtfRprT4nXu9e28tTBZTDFMnJNdvd",
+      "symbol": "ETH-DEV",
+      "name": "Ethereum Dev",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "EmXq3Ni9gfudTiyNKzzYvpnQqnJEMRw2ttnVXoJXjLo1",
+      "symbol": "USDC-DEV",
+      "name": "USDC Dev",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png"
     }
   ],
   "version": {
