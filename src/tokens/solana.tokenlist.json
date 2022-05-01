@@ -158389,6 +158389,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "51eur9dnZCchLatjGgz1DhQ82wL7GatirddMtqAaPJvk",
+      "symbol": "NHS",
+      "name": "SnowCoin Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ZacharyLiebl/SnowCoinSymbol/main/SnowCoinSymbol.png",
+      "tags": [
+        "nor-easters",
+        "experiment"
+      ],
+      "extensions": {
+        "description": "For more info, contact nhscryptocurrency@gmail.com"
+      }
     }
   ],
   "version": {
