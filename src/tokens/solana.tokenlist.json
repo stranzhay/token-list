@@ -158299,6 +158299,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "trpnwGaAvyPXXsYUaN424XUDbnuyt2MKTUFmKHVUDwW",
+      "symbol": "TRPWL",
+      "name": "Trippin Ape Tribe WL Token",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/trpnwGaAvyPXXsYUaN424XUDbnuyt2MKTUFmKHVUDwW/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/trippinapetribe",
+        "twitter": "https://twitter.com/TrippinApeNFT",
+        "website": "https://www.trippinapetribe.xyz/"
+      }
     }
   ],
   "version": {
