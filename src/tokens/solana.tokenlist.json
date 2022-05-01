@@ -158404,6 +158404,17 @@
       "extensions": {
         "description": "For more info, contact nhscryptocurrency@gmail.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2zGGqkFLxHoCQ2F7cbmSvhrdUqvYKdW7nGqoGspAesQN",
+      "symbol": "HOMIES",
+      "name": "HOMIES",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Homiezforlife/Homieslogo/main/mini.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
