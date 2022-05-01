@@ -158404,6 +158404,61 @@
       "extensions": {
         "description": "For more info, contact nhscryptocurrency@gmail.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2zGGqkFLxHoCQ2F7cbmSvhrdUqvYKdW7nGqoGspAesQN",
+      "symbol": "HOMIES",
+      "name": "HOMIES",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Homiezforlife/Homieslogo/main/mini.PNG",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FgvaSzNW852UGYA84ZkE1MHpUFihbw2xCzq4aqPNRJyq",
+      "symbol": "BULUK",
+      "name": "Buluk Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JoshMusty/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "Fkh7FJ2F8ogN53GGtqtNMQ1jTwWbmTmCJ8oCGB7qD7oj",
+      "symbol": "J",
+      "name": "Jimbo Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fkh7FJ2F8ogN53GGtqtNMQ1jTwWbmTmCJ8oCGB7qD7oj/logo.png",
+      "tags": [
+        "jimbo-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "BTCGZYMqyfA8WBKNgwcpZn21ruNBvHvbfnrYNsd4xtTZ",
+      "symbol": "btc-g",
+      "name": "Green Bitcoin",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/btcg/btc-g.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "Greening cryptocurrencies one coin at a time",
+        "imageUrl": "https://bafybeiakx66r7u5u5sxi24b25k4y5qm6zhpyuetocphl7kfcs4yij6zjgy.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/btcg/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmUs6X2QHrPSAW9mZYtHGNCDjMDWTk7cg3EiEQ1Ao4PvL9/whitepaper.pdf"
+      }
     }
   ],
   "version": {
