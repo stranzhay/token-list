@@ -158269,6 +158269,17 @@
       "name": "ACCESS",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/ACCESS_coin.png"
+    },
+    {
+      "chainId": 103,
+      "address": "EJWynqh34YPswkdEwBAb76YPX18JdkG4BaXiwDBWg7Bq",
+      "symbol": "BIND",
+      "name": "Bind Com Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EJWynqh34YPswkdEwBAb76YPX18JdkG4BaXiwDBWg7Bq/BIND.png",
+      "extensions": {
+        "website": "https://bind.com/"
+      }
     }
   ],
   "version": {
