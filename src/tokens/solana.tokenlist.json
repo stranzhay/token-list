@@ -158528,6 +158528,18 @@
       "tags": [
         "financial-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "EGXPbqsSfSG5mRT88XMEYUm8Rf9ZDQAzb8yNJ8dRVyA5",
+      "symbol": "GT",
+      "name": "Green Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/wajahatrashid1/GreenTokenLogo/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
