@@ -158474,6 +158474,18 @@
         "twitter": "https://twitter.com/shark_lounge",
         "website": "https://www.sharklounge.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bq5wDcoXfAjZq7w4JhpcQ5AyG9ugo2xETdA7BefFNu1T",
+      "symbol": "LIRA",
+      "name": "Lira",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/zeinhd/Dota-coin/main/LOGO.PNG.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
