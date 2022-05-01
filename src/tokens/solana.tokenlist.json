@@ -158562,6 +158562,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HnAq3F9ipwGXKBG3yfHyX8y19m9NiXSd1iphYDvrp1LS",
+      "symbol": "KWL",
+      "name": "Keikai WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HnAq3F9ipwGXKBG3yfHyX8y19m9NiXSd1iphYDvrp1LS/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/mare_tsuki",
+        "website": "https://maretsuki.com"
+      }
     }
   ],
   "version": {
