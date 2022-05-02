@@ -158885,6 +158885,17 @@
         "discord": "https://discord.gg/gmRrSguQKX",
         "twitter": "https://twitter.com/nftfluffyfrens"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "EU24g7LE28g6KDEsTFupKgBxzbpMpx3SqgjJ36BmzWmc",
+      "symbol": "NTK",
+      "name": "NiceToken",
+      "decimals": 9,
+      "logoURI": "https://github.com/Maverick9081/solana/blob/main/nice.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
