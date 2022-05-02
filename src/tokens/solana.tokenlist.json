@@ -158674,6 +158674,21 @@
       "name": "DEAF",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DEAF_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ApeWLUZp1WGZdYnFEVubpTEzaNg2cpw182DKitLsyuRd",
+      "symbol": "AOWS",
+      "name": "Apes of Wall Street Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ApeWLUZp1WGZdYnFEVubpTEzaNg2cpw182DKitLsyuRd/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ApesOfWallStNFT",
+        "website": "https://www.apesofwallstreetnft.com/"
+      }
     }
   ],
   "version": {
