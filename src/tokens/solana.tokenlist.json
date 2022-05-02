@@ -158856,6 +158856,23 @@
       "tags": [
         "Social-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8cueAYPFnEQPR37ycBeKdMYARwAAYnvEfVH8MwWY1Xmo",
+      "symbol": "FLWZ",
+      "name": "Flowz Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Ayoalapafuja/Flowz-Coin.png/main/logo.png",
+      "tags": [
+        "community-token",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/KhBAHKsF2v",
+        "twitter": "https://twitter.com/flowzcoin1",
+        "website": "http://flowzcoin.com.ng/"
+      }
     }
   ],
   "version": {
