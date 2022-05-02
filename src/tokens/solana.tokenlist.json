@@ -158718,6 +158718,14 @@
         "twitter": "https://twitter.com/singleearth1",
         "website": "https://single.earth/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HWLvCf7dwed7WrfiAbesDfSbPZAhfbwwrALv21mZqG8Y",
+      "symbol": "HWL",
+      "name": "Horseys Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HWLvCf7dwed7WrfiAbesDfSbPZAhfbwwrALv21mZqG8Y/logo.png"
     }
   ],
   "version": {
