@@ -158873,6 +158873,29 @@
         "twitter": "https://twitter.com/flowzcoin1",
         "website": "http://flowzcoin.com.ng/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HVEHJZHzN8Kz9a59Cwv83r4jAHYax5LJFzop99TdiZJn",
+      "symbol": "FFn",
+      "name": "Pre-Whitelist access Fluffy frens (FFn)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HVEHJZHzN8Kz9a59Cwv83r4jAHYax5LJFzop99TdiZJn/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/gmRrSguQKX",
+        "twitter": "https://twitter.com/nftfluffyfrens"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "EU24g7LE28g6KDEsTFupKgBxzbpMpx3SqgjJ36BmzWmc",
+      "symbol": "NTK",
+      "name": "NiceToken",
+      "decimals": 9,
+      "logoURI": "https://github.com/Maverick9081/solana/blob/main/nice.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
