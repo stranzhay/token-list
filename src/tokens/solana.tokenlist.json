@@ -158834,6 +158834,17 @@
       "tags": [
         "finance-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "qjbfiJcUWf9CXP4LgRapkXmVUeGq1BfrcJLkZeXxQgZ",
+      "symbol": "IOS",
+      "name": "Iarlaith Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/iarlaithos/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
