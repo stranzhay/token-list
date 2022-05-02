@@ -158972,6 +158972,17 @@
         "twitter": "https://twitter.com/scope_io",
         "website": "http://scopeportals.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EJsBf7Z5UBURSyoTahZuaeHCZnvujV1g8m5cH9KLY6AX",
+      "symbol": "BRNI",
+      "name": "Berni Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BRNICOIN/brni/main/BERNI2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
