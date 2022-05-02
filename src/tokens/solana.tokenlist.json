@@ -158740,6 +158740,17 @@
       "extensions": {
         "twitter": "https://twitter.com/astroreaperz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "UoS2FWy8LyEXrvmCFfsLkQtHs47aQ335wKARHBxSMbg",
+      "symbol": "CRYO",
+      "name": "CRYO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ShahrdadBlockchain/CRYO/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
