@@ -158937,6 +158937,23 @@
         "website": "https://www.metascape.city",
         "youtube": "https://www.youtube.com/channel/UCFdI57Yel-n__BZcnmWj8xw"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FLNiUQLcyuscftADTriTGsQzJJWUbDBvvNTohBEWNYUE",
+      "symbol": "HMB",
+      "name": "Heavy Metal Bucks",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FLNiUQLcyuscftADTriTGsQzJJWUbDBvvNTohBEWNYUE/logo.png",
+      "tags": [
+        "community-token",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/vrVMqD6WyJ",
+        "twitter": "https://twitter.com/MedievalCatsNFT",
+        "website": "https://metarobots.netlify.app/"
+      }
     }
   ],
   "version": {
