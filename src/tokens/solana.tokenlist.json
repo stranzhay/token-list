@@ -158775,6 +158775,54 @@
       "name": "Mini Soccer Boys VIP",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JACakxoVpG4y2XSfnfCwrDmrKmaXhXzBtuUiPVS2kH4K/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BhxkMZCx6nMhiSC53Cbb9rbro3SBwDoopzdCquqJeHpJ",
+      "symbol": "ggSOL",
+      "name": "ggSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BhxkMZCx6nMhiSC53Cbb9rbro3SBwDoopzdCquqJeHpJ/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6JC9vFueQuj45N2eusmL6cxKT6wyY2rymBkcKWtowEAo",
+      "symbol": "ggUSDC",
+      "name": "ggUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6JC9vFueQuj45N2eusmL6cxKT6wyY2rymBkcKWtowEAo/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Eaz9Q3jBv3fR3Mq2DsJWQ4TqDaGhsBcq3XoQWahnEwFd",
+      "symbol": "ggmSOL",
+      "name": "ggmSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Eaz9Q3jBv3fR3Mq2DsJWQ4TqDaGhsBcq3XoQWahnEwFd/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
     }
   ],
   "version": {
