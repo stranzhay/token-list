@@ -158994,6 +158994,24 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ChywntqwNRzaoWYUcDQ3iALqcwSAVtjM2dPshz5AETMm",
+      "symbol": "KTRC",
+      "name": "Kotaro Chips",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ChywntqwNRzaoWYUcDQ3iALqcwSAVtjM2dPshz5AETMm/logo.png",
+      "tags": [
+        "NFT",
+        "GAMEFI",
+        "Staking"
+      ],
+      "extensions": {
+        "description": "Kotaro Chips is an SPL token of Kotaro Sharks, an NFT collection of sharks living on the Solana blockchain that love to play poker and vibe with friends.",
+        "discord": "http://discord.gg/kotarosharks",
+        "twitter": "https://twitter.com/KotaroSharks"
+      }
     }
   ],
   "version": {
