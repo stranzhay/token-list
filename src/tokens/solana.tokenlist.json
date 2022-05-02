@@ -153687,9 +153687,9 @@
     },
     {
       "chainId": 101,
-      "address": "8pmrtk2L3hnrF83FKx746VnG28Be9zxTphxa7VFabTjc",
+      "address": "AUnF9BxPPtZZYdm9dPXMiVeF3TJvPaXPisSYPU5jWp36",
       "symbol": "FLOAT",
-      "name": "Float",
+      "name": "Floating Apes Affiliation",
       "decimals": 1,
       "logoURI": "https://bafybeidcqhtql7u6ppdgttwrx2e2qhb64mrvhqyilgks43msuhaisz3juu.ipfs.dweb.link/?ext=png",
       "tags": [
@@ -153697,7 +153697,7 @@
         "utility-token"
       ],
       "extensions": {
-        "discord": "https://discord.gg/7sBZAuUP",
+        "discord": "https://discord.gg/FNjCyHxQNW",
         "twitter": "https://twitter.com/FloatingApesNFT",
         "website": "https://floatingapesnft.io/"
       }
