@@ -158767,6 +158767,14 @@
         "medium": "https://medium.com/@3PMmusicNFT",
         "website": "https://oneum.3pm.earth/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JACakxoVpG4y2XSfnfCwrDmrKmaXhXzBtuUiPVS2kH4K",
+      "symbol": "MSB",
+      "name": "Mini Soccer Boys VIP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JACakxoVpG4y2XSfnfCwrDmrKmaXhXzBtuUiPVS2kH4K/logo.png"
     }
   ],
   "version": {
