@@ -158654,6 +158654,18 @@
         "website": "https://solaxymetaverse.com",
         "whitepaper": "https://solaxymetaverse.com/assets/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "DRyAdYvNHrf4M5yphJeXUCJu6TPiSDoEEtAwbPWMPhTt",
+      "symbol": "FAI",
+      "name": "Faicoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DRyAdYvNHrf4M5yphJeXUCJu6TPiSDoEEtAwbPWMPhTt/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
