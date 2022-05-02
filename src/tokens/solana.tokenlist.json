@@ -158700,6 +158700,24 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HjUMVG3yQK7uMTq1TerG6C8JzAjRvMdYCoX7ZUzKTgjH",
+      "symbol": "MERIT",
+      "name": "MERIT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HjUMVG3yQK7uMTq1TerG6C8JzAjRvMdYCoX7ZUzKTgjH/logo.png",
+      "tags": [
+        "nature"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/h5hYY4gKfS",
+        "facebook": "https://www.facebook.com/SingleEarth",
+        "instagram": "https://www.instagram.com/single_earth",
+        "twitter": "https://twitter.com/singleearth1",
+        "website": "https://single.earth/"
+      }
     }
   ],
   "version": {
