@@ -158751,6 +158751,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GaZUVNuZkZXjxHQniy6bSNkr7iSAv4iUxrfBj6EXrcXj",
+      "symbol": "OMM",
+      "name": "ONEUM Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GaZUVNuZkZXjxHQniy6bSNkr7iSAv4iUxrfBj6EXrcXj/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/FSQqhnvZxj",
+        "medium": "https://medium.com/@3PMmusicNFT",
+        "website": "https://oneum.3pm.earth/"
+      }
     }
   ],
   "version": {
