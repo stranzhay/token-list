@@ -158636,6 +158636,24 @@
       "name": "Finance Aliens Society",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVUyMVECTgciKj8FLqzgkyHqngJkhMtXG6QAwQSsPEMb/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "soLACdGKTr1PT75KTjj4RaUgA2sDBvCqAd8Zty2W1Yz",
+      "symbol": "SOLA",
+      "name": "Solaxy Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/soLACdGKTr1PT75KTjj4RaUgA2sDBvCqAd8Zty2W1Yz/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "$SOLA Tokenomics with a mission to reward NFT Holders via staking and cultivating a healthy Metaverse Ecosystem.",
+        "discord": "https://discord.gg/solaxymetaverse",
+        "website": "https://solaxymetaverse.com",
+        "whitepaper": "https://solaxymetaverse.com/assets/whitepaper.pdf"
+      }
     }
   ],
   "version": {
