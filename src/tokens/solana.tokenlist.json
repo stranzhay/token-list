@@ -158689,6 +158689,17 @@
         "twitter": "https://twitter.com/ApesOfWallStNFT",
         "website": "https://www.apesofwallstreetnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CHiKRBLyxcnP9uKCfg63hh2tJMPkwaBtM56uPfsVesqf",
+      "symbol": "JPST",
+      "name": "JP Free Sloths Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CHiKRBLyxcnP9uKCfg63hh2tJMPkwaBtM56uPfsVesqf/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
