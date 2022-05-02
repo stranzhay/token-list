@@ -159028,6 +159028,17 @@
         "twitter": "https://twitter.com/PixelPilotzNFT",
         "website": "https://pixelpilotz.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3PLCY6jcJSVg735CMBfA7jYDACJKfPgh7NJTKMh6TttN",
+      "symbol": "Trdz",
+      "name": "Tradanza's Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tradanza/cryptologo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
