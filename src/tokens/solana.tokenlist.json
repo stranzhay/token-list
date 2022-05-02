@@ -158628,6 +158628,14 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AVUyMVECTgciKj8FLqzgkyHqngJkhMtXG6QAwQSsPEMb",
+      "symbol": "FAS",
+      "name": "Finance Aliens Society",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVUyMVECTgciKj8FLqzgkyHqngJkhMtXG6QAwQSsPEMb/logo.png"
     }
   ],
   "version": {
