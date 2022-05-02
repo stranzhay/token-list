@@ -158823,6 +158823,17 @@
         "twitter": "https://twitter.com/goblingold_fi",
         "website": "https://goblin.gold"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G5heESJwK9zTa811CkyFhGL37Nkh4ecYYNWk3XY14gPe",
+      "symbol": "EUR",
+      "name": "Blackrock Finance",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/xBlackrock/EUR_Token/main/Logo.png",
+      "tags": [
+        "finance-token"
+      ]
     }
   ],
   "version": {
