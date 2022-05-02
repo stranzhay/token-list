@@ -159028,6 +159028,33 @@
         "twitter": "https://twitter.com/PixelPilotzNFT",
         "website": "https://pixelpilotz.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3PLCY6jcJSVg735CMBfA7jYDACJKfPgh7NJTKMh6TttN",
+      "symbol": "Trdz",
+      "name": "Tradanza's Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tradanza/cryptologo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Drw2du41PCr9S6VhRqHmujAjdCKwh1JRKZzgtq5n9PpW",
+      "symbol": "FBANX",
+      "name": "FBANX",
+      "decimals": 2,
+      "logoURI": "https://solaboy.github.io/images/fbanxlogo.png",
+      "tags": [
+        "governance-token",
+        "exchange"
+      ],
+      "extensions": {
+        "description": "governance token",
+        "website": "https://fbanx.org"
+      }
     }
   ],
   "version": {
