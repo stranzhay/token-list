@@ -158954,6 +158954,24 @@
         "twitter": "https://twitter.com/MedievalCatsNFT",
         "website": "https://metarobots.netlify.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5HbkoVbaMnJYEuiTqeC7cBMSK2zG2MFfoxc9e6VkWPQS",
+      "symbol": "SCP",
+      "name": "SCOPE",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/drsaint1/drsaint/29c9fd1942416e3467755ba7fbdaec076c3105cd/scope.jpg",
+      "tags": [
+        "Gamefi",
+        "NFT",
+        "Defi"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/UJppkPcqwT",
+        "twitter": "https://twitter.com/scope_io",
+        "website": "http://scopeportals.io"
+      }
     }
   ],
   "version": {
