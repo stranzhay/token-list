@@ -158574,6 +158574,20 @@
         "twitter": "https://twitter.com/mare_tsuki",
         "website": "https://maretsuki.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5QrKoSKw2fYCW4FFHnLnRgTMjRtL6S3YLmEswJYP9B6t",
+      "symbol": "DOPE-WL",
+      "name": "DopeHeadz-WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5QrKoSKw2fYCW4FFHnLnRgTMjRtL6S3YLmEswJYP9B6t/Logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DopeHeadzNFT"
+      }
     }
   ],
   "version": {
