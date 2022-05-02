@@ -158972,6 +158972,28 @@
         "twitter": "https://twitter.com/scope_io",
         "website": "http://scopeportals.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EJsBf7Z5UBURSyoTahZuaeHCZnvujV1g8m5cH9KLY6AX",
+      "symbol": "BRNI",
+      "name": "Berni Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BRNICOIN/brni/main/BERNI2.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GQAAhv4TfgcyskQdmHznjhS3WqwC49o8aHyx6YtModvZ",
+      "symbol": "IVRY",
+      "name": "IVRY TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GQAAhv4TfgcyskQdmHznjhS3WqwC49o8aHyx6YtModvZ/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
