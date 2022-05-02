@@ -158726,6 +158726,31 @@
       "name": "Horseys Whitelist Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HWLvCf7dwed7WrfiAbesDfSbPZAhfbwwrALv21mZqG8Y/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6rTMtgErEBbJo4zsHHhK7B2Y1z6JhUMv9MpyX1yTSPTo",
+      "symbol": "ASTRTEST",
+      "name": "ASTROREAPERZ TEST",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6rTMtgErEBbJo4zsHHhK7B2Y1z6JhUMv9MpyX1yTSPTo/logo.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/astroreaperz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "UoS2FWy8LyEXrvmCFfsLkQtHs47aQ335wKARHBxSMbg",
+      "symbol": "CRYO",
+      "name": "CRYO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ShahrdadBlockchain/CRYO/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
