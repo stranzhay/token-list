@@ -158845,6 +158845,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9DfciZat8W6fDcwFSFNmf9SN2qdFjVjVYP2sTkJNpwUo",
+      "symbol": "Lux",
+      "name": "Luchsinger's Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Spencer12219/Crypto/main/logo.png",
+      "tags": [
+        "Social-Token"
+      ]
     }
   ],
   "version": {
