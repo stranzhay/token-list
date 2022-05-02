@@ -158666,6 +158666,14 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CH4Z1fw39g2Y9d9f96qiSPUrqJ3CVjJfPWriMLMX1HKi",
+      "symbol": "$DEAF",
+      "name": "DEAF",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DEAF_coin.png"
     }
   ],
   "version": {
