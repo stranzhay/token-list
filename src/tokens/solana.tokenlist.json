@@ -159066,6 +159066,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HR9HW2fygS4RWgn1i3AzxQVayb3ReKpqKKA3TZfWwzHN",
+      "symbol": "LTTCE",
+      "name": "Lettuce Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/boblettucetv/Lettuce-Token/Crypto/logo.png"
     }
   ],
   "version": {
