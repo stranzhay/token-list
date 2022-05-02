@@ -158616,6 +158616,18 @@
       "name": "USDC Dev",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6ercxSiDn2KJ8KZxmCT4eheQqAWN3z17s8eLT3VECuda",
+      "symbol": "MOMO",
+      "name": "Momonga",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/wilsonv123/momonaga/main/thumbnail_logopng-02.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
