@@ -158896,6 +158896,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7t9foh4g1kMucERVbyzwrxhNpnhp4tigwNxJfvC2M2X6",
+      "symbol": "SLCF",
+      "name": "Solaunchief",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7t9foh4g1kMucERVbyzwrxhNpnhp4tigwNxJfvC2M2X6/logo.png",
+      "tags": [
+        "social-token",
+        "finance-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.solaunchief.com/"
+      }
     }
   ],
   "version": {
