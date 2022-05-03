@@ -159055,6 +159055,17 @@
         "description": "governance token",
         "website": "https://fbanx.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FELb3heNi4XA2kM4xTPWprdKaGeAPPK8bNM54CBwwtPG",
+      "symbol": "PRCN",
+      "name": "ProCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/aaravg772/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
