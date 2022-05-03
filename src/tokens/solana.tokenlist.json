@@ -159418,6 +159418,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7U3HPA9rYUQmfF52oFE3F4h7r3S8VVM28BUK9UzYe1PN",
+      "symbol": "OUD",
+      "name": "OUD",
+      "decimals": 9,
+      "logoURI": "https://imgur.com/YqxwgC4.png"
     }
   ],
   "version": {
