@@ -159440,6 +159440,22 @@
       "extensions": {
         "twitter": "https://twitter.com/kingsofdastreet"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "58xx9DVzXCic3GhKwBWW5mpBg7ABkjVFpLpqU2DgfrjU",
+      "symbol": "MRBOT",
+      "name": "Mrbot Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/58xx9DVzXCic3GhKwBWW5mpBg7ABkjVFpLpqU2DgfrjU/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/zZttYaVEQ9",
+        "twitter": "https://twitter.com/mrbotnft",
+        "website": "https://mrbot.tech/"
+      }
     }
   ],
   "version": {
