@@ -159197,6 +159197,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "TATBsxWJsKQ92VZuufKcibXuZp6npDdUQeZxPQy9Mug",
+      "symbol": "TAT",
+      "name": "Trippin Ape Tribe",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bitcoinblack482/logo/main/tat.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/trippinapetribe",
+        "twitter": "https://twitter.com/TrippinApeNFT",
+        "website": "https://www.trippinapetribe.xyz"
+      }
     }
   ],
   "version": {
