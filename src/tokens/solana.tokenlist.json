@@ -159342,6 +159342,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EdUE6yWLV4tnTZvBKasHAsmbTh8Ed5vWkY4WXQbux8yk",
+      "symbol": "BLD",
+      "name": "DB Blood",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EdUE6yWLV4tnTZvBKasHAsmbTh8Ed5vWkY4WXQbux8yk/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EhecatlUniverse"
+      }
     }
   ],
   "version": {
