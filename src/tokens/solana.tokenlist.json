@@ -159144,6 +159144,20 @@
         "twitter": "https://twitter.com/ADAlend_finance",
         "website": "https://adalend.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6PkHPXrfdszddND1Bz6jHaekBTyZr1BAqxNWQT9gCcUv",
+      "symbol": "SLMN-WL-TS",
+      "name": "Solmon WL Token Trainers",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jwurrow/solmon/main/solmon-token.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "website": "https://solmon.game/"
+      }
     }
   ],
   "version": {
