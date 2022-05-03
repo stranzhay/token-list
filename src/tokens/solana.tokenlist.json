@@ -159186,6 +159186,17 @@
         "twitter": "https://twitter.com/fallenangelsxyz",
         "website": "http://fallenangels.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "39wLCg3JHBC52Q44Gd1SkZc5wtm7cWf6MCLhJPcH9rLH",
+      "symbol": "OACZ",
+      "name": "Oasis Civilization Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://media.discordapp.net/attachments/926535226820276264/970657108481687562/unknown.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
