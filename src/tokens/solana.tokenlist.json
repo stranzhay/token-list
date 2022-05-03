@@ -159117,6 +159117,75 @@
       "extensions": {
         "website": "https://williamconnelly.netlify.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "frogmSnr9knrc6CcVMtGrh3KvixZRc67LQYSqoE3ozZ",
+      "symbol": "$RIBBIT",
+      "name": "Frog Club Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/frogmSnr9knrc6CcVMtGrh3KvixZRc67LQYSqoE3ozZ/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EyMzhwdjAMLKsKR1domLdAmTWfc4PWPBPZRuzouvCWiQ",
+      "symbol": "WADAL",
+      "name": "Adalend",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EyMzhwdjAMLKsKR1domLdAmTWfc4PWPBPZRuzouvCWiQ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/ADALend",
+        "twitter": "https://twitter.com/ADAlend_finance",
+        "website": "https://adalend.finance/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6PkHPXrfdszddND1Bz6jHaekBTyZr1BAqxNWQT9gCcUv",
+      "symbol": "SLMN-WL-TS",
+      "name": "Solmon WL Token Trainers",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jwurrow/solmon/main/solmon-token.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "website": "https://solmon.game/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CrKj3wahgHc76yUE5gL3WLbRW5g5rK88vAtUqRcsSCnX",
+      "symbol": "TNC",
+      "name": "Tonic",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CrKj3wahgHc76yUE5gL3WLbRW5g5rK88vAtUqRcsSCnX/logo.png",
+      "extensions": {
+        "discord": "https://discord.com/invite/cyberpharmacy",
+        "twitter": "https://twitter.com/cyber_pharmacy",
+        "website": "https://cyberpharmacy.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7TSMDTH15FddZfZHX1pPuDynM3N62BCHbHtLvRNvmSmL",
+      "symbol": "ANGEL",
+      "name": "Fallen Angel",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7TSMDTH15FddZfZHX1pPuDynM3N62BCHbHtLvRNvmSmL/logo.png",
+      "tags": [
+        "nft-marketplace"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/fallenangelsxyz",
+        "website": "http://fallenangels.com/"
+      }
     }
   ],
   "version": {
