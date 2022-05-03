@@ -159331,6 +159331,17 @@
         "twitter": "https://twitter.com/TenkaiApes",
         "website": "https://tenkaiapes.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8UVGdzdXc76z8zoH3Fd4KupEVFCSWDGiStRYbLbopQhe",
+      "symbol": "QNUR",
+      "name": "Qnur Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Kai-ckul/qnur/main/qnur.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
