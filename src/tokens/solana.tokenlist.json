@@ -159213,6 +159213,17 @@
         "twitter": "https://twitter.com/TrippinApeNFT",
         "website": "https://www.trippinapetribe.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3nG1CTgfiCBMCwzhEwtfYaXGECXWGbc5pm2kdn5xAsGS",
+      "symbol": "PBTKN",
+      "name": "Peanut Bean",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/qwdavis/crypto2/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
