@@ -159224,6 +159224,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4CqGRYLzvj3ibufGJdLmdK2CzvDA5k82NVav4a5EKCBG",
+      "symbol": "COCU",
+      "name": "Cocucoin",
+      "decimals": 9,
+      "logoURI": "https://cocucoin.com/logo.png",
+      "tags": [
+        "social-token",
+        "nft",
+        "swap",
+        "trade",
+        "finance"
+      ],
+      "extensions": {
+        "website": "https://cocucoin.com/"
+      }
     }
   ],
   "version": {
