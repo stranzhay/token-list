@@ -159314,6 +159314,23 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "TKDrcm3n4mfXFfPKZoLp5soRSdFQSmyWLdomdKL3ktU",
+      "symbol": "TENKAI",
+      "name": "Tenkai Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TKDrcm3n4mfXFfPKZoLp5soRSdFQSmyWLdomdKL3ktU/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/PfrZe9hPcP",
+        "serumV3Usdc": "DnBj2xqxwjDYCNnegpFuaFqiYktvZpz9a7gvdbodjTU",
+        "twitter": "https://twitter.com/TenkaiApes",
+        "website": "https://tenkaiapes.com/"
+      }
     }
   ],
   "version": {
