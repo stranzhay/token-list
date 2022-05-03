@@ -159074,6 +159074,35 @@
       "name": "Lettuce Token",
       "decimals": 2,
       "logoURI": "https://raw.githubusercontent.com/boblettucetv/Lettuce-Token/Crypto/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6SURQPXgbgDfeDi7Su2TQvZHTwQJ6fsZrAZAM6yxwnej",
+      "symbol": "CP3D",
+      "name": "CryptoPicks",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/LegendaryCryptoPick/assets/main/CryptoPicks%201st%20Gen%20Custom%20Print.png",
+      "tags": [
+        "social-token",
+        "music-token",
+        "NFT",
+        "NFT-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Cs2R3beyPt4NGg1ARgk3uP6U3DA8Hpi8SW613WGoRVzC",
+      "symbol": "AMOG",
+      "name": "ArtMonkees OG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cs2R3beyPt4NGg1ARgk3uP6U3DA8Hpi8SW613WGoRVzC/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/artmonkees",
+        "website": "https://artmonkees.io/"
+      }
     }
   ],
   "version": {
