@@ -159074,6 +159074,20 @@
       "name": "Lettuce Token",
       "decimals": 2,
       "logoURI": "https://raw.githubusercontent.com/boblettucetv/Lettuce-Token/Crypto/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6SURQPXgbgDfeDi7Su2TQvZHTwQJ6fsZrAZAM6yxwnej",
+      "symbol": "CP3D",
+      "name": "CryptoPicks",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/LegendaryCryptoPick/assets/main/CryptoPicks%201st%20Gen%20Custom%20Print.png",
+      "tags": [
+        "social-token",
+        "music-token",
+        "NFT",
+        "NFT-token"
+      ]
     }
   ],
   "version": {
