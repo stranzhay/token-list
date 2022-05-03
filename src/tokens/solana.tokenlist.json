@@ -159418,6 +159418,44 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7U3HPA9rYUQmfF52oFE3F4h7r3S8VVM28BUK9UzYe1PN",
+      "symbol": "OUD",
+      "name": "OUD",
+      "decimals": 9,
+      "logoURI": "https://imgur.com/YqxwgC4.png"
+    },
+    {
+      "chainId": 101,
+      "address": "kiNG3f22n1i4pbXrxJz1Zviwe3FNrpS5ZqwfYTf2N33",
+      "symbol": "KoDS",
+      "name": "kings of da Street WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kiNG3f22n1i4pbXrxJz1Zviwe3FNrpS5ZqwfYTf2N33/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/kingsofdastreet"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "58xx9DVzXCic3GhKwBWW5mpBg7ABkjVFpLpqU2DgfrjU",
+      "symbol": "MRBOT",
+      "name": "Mrbot Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/58xx9DVzXCic3GhKwBWW5mpBg7ABkjVFpLpqU2DgfrjU/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/zZttYaVEQ9",
+        "twitter": "https://twitter.com/mrbotnft",
+        "website": "https://mrbot.tech/"
+      }
     }
   ],
   "version": {
