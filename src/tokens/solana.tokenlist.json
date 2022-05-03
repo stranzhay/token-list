@@ -159367,6 +159367,30 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WL3JbsR9VGjFP7maGkAC6LfS9s3JFuCWeU5JAB9Gi4G",
+      "symbol": "MIDHWLT",
+      "name": "MOUS IN DA HOUS WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLwanMkvjXzJCogizrQgZc8MuZ4aSXsZ2KXm8aaZ6FY/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ogtWYbiHXF32wdTvhKv8CfHn3FThf2MfhCPi6Y3Fc1G",
+      "symbol": "MIDHOGT",
+      "name": "MOUS IN DA HOUS OG TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLwanMkvjXzJCogizrQgZc8MuZ4aSXsZ2KXm8aaZ6FY/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
