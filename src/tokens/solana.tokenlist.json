@@ -159242,6 +159242,30 @@
       "extensions": {
         "website": "https://cocucoin.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WLwanMkvjXzJCogizrQgZc8MuZ4aSXsZ2KXm8aaZ6FY",
+      "symbol": "MIDHWL",
+      "name": "MOUSE IN DA HOUSE WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLwanMkvjXzJCogizrQgZc8MuZ4aSXsZ2KXm8aaZ6FY/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ogRmfJLMDyS1nLgCmQYNKJJVa7NgfgUR87yuTbUeCUz",
+      "symbol": "MIDHOG",
+      "name": "MOUSE IN DA HOUSE OG TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLwanMkvjXzJCogizrQgZc8MuZ4aSXsZ2KXm8aaZ6FY/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
