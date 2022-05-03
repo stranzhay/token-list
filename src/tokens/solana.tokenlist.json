@@ -159356,6 +159356,17 @@
       "extensions": {
         "twitter": "https://twitter.com/EhecatlUniverse"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "hcxCW1FXVyXbDC1B8Gtv4PvrxP3ANYtBAXJtRzYow6M",
+      "symbol": "MILK",
+      "name": "SolanaBossBabies Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/husky-696/Public-images/758a44b7ec793855303aef7d945dcd33ad5dd6c5/logo.png.png?token=AYKN4WAHS4SGW6KWG35KAF3COGA72",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
