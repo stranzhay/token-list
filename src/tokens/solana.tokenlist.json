@@ -159128,6 +159128,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EyMzhwdjAMLKsKR1domLdAmTWfc4PWPBPZRuzouvCWiQ",
+      "symbol": "WADAL",
+      "name": "Adalend",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EyMzhwdjAMLKsKR1domLdAmTWfc4PWPBPZRuzouvCWiQ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/ADALend",
+        "twitter": "https://twitter.com/ADAlend_finance",
+        "website": "https://adalend.finance/"
+      }
     }
   ],
   "version": {
