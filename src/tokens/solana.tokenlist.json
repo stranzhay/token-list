@@ -159103,6 +159103,20 @@
         "twitter": "https://twitter.com/artmonkees",
         "website": "https://artmonkees.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FD12nu5TQDTXTpQkTcThpV5EFCB6Df27CBfPUawizcB2",
+      "symbol": "GCOIN",
+      "name": "GatorCoin OG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/connellyw/Crypto/main/Gcoin.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://williamconnelly.netlify.app/"
+      }
     }
   ],
   "version": {
