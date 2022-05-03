@@ -159356,6 +159356,57 @@
       "extensions": {
         "twitter": "https://twitter.com/EhecatlUniverse"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "hcxCW1FXVyXbDC1B8Gtv4PvrxP3ANYtBAXJtRzYow6M",
+      "symbol": "MILK",
+      "name": "SolanaBossBabies Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/husky-696/Public-images/758a44b7ec793855303aef7d945dcd33ad5dd6c5/logo.png.png?token=AYKN4WAHS4SGW6KWG35KAF3COGA72",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "WL3JbsR9VGjFP7maGkAC6LfS9s3JFuCWeU5JAB9Gi4G",
+      "symbol": "MIDHWLT",
+      "name": "MOUS IN DA HOUS WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLwanMkvjXzJCogizrQgZc8MuZ4aSXsZ2KXm8aaZ6FY/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ogtWYbiHXF32wdTvhKv8CfHn3FThf2MfhCPi6Y3Fc1G",
+      "symbol": "MIDHOGT",
+      "name": "MOUS IN DA HOUS OG TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLwanMkvjXzJCogizrQgZc8MuZ4aSXsZ2KXm8aaZ6FY/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "avsfwCwXjMreP2eg5z5cJBxL5bdULJoU8fb9ZGYGzXM",
+      "symbol": "AVTR",
+      "name": "Solavatar Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/avsfwCwXjMreP2eg5z5cJBxL5bdULJoU8fb9ZGYGzXM/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solavatar3"
+      }
     }
   ],
   "version": {
