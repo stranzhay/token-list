@@ -159055,6 +159055,25 @@
         "description": "governance token",
         "website": "https://fbanx.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FELb3heNi4XA2kM4xTPWprdKaGeAPPK8bNM54CBwwtPG",
+      "symbol": "PRCN",
+      "name": "ProCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/aaravg772/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HR9HW2fygS4RWgn1i3AzxQVayb3ReKpqKKA3TZfWwzHN",
+      "symbol": "LTTCE",
+      "name": "Lettuce Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/boblettucetv/Lettuce-Token/Crypto/logo.png"
     }
   ],
   "version": {
