@@ -159158,6 +159158,19 @@
       "extensions": {
         "website": "https://solmon.game/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CrKj3wahgHc76yUE5gL3WLbRW5g5rK88vAtUqRcsSCnX",
+      "symbol": "TNC",
+      "name": "Tonic",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CrKj3wahgHc76yUE5gL3WLbRW5g5rK88vAtUqRcsSCnX/logo.png",
+      "extensions": {
+        "discord": "https://discord.com/invite/cyberpharmacy",
+        "twitter": "https://twitter.com/cyber_pharmacy",
+        "website": "https://cyberpharmacy.io"
+      }
     }
   ],
   "version": {
