@@ -159407,6 +159407,17 @@
       "extensions": {
         "twitter": "https://twitter.com/solavatar3"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JCexpmKnwUQXNPr1Z32UgxhUBzeyCxqBEGDMALqBNs32",
+      "symbol": "1337",
+      "name": "1337",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/1337Crypto/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
