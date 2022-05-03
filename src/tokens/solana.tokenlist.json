@@ -159278,6 +159278,18 @@
         "social-token",
         "ART"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4DDaY3VGL1URApnehqbRtseHBCSWnC1kMmbbFyvWxheQ",
+      "symbol": "WKT",
+      "name": "Walker Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4DDaY3VGL1URApnehqbRtseHBCSWnC1kMmbbFyvWxheQ/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
