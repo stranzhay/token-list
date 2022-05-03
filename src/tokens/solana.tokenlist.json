@@ -159088,6 +159088,21 @@
         "NFT",
         "NFT-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Cs2R3beyPt4NGg1ARgk3uP6U3DA8Hpi8SW613WGoRVzC",
+      "symbol": "AMOG",
+      "name": "ArtMonkees OG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cs2R3beyPt4NGg1ARgk3uP6U3DA8Hpi8SW613WGoRVzC/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/artmonkees",
+        "website": "https://artmonkees.io/"
+      }
     }
   ],
   "version": {
