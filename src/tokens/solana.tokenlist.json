@@ -159242,6 +159242,67 @@
       "extensions": {
         "website": "https://cocucoin.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WLwanMkvjXzJCogizrQgZc8MuZ4aSXsZ2KXm8aaZ6FY",
+      "symbol": "MIDHWL",
+      "name": "MOUSE IN DA HOUSE WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLwanMkvjXzJCogizrQgZc8MuZ4aSXsZ2KXm8aaZ6FY/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ogRmfJLMDyS1nLgCmQYNKJJVa7NgfgUR87yuTbUeCUz",
+      "symbol": "MIDHOG",
+      "name": "MOUSE IN DA HOUSE OG TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLwanMkvjXzJCogizrQgZc8MuZ4aSXsZ2KXm8aaZ6FY/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3hCHhVwAR6ySDCyHPjy6iuny6Actvhz5ZX4WQUq2p9G4",
+      "symbol": "ART",
+      "name": "AUREUS Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3hCHhVwAR6ySDCyHPjy6iuny6Actvhz5ZX4WQUq2p9G4/logo.png",
+      "tags": [
+        "social-token",
+        "ART"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4DDaY3VGL1URApnehqbRtseHBCSWnC1kMmbbFyvWxheQ",
+      "symbol": "WKT",
+      "name": "Walker Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4DDaY3VGL1URApnehqbRtseHBCSWnC1kMmbbFyvWxheQ/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GHmAAkHZxGvGno3jRehkC4CjGJh5qgxLKHF5tPqQLPg1",
+      "symbol": "USDr",
+      "name": "Ratio Finance USD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GHmAAkHZxGvGno3jRehkC4CjGJh5qgxLKHF5tPqQLPg1/logo.png",
+      "extensions": {
+        "telegram": "https://t.me/ratiofinance",
+        "twitter": "https://twitter.com/RatioFinance",
+        "website": "https://ratio.finance/"
+      }
     }
   ],
   "version": {
