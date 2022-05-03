@@ -159391,6 +159391,22 @@
         "whitelist-token",
         "nfts"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "avsfwCwXjMreP2eg5z5cJBxL5bdULJoU8fb9ZGYGzXM",
+      "symbol": "AVTR",
+      "name": "Solavatar Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/avsfwCwXjMreP2eg5z5cJBxL5bdULJoU8fb9ZGYGzXM/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solavatar3"
+      }
     }
   ],
   "version": {
