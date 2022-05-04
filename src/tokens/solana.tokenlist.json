@@ -159741,6 +159741,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hj9V5W4R9BxKUJYC36X5Biayv6FwZz5mmfV3JY4LxF8z",
+      "symbol": "MELLOWWL",
+      "name": "Mellowmen WL Token",
+      "decimals": 0,
+      "logoURI": "https://i.imgur.com/38QD4yg.png"
     }
   ],
   "version": {
