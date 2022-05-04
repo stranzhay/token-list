@@ -159850,6 +159850,48 @@
         "twitter": "https://twitter.com/Bushido_Society",
         "website": "https://bushidosociety.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SMKdxDRkGU4NVhi36cXbYMzCGhkj48VVsWHiybAQDwC",
+      "symbol": "SMKWL",
+      "name": "Smokeville WL",
+      "decimals": 0,
+      "logoURI": "https://shmokeville.com/logo/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Smokeville WL Token",
+        "discord": "https://discord.gg/qrucgaZUvX",
+        "twitter": "https://twitter.com/Smokevillesol",
+        "website": "https://shmokeville.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CEZCH6PZjUw8RXfhsS8vSo4wGeoMMhAyzaFWHpXp3tRn",
+      "symbol": "GGADTT",
+      "name": "GGA DAO Test Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CEZCH6PZjUw8RXfhsS8vSo4wGeoMMhAyzaFWHpXp3tRn/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "xoy8fyDQ1iCEyUPdKf43ezKB7SCX9F69uqAHTFR5mcq",
+      "symbol": "DENJI",
+      "name": "Denji Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xoy8fyDQ1iCEyUPdKf43ezKB7SCX9F69uqAHTFR5mcq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MakimaNFT"
+      }
     }
   ],
   "version": {
