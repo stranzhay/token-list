@@ -159543,6 +159543,82 @@
       "extensions": {
         "website": "https://dongri.eth.limo"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "BtX7BuKkNKPMWH7QGyvNMQS7VsQBABEL69P6CMMjQzTu",
+      "symbol": "KGNFT",
+      "name": "KGNFToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BtX7BuKkNKPMWH7QGyvNMQS7VsQBABEL69P6CMMjQzTu/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
+    },
+    {
+      "chainId": 102,
+      "address": "9jtWhaRL9wysgWjXPTBBzyPa7CNP9zMMiDZR87tgVNDR",
+      "symbol": "USDT",
+      "name": "xldUSDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "Er2hR74LfFa7NJiVUnSfUg2sgu45Bq1pzZyHzPLXG1AT",
+      "symbol": "SLP",
+      "name": "xldSLP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4/logo.png",
+      "tags": [
+        "wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "smooth-love-potion"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "8LyHLBW4VXDziGRmsH9694TRYsf66BH4HemnnrN29tyZ",
+      "symbol": "DAI",
+      "name": "xldDai",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o/logo.png",
+      "tags": [
+        "wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "dai"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "HMnX3nmicC3Te2xChzKS1rwwfBqL9TVjNRwzLCvd344C",
+      "symbol": "humanx",
+      "name": "HumanX Token",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/humanX/humanx.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "This token is used to exchange message with any wallet addresse",
+        "imageUrl": "https://bafybeicghunoek4cafdi7snklb2dilxxkgh3olbmd4eazmlpsjzcjbg5te.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/humanX/#humanx",
+        "whitepaper": "https://gateway.ipfs.io/ipns/Qmad1CJThM8zYym23da8s89MFw8dcuSdRmhyySTgtNVbPu/whitepaper.pdf"
+      }
     }
   ],
   "version": {
