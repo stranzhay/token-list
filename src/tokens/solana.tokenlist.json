@@ -159944,6 +159944,23 @@
       "extensions": {
         "twitter": "https://twitter.com/GlizzyRoyale"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6piwLtPi6sYjvE1reSEpmAXfcJqJtyGp3fahhEU7VF2C",
+      "symbol": "SKZ",
+      "name": "The SNKRZ Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6piwLtPi6sYjvE1reSEpmAXfcJqJtyGp3fahhEU7VF2C/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "A Klaytn-based Walk-To-Earn social fitness platform",
+        "discord": "https://discord.com/invite/thesnkrz",
+        "twitter": "https://twitter.com/theSNKRZ",
+        "website": "https://www.thesnkrz.com/"
+      }
     }
   ],
   "version": {
