@@ -159833,6 +159833,23 @@
       "extensions": {
         "twitter": "https://twitter.com/CoralTribeNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8rgGrnETmAbMCmgAWgUA67ydf7CzMyd5pErGZiHvWxwN",
+      "symbol": "BSHD",
+      "name": "Bushido Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/stan14100/token-icon/main/bshd-token.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/bushidosociety",
+        "instagram": "https://www.instagram.com/bushido_society",
+        "twitter": "https://twitter.com/Bushido_Society",
+        "website": "https://bushidosociety.com/"
+      }
     }
   ],
   "version": {
