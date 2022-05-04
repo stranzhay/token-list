@@ -159772,6 +159772,20 @@
         "twitter": "https://twitter.com/bitlegacytoken",
         "website": "https://bitlegacytoken.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7seYZoh8kAG7akPrVAB6yQj9A9AvXXaL75r1boiQYWo2",
+      "symbol": "MTCA",
+      "name": "MITICA",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/pizzamitica/mitica/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.pizza-mitica.com/"
+      }
     }
   ],
   "version": {
