@@ -159749,6 +159749,57 @@
       "name": "Mellowmen WL Token",
       "decimals": 0,
       "logoURI": "https://i.imgur.com/38QD4yg.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FvmtrsisrSCMnWHjrTeBFfMrWLXpfYfsZqF8RXcPffiS",
+      "symbol": "SHNL",
+      "name": "Shannel Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Thesisshahrdad/Shannel-Token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "aYZPYgohjK6LYM8o1v6pnr3ZinhuRzSHd6TRDVDUBkK",
+      "symbol": "BTL",
+      "name": "BitLegacy Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/aYZPYgohjK6LYM8o1v6pnr3ZinhuRzSHd6TRDVDUBkK/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/bitlegacytoken",
+        "website": "https://bitlegacytoken.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7seYZoh8kAG7akPrVAB6yQj9A9AvXXaL75r1boiQYWo2",
+      "symbol": "MTCA",
+      "name": "MITICA",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/pizzamitica/mitica/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.pizza-mitica.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6EKUZutUq3ACUMpqmWVbzaNwyQmofZ3N3J8euy6NoFka",
+      "symbol": "DENJI",
+      "name": "Denji Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6EKUZutUq3ACUMpqmWVbzaNwyQmofZ3N3J8euy6NoFka/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MakimaNFT"
+      }
     }
   ],
   "version": {
