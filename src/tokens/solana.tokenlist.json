@@ -159642,6 +159642,18 @@
       "name": "Mistery Frog token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FfLSQYsLDrDj7viJxb8hFLyVbPEjd1pxctrdZj34WYwQ/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "CQz5Nauawfq5fRBu37k8h6e4TteAFj1LwXoq8UuHoQfq",
+      "symbol": "CFWL",
+      "name": "Crypto Frogz WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CQz5Nauawfq5fRBu37k8h6e4TteAFj1LwXoq8UuHoQfq/logo.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
