@@ -159654,6 +159654,17 @@
         "community-token",
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GzHyjtEn2iZ8aQdRUGS54U3TXAQNP2egcKrAxwEcVhPT",
+      "symbol": "S0L",
+      "name": "S0lana",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/peawis/success/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
