@@ -159786,6 +159786,20 @@
       "extensions": {
         "website": "https://www.pizza-mitica.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6EKUZutUq3ACUMpqmWVbzaNwyQmofZ3N3J8euy6NoFka",
+      "symbol": "DENJI",
+      "name": "Denji Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6EKUZutUq3ACUMpqmWVbzaNwyQmofZ3N3J8euy6NoFka/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MakimaNFT"
+      }
     }
   ],
   "version": {
