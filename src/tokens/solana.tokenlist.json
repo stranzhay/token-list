@@ -159800,6 +159800,56 @@
       "extensions": {
         "twitter": "https://twitter.com/MakimaNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3hEN3maDrmuoj89EDV452RRoRqDfZeeR4auoRs5mXF9u",
+      "symbol": "FLAME",
+      "name": "FLAME",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3hEN3maDrmuoj89EDV452RRoRqDfZeeR4auoRs5mXF9u/logo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Offical Daring Dragons Phoenix Token, powering the DDP universe",
+        "twitter": "https://twitter.com/Daring_Dragons"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FASohke1j5eRAwQBMqTs3W9d3N54xFqNAg3nZRmGKQdk",
+      "symbol": "AQUA",
+      "name": "AQUA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FASohke1j5eRAwQBMqTs3W9d3N54xFqNAg3nZRmGKQdk/logo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CoralTribeNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8rgGrnETmAbMCmgAWgUA67ydf7CzMyd5pErGZiHvWxwN",
+      "symbol": "BSHD",
+      "name": "Bushido Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/stan14100/token-icon/main/bshd-token.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/bushidosociety",
+        "instagram": "https://www.instagram.com/bushido_society",
+        "twitter": "https://twitter.com/Bushido_Society",
+        "website": "https://bushidosociety.com/"
+      }
     }
   ],
   "version": {
