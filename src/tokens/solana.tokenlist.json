@@ -159692,6 +159692,14 @@
         "twitter": "https://twitter.com/theDogeTrack",
         "website": "https://dogetrack.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BooSt1WnnkqvGePCsQjiS7yF8XEznxkwDPCxupvpUMVC",
+      "symbol": "BOOST",
+      "name": "Boost",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BooSt1WnnkqvGePCsQjiS7yF8XEznxkwDPCxupvpUMVC/logo.png"
     }
   ],
   "version": {
