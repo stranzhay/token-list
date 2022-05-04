@@ -159634,6 +159634,14 @@
         "twitter": "https://twitter.com/metadragnarok",
         "website": "https://metadragnarok.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FfLSQYsLDrDj7viJxb8hFLyVbPEjd1pxctrdZj34WYwQ",
+      "symbol": "MSFRG",
+      "name": "Mistery Frog token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FfLSQYsLDrDj7viJxb8hFLyVbPEjd1pxctrdZj34WYwQ/logo.png"
     }
   ],
   "version": {
