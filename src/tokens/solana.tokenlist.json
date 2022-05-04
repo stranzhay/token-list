@@ -159676,6 +159676,22 @@
       "tags": [
         "devnet"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "22KASgAQksz3TFvHzFy93aQvh6MWAj9UsUrnzsbfG5wh",
+      "symbol": "TWL",
+      "name": "Track WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/22KASgAQksz3TFvHzFy93aQvh6MWAj9UsUrnzsbfG5wh/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/dogetrack",
+        "twitter": "https://twitter.com/theDogeTrack",
+        "website": "https://dogetrack.io/"
+      }
     }
   ],
   "version": {
