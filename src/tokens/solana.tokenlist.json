@@ -159730,6 +159730,25 @@
         "twitter": "https://twitter.com/SevenDeadly5ins",
         "website": "https://www.sevendeadlysins.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8cwkCtsAa51fdDxknVaAnFqBAsA6975DmCggf2LnThi6",
+      "symbol": "RAT",
+      "name": "Ratio",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TATOWASTAKEN/crypto/main/crypto%20logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hj9V5W4R9BxKUJYC36X5Biayv6FwZz5mmfV3JY4LxF8z",
+      "symbol": "MELLOWWL",
+      "name": "Mellowmen WL Token",
+      "decimals": 0,
+      "logoURI": "https://i.imgur.com/38QD4yg.png"
     }
   ],
   "version": {
