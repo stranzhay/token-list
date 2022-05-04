@@ -159665,6 +159665,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Jme67iCWHqMKifUkiXvvC862Ek7TFTPWshpgnV52saP",
+      "symbol": "HNDT",
+      "name": "HAND (Devnet)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Jme67iCWHqMKifUkiXvvC862Ek7TFTPWshpgnV52saP/HandTLog.png",
+      "tags": [
+        "devnet"
+      ]
     }
   ],
   "version": {
