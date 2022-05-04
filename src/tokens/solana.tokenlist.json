@@ -159715,6 +159715,21 @@
       "extensions": {
         "twitter": "https://twitter.com/DeadSoulsDAO"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2znADNrRYvai8gfej1mcV2YbNvehY6cBSALvuWnuvNPN",
+      "symbol": "SIN",
+      "name": "S7N Coin",
+      "decimals": 4,
+      "logoURI": "https://bafybeib2znxf6whdtq354t6jsyejs7nlnevqd2pjxatr5ft2tgsgyrazb4.ipfs.nftstorage.link",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SevenDeadly5ins",
+        "website": "https://www.sevendeadlysins.io/"
+      }
     }
   ],
   "version": {
