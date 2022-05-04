@@ -159555,6 +159555,48 @@
         "whitelist-token",
         "nfts"
       ]
+    },
+    {
+      "chainId": 102,
+      "address": "9jtWhaRL9wysgWjXPTBBzyPa7CNP9zMMiDZR87tgVNDR",
+      "symbol": "USDT",
+      "name": "xldUSDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "Er2hR74LfFa7NJiVUnSfUg2sgu45Bq1pzZyHzPLXG1AT",
+      "symbol": "SLP",
+      "name": "xldSLP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4/logo.png",
+      "tags": [
+        "wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "smooth-love-potion"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "8LyHLBW4VXDziGRmsH9694TRYsf66BH4HemnnrN29tyZ",
+      "symbol": "DAI",
+      "name": "xldDai",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o/logo.png",
+      "tags": [
+        "wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "dai"
+      }
     }
   ],
   "version": {
