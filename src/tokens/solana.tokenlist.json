@@ -159878,6 +159878,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "xoy8fyDQ1iCEyUPdKf43ezKB7SCX9F69uqAHTFR5mcq",
+      "symbol": "DENJI",
+      "name": "Denji Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xoy8fyDQ1iCEyUPdKf43ezKB7SCX9F69uqAHTFR5mcq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MakimaNFT"
+      }
     }
   ],
   "version": {
