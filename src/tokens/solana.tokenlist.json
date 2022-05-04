@@ -159518,6 +159518,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HuNcdrQ47VnUWLcujhhKwXaQQTYTBSsSguQNQgUexWL8",
+      "symbol": "YUNG",
+      "name": "Yung Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/h3ll0x/yungtokenlogo/main/yungimg.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://yungmoney.io/"
+      }
     }
   ],
   "version": {
