@@ -159892,6 +159892,44 @@
       "extensions": {
         "twitter": "https://twitter.com/MakimaNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4hqG3UyaWVJ74wWhBrCKcoXBmpPiXJE7pj7m9GS7Z3mX",
+      "symbol": "SS",
+      "name": "Solana Scouts",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hqG3UyaWVJ74wWhBrCKcoXBmpPiXJE7pj7m9GS7Z3mX/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/solanascouts",
+        "twitter": "https://twitter.com/SolanaScouts",
+        "website": "https://solanascouts.io/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "EoC7RvPmwbXL9nAmCwfKZTd7aTiC9VzTS6J4j8hLNCfV",
+      "symbol": "eo-coin",
+      "name": "Eco Organic Coin",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/eoc/eo-coin.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "The most Sustainable NFT with on 61mg CO2eq",
+        "imageUrl": "https://bafybeigijghqbqzju7ldhacu6n3vst7wutwbv7fuvtpaeh63kzjxsprdpa.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/eoc/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmVYhabrNidUzhLmDpbB28JxK12mUbagDuEj8VnwdMugqr/whitepaper.pdf"
+      }
     }
   ],
   "version": {
