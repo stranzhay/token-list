@@ -159867,6 +159867,17 @@
         "twitter": "https://twitter.com/Smokevillesol",
         "website": "https://shmokeville.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CEZCH6PZjUw8RXfhsS8vSo4wGeoMMhAyzaFWHpXp3tRn",
+      "symbol": "GGADTT",
+      "name": "GGA DAO Test Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CEZCH6PZjUw8RXfhsS8vSo4wGeoMMhAyzaFWHpXp3tRn/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
