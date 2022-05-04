@@ -159730,6 +159730,17 @@
         "twitter": "https://twitter.com/SevenDeadly5ins",
         "website": "https://www.sevendeadlysins.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8cwkCtsAa51fdDxknVaAnFqBAsA6975DmCggf2LnThi6",
+      "symbol": "RAT",
+      "name": "Ratio",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TATOWASTAKEN/crypto/main/crypto%20logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
