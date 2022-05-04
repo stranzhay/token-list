@@ -159634,6 +159634,48 @@
         "twitter": "https://twitter.com/metadragnarok",
         "website": "https://metadragnarok.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FfLSQYsLDrDj7viJxb8hFLyVbPEjd1pxctrdZj34WYwQ",
+      "symbol": "MSFRG",
+      "name": "Mistery Frog token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FfLSQYsLDrDj7viJxb8hFLyVbPEjd1pxctrdZj34WYwQ/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "CQz5Nauawfq5fRBu37k8h6e4TteAFj1LwXoq8UuHoQfq",
+      "symbol": "CFWL",
+      "name": "Crypto Frogz WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CQz5Nauawfq5fRBu37k8h6e4TteAFj1LwXoq8UuHoQfq/logo.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GzHyjtEn2iZ8aQdRUGS54U3TXAQNP2egcKrAxwEcVhPT",
+      "symbol": "S0L",
+      "name": "S0lana",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/peawis/success/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Jme67iCWHqMKifUkiXvvC862Ek7TFTPWshpgnV52saP",
+      "symbol": "HNDT",
+      "name": "HAND (Devnet)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Jme67iCWHqMKifUkiXvvC862Ek7TFTPWshpgnV52saP/HandTLog.png",
+      "tags": [
+        "devnet"
+      ]
     }
   ],
   "version": {
