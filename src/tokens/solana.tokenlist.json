@@ -159543,6 +159543,18 @@
       "extensions": {
         "website": "https://dongri.eth.limo"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "BtX7BuKkNKPMWH7QGyvNMQS7VsQBABEL69P6CMMjQzTu",
+      "symbol": "KGNFT",
+      "name": "KGNFToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BtX7BuKkNKPMWH7QGyvNMQS7VsQBABEL69P6CMMjQzTu/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
