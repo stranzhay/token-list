@@ -159493,6 +159493,56 @@
       "extensions": {
         "website": "https://solbrains.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hb7XvrJS7G4CrauV7w1N8hkVSECHNNjwXYvXgVHsAFUJ",
+      "symbol": "READ",
+      "name": "ReadON Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EEGG1MLcWwBQVNwmhoNxMdTjVuuRX24o7Gym2MzQmRST/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://readon.me"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9DpmWKvVZCYAWBknkLYhKYQGeB9GoEeoXoZvLkw57xzX",
+      "symbol": "WCFC",
+      "name": "world cup fans coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9DpmWKvVZCYAWBknkLYhKYQGeB9GoEeoXoZvLkw57xzX/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HuNcdrQ47VnUWLcujhhKwXaQQTYTBSsSguQNQgUexWL8",
+      "symbol": "YUNG",
+      "name": "Yung Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/h3ll0x/yungtokenlogo/main/yungimg.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://yungmoney.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5osL1DnezspfmAd2Qn1PXsQniZGrzRXrxUNCPXbbrr78",
+      "symbol": "DON",
+      "name": "Dongri Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5osL1DnezspfmAd2Qn1PXsQniZGrzRXrxUNCPXbbrr78/logo.png",
+      "extensions": {
+        "website": "https://dongri.eth.limo"
+      }
     }
   ],
   "version": {
