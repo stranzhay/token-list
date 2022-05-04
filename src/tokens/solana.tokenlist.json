@@ -159493,6 +159493,20 @@
       "extensions": {
         "website": "https://solbrains.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hb7XvrJS7G4CrauV7w1N8hkVSECHNNjwXYvXgVHsAFUJ",
+      "symbol": "READ",
+      "name": "ReadON Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EEGG1MLcWwBQVNwmhoNxMdTjVuuRX24o7Gym2MzQmRST/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://readon.me"
+      }
     }
   ],
   "version": {
