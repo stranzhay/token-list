@@ -159749,6 +159749,17 @@
       "name": "Mellowmen WL Token",
       "decimals": 0,
       "logoURI": "https://i.imgur.com/38QD4yg.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FvmtrsisrSCMnWHjrTeBFfMrWLXpfYfsZqF8RXcPffiS",
+      "symbol": "SHNL",
+      "name": "Shannel Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Thesisshahrdad/Shannel-Token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
