@@ -159619,6 +159619,21 @@
         "website": "https://PurpleZone.github.io/NFTs/humanX/#humanx",
         "whitepaper": "https://gateway.ipfs.io/ipns/Qmad1CJThM8zYym23da8s89MFw8dcuSdRmhyySTgtNVbPu/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7xyUV7Hev7W6m21DWcjBE8ArZEfPtyFqztcKbTHkQC59",
+      "symbol": "DRA",
+      "name": "Dragnarok",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/justclumsyguy/dragnaroklogo/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metadragnarok",
+        "website": "https://metadragnarok.com"
+      }
     }
   ],
   "version": {
