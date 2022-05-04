@@ -159478,6 +159478,21 @@
       "tags": [
         "IP-currency"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4pLbiXeTym6XNkPWUw88V5JKYFErJa9bX9tV9hdHtdtN",
+      "symbol": "SBWL",
+      "name": "Solana Brains Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4pLbiXeTym6XNkPWUw88V5JKYFErJa9bX9tV9hdHtdtN/logo.png",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      ],
+      "extensions": {
+        "website": "https://solbrains.com"
+      }
     }
   ],
   "version": {
