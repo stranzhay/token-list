@@ -159456,6 +159456,17 @@
         "twitter": "https://twitter.com/mrbotnft",
         "website": "https://mrbot.tech/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5nmzJr8bu1Ahgc5nX46ku4Z3dJqdmh68DG1jLmwBHHsh",
+      "symbol": "BONF",
+      "name": "Bonfire Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bonfiretkn/crypto/main/bonfire-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
