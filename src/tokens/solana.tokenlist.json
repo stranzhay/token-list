@@ -159597,6 +159597,28 @@
       "extensions": {
         "coingeckoId": "dai"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "HMnX3nmicC3Te2xChzKS1rwwfBqL9TVjNRwzLCvd344C",
+      "symbol": "humanx",
+      "name": "HumanX Token",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/humanX/humanx.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "This token is used to exchange message with any wallet addresse",
+        "imageUrl": "https://bafybeicghunoek4cafdi7snklb2dilxxkgh3olbmd4eazmlpsjzcjbg5te.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/humanX/#humanx",
+        "whitepaper": "https://gateway.ipfs.io/ipns/Qmad1CJThM8zYym23da8s89MFw8dcuSdRmhyySTgtNVbPu/whitepaper.pdf"
+      }
     }
   ],
   "version": {
