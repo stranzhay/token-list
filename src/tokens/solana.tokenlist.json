@@ -159850,6 +159850,23 @@
         "twitter": "https://twitter.com/Bushido_Society",
         "website": "https://bushidosociety.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SMKdxDRkGU4NVhi36cXbYMzCGhkj48VVsWHiybAQDwC",
+      "symbol": "SMKWL",
+      "name": "Smokeville WL",
+      "decimals": 0,
+      "logoURI": "https://shmokeville.com/logo/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Smokeville WL Token",
+        "discord": "https://discord.gg/qrucgaZUvX",
+        "twitter": "https://twitter.com/Smokevillesol",
+        "website": "https://shmokeville.com"
+      }
     }
   ],
   "version": {
