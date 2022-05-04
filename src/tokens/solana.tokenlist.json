@@ -159507,6 +159507,17 @@
       "extensions": {
         "website": "http://readon.me"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9DpmWKvVZCYAWBknkLYhKYQGeB9GoEeoXoZvLkw57xzX",
+      "symbol": "WCFC",
+      "name": "world cup fans coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9DpmWKvVZCYAWBknkLYhKYQGeB9GoEeoXoZvLkw57xzX/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
