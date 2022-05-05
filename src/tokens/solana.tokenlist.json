@@ -160026,6 +160026,23 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hiw1D95aNJ2CaooFf1arD5W56ZpuDbxLcvzWE72fDBgN",
+      "symbol": "WLFA",
+      "name": "WL Faviont",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/faviont/marketplace/main/logo-wl.png",
+      "tags": [
+        "whitelist",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Each token gives you access to buy one NFT on https://faviont.io/",
+        "twitter": "https://twitter.com/FaviontOfficial",
+        "website": "https://faviont.io/"
+      }
     }
   ],
   "version": {
