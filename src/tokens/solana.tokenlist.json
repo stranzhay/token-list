@@ -160259,6 +160259,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8uHgyhcpx5Dje7xssJUfka1RRhAsFWtiVxGf6wPoC7jp",
+      "symbol": "DLC",
+      "name": "Crypto Dealer Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8uHgyhcpx5Dje7xssJUfka1RRhAsFWtiVxGf6wPoC7jp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://cryptodealer.app"
+      }
     }
   ],
   "version": {
