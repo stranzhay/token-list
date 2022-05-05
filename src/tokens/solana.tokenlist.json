@@ -160220,6 +160220,18 @@
       "extensions": {
         "twitter": "https://twitter.com/GoofiezNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2w5pRDS18kdTHvFkf8QTFQma8GgHQRgKHNE9psm9Ntyp",
+      "symbol": "VORD",
+      "name": "Vordium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Vordium/VORD-Engine/main/Assets/Mainnet/vordlogo1.png",
+      "tags": [
+        "utility-token",
+        "Network-token"
+      ]
     }
   ],
   "version": {
