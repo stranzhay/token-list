@@ -160184,6 +160184,17 @@
         "twitter": "https://twitter.com/Arkanauts",
         "website": "https://www.arkanauts.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CasBBiWGCNebBzG4cQSkM8WrpgwzDXN88eNAKRz5Rsqv",
+      "symbol": "CHSSO",
+      "name": "CHESSO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/gotthelucas/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
