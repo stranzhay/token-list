@@ -160168,6 +160168,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9v3MJ7U7CquqB6jB9dC9FXkrboSqyD28eL7szUyhRXkG",
+      "symbol": "$WILD",
+      "name": "WILD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9v3MJ7U7CquqB6jB9dC9FXkrboSqyD28eL7szUyhRXkG/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/3BkAHG3m",
+        "twitter": "https://twitter.com/Arkanauts",
+        "website": "https://www.arkanauts.io/"
+      }
     }
   ],
   "version": {
