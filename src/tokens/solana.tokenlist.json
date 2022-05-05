@@ -160409,6 +160409,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8qxUJ19Hn2u7rXvtdjAogvVmVRSqGiy2CQn1hVx2WtS4",
+      "symbol": "BAGz",
+      "name": "BAGz",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8qxUJ19Hn2u7rXvtdjAogvVmVRSqGiy2CQn1hVx2WtS4/bagz.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LilDirtbagzNFT",
+        "website": "https://lildirtbagz.com"
+      }
     }
   ],
   "version": {
