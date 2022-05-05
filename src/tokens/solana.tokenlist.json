@@ -159930,6 +159930,53 @@
         "website": "https://PurpleZone.github.io/NFTs/eoc/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmVYhabrNidUzhLmDpbB28JxK12mUbagDuEj8VnwdMugqr/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G1izd6XghBaCRw3gS2sRwD2JJdmAnFQWinnfYCvSzfuZ",
+      "symbol": "$GLIZZY",
+      "name": "GLIZZY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G1izd6XghBaCRw3gS2sRwD2JJdmAnFQWinnfYCvSzfuZ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GlizzyRoyale"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6piwLtPi6sYjvE1reSEpmAXfcJqJtyGp3fahhEU7VF2C",
+      "symbol": "SKZ",
+      "name": "The SNKRZ Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6piwLtPi6sYjvE1reSEpmAXfcJqJtyGp3fahhEU7VF2C/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "A Klaytn-based Walk-To-Earn social fitness platform",
+        "discord": "https://discord.com/invite/thesnkrz",
+        "twitter": "https://twitter.com/theSNKRZ",
+        "website": "https://www.thesnkrz.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7zbt7qwXUdEnmpLfFdN2M749aTRT1aKcoob5SpRAsRgU",
+      "symbol": "CLX",
+      "name": "RightClickable",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7zbt7qwXUdEnmpLfFdN2M749aTRT1aKcoob5SpRAsRgU/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/rightclickable_",
+        "website": "https://rightclickable.com"
+      }
     }
   ],
   "version": {
