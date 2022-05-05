@@ -160281,6 +160281,14 @@
       "name": "Richee",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GoWJXzxT8ADHp3w42mzCzBc61kMApvSL4e8ck8TxMFXY",
+      "symbol": "$GOJIT",
+      "name": "GOJIT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoWJXzxT8ADHp3w42mzCzBc61kMApvSL4e8ck8TxMFXY/logo.png"
     }
   ],
   "version": {
