@@ -160248,6 +160248,47 @@
         "twitter": "https://twitter.com/BrainStoners",
         "website": "https://brainstoners.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9Uhcb3LFzC17PE6FYRLFEkfWApHzi44M78mMjWQfyMQq",
+      "symbol": "CLEN",
+      "name": "Cleen Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/jumanaanimation2/cleencoin/main/cleencoin.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8uHgyhcpx5Dje7xssJUfka1RRhAsFWtiVxGf6wPoC7jp",
+      "symbol": "DLC",
+      "name": "Crypto Dealer Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8uHgyhcpx5Dje7xssJUfka1RRhAsFWtiVxGf6wPoC7jp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://cryptodealer.app"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4W6mt3HgYzauN1G2uaTQkno47wz49LwjhoEBhFtLFyoy",
+      "symbol": "RICHEE",
+      "name": "Richee",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GoWJXzxT8ADHp3w42mzCzBc61kMApvSL4e8ck8TxMFXY",
+      "symbol": "$GOJIT",
+      "name": "GOJIT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoWJXzxT8ADHp3w42mzCzBc61kMApvSL4e8ck8TxMFXY/logo.png"
     }
   ],
   "version": {
