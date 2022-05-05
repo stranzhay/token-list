@@ -160195,6 +160195,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "G7VgKoTadSDrMaQ85xQhh1RFdBhpWXrPzSpV99L3DTL2",
+      "symbol": "PICS",
+      "name": "Presence Pictures Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/edmundleewen/presenceCoin/main/appImage180.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
