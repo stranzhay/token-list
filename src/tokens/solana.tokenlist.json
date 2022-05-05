@@ -160141,6 +160141,22 @@
       "extensions": {
         "twitter": "https://twitter.com/MousInDaHous"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "72m6ir6cDdPzfaFJZzdP1r5nyMxrnYyaHtbqf1zHUjq7",
+      "symbol": "BCANDY",
+      "name": "BCANDY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/72m6ir6cDdPzfaFJZzdP1r5nyMxrnYyaHtbqf1zHUjq7/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ve4UA2Xc",
+        "twitter": "https://twitter.com/mirlnft",
+        "website": "https://mirl.club/"
+      }
     }
   ],
   "version": {
