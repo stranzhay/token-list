@@ -159930,6 +159930,20 @@
         "website": "https://PurpleZone.github.io/NFTs/eoc/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmVYhabrNidUzhLmDpbB28JxK12mUbagDuEj8VnwdMugqr/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G1izd6XghBaCRw3gS2sRwD2JJdmAnFQWinnfYCvSzfuZ",
+      "symbol": "$GLIZZY",
+      "name": "GLIZZY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G1izd6XghBaCRw3gS2sRwD2JJdmAnFQWinnfYCvSzfuZ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GlizzyRoyale"
+      }
     }
   ],
   "version": {
