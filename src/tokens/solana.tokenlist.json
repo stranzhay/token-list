@@ -160232,6 +160232,22 @@
         "utility-token",
         "Network-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6SUmHppQdVY44VXh7svyb9jhWJbiQSwvKQBW4oegmx3m",
+      "symbol": "RSN",
+      "name": "Resin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/h3ll0x/resintokenimage/main/resin.gif",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BrainStoners",
+        "website": "https://brainstoners.io/"
+      }
     }
   ],
   "version": {
