@@ -160365,6 +160365,20 @@
         "twitter": "https://twitter.com/mattifinance",
         "website": "https://mattifinance.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "kidsYgCH9dDZWgVxTDJRQEHXVCjEcqUpxf4P2i94UgK",
+      "symbol": "CKWL",
+      "name": "Cartonkids WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kidsYgCH9dDZWgVxTDJRQEHXVCjEcqUpxf4P2i94UgK/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CartonkidsNFT"
+      }
     }
   ],
   "version": {
