@@ -160289,6 +160289,21 @@
       "name": "GOJIT",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoWJXzxT8ADHp3w42mzCzBc61kMApvSL4e8ck8TxMFXY/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "86ywhGx2vMPUQht6VbxNA6T6WxzGLSYJsmMptgGTMcy6",
+      "symbol": "PILLZ",
+      "name": "PILLZ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DopeHeadzNFT/Logo/main/Logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DopeHeadzNFT",
+        "website": "https://dopeheadz.io/"
+      }
     }
   ],
   "version": {
