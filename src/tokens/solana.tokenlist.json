@@ -160379,6 +160379,36 @@
       "extensions": {
         "twitter": "https://twitter.com/CartonkidsNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CtkUPWL1v3QrtwNhvRCEafs6Qz1ACatGtVPrMrNiY6qK",
+      "symbol": "MOVE",
+      "name": "Move-n-Earn",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CtkUPWL1v3QrtwNhvRCEafs6Qz1ACatGtVPrMrNiY6qK/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/profile.php?id=100081109356224",
+        "linkedin": "https://www.linkedin.com/company/move-n-earn/",
+        "telegram": "https://t.me/movenearn",
+        "twitter": "https://twitter.com/move_nearn",
+        "website": "https://movenearn.com",
+        "whitepaper": "https://movenearn.com/whitepaper/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EEzrQRxj7f2m7f3tw45w6PKF1xrT5e9ed2YKZCVNNfxd",
+      "symbol": "BUD",
+      "name": "Buddy",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/utsablohani/crypto/main/profile.jpeg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
