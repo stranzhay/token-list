@@ -160168,6 +160168,58 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9v3MJ7U7CquqB6jB9dC9FXkrboSqyD28eL7szUyhRXkG",
+      "symbol": "$WILD",
+      "name": "WILD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9v3MJ7U7CquqB6jB9dC9FXkrboSqyD28eL7szUyhRXkG/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/3BkAHG3m",
+        "twitter": "https://twitter.com/Arkanauts",
+        "website": "https://www.arkanauts.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CasBBiWGCNebBzG4cQSkM8WrpgwzDXN88eNAKRz5Rsqv",
+      "symbol": "CHSSO",
+      "name": "CHESSO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/gotthelucas/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "G7VgKoTadSDrMaQ85xQhh1RFdBhpWXrPzSpV99L3DTL2",
+      "symbol": "PICS",
+      "name": "Presence Pictures Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/edmundleewen/presenceCoin/main/appImage180.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ES4isqfcWbeBZwtH2eLRjk5oUzaMyZZrW2uhDM6yde6h",
+      "symbol": "GMT",
+      "name": "Sugar Rush WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ES4isqfcWbeBZwtH2eLRjk5oUzaMyZZrW2uhDM6yde6h/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GoofiezNFT"
+      }
     }
   ],
   "version": {
