@@ -160157,6 +160157,17 @@
         "twitter": "https://twitter.com/mirlnft",
         "website": "https://mirl.club/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "J2HoBAy2v9GkpVaVmLd64FXPRgVYBankNJG4znGjtk6Y",
+      "symbol": "LxQ",
+      "name": "Lx Q Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J2HoBAy2v9GkpVaVmLd64FXPRgVYBankNJG4znGjtk6Y/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
