@@ -160348,6 +160348,23 @@
       "extensions": {
         "website": "https://da0.vercel.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ECDy7WSQvwdg3XLoTacGPmAEeA9TqLmGGZKb612Vy3UH",
+      "symbol": "MFC",
+      "name": "MattiFinanceCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mammimaisteri/MattiFinanceCoin/main/logo.png",
+      "tags": [
+        "social-token",
+        "financial-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/mattifinance",
+        "website": "https://mattifinance.com/"
+      }
     }
   ],
   "version": {
