@@ -160003,6 +160003,17 @@
       "name": "Free Shinobi Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FreeGzaYADRmRJSEUXJSodjUwGhNuZb72kQsNhBhja4X/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8nHuHov45Ji77dB6qeCty5DEYSLpm62ntdc5JvdqJ215",
+      "symbol": "TMAX",
+      "name": "TendieMax",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/OakmontLabs/TendieMaxLogo/main/TendieMaxLogo.png",
+      "tags": [
+        "Utility-token"
+      ]
     }
   ],
   "version": {
