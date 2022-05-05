@@ -160398,6 +160398,17 @@
         "website": "https://movenearn.com",
         "whitepaper": "https://movenearn.com/whitepaper/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EEzrQRxj7f2m7f3tw45w6PKF1xrT5e9ed2YKZCVNNfxd",
+      "symbol": "BUD",
+      "name": "Buddy",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/utsablohani/crypto/main/profile.jpeg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
