@@ -159995,6 +159995,14 @@
         "twitter": "https://twitter.com/konpeitoshinobi",
         "website": "https://konpeitoshinobi.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FreeGzaYADRmRJSEUXJSodjUwGhNuZb72kQsNhBhja4X",
+      "symbol": "FSHIN",
+      "name": "Free Shinobi Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FreeGzaYADRmRJSEUXJSodjUwGhNuZb72kQsNhBhja4X/logo.png"
     }
   ],
   "version": {
