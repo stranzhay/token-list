@@ -160014,6 +160014,18 @@
       "tags": [
         "Utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8Pm6hMSp4XwCp2tXUBBby2bNqXTDvt7N85PRAoVJ9JtW",
+      "symbol": "FEN",
+      "name": "FenCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fennar01/crypto/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
