@@ -160090,6 +160090,28 @@
         "twitter": "https://twitter.com/AgeofDeFiNFT",
         "website": "https://ageofdefi.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DkPn7EwX229HDWL9suY9o2GN6iov2pMpXhvujkUjav6A",
+      "symbol": "SOLRS",
+      "name": "Solana Rays",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DkPn7EwX229HDWL9suY9o2GN6iov2pMpXhvujkUjav6A/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "DZa5FzdNsNQBYvsMTQLK2V3pVgGT1jY3RvM1LkHFmWJX",
+      "symbol": "SME",
+      "name": "Smeme token from duongkhongam on Devnet",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmPnMzkxkakrq251duZuUJjknYoK3dZcAsKCPmj3HTZhMB",
+      "tags": [
+        "currency"
+      ]
     }
   ],
   "version": {
