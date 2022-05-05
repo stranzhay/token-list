@@ -159977,6 +159977,32 @@
         "twitter": "https://twitter.com/rightclickable_",
         "website": "https://rightclickable.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EB6YDsfxseRJuJjCasDBDEyVjXrUchYWbwskhXg9N4yQ",
+      "symbol": "SCK",
+      "name": "Konpeito Shinobi Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/konpeitoshinobi/KonpeitoShinobiToken/main/1.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Konpeito Shinobi is a collection of unique Shinobi's Warrior living on the Solana blockchain",
+        "discord": "https://discord.gg/HjASJGv9rf",
+        "twitter": "https://twitter.com/konpeitoshinobi",
+        "website": "https://konpeitoshinobi.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FreeGzaYADRmRJSEUXJSodjUwGhNuZb72kQsNhBhja4X",
+      "symbol": "FSHIN",
+      "name": "Free Shinobi Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FreeGzaYADRmRJSEUXJSodjUwGhNuZb72kQsNhBhja4X/logo.png"
     }
   ],
   "version": {
