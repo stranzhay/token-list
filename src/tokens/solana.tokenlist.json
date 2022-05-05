@@ -160101,6 +160101,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "DZa5FzdNsNQBYvsMTQLK2V3pVgGT1jY3RvM1LkHFmWJX",
+      "symbol": "SME",
+      "name": "Smeme token from duongkhongam on Devnet",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmPnMzkxkakrq251duZuUJjknYoK3dZcAsKCPmj3HTZhMB",
+      "tags": [
+        "currency"
+      ]
     }
   ],
   "version": {
