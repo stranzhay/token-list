@@ -160127,6 +160127,20 @@
         "description": "A Fikapark Team Token for team member",
         "website": "https://www.fikapark.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MouSJPowxJoEWzxPnv9b27KzUXbfVbHxyqKDnHrGSLB",
+      "symbol": "MIDH",
+      "name": "MousInDaHous WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MouSJPowxJoEWzxPnv9b27KzUXbfVbHxyqKDnHrGSLB/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MousInDaHous"
+      }
     }
   ],
   "version": {
