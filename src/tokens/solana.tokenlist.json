@@ -159961,6 +159961,22 @@
         "twitter": "https://twitter.com/theSNKRZ",
         "website": "https://www.thesnkrz.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7zbt7qwXUdEnmpLfFdN2M749aTRT1aKcoob5SpRAsRgU",
+      "symbol": "CLX",
+      "name": "RightClickable",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7zbt7qwXUdEnmpLfFdN2M749aTRT1aKcoob5SpRAsRgU/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/rightclickable_",
+        "website": "https://rightclickable.com"
+      }
     }
   ],
   "version": {
