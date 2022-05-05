@@ -160248,6 +160248,17 @@
         "twitter": "https://twitter.com/BrainStoners",
         "website": "https://brainstoners.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9Uhcb3LFzC17PE6FYRLFEkfWApHzi44M78mMjWQfyMQq",
+      "symbol": "CLEN",
+      "name": "Cleen Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/jumanaanimation2/cleencoin/main/cleencoin.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
