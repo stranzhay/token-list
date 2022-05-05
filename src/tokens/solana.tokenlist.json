@@ -160060,6 +160060,36 @@
         "twitter": "https://twitter.com/PetSolciety",
         "website": "https://www.petsolciety.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EKMJyNS156WWC812B4W3Vvc1Zn4moRHWMa6viY9R2ft5",
+      "symbol": "ERA$",
+      "name": "Age of DeFi",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EKMJyNS156WWC812B4W3Vvc1Zn4moRHWMa6viY9R2ft5/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AgeofDeFiNFT",
+        "website": "https://ageofdefi.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7XBMMSWMfXwshMWoPj7CL2WxudW5dY6UZCUVc3dDjaEG",
+      "symbol": "AGE$",
+      "name": "Age of Defi coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7XBMMSWMfXwshMWoPj7CL2WxudW5dY6UZCUVc3dDjaEG/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AgeofDeFiNFT",
+        "website": "https://ageofdefi.io/"
+      }
     }
   ],
   "version": {
