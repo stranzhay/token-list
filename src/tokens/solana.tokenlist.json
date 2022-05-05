@@ -160043,6 +160043,23 @@
         "twitter": "https://twitter.com/FaviontOfficial",
         "website": "https://faviont.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A7e46NH9UMeCARWtNNoVSkR55DxEaAgQGiXLYwxLW36z",
+      "symbol": "PAWR",
+      "name": "Pet Solciety",
+      "decimals": 2,
+      "logoURI": "https://bafkreiefof3cjzgsd2xvfcijcf3r3az2rgycad7ycpveghjlmo6r5surh4.ipfs.dweb.link/?ext=png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/R5jF7rd5cg",
+        "twitter": "https://twitter.com/PetSolciety",
+        "website": "https://www.petsolciety.com"
+      }
     }
   ],
   "version": {
