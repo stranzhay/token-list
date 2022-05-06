@@ -161197,6 +161197,48 @@
       "extensions": {
         "website": "https://github.com/JaroToken"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "817qdEXjxTMKZesfMJTq2JE9WGbZyYNjGNhUubHswh6V",
+      "symbol": "DROPS",
+      "name": "UltraDrop Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/817qdEXjxTMKZesfMJTq2JE9WGbZyYNjGNhUubHswh6V/logo.svg",
+      "tags": [
+        "currency",
+        "utility-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/ultradrop.io",
+        "twitter": "https://twitter.com/ultradropio",
+        "website": "https://ultradrop.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "hf6wNMHsJZejxWR5E5GNByPxqrzCSbK2a344v5bJX8r",
+      "symbol": "AKHEL",
+      "name": "AKHEL OG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/akhelbey/akhels/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/gGgAPFthTA"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Du57WgpJKWhwoD2UGVcJu6BSsdvmGmKTjNz5vV4yfVSz",
+      "symbol": "SQFT",
+      "name": "Square Feet",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/pilotdane/crypto/main/sqftlogo.png",
+      "tags": [
+        "realestate-token"
+      ]
     }
   ],
   "version": {
