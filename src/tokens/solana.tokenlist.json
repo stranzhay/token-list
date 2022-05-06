@@ -160517,6 +160517,61 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "7rbvUFP8s5eyL9ddi3bDTancoC8NQx7Z1iQg76u1JaSm",
+      "symbol": "USDC_v1",
+      "name": "USDC (devnet)",
+      "decimals": 6,
+      "logoURI": "https://ik.imagekit.io/aupdcdycx/logo_uWzBB6tWc.png",
+      "tags": [
+        "usdc-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "DdDAzP342MFa1NKH4YJE3TsRLvhVGFH1datM9Ea64Jom",
+      "symbol": "USDT_v1",
+      "name": "USDT (devnet)",
+      "decimals": 18,
+      "logoURI": "https://ik.imagekit.io/aupdcdycx/logo_AO3hVNihw.png",
+      "tags": [
+        "usdt-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "98xqW2DYKFGPnWV54GEKBEzLvjyaHGJJaB73d1Rrh5EM",
+      "symbol": "NEAR_v1",
+      "name": "NEAR (devnet)",
+      "decimals": 18,
+      "logoURI": "https://ik.imagekit.io/aupdcdycx/logo__F7IIL-Z5.png",
+      "tags": [
+        "near-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "9qQsUf9KCzmWGk3yiSRvieTMwkRcAFhYuh6xmUvdnwao",
+      "symbol": "LUNA_v1",
+      "name": "LUNA(-devnet)",
+      "decimals": 9,
+      "logoURI": "https://ik.imagekit.io/aupdcdycx/logo_W2dAAG3qK.png",
+      "tags": [
+        "luna-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "D5hPszEtcNxXj6njbjdCiFA18K1DSjFF5gewV7582M9M",
+      "symbol": "LINK_v1",
+      "name": "LINK(devnet)",
+      "decimals": 18,
+      "logoURI": "https://ik.imagekit.io/aupdcdycx/logo_5-VOl4q9r.png",
+      "tags": [
+        "link-token"
+      ]
     }
   ],
   "version": {
