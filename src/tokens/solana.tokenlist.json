@@ -160443,6 +160443,28 @@
         "website": "https://neon-labs.org/",
         "whitepaper": "https://docs.neon-labs.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4L9aFEye7jYiPFywFJh33ad37owHwCETLgrLPxziSMoK",
+      "symbol": "MKYWL",
+      "name": "Mafia Monkey Club",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4L9aFEye7jYiPFywFJh33ad37owHwCETLgrLPxziSMoK/logo.png",
+      "tags": [
+        "WL-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4XR4VkM75Armv6czmd89H7fTsf6evAGoawUgqWQUoyxF",
+      "symbol": "RSTK",
+      "name": "Rose Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Suchenski1/RoseToken/082a56b6d2ff5db3798089fc3e7c7aa68ddf34af/RoseToken.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
