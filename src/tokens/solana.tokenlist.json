@@ -160658,6 +160658,21 @@
       "tags": [
         "metaverse-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AE1DgVx1W6QCF2kbMZ1wSZ58DubcrpVJqogtiS4bU7ZP",
+      "symbol": "CO2",
+      "name": "CARBON CO2 coin for a cleaner planet",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AE1DgVx1W6QCF2kbMZ1wSZ58DubcrpVJqogtiS4bU7ZP/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.coinco2.com/"
+      }
     }
   ],
   "version": {
