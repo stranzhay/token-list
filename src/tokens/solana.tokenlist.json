@@ -161183,6 +161183,20 @@
         "twitter": "https://twitter.com/DatalusCorp",
         "website": "https://datalus.us"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BLtjtxkrwN4qLqFEV3VBL5Ko9kWa1GGJzppMe6DedYGQ",
+      "symbol": "JRO",
+      "name": "JaRo",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLtjtxkrwN4qLqFEV3VBL5Ko9kWa1GGJzppMe6DedYGQ/logo.png",
+      "tags": [
+        "jaro"
+      ],
+      "extensions": {
+        "website": "https://github.com/JaroToken"
+      }
     }
   ],
   "version": {
