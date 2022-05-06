@@ -160754,6 +160754,42 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8g3aGbs8gGH1q6smHPaxf4v8JjdDXMyMnW3sQQFSjyPP",
+      "symbol": "VYP",
+      "name": "VYNQX",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/unknowncac/vynqx/main/V.png",
+      "tags": [
+        "payment-token",
+        "Service-token",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BvEj2MNMPsUrD4vSk7NHs4TtRcCcJd75Wx5HvVbY4rbK",
+      "symbol": "DEDS",
+      "name": "Decimus Dynamics Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/DecimusDynamics/assets/blob/main/decimus-icon-1x1-black.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DecimusDynamic",
+        "website": "http://decimusdynamics.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "TengNGeocJ5GWmBZC9x8mEnFdau4kuKMQfFZkvBUaL7",
+      "symbol": "$TEKASHITEK",
+      "name": "TEKASHI TEK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TengNGeocJ5GWmBZC9x8mEnFdau4kuKMQfFZkvBUaL7/logo.png"
     }
   ],
   "version": {
