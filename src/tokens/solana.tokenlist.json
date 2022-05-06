@@ -161228,6 +161228,17 @@
       "extensions": {
         "discord": "https://discord.gg/gGgAPFthTA"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Du57WgpJKWhwoD2UGVcJu6BSsdvmGmKTjNz5vV4yfVSz",
+      "symbol": "SQFT",
+      "name": "Square Feet",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/pilotdane/crypto/main/sqftlogo.png",
+      "tags": [
+        "realestate-token"
+      ]
     }
   ],
   "version": {
