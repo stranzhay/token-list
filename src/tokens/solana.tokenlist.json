@@ -160490,6 +160490,21 @@
       "name": "IBHC WhiteList Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/Felibrain/IBHC/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM",
+      "symbol": "EV1",
+      "name": "MELLOW MEN WL TOKEN OFFICIAL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MELLiWTDA5YN82arABoKMJZtc968tHeS1euQvM2qSPM/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MellowMenNFT",
+        "website": "https://mellowmen.io/"
+      }
     }
   ],
   "version": {
