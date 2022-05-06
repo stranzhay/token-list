@@ -161010,6 +161010,20 @@
       "name": "Otherside Talents Token",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/HU676nHJTxXqBy4NSpbYZWoGExSsDCJRP4vicx5Aiqvb/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "TakAzdtCRwFbE6GzHG5eVVSqptRqDtqBkW4AKsyTJ3B",
+      "symbol": "TAKA",
+      "name": "Takashi Ronin Official WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TakAzdtCRwFbE6GzHG5eVVSqptRqDtqBkW4AKsyTJ3B/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TakashiRonin"
+      }
     }
   ],
   "version": {
