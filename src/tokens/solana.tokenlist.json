@@ -161214,6 +161214,20 @@
         "twitter": "https://twitter.com/ultradropio",
         "website": "https://ultradrop.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "hf6wNMHsJZejxWR5E5GNByPxqrzCSbK2a344v5bJX8r",
+      "symbol": "AKHEL",
+      "name": "AKHEL OG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/akhelbey/akhels/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/gGgAPFthTA"
+      }
     }
   ],
   "version": {
