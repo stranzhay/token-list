@@ -160730,6 +160730,30 @@
         "discord": "https://discord.gg/mryy6CfwPq",
         "website": "https://www.oceantokens.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4RjwajAfPkfDGSygCQ1rSDSUrchCbKgYGF4tuiSY1bCj",
+      "symbol": "DMS",
+      "name": "Demons Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4RjwajAfPkfDGSygCQ1rSDSUrchCbKgYGF4tuiSY1bCj/DMS.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AYCL5cian1kGAVxhz6PAKit2BWto3wNz7Am98YMq29xU",
+      "symbol": "DSK",
+      "name": "Dings Kitchen",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AYCL5cian1kGAVxhz6PAKit2BWto3wNz7Am98YMq29xU/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
