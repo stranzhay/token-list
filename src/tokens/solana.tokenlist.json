@@ -160712,6 +160712,24 @@
         "description": "Hype B.A Official NFT VIP Pass for Kika 5339 every Tuesday x Wed 00:30 ART",
         "website": "https://linktr.ee/hypeba"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "t7jeZu9TmKS9AiVcmkmP2TBQNXmapbMNWZCx3B7QiRH",
+      "symbol": "OCT",
+      "name": "Oeantoken",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/t7jeZu9TmKS9AiVcmkmP2TBQNXmapbMNWZCx3B7QiRH/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "address": "t7jeZu9TmKS9AiVcmkmP2TBQNXmapbMNWZCx3B7QiRH",
+        "description": "OCT is a ECO utility token that aims to develop new methods to clean and recycle marine trash and fund other different cleanups allover the world",
+        "discord": "https://discord.gg/mryy6CfwPq",
+        "website": "https://www.oceantokens.org/"
+      }
     }
   ],
   "version": {
