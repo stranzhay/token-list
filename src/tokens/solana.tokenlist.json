@@ -160684,6 +160684,34 @@
       "tags": [
         "Service-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "C5EXuMYCou7Ea4yXbcrdj51RAgvN8i8brLnwcLxyzk7V",
+      "symbol": "ASTT",
+      "name": "Akvo Sphere Test Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scgitcs/Akvo-Sphere-Test-Token/main/5.jpg",
+      "tags": [
+        "stablecoin",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CBoa6CMrKRHyxayyP3ws7ysQCmXJnNKcJYkTQi4tu44q",
+      "symbol": "HYPE",
+      "name": "Hype BA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/IpawnprozNetwork/LogoHype/main/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Hype B.A Official NFT VIP Pass for Kika 5339 every Tuesday x Wed 00:30 ART",
+        "website": "https://linktr.ee/hypeba"
+      }
     }
   ],
   "version": {
