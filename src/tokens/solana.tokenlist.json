@@ -160684,6 +160684,18 @@
       "tags": [
         "Service-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "C5EXuMYCou7Ea4yXbcrdj51RAgvN8i8brLnwcLxyzk7V",
+      "symbol": "ASTT",
+      "name": "Akvo Sphere Test Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scgitcs/Akvo-Sphere-Test-Token/main/5.jpg",
+      "tags": [
+        "stablecoin",
+        "utility-token"
+      ]
     }
   ],
   "version": {
