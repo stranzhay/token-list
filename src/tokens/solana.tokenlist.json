@@ -160782,6 +160782,14 @@
         "twitter": "https://twitter.com/DecimusDynamic",
         "website": "http://decimusdynamics.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TengNGeocJ5GWmBZC9x8mEnFdau4kuKMQfFZkvBUaL7",
+      "symbol": "$TEKASHITEK",
+      "name": "TEKASHI TEK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TengNGeocJ5GWmBZC9x8mEnFdau4kuKMQfFZkvBUaL7/logo.png"
     }
   ],
   "version": {
