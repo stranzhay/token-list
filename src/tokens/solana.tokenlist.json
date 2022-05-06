@@ -160958,6 +160958,17 @@
       "extensions": {
         "twitter": "https://twitter.com/AnimalzNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4a6qUaq8cfgDZeEzGLPahdkx2NkrLtJmCjobYxFfCrsQ",
+      "symbol": "HLPR",
+      "name": "Helper Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Skyvi0/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
