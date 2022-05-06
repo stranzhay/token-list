@@ -160897,6 +160897,14 @@
       "extensions": {
         "website": "https://rowy.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4jrEk3D6fLgrXAUj9uAffxYJq3bdygfB4KdFrBaEApSy",
+      "symbol": "OGREJUICE",
+      "name": "Ogre Juice",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4jrEk3D6fLgrXAUj9uAffxYJq3bdygfB4KdFrBaEApSy/logo.png"
     }
   ],
   "version": {
