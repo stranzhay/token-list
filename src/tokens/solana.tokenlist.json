@@ -160572,6 +160572,36 @@
       "tags": [
         "link-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "58S4HYzoZyriMNN5oJJWYCcy1YFW7BYZ6SwU9YizCygx",
+      "symbol": "KEPL",
+      "name": "Kepler Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/58S4HYzoZyriMNN5oJJWYCcy1YFW7BYZ6SwU9YizCygx/logo.png",
+      "tags": [
+        "governance-token",
+        "game-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/keplerhomes",
+        "medium": "https://medium.com/@KeplerHomes",
+        "telegram": "https://t.me/KeplerHomes",
+        "twitter": "https://twitter.com/keplerhomes",
+        "website": "https://kepler.homes"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "G4tJQthj5dvnRhRGd8YxqbhvGNMfVKvHvtWdrovEuhPY",
+      "symbol": "GLAXXYSK",
+      "name": "Galaxxy Sky Earth",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/GalaxySkyEarth/SkyEarth/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
