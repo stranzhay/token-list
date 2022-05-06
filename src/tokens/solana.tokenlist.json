@@ -161132,6 +161132,71 @@
         "twitter": "https://twitter.com/official_fabric",
         "website": "https://app.fsynth.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+      "symbol": "USH",
+      "name": "Hedge USD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/hedge",
+        "serumV3Usdc": "6aRwQtvTcHeRTtGxQRhqViwMF1XPEn271CgGEx3YAyEY",
+        "twitter": "https://twitter.com/HedgeLabs",
+        "website": "https://www.hedge.so/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5PmpMzWjraf3kSsGEKtqdUsCoLhptg4yriZ17LKKdBBy",
+      "symbol": "HDG",
+      "name": "Hedge Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5PmpMzWjraf3kSsGEKtqdUsCoLhptg4yriZ17LKKdBBy/logo.png",
+      "tags": [
+        "community-token",
+        "governance-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/hedge",
+        "serumV3Usdc": "7HrUmsVM7poJdjgoteTVzx3VMFyLcAhdR8JMbuFD6VNq",
+        "twitter": "https://twitter.com/HedgeLabs",
+        "website": "https://www.hedge.so/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Fe9aWgTcboSvNZsE71fVDw3GRr2x9GFxtpEbu5fnKV81",
+      "symbol": "DRT",
+      "name": "Datalus Reward Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fe9aWgTcboSvNZsE71fVDw3GRr2x9GFxtpEbu5fnKV81/logo.png",
+      "tags": [
+        "utility-coin"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/DatalusCorp",
+        "twitter": "https://twitter.com/DatalusCorp",
+        "website": "https://datalus.us"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BLtjtxkrwN4qLqFEV3VBL5Ko9kWa1GGJzppMe6DedYGQ",
+      "symbol": "JRO",
+      "name": "JaRo",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLtjtxkrwN4qLqFEV3VBL5Ko9kWa1GGJzppMe6DedYGQ/logo.png",
+      "tags": [
+        "jaro"
+      ],
+      "extensions": {
+        "website": "https://github.com/JaroToken"
+      }
     }
   ],
   "version": {
