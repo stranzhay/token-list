@@ -160425,6 +160425,24 @@
         "twitter": "https://twitter.com/LilDirtbagzNFT",
         "website": "https://lildirtbagz.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8ZSJTmL42LgTrC1qY7AZQkLYT1EZquQA1cA3ze4bSjvq",
+      "symbol": "NEON",
+      "name": "NEON EVM",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8ZSJTmL42LgTrC1qY7AZQkLYT1EZquQA1cA3ze4bSjvq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Neon is an Ethereum Virtual Machine with the scalability and liquidity of Solana",
+        "telegram": "https://t.me/NeonLabsCommunity",
+        "twitter": "https://twitter.com/neonlabsorg",
+        "website": "https://neon-labs.org/",
+        "whitepaper": "https://docs.neon-labs.org/"
+      }
     }
   ],
   "version": {
