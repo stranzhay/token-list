@@ -160673,6 +160673,17 @@
       "extensions": {
         "website": "https://www.coinco2.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7ejAbuUUJvM9BsartLv1X8vams6EMgxSsii8nUvADQsJ",
+      "symbol": "WNGG",
+      "name": "Wingig coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/knagu81/kncrypto/main/wngg.png",
+      "tags": [
+        "Service-token"
+      ]
     }
   ],
   "version": {
