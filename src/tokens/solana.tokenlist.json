@@ -161132,6 +161132,41 @@
         "twitter": "https://twitter.com/official_fabric",
         "website": "https://app.fsynth.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+      "symbol": "USH",
+      "name": "Hedge USD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/hedge",
+        "serumV3Usdc": "6aRwQtvTcHeRTtGxQRhqViwMF1XPEn271CgGEx3YAyEY",
+        "twitter": "https://twitter.com/HedgeLabs",
+        "website": "https://www.hedge.so/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5PmpMzWjraf3kSsGEKtqdUsCoLhptg4yriZ17LKKdBBy",
+      "symbol": "HDG",
+      "name": "Hedge Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5PmpMzWjraf3kSsGEKtqdUsCoLhptg4yriZ17LKKdBBy/logo.png",
+      "tags": [
+        "community-token",
+        "governance-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/hedge",
+        "serumV3Usdc": "7HrUmsVM7poJdjgoteTVzx3VMFyLcAhdR8JMbuFD6VNq",
+        "twitter": "https://twitter.com/HedgeLabs",
+        "website": "https://www.hedge.so/"
+      }
     }
   ],
   "version": {
