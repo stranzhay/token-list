@@ -161002,6 +161002,14 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HU676nHJTxXqBy4NSpbYZWoGExSsDCJRP4vicx5Aiqvb",
+      "symbol": "OST",
+      "name": "Otherside Talents Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/HU676nHJTxXqBy4NSpbYZWoGExSsDCJRP4vicx5Aiqvb/logo.png?raw=true"
     }
   ],
   "version": {
