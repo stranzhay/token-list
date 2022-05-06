@@ -160883,6 +160883,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GHg6T1Y7df4MQ4oAbNQU3gTMXuQDciChcG3p5zkQCS5G",
+      "symbol": "ROWY",
+      "name": "Rowy Coin Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GHg6T1Y7df4MQ4oAbNQU3gTMXuQDciChcG3p5zkQCS5G/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://rowy.io/"
+      }
     }
   ],
   "version": {
