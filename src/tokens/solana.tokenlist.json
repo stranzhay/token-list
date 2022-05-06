@@ -160905,6 +160905,23 @@
       "name": "Ogre Juice",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4jrEk3D6fLgrXAUj9uAffxYJq3bdygfB4KdFrBaEApSy/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DJpta5LoqgCADSeS3WWE28MbtFab8EmQRLVvjHtgRBSK",
+      "symbol": "GEEXOOG",
+      "name": "GEEXO OG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DJpta5LoqgCADSeS3WWE28MbtFab8EmQRLVvjHtgRBSK/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/exfYm6uJay",
+        "instagram": "https://www.instagram.com/geexolotls/",
+        "twitter": "https://twitter.com/geexolotls",
+        "website": "https://www.geexolotls.com/"
+      }
     }
   ],
   "version": {
