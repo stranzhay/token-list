@@ -160930,6 +160930,34 @@
       "name": "Artwork",
       "decimals": 1,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FetnyCdiczgvMEDf2kw9VCf7QwwEQLiWE2cWApqKGXvm/Artworklogo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DtafxUvXULXETGtgL2S1Vp6ggfB2nEEM8RtvLSNbGzNS",
+      "symbol": "FMAT",
+      "name": "Free Mint Animalz Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DtafxUvXULXETGtgL2S1Vp6ggfB2nEEM8RtvLSNbGzNS/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AnimalzNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FffNDEb4jm5cp3burLawTV17PDXjexuN3MzdDahkKtaf",
+      "symbol": "AWLT",
+      "name": "Animalz WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FffNDEb4jm5cp3burLawTV17PDXjexuN3MzdDahkKtaf/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AnimalzNFT"
+      }
     }
   ],
   "version": {
