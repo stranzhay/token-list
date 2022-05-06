@@ -160620,6 +160620,22 @@
         "twitter": "https://twitter.com/biospiel",
         "website": "https://biospiel.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "34TNFU9QLVraxfnCM3MHgeS3SKQ6RYw2iBogUzXoPbLD",
+      "symbol": "SAIGO",
+      "name": "Saigo Monkeys",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Tynew240/token-list/1676617702a122d2c52e1bc6302d4da2e279407c/assets/mainnet/34TNFU9QLVraxfnCM3MHgeS3SKQ6RYw2iBogUzXoPbLD/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/saigomonkeys",
+        "website": "https://www.saigomonkeys.net/"
+      }
     }
   ],
   "version": {
