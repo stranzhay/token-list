@@ -160847,6 +160847,20 @@
         "description": "TREF is a utility token that aims to develop new methods to utilize, socialize and fund other different startups in blockchain space allover the world",
         "twitter": "https://twitter.com/TrefoilToken"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2rLTJzSj6J6f4poPAKojS2sbdtRry7b8k4XoEMKPwner",
+      "symbol": "PENNY",
+      "name": "Penny Auction",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2rLTJzSj6J6f4poPAKojS2sbdtRry7b8k4XoEMKPwner/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://onepenny.vercel.app/"
+      }
     }
   ],
   "version": {
