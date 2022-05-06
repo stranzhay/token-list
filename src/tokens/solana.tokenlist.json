@@ -160861,6 +160861,17 @@
       "extensions": {
         "website": "https://onepenny.vercel.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9i2A1xy9HvnJGU11pAFiFYDsizNW9GwtStzVGGk2LkjX",
+      "symbol": "MRCO",
+      "name": "Marcio's",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nascar-bit/logo/main/IMAGEM.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
