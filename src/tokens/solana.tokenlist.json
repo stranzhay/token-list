@@ -160897,6 +160897,67 @@
       "extensions": {
         "website": "https://rowy.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4jrEk3D6fLgrXAUj9uAffxYJq3bdygfB4KdFrBaEApSy",
+      "symbol": "OGREJUICE",
+      "name": "Ogre Juice",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4jrEk3D6fLgrXAUj9uAffxYJq3bdygfB4KdFrBaEApSy/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DJpta5LoqgCADSeS3WWE28MbtFab8EmQRLVvjHtgRBSK",
+      "symbol": "GEEXOOG",
+      "name": "GEEXO OG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DJpta5LoqgCADSeS3WWE28MbtFab8EmQRLVvjHtgRBSK/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/exfYm6uJay",
+        "instagram": "https://www.instagram.com/geexolotls/",
+        "twitter": "https://twitter.com/geexolotls",
+        "website": "https://www.geexolotls.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FetnyCdiczgvMEDf2kw9VCf7QwwEQLiWE2cWApqKGXvm",
+      "symbol": "ARTW",
+      "name": "Artwork",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FetnyCdiczgvMEDf2kw9VCf7QwwEQLiWE2cWApqKGXvm/Artworklogo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DtafxUvXULXETGtgL2S1Vp6ggfB2nEEM8RtvLSNbGzNS",
+      "symbol": "FMAT",
+      "name": "Free Mint Animalz Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DtafxUvXULXETGtgL2S1Vp6ggfB2nEEM8RtvLSNbGzNS/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AnimalzNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FffNDEb4jm5cp3burLawTV17PDXjexuN3MzdDahkKtaf",
+      "symbol": "AWLT",
+      "name": "Animalz WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FffNDEb4jm5cp3burLawTV17PDXjexuN3MzdDahkKtaf/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AnimalzNFT"
+      }
     }
   ],
   "version": {
