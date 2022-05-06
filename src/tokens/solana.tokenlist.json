@@ -160804,6 +160804,18 @@
       "extensions": {
         "website": "https://moovecoin.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4WGHyeYYRNsgmCkpMjwr816ZeP6he1m5vaTMJk4vG1Mr",
+      "symbol": "SKG",
+      "name": "Starz Kitchen",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4WGHyeYYRNsgmCkpMjwr816ZeP6he1m5vaTMJk4vG1Mr/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
