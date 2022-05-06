@@ -160969,6 +160969,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AzAh47oXdGkLKAXQHMNthjuCHmkRYq8uCh1upB6H5Wic",
+      "symbol": "DREAMERWL",
+      "name": "DREAMERS Whitelist",
+      "decimals": 0,
+      "logoURI": "https://dreamers.mypinata.cloud/ipfs/QmQRdFURoJLKa5vVVm2p6s6d3b9dYJL4M4KPn38nKGzgYf",
+      "tags": [
+        "DREAMERS-Whitelist"
+      ]
     }
   ],
   "version": {
