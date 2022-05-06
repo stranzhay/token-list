@@ -160958,6 +160958,28 @@
       "extensions": {
         "twitter": "https://twitter.com/AnimalzNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4a6qUaq8cfgDZeEzGLPahdkx2NkrLtJmCjobYxFfCrsQ",
+      "symbol": "HLPR",
+      "name": "Helper Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Skyvi0/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AzAh47oXdGkLKAXQHMNthjuCHmkRYq8uCh1upB6H5Wic",
+      "symbol": "DREAMERWL",
+      "name": "DREAMERS Whitelist",
+      "decimals": 0,
+      "logoURI": "https://dreamers.mypinata.cloud/ipfs/QmQRdFURoJLKa5vVVm2p6s6d3b9dYJL4M4KPn38nKGzgYf",
+      "tags": [
+        "DREAMERS-Whitelist"
+      ]
     }
   ],
   "version": {
