@@ -161167,6 +161167,22 @@
         "twitter": "https://twitter.com/HedgeLabs",
         "website": "https://www.hedge.so/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fe9aWgTcboSvNZsE71fVDw3GRr2x9GFxtpEbu5fnKV81",
+      "symbol": "DRT",
+      "name": "Datalus Reward Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fe9aWgTcboSvNZsE71fVDw3GRr2x9GFxtpEbu5fnKV81/logo.png",
+      "tags": [
+        "utility-coin"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/DatalusCorp",
+        "twitter": "https://twitter.com/DatalusCorp",
+        "website": "https://datalus.us"
+      }
     }
   ],
   "version": {
