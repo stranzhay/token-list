@@ -160980,6 +160980,17 @@
       "tags": [
         "DREAMERS-Whitelist"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BBsbWcS6hPBuMwj5MtAerf3LEfQibh9hgXA3n4WA6Dni",
+      "symbol": "BB",
+      "name": "Baby Catlien Token",
+      "decimals": 0,
+      "logoURI": "https://media.discordapp.net/attachments/941805628354093118/971189365634113577/517.png?width=670\u0026height=670",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
