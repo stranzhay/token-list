@@ -160465,6 +160465,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SPSzWFd2YpwbifRqoow76N31RcnFPH17vmq6AGCXt3C",
+      "symbol": "SPARK",
+      "name": "Spark Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SPSzWFd2YpwbifRqoow76N31RcnFPH17vmq6AGCXt3C/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/XTZRas4VN4",
+        "twitter": "https://twitter.com/StonedGnomes",
+        "website": "https://www.stonedgnomes.io/"
+      }
     }
   ],
   "version": {
