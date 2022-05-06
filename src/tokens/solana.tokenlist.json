@@ -161024,6 +161024,114 @@
       "extensions": {
         "twitter": "https://twitter.com/TakashiRonin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+      "symbol": "fUSD",
+      "name": "Synthetic USD (Fabric)",
+      "decimals": 8,
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/ec3521b6-b382-4efb-1d16-7b60c75b9100/public",
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/",
+        "twitter": "https://twitter.com/official_fabric",
+        "website": "https://app.fsynth.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7nvyNSn5gWrpfE8Qp4uLPUFz7g6uHKVyLNYeHcbq81Aa",
+      "symbol": "fXAU",
+      "name": "Synthetic Gold (Fabric)",
+      "decimals": 8,
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/44d5355a-45e3-4c2d-decb-0cf723959900/public",
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/",
+        "twitter": "https://twitter.com/official_fabric",
+        "website": "https://app.fsynth.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FkZefzUKuJpdy3FY5twzsSE4CsvYmN5CwDGFpwGQVTbg",
+      "symbol": "fBTC",
+      "name": "Synthetic Bitcoin (Fabric)",
+      "decimals": 8,
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/ec84365d-c9a9-45b6-afeb-4ca5ca831600/public",
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/",
+        "twitter": "https://twitter.com/official_fabric",
+        "website": "https://app.fsynth.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2JkA55iDDkNfhqedZgGWau5rUW8prcdJVhNKQP7cqdZR",
+      "symbol": "fEUR",
+      "name": "Synthetic Euro (Fabric)",
+      "decimals": 8,
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/1ed84129-6754-4668-7e4b-2cf143f5a100/public",
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/",
+        "twitter": "https://twitter.com/official_fabric",
+        "website": "https://app.fsynth.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HTPKGJ4tX7hUnQKami9rGDYwekc2eCLokNT2z41EU8gS",
+      "symbol": "fGBP",
+      "name": "Synthetic British Pound (Fabric)",
+      "decimals": 8,
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/b00332ce-5694-4d33-09fc-d523b63bbe00/public",
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/",
+        "twitter": "https://twitter.com/official_fabric",
+        "website": "https://app.fsynth.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CVVxVkn5L58sg9eoi1EsoUypcrqPUfUxa8gC51swwMCd",
+      "symbol": "fJPY",
+      "name": "Synthetic Japanese Yen (Fabric)",
+      "decimals": 8,
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/ebe7a85c-369a-4001-44a6-cc64a3f98500/public",
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/",
+        "twitter": "https://twitter.com/official_fabric",
+        "website": "https://app.fsynth.io/"
+      }
     }
   ],
   "version": {
