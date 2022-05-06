@@ -160591,6 +160591,17 @@
         "twitter": "https://twitter.com/keplerhomes",
         "website": "https://kepler.homes"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G4tJQthj5dvnRhRGd8YxqbhvGNMfVKvHvtWdrovEuhPY",
+      "symbol": "GLAXXYSK",
+      "name": "Galaxxy Sky Earth",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/GalaxySkyEarth/SkyEarth/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
