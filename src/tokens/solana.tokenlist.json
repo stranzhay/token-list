@@ -160482,6 +160482,14 @@
         "twitter": "https://twitter.com/StonedGnomes",
         "website": "https://www.stonedgnomes.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ASqpLQXayEH8JT1dFcamUY7RQPPvJhQdwPPUduEfAdKX",
+      "symbol": "IBHC",
+      "name": "IBHC WhiteList Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Felibrain/IBHC/main/logo.png"
     }
   ],
   "version": {
