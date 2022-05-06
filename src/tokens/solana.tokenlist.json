@@ -160505,6 +160505,18 @@
         "twitter": "https://twitter.com/MellowMenNFT",
         "website": "https://mellowmen.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "84EM7P6QLVZvfnzCiVLzMJqUX5rLufenZHAy13ad67dN",
+      "symbol": "POKR",
+      "name": "POKERSTAR",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/theshortietate/crypto/main/pokrlogo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
