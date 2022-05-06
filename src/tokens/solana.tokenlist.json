@@ -160816,6 +160816,20 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
+      "symbol": "USN",
+      "name": "USN (Allbridge from Near)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "coingeckoId": "usn"
+      }
     }
   ],
   "version": {
