@@ -160767,6 +160767,21 @@
         "Service-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BvEj2MNMPsUrD4vSk7NHs4TtRcCcJd75Wx5HvVbY4rbK",
+      "symbol": "DEDS",
+      "name": "Decimus Dynamics Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/DecimusDynamics/assets/blob/main/decimus-icon-1x1-black.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DecimusDynamic",
+        "website": "http://decimusdynamics.io/"
+      }
     }
   ],
   "version": {
