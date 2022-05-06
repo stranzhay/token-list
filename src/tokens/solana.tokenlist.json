@@ -160991,6 +160991,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8ta8pat4jJYEeeaCGKaDzZpU74EovPsuhM8am56Mazs",
+      "symbol": "NECTAR",
+      "name": "Nectar Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/agave-com/nectar-token/main/logo-sq.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
