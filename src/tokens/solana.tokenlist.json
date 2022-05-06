@@ -160816,6 +160816,62 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
+      "symbol": "USN",
+      "name": "USN (Allbridge from Near)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "coingeckoId": "usn"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "B6pqF66ovQrZB8Nwaq1b4iA99DnTSMAuvLRS2KFp3Nuq",
+      "symbol": "TREF",
+      "name": "TREFOIL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B6pqF66ovQrZB8Nwaq1b4iA99DnTSMAuvLRS2KFp3Nuq/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "address": "B6pqF66ovQrZB8Nwaq1b4iA99DnTSMAuvLRS2KFp3Nuq",
+        "description": "TREF is a utility token that aims to develop new methods to utilize, socialize and fund other different startups in blockchain space allover the world",
+        "twitter": "https://twitter.com/TrefoilToken"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2rLTJzSj6J6f4poPAKojS2sbdtRry7b8k4XoEMKPwner",
+      "symbol": "PENNY",
+      "name": "Penny Auction",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2rLTJzSj6J6f4poPAKojS2sbdtRry7b8k4XoEMKPwner/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://onepenny.vercel.app/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9i2A1xy9HvnJGU11pAFiFYDsizNW9GwtStzVGGk2LkjX",
+      "symbol": "MRCO",
+      "name": "Marcio's",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nascar-bit/logo/main/IMAGEM.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
