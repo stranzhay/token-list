@@ -160922,6 +160922,14 @@
         "twitter": "https://twitter.com/geexolotls",
         "website": "https://www.geexolotls.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FetnyCdiczgvMEDf2kw9VCf7QwwEQLiWE2cWApqKGXvm",
+      "symbol": "ARTW",
+      "name": "Artwork",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FetnyCdiczgvMEDf2kw9VCf7QwwEQLiWE2cWApqKGXvm/Artworklogo.png"
     }
   ],
   "version": {
