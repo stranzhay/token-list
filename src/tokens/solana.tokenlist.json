@@ -160872,6 +160872,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8RjdnCsNa3hTq8XPNhP4RMTcEPCrNPJuV7mE3qH4iPit",
+      "symbol": "HOOK",
+      "name": "HOOKAH",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/333.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
