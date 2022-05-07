@@ -161422,6 +161422,49 @@
         "twitter": "https://twitter.com/SavanahSparrowS",
         "website": "https://www.savannahsparrows.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6N9pFW6Vr6G5WtTzS4sCTLcQLLnTpLXuiEENQuY5nqpi",
+      "symbol": "YAFAE",
+      "name": "YafaTek E-Money",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/yafatek/token-info/master/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/YafaTechnologi1",
+        "website": "https://yafatek.dev/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "Dy7FC4Ayeh28CMo8bxxtTfcw7ySZZFhwZFRxvgxkq1KC",
+      "symbol": "$MUSHCOIN",
+      "name": "MUSH COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Carstino333/Token22/main/43649a65148d9e9046b81afa6551d4e9b4791120_original.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6B4SQkzmWtQNJXQ9uhvL7cxid4S3JdZRrQj9YZkbfSJE",
+      "symbol": "SSWL",
+      "name": "Savannah Sparrows WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6B4SQkzmWtQNJXQ9uhvL7cxid4S3JdZRrQj9YZkbfSJE/logo.png",
+      "tags": [
+        "whitelist-ticket"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SavanahSparrowS",
+        "website": "https://www.savannahsparrows.com"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "CUQf6iejbk9uHqrrWU3fz5Xe8p7H26i16EjUH8avGy6m",
+      "symbol": "BWUSD",
+      "name": "BWUSD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CUQf6iejbk9uHqrrWU3fz5Xe8p7H26i16EjUH8avGy6m/logo.png"
     }
   ],
   "version": {
