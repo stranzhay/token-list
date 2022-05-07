@@ -161278,6 +161278,22 @@
         "twitter": "https://twitter.com/YakuCorp",
         "website": "https://www.yakushima.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "rHtaCP5RsCKcT8QcbqKB2iJBTMz9g6PipgaQrPWzFSW",
+      "symbol": "DFX",
+      "name": "Defects",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rHtaCP5RsCKcT8QcbqKB2iJBTMz9g6PipgaQrPWzFSW/dfxlogo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/zgeaF3egxp",
+        "twitter": "https://twitter.com/risingdefects",
+        "website": "https://risingdefects.com"
+      }
     }
   ],
   "version": {
