@@ -161531,6 +161531,17 @@
       "tags": [
         "lottery-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9oHjAGRgt6VBpZupKxV2w2XdmfpQs9sKPjpzXaHxCG98",
+      "symbol": "WANG",
+      "name": "Big Wang Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SuperStarShen/PaulCrypto/main/logo.png.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
