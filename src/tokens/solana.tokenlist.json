@@ -161263,6 +161263,21 @@
         "twitter": "https://twitter.com/H2oToken",
         "website": "https://www.tokenh2o.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "XavAGq7fE9SwdbwsvMqmieHyZB6MtiLpagY3A8huHvo",
+      "symbol": "YXAV",
+      "name": "Yaku Corp l Avatar X WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/XavAGq7fE9SwdbwsvMqmieHyZB6MtiLpagY3A8huHvo/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/YakuCorp",
+        "website": "https://www.yakushima.io/"
+      }
     }
   ],
   "version": {
