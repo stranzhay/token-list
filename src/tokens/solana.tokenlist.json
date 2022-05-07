@@ -161504,6 +161504,33 @@
         "twitter": "https://twitter.com/trippinapenft",
         "website": "https://www.trippinapetribe.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3swraHsc77KMg1tFvwH3tfYcd8SWr5fcUhtmRxjavG7H",
+      "symbol": "KS",
+      "name": "KALISTEN - Train To Earn",
+      "decimals": 9,
+      "logoURI": "https://kalisten.app/wp-content/uploads/2022/05/kalisten_token.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/kalisten",
+        "twitter": "https://twitter.com/kalisten_",
+        "website": "https://kalisten.app/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J8xdo42P8B7j6jJ8qmZJscevLgveQEGciBv14FE5yXJp",
+      "symbol": "CBTLT",
+      "name": "Cyberbloks Tournament Lottery Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J8xdo42P8B7j6jJ8qmZJscevLgveQEGciBv14FE5yXJp/cb.jpg",
+      "tags": [
+        "lottery-token"
+      ]
     }
   ],
   "version": {
