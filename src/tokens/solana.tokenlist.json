@@ -161504,6 +161504,22 @@
         "twitter": "https://twitter.com/trippinapenft",
         "website": "https://www.trippinapetribe.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3swraHsc77KMg1tFvwH3tfYcd8SWr5fcUhtmRxjavG7H",
+      "symbol": "KS",
+      "name": "KALISTEN - Train To Earn",
+      "decimals": 9,
+      "logoURI": "https://kalisten.app/wp-content/uploads/2022/05/kalisten_token.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/kalisten",
+        "twitter": "https://twitter.com/kalisten_",
+        "website": "https://kalisten.app/"
+      }
     }
   ],
   "version": {
