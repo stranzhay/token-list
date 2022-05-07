@@ -161323,6 +161323,21 @@
         "discord": "https://discord.gg/mruKkteqmx",
         "twitter": "https://twitter.com/LazyLizardFund"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "eY8xqkXmTUsZ6FSTYq9hg54c9KvgZzJbxtRnfwofeKW",
+      "symbol": "$HIGH",
+      "name": "HIGH",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/StndKng/tknlogo/main/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/KangaroosStoned",
+        "website": "https://stonedkangaroos.io/"
+      }
     }
   ],
   "version": {
