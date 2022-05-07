@@ -161239,6 +161239,45 @@
       "tags": [
         "realestate-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5A8B98xa5ghN5ZwT8Eu52kaFTvkmqofXsT6o7TdUEDNU",
+      "symbol": "DCCOIN",
+      "name": "Dream City",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5A8B98xa5ghN5ZwT8Eu52kaFTvkmqofXsT6o7TdUEDNU/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Cac7ifBsj4C6B1YDmkqut3xwGYKdfdQ2cA9v6smMPuD1",
+      "symbol": "H2O",
+      "name": "WATER H2O",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cac7ifBsj4C6B1YDmkqut3xwGYKdfdQ2cA9v6smMPuD1/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/H2oToken",
+        "website": "https://www.tokenh2o.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "XavAGq7fE9SwdbwsvMqmieHyZB6MtiLpagY3A8huHvo",
+      "symbol": "YXAV",
+      "name": "Yaku Corp l Avatar X WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/XavAGq7fE9SwdbwsvMqmieHyZB6MtiLpagY3A8huHvo/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/YakuCorp",
+        "website": "https://www.yakushima.io/"
+      }
     }
   ],
   "version": {
