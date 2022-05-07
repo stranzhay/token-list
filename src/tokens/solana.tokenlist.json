@@ -161631,6 +161631,14 @@
       "name": "LEVERAGE",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/LVRG_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7ZX9G8cjcWDZEs6ugATmjA5MR3Ao8aAtETn5c2vd6qoi",
+      "symbol": "$RSIST",
+      "name": "RESIST",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/RSIST_coin.png"
     }
   ],
   "version": {
