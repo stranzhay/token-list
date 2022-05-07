@@ -161442,6 +161442,21 @@
       "name": "MUSH COIN",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Carstino333/Token22/main/43649a65148d9e9046b81afa6551d4e9b4791120_original.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6B4SQkzmWtQNJXQ9uhvL7cxid4S3JdZRrQj9YZkbfSJE",
+      "symbol": "SSWL",
+      "name": "Savannah Sparrows WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6B4SQkzmWtQNJXQ9uhvL7cxid4S3JdZRrQj9YZkbfSJE/logo.png",
+      "tags": [
+        "whitelist-ticket"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SavanahSparrowS",
+        "website": "https://www.savannahsparrows.com"
+      }
     }
   ],
   "version": {
