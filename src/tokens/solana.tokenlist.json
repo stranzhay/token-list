@@ -161556,6 +161556,17 @@
       "extensions": {
         "twitter": "https://twitter.com/SolfulNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JDABJJtPKr4mMzoKXzS128VTmZZdDmCbd4GPy71J3zn1",
+      "symbol": "CLSC",
+      "name": "ClassCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/huzaifa132/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
