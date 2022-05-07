@@ -161647,6 +161647,14 @@
       "name": "ANTI SOCIAL",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/ANTI_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Es9ogKeDecth3erJanqKFsBLgU9bQCtsjNetRUsqiJto",
+      "symbol": "$WELLNESS",
+      "name": "WELLNESS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/WELLNESS_coin.png"
     }
   ],
   "version": {
