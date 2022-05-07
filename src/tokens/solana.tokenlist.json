@@ -161294,6 +161294,20 @@
         "twitter": "https://twitter.com/risingdefects",
         "website": "https://risingdefects.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ADQwix6UMnhZ13iAd5xQMWFUuw8cJRGj1RioqP3GZebg",
+      "symbol": "SIGHT",
+      "name": "Sight",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ADQwix6UMnhZ13iAd5xQMWFUuw8cJRGj1RioqP3GZebg/logo.png",
+      "tags": [
+        "utility-coin"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ReptilianReneg"
+      }
     }
   ],
   "version": {
