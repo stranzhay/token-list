@@ -161338,6 +161338,49 @@
         "twitter": "https://twitter.com/KangaroosStoned",
         "website": "https://stonedkangaroos.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "tama3h1XJnmS4Lo8P4TZVA3Fjt5utNL6PdbePqx5hnj",
+      "symbol": "TMAP",
+      "name": "Tamaki Apes Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tama3h1XJnmS4Lo8P4TZVA3Fjt5utNL6PdbePqx5hnj/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TamakiApes",
+        "website": "https://tamakiapes.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EwmUZLCKPhjs3tdLddX1PFYzbRiPrq8fjgZfkaYVP7Jy",
+      "symbol": "LFND",
+      "name": "LIT FUND",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/dth5geg.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/C5z57xrw52",
+        "telegram": "https://t.me/litfund",
+        "twitter": "https://twitter.com/litfund_defi",
+        "website": "https://lit.fund"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CxQ51bSL1f1HgJZLHZDKZEE6u38DLJfdCzbR6WPLoK6j",
+      "symbol": "ANR",
+      "name": "Annora",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CxQ51bSL1f1HgJZLHZDKZEE6u38DLJfdCzbR6WPLoK6j/logoanr.png",
+      "tags": [
+        "game-token"
+      ]
     }
   ],
   "version": {
