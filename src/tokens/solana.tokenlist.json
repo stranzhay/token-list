@@ -161393,6 +161393,17 @@
         "twitter": "https://twitter.com/solanalostsouls",
         "website": "https://discord.com/invite/efkrna3jbs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CZw1Dxzn3thg42sKDNZweWjEpjaJpKYN9maAYdHnDvNU",
+      "symbol": "SLC",
+      "name": "SLOTH INU TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Jono131122/slothcoin/main/transparent-sloth-20.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
