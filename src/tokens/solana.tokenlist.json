@@ -161353,6 +161353,23 @@
         "twitter": "https://twitter.com/TamakiApes",
         "website": "https://tamakiapes.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EwmUZLCKPhjs3tdLddX1PFYzbRiPrq8fjgZfkaYVP7Jy",
+      "symbol": "LFND",
+      "name": "LIT FUND",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/dth5geg.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/C5z57xrw52",
+        "telegram": "https://t.me/litfund",
+        "twitter": "https://twitter.com/litfund_defi",
+        "website": "https://lit.fund"
+      }
     }
   ],
   "version": {
