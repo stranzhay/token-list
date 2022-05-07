@@ -161404,6 +161404,24 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2mSSUPJYLVGRxvsLcR2B8dwtG6KuYWsGpJaCyZAQwTPW",
+      "symbol": "SPARR",
+      "name": "Savannah Sparrows Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2mSSUPJYLVGRxvsLcR2B8dwtG6KuYWsGpJaCyZAQwTPW/logo.png",
+      "tags": [
+        "game-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/jJyzV95bdG",
+        "twitter": "https://twitter.com/SavanahSparrowS",
+        "website": "https://www.savannahsparrows.com"
+      }
     }
   ],
   "version": {
