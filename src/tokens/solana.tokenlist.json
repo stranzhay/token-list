@@ -161338,6 +161338,21 @@
         "twitter": "https://twitter.com/KangaroosStoned",
         "website": "https://stonedkangaroos.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "tama3h1XJnmS4Lo8P4TZVA3Fjt5utNL6PdbePqx5hnj",
+      "symbol": "TMAP",
+      "name": "Tamaki Apes Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tama3h1XJnmS4Lo8P4TZVA3Fjt5utNL6PdbePqx5hnj/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TamakiApes",
+        "website": "https://tamakiapes.com/"
+      }
     }
   ],
   "version": {
