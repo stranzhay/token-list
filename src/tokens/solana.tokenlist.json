@@ -161457,6 +161457,14 @@
         "twitter": "https://twitter.com/SavanahSparrowS",
         "website": "https://www.savannahsparrows.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "CUQf6iejbk9uHqrrWU3fz5Xe8p7H26i16EjUH8avGy6m",
+      "symbol": "BWUSD",
+      "name": "BWUSD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CUQf6iejbk9uHqrrWU3fz5Xe8p7H26i16EjUH8avGy6m/logo.png"
     }
   ],
   "version": {
