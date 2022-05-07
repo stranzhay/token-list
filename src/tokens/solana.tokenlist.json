@@ -161381,6 +161381,18 @@
       "tags": [
         "game-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8J6ABr7JhByRQ6D9rBTgBdC4D5qf1Q2vzq3mhhzPGxh1",
+      "symbol": "SRIP",
+      "name": "SoulReapers WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DefiTokens/assets/main/WL.png",
+      "extensions": {
+        "twitter": "https://twitter.com/solanalostsouls",
+        "website": "https://discord.com/invite/efkrna3jbs"
+      }
     }
   ],
   "version": {
