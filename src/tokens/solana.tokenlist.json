@@ -161239,6 +161239,14 @@
       "tags": [
         "realestate-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5A8B98xa5ghN5ZwT8Eu52kaFTvkmqofXsT6o7TdUEDNU",
+      "symbol": "DCCOIN",
+      "name": "Dream City",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5A8B98xa5ghN5ZwT8Eu52kaFTvkmqofXsT6o7TdUEDNU/logo.png"
     }
   ],
   "version": {
