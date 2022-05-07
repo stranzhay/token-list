@@ -161370,6 +161370,17 @@
         "twitter": "https://twitter.com/litfund_defi",
         "website": "https://lit.fund"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CxQ51bSL1f1HgJZLHZDKZEE6u38DLJfdCzbR6WPLoK6j",
+      "symbol": "ANR",
+      "name": "Annora",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CxQ51bSL1f1HgJZLHZDKZEE6u38DLJfdCzbR6WPLoK6j/logoanr.png",
+      "tags": [
+        "game-token"
+      ]
     }
   ],
   "version": {
