@@ -161477,6 +161477,17 @@
         "community-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AYiYVS2nSV8cRoYY3HJH9YF7fnQMQBmp2UMu6CGHnvUE",
+      "symbol": "DMCN",
+      "name": "DumCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Godflay/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
