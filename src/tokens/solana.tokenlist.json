@@ -161542,6 +161542,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SoLF9MkoQcdZguEv1kM2ZFWm9C4EfoP4ZaHZDhhKWoJ",
+      "symbol": "Solful",
+      "name": "Solful Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SoLF9MkoQcdZguEv1kM2ZFWm9C4EfoP4ZaHZDhhKWoJ/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolfulNFT"
+      }
     }
   ],
   "version": {
