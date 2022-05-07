@@ -161488,6 +161488,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "TripBPFeezN4Naxg6Ztx5a8g2vv8fimswhte3QE3Zna",
+      "symbol": "TAPE",
+      "name": "Trippin Ape Tribe Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://imagizer.imageshack.com/img922/6869/YUVPPX.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/trippinapenft",
+        "website": "https://www.trippinapetribe.xyz/"
+      }
     }
   ],
   "version": {
