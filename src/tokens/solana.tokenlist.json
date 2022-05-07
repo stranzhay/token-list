@@ -161422,6 +161422,18 @@
         "twitter": "https://twitter.com/SavanahSparrowS",
         "website": "https://www.savannahsparrows.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6N9pFW6Vr6G5WtTzS4sCTLcQLLnTpLXuiEENQuY5nqpi",
+      "symbol": "YAFAE",
+      "name": "YafaTek E-Money",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/yafatek/token-info/master/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/YafaTechnologi1",
+        "website": "https://yafatek.dev/"
+      }
     }
   ],
   "version": {
