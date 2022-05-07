@@ -161465,6 +161465,29 @@
       "name": "BWUSD",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CUQf6iejbk9uHqrrWU3fz5Xe8p7H26i16EjUH8avGy6m/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "AU9tge2N6pT5Y7FsiTi8gFxeLoQ7GL9GZXmYMYaeZCnT",
+      "symbol": "Unity",
+      "name": "Unity Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/chillingonsol/logo/main/unity.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AYiYVS2nSV8cRoYY3HJH9YF7fnQMQBmp2UMu6CGHnvUE",
+      "symbol": "DMCN",
+      "name": "DumCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Godflay/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
