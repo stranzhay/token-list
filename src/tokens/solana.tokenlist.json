@@ -161294,6 +161294,35 @@
         "twitter": "https://twitter.com/risingdefects",
         "website": "https://risingdefects.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ADQwix6UMnhZ13iAd5xQMWFUuw8cJRGj1RioqP3GZebg",
+      "symbol": "SIGHT",
+      "name": "Sight",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ADQwix6UMnhZ13iAd5xQMWFUuw8cJRGj1RioqP3GZebg/logo.png",
+      "tags": [
+        "utility-coin"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ReptilianReneg"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "LLFp7NAT1u3cz2cGZw18kfgfEA9zeBdiDC2uoX6TY2W",
+      "symbol": "LLF",
+      "name": "Lazy Lizard Fund",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LazyLizardFund/LazyLizardFund/main/LazyLizardFundLogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/mruKkteqmx",
+        "twitter": "https://twitter.com/LazyLizardFund"
+      }
     }
   ],
   "version": {
