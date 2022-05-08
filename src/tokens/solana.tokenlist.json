@@ -161904,6 +161904,24 @@
       "extensions": {
         "description": "TotalTokenTransient is a fun coin!"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "oHLy9rACUZoniX3gmTm1ABRnonPX5mWzgdUBk6GtGUf",
+      "symbol": "SWERV",
+      "name": "SWERV",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/Zues369/SWERV-logo/main/logo.png",
+      "tags": [
+        "payment-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Creative Collective. Hip Hop, R\u0026B, World Sounds y más. Es Otra Onda SWERV , token value 1usdt = 10 SWERV tokens",
+        "discord": "https://discord.gg/3yNwFyPzUb",
+        "instagram": "https://www.ins.com/swervba/",
+        "website": "https://linktr.ee/Swervba"
+      }
     }
   ],
   "version": {
