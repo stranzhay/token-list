@@ -161726,6 +161726,14 @@
         "instagram": "https://www.instagram.com/mehmet_steakhouse",
         "website": "https://mehmetsteakhouse.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J2SVSPEu6ZefWH16BgPHpH6vU43MeEcRZm5Npm1ycQUi",
+      "symbol": "$UPGRADE",
+      "name": "UPGRADE COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/UPGRADE_coin.png"
     }
   ],
   "version": {
