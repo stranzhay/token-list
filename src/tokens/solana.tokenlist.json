@@ -162053,6 +162053,20 @@
         "description": "DTLG is the token for invest in DataAlg quantitative investment firm trading in Cryptos and NFTs",
         "twitter": "https://twitter.com/DataAlgOfficial"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CartMGitU7CXZA8XBWv8tKYhU8mV594LHLred2U8kHQe",
+      "symbol": "cartoonkids",
+      "name": "Kids cartoon Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CartMGitU7CXZA8XBWv8tKYhU8mV594LHLred2U8kHQe/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/KidsCartoonNFT"
+      }
     }
   ],
   "version": {
