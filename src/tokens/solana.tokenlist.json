@@ -161922,6 +161922,17 @@
         "instagram": "https://www.ins.com/swervba/",
         "website": "https://linktr.ee/Swervba"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DU1uTzkfAMWYhPs5GdprFYmGSMcEFZvX4ScbpBxkBdDf",
+      "symbol": "PMG",
+      "name": "Paulism Koin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Grit-Dev/crypto1/main/TryTwo(1).png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
