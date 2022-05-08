@@ -161607,6 +161607,14 @@
       "name": "DRPOWER",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DRPOWER_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GjEhhrAjBjoyZgYBDnHXGRuYRKzFZs4XsrGREcFRRfTb",
+      "symbol": "$FLOW",
+      "name": "FLOW",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/FLOW_coin.png"
     }
   ],
   "version": {
