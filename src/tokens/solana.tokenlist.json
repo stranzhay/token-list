@@ -162156,6 +162156,17 @@
         "twitter": "https://twitter.com/raidencity",
         "website": "https://www.raiden.city/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WWY8cb8Ln7r1UUrTSMyXXGwc7PTcwjmodruRtXpYtJ4",
+      "symbol": "PDL",
+      "name": "Padel Coin",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WWY8cb8Ln7r1UUrTSMyXXGwc7PTcwjmodruRtXpYtJ4/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
