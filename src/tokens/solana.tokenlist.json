@@ -162200,6 +162200,20 @@
       "tags": [
         "utility-coin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "LaXyFtJ9JWq7r7gsCRk7JbUaD45FTirAwyUR5WzyVer",
+      "symbol": "Solaxy",
+      "name": "Solaxy Metaverse Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LaXyFtJ9JWq7r7gsCRk7JbUaD45FTirAwyUR5WzyVer/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolaxyMetaverse"
+      }
     }
   ],
   "version": {
