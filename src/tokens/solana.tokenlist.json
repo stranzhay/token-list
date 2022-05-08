@@ -161583,6 +161583,14 @@
       "name": "MOJO",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/MOJO_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3nmTsvHUoyWFRoksBWU9oHaHwGsezAp97hgrrnc8brNo",
+      "symbol": "$LOOP",
+      "name": "LOOP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/LOOP_coin.png"
     }
   ],
   "version": {
