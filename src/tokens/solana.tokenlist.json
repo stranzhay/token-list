@@ -161922,6 +161922,47 @@
         "instagram": "https://www.ins.com/swervba/",
         "website": "https://linktr.ee/Swervba"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DU1uTzkfAMWYhPs5GdprFYmGSMcEFZvX4ScbpBxkBdDf",
+      "symbol": "PMG",
+      "name": "Paulism Koin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Grit-Dev/crypto1/main/TryTwo(1).png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "75qDcsoXcgU16E2yoyXBfPvxSVSTNej3uK48iAwpmZyW",
+      "symbol": "AIC",
+      "name": "AI Crew Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/75qDcsoXcgU16E2yoyXBfPvxSVSTNej3uK48iAwpmZyW/logo.png",
+      "tags": [
+        "utility-token",
+        "nft-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AI_Crew_Sol"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "LostdSbLeuUnWyzyYbojwB1ZQHbnLZvuJ9fKpeEEYhP",
+      "symbol": "LISWL",
+      "name": "Lost in Smoke WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LostdSbLeuUnWyzyYbojwB1ZQHbnLZvuJ9fKpeEEYhP/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/lostinsmoke_nft"
+      }
     }
   ],
   "version": {
