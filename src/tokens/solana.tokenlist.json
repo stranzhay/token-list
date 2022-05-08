@@ -161599,6 +161599,14 @@
       "name": "DUNK",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DUNK_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "5De7hU2PZFsSb6nJaetgZ2aZNEMDsC9A8Bp8G54x9BX7",
+      "symbol": "$DRPOWER",
+      "name": "DRPOWER",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DRPOWER_coin.png"
     }
   ],
   "version": {
