@@ -161726,6 +161726,25 @@
         "instagram": "https://www.instagram.com/mehmet_steakhouse",
         "website": "https://mehmetsteakhouse.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J2SVSPEu6ZefWH16BgPHpH6vU43MeEcRZm5Npm1ycQUi",
+      "symbol": "$UPGRADE",
+      "name": "UPGRADE COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/UPGRADE_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3xqWRbQp3F9zY39YEoR8MWsZ6ri9aKkPeXBn3qPgUsCy",
+      "symbol": "WAKA",
+      "name": "Waka coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3xqWRbQp3F9zY39YEoR8MWsZ6ri9aKkPeXBn3qPgUsCy/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
