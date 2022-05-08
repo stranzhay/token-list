@@ -161994,6 +161994,101 @@
         "description": "Pluto Pig BaCoin, Pigs will fly, it's just a matter of time!",
         "twitter": "https://twitter.com/PlutoPigsNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HLqtPVVzMgW6c7xFgJXAskXFcSvFyGHE8taz7KB39QjH",
+      "symbol": "FINE",
+      "name": "Finery",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/FineryNft/Logo/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ed5ZEiM7rcbp6TwcJnPYzCcefdTSjixWnArWbHiVuN9k",
+      "symbol": "DOMOBe",
+      "name": "DomoCoin Beta",
+      "decimals": 8,
+      "logoURI": "https://domocoin.net/wp-content/uploads/2022/05/DomoCoin-Beta-Logo.png",
+      "tags": [
+        "utiliy-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "DomoCoin Beta is a utility-token seeking to fund the development of DomoCoin and the DomoArcade platform.",
+        "reddit": "https://www.reddit.com/r/DomoCoin/",
+        "website": "https://domocoin.net"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2shTBTRGMKVgZw3eWxJvRHvsxGJAUaDZjdHDeMmUvEBv",
+      "symbol": "ITA",
+      "name": "ITALIA",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2shTBTRGMKVgZw3eWxJvRHvsxGJAUaDZjdHDeMmUvEBv/logo.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "description": "ITA is the fan token of Italy",
+        "twitter": "https://twitter.com/Azzurri_En",
+        "website": "https://www.italia.it/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7FuP2KsccsYA54XQaLJ5y4M2fbagbsfc9ZSQHHAsgTnL",
+      "symbol": "DTLG",
+      "name": "DataAlg",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7FuP2KsccsYA54XQaLJ5y4M2fbagbsfc9ZSQHHAsgTnL/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "DTLG is the token for invest in DataAlg quantitative investment firm trading in Cryptos and NFTs",
+        "twitter": "https://twitter.com/DataAlgOfficial"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CartMGitU7CXZA8XBWv8tKYhU8mV594LHLred2U8kHQe",
+      "symbol": "cartoonkids",
+      "name": "Kids cartoon Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CartMGitU7CXZA8XBWv8tKYhU8mV594LHLred2U8kHQe/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/KidsCartoonNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EnTRfLu1uGKhx21VwAr5Truv8u7PhRENh73jcXeCbDda",
+      "symbol": "XCO",
+      "name": "Monaco",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bramdaniel1/crypto/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "85niRdAwMf27oicsdCXytPTsExA1A8YdJNMZAmoQ839Y",
+      "symbol": "TACO",
+      "name": "TacoCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bramdaniel1/TacoToken/main/TacoLogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
