@@ -162100,6 +162100,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4mgZTMQxAxAEMt7JKgF2rAkvjiPCQajnoVoChcmT8ypg",
+      "symbol": "HIT",
+      "name": "HICON",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DevListKj/ListLogoCli/main/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
