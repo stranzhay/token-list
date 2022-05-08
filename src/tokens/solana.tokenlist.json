@@ -161949,6 +161949,20 @@
       "extensions": {
         "twitter": "https://twitter.com/AI_Crew_Sol"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "LostdSbLeuUnWyzyYbojwB1ZQHbnLZvuJ9fKpeEEYhP",
+      "symbol": "LISWL",
+      "name": "Lost in Smoke WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LostdSbLeuUnWyzyYbojwB1ZQHbnLZvuJ9fKpeEEYhP/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/lostinsmoke_nft"
+      }
     }
   ],
   "version": {
