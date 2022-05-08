@@ -161873,6 +161873,23 @@
         "twitter": "https://twitter.com/_Naxar",
         "website": "https://naxar.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ShMkWbNimso7jtbsob1ehn7Tk4sVM2Ns2aBPaqT4wtK",
+      "symbol": "SHMK",
+      "name": "Shmoke Coin",
+      "decimals": 6,
+      "logoURI": "https://shmokeville.com/logo/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Shmoke Coin",
+        "discord": "https://discord.gg/qrucgaZUvX",
+        "twitter": "https://twitter.com/Smokevillesol",
+        "website": "https://shmokeville.com"
+      }
     }
   ],
   "version": {
