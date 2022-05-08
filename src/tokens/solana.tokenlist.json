@@ -162113,6 +162113,18 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BoBoWy2Z4QvyZRw7JdNS1dxXPA56DNrxCX97YEzobcA6",
+      "symbol": "BOW",
+      "name": "BOW",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BoBoWy2Z4QvyZRw7JdNS1dxXPA56DNrxCX97YEzobcA6/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/bobosofwar",
+        "website": "https://bobosofwar.com/"
+      }
     }
   ],
   "version": {
