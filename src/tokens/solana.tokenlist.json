@@ -162067,6 +162067,28 @@
       "extensions": {
         "twitter": "https://twitter.com/KidsCartoonNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EnTRfLu1uGKhx21VwAr5Truv8u7PhRENh73jcXeCbDda",
+      "symbol": "XCO",
+      "name": "Monaco",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bramdaniel1/crypto/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "85niRdAwMf27oicsdCXytPTsExA1A8YdJNMZAmoQ839Y",
+      "symbol": "TACO",
+      "name": "TacoCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bramdaniel1/TacoToken/main/TacoLogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
