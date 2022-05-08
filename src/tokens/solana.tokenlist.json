@@ -161709,6 +161709,23 @@
         "github": "https://github.com/JitcoinOfficial",
         "website": "https://jitcoin.6ex.dev"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C2wbTUaWGqEu3hdsAyK5eni4h1bb58eYDvBMsZvzXaBK",
+      "symbol": "Level",
+      "name": "Level coin",
+      "decimals": 9,
+      "logoURI": "https://api.mehmetsteakhouse.com/download/logo.png",
+      "tags": [
+        "service-token",
+        "community-token",
+        "payment-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/mehmet_steakhouse",
+        "website": "https://mehmetsteakhouse.com"
+      }
     }
   ],
   "version": {
