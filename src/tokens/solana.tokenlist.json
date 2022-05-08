@@ -162005,6 +162005,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ed5ZEiM7rcbp6TwcJnPYzCcefdTSjixWnArWbHiVuN9k",
+      "symbol": "DOMOBe",
+      "name": "DomoCoin Beta",
+      "decimals": 8,
+      "logoURI": "https://domocoin.net/wp-content/uploads/2022/05/DomoCoin-Beta-Logo.png",
+      "tags": [
+        "utiliy-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "DomoCoin Beta is a utility-token seeking to fund the development of DomoCoin and the DomoArcade platform.",
+        "reddit": "https://www.reddit.com/r/DomoCoin/",
+        "website": "https://domocoin.net"
+      }
     }
   ],
   "version": {
