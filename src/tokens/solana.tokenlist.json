@@ -161591,6 +161591,14 @@
       "name": "LOOP",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/LOOP_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2Y1E1KgmXYgfLKR7e6o9xzwgZ53rYjLPyqmEeDPacgZi",
+      "symbol": "$DUNK",
+      "name": "DUNK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/DUNK_coin.png"
     }
   ],
   "version": {
