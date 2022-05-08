@@ -161655,6 +161655,17 @@
       "name": "WELLNESS",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/WELLNESS_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6MrPA5iQJPftr5PmQh4TueKh9TLjLpotaJNUjczFxzs8",
+      "symbol": "HUZAIFA",
+      "name": "HuziCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/GithubCreator32/cypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
