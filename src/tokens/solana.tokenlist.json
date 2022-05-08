@@ -161689,6 +161689,26 @@
         "twitter": "https://twitter.com/Shizoku_clans",
         "website": "https://shizoku.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9bMsXVhmdgaMEVREDA8YLA1YiwgYc85ByontdW2fEAPh",
+      "symbol": "JIT",
+      "name": "JitCoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9bMsXVhmdgaMEVREDA8YLA1YiwgYc85ByontdW2fEAPh/logo.png",
+      "tags": [
+        "Jitcoin",
+        "JTC",
+        "jitcoin",
+        "jtc",
+        "JitCoin"
+      ],
+      "extensions": {
+        "discord": "https://jitcoin.6ex.dev/discord",
+        "github": "https://github.com/JitcoinOfficial",
+        "website": "https://jitcoin.6ex.dev"
+      }
     }
   ],
   "version": {
