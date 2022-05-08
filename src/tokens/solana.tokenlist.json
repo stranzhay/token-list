@@ -161567,6 +161567,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8hwHhAxzrKtuN8GfotLTUYXXLEiX9qrzPYkahzuByWGP",
+      "symbol": "$SHINE",
+      "name": "SHINE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/SHINE_coin.png"
     }
   ],
   "version": {
