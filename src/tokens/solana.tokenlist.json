@@ -161623,6 +161623,14 @@
       "name": "EASE",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/EASE_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6GNwqhgq3saN6dX94kDrxc8dj4xAcgnwK9njqbrHjmt2",
+      "symbol": "$LVRG",
+      "name": "LEVERAGE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/LVRG_coin.png"
     }
   ],
   "version": {
