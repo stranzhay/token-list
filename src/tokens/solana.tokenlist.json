@@ -162125,6 +162125,17 @@
         "twitter": "https://twitter.com/bobosofwar",
         "website": "https://bobosofwar.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FsniTTtb9GeGq1DHkipxera4bsgFkb19maBLKZwMe7in",
+      "symbol": "TIZ",
+      "name": "Tiziran",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/pirahansiah/solana_token/main/tiziran.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
