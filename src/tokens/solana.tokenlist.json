@@ -161873,6 +161873,37 @@
         "twitter": "https://twitter.com/_Naxar",
         "website": "https://naxar.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ShMkWbNimso7jtbsob1ehn7Tk4sVM2Ns2aBPaqT4wtK",
+      "symbol": "SHMK",
+      "name": "Shmoke Coin",
+      "decimals": 6,
+      "logoURI": "https://shmokeville.com/logo/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Shmoke Coin",
+        "discord": "https://discord.gg/qrucgaZUvX",
+        "twitter": "https://twitter.com/Smokevillesol",
+        "website": "https://shmokeville.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ToTxS3Mi6krv1j76P4KMhZp9PU7FpnPnwxnrnD3aUJJ",
+      "symbol": "TOTXS3",
+      "name": "TotalTokenTransient",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToTxS3Mi6krv1j76P4KMhZp9PU7FpnPnwxnrnD3aUJJ/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "TotalTokenTransient is a fun coin!"
+      }
     }
   ],
   "version": {
