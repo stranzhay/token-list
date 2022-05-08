@@ -162113,6 +162113,71 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BoBoWy2Z4QvyZRw7JdNS1dxXPA56DNrxCX97YEzobcA6",
+      "symbol": "BOW",
+      "name": "BOW",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BoBoWy2Z4QvyZRw7JdNS1dxXPA56DNrxCX97YEzobcA6/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/bobosofwar",
+        "website": "https://bobosofwar.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FsniTTtb9GeGq1DHkipxera4bsgFkb19maBLKZwMe7in",
+      "symbol": "TIZ",
+      "name": "Tiziran",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/pirahansiah/solana_token/main/tiziran.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5nqU8WzBstVyh44K6xnEuQb5P1TJd1zrLcAGEJNFt4tP",
+      "symbol": "RAIDEN",
+      "name": "Raiden City",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5nqU8WzBstVyh44K6xnEuQb5P1TJd1zrLcAGEJNFt4tP/logo.svg",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/raidencity",
+        "instagram": "https://www.instagram.com/raidencity",
+        "medium": "https://raidencity.medium.com/",
+        "twitter": "https://twitter.com/raidencity",
+        "website": "https://www.raiden.city/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "WWY8cb8Ln7r1UUrTSMyXXGwc7PTcwjmodruRtXpYtJ4",
+      "symbol": "PDL",
+      "name": "Padel Coin",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WWY8cb8Ln7r1UUrTSMyXXGwc7PTcwjmodruRtXpYtJ4/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BoHGPNU3oyk7cyhFq84bfjCAwNdfKr4nsNytcWCM4fDg",
+      "symbol": "OGNINJAS",
+      "name": "OG token BCNinjas Generation 2",
+      "decimals": 0,
+      "logoURI": "https://i.ibb.co/GPR3bpm/1.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
