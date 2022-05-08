@@ -162167,6 +162167,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BoHGPNU3oyk7cyhFq84bfjCAwNdfKr4nsNytcWCM4fDg",
+      "symbol": "OGNINJAS",
+      "name": "OG token BCNinjas Generation 2",
+      "decimals": 0,
+      "logoURI": "https://i.ibb.co/GPR3bpm/1.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
