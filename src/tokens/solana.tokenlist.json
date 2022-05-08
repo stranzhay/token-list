@@ -161773,6 +161773,25 @@
         "twitter": "https://twitter.com/UnitedPandas_io",
         "website": "https://unitedpandas.io"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "GyRtgk4dsNMDX17X9qejNb62mHMHCWhJdzYjy9tzvtko",
+      "symbol": "ACTC",
+      "name": "ActivCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ActivDoctors/assets/main/imgs/ado_thmb.png"
+    },
+    {
+      "chainId": 101,
+      "address": "5MBrosbZcwVfjeharePsEMWw71kDYLZB9ye49fuPX5yr",
+      "symbol": "MZAR",
+      "name": "MayaZar coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SarthakBehura/mayazar/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
