@@ -161677,6 +161677,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CkfKdxxSL7Zy1EDSp7Xk2NLVWE18UmauBysNCME5zvbc",
+      "symbol": "SHIZOKU",
+      "name": "SHIZOKU clans",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CkfKdxxSL7Zy1EDSp7Xk2NLVWE18UmauBysNCME5zvbc/shizoku.png",
+      "extensions": {
+        "twitter": "https://twitter.com/Shizoku_clans",
+        "website": "https://shizoku.io/"
+      }
     }
   ],
   "version": {
