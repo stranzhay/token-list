@@ -161933,6 +161933,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "75qDcsoXcgU16E2yoyXBfPvxSVSTNej3uK48iAwpmZyW",
+      "symbol": "AIC",
+      "name": "AI Crew Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/75qDcsoXcgU16E2yoyXBfPvxSVSTNej3uK48iAwpmZyW/logo.png",
+      "tags": [
+        "utility-token",
+        "nft-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AI_Crew_Sol"
+      }
     }
   ],
   "version": {
