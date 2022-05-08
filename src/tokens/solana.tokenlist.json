@@ -161994,6 +161994,17 @@
         "description": "Pluto Pig BaCoin, Pigs will fly, it's just a matter of time!",
         "twitter": "https://twitter.com/PlutoPigsNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HLqtPVVzMgW6c7xFgJXAskXFcSvFyGHE8taz7KB39QjH",
+      "symbol": "FINE",
+      "name": "Finery",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/FineryNft/Logo/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
