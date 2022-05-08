@@ -161666,6 +161666,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FoMQuZCEUqgj29hDyj6xwHFngctW7F8An2t3mEqbgkmj",
+      "symbol": "LSTC",
+      "name": "Lester Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Realifyy/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
