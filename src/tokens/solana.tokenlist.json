@@ -161890,6 +161890,20 @@
         "twitter": "https://twitter.com/Smokevillesol",
         "website": "https://shmokeville.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ToTxS3Mi6krv1j76P4KMhZp9PU7FpnPnwxnrnD3aUJJ",
+      "symbol": "TOTXS3",
+      "name": "TotalTokenTransient",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToTxS3Mi6krv1j76P4KMhZp9PU7FpnPnwxnrnD3aUJJ/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "TotalTokenTransient is a fun coin!"
+      }
     }
   ],
   "version": {
