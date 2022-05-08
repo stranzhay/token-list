@@ -162225,6 +162225,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8UdHFarzkrq3tu6bvLkMRssFKVoFe8mMmkCrVQGC7BND",
+      "symbol": "TTCCMint",
+      "name": "TTCC Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8UdHFarzkrq3tu6bvLkMRssFKVoFe8mMmkCrVQGC7BND/icon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/UrraBQjMYf",
+        "twitter": "https://twitter.com/TimeTravelingCC"
+      }
     }
   ],
   "version": {
