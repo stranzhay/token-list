@@ -162240,6 +162240,23 @@
         "discord": "https://discord.com/invite/UrraBQjMYf",
         "twitter": "https://twitter.com/TimeTravelingCC"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HALoiQHVad4zaH4yhyiZg6E2Pc9hTp4Pp3Fhoo9Et12h",
+      "symbol": "HALO",
+      "name": "dHALO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HALoiQHVad4zaH4yhyiZg6E2Pc9hTp4Pp3Fhoo9Et12h/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/divinedogsnft",
+        "twitter": "https://twitter.com/DivineDogsNFT",
+        "website": "https://www.divinedogsnft.com/"
+      }
     }
   ],
   "version": {
