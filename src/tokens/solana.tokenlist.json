@@ -163179,6 +163179,17 @@
       "extensions": {
         "website": "https://peachcoin.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5AnEGwYSHhdJiBQ1p2UkhjNw9LgnhDXEN2GMgQqmobFD",
+      "symbol": "BLUG",
+      "name": "Blue Ghost",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/RioDroid/crypto1/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
