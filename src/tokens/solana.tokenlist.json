@@ -162302,6 +162302,17 @@
         "monetary-token",
         "currency-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EZKwSV8LwPv9zW6JBpbvMEeHDopTt3xsa8u44jg6bzLh",
+      "symbol": "GRHB",
+      "name": "Graham Bucks",
+      "decimals": 0,
+      "logoURI": "https://github.com/apejawn/GBS/blob/main/GB-512x512.png",
+      "tags": [
+        "Family-token"
+      ]
     }
   ],
   "version": {
