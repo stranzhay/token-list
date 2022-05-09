@@ -162983,6 +162983,82 @@
         "twitter": "https://twitter.com/bridgesplit",
         "vault": "https://app.bridgesplit.com/fractions/GvpkzEc4kiKS3xzNLFoc3k8HUVxYCAU8CYBkhAUKsSZ5"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9EgSSSAkeo8S4PDX6FqQoMLcUxgLfMaJFSDmkV78LErS",
+      "symbol": "FLARES",
+      "name": "Lifinity Flares Floor Index",
+      "decimals": 2,
+      "logoURI": "https://dl.airtable.com/.attachmentThumbnails/6972d5c2efb77d49be97b07ccf4fbc69/e9572fb8",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "lifinity-flares",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/9EgSSSAkeo8S4PDX6FqQoMLcUxgLfMaJFSDmkV78LErS"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CP8CaP7GmSVUo9j3L8dwDKVR6i1kvcCUn1ubGGhc2V2M",
+      "symbol": "SURF",
+      "name": "Serum Surfers Floor Index",
+      "decimals": 2,
+      "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/serum_surfers_pfp_1650376607466.gif",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "serum-surfers",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/CP8CaP7GmSVUo9j3L8dwDKVR6i1kvcCUn1ubGGhc2V2M"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "fLoeAqCfMiS3Uaj6aXSCGhf2ZE9znWz7WjTPCD2Rgnf",
+      "symbol": "MMCC",
+      "name": "Meerkats Floor Index",
+      "decimals": 2,
+      "logoURI": "https://dl.airtable.com/.attachmentThumbnails/da62eb10c452a9b2a9b768d4aedd13b5/676b0660",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "mmcc",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/fLoeAqCfMiS3Uaj6aXSCGhf2ZE9znWz7WjTPCD2Rgnf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2fgYu8vYZhvVsocNM4y4HcrZCCPXYcoo8mZof5hJ3miw",
+      "symbol": "DRONIES",
+      "name": "Dronies Floor Index",
+      "decimals": 2,
+      "logoURI": "https://dl.airtable.com/.attachments/cfa00eda53df579fda06157ece315602/dc4ab85c/Dronies.gif",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "dronies",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/2fgYu8vYZhvVsocNM4y4HcrZCCPXYcoo8mZof5hJ3miw"
+      }
     }
   ],
   "version": {
