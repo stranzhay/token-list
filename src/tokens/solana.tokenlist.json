@@ -163430,6 +163430,51 @@
         "description": "MLR is used for transaction data storage. All transactions are happening through Meliora - a carbon offset marketplace",
         "website": "https://melioraapp.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ACWkwWhjZE4JZZpcbMawQ7D5GZHnh1U3aQ5epZTxwQ2b",
+      "symbol": "EMBA",
+      "name": "Ember",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ACWkwWhjZE4JZZpcbMawQ7D5GZHnh1U3aQ5epZTxwQ2b/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "31RdZYE4qNMxy64gq252PHxH9eNmLVJ4oRX4g3zTpAgt",
+      "symbol": "FRO",
+      "name": "Frosty",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/31RdZYE4qNMxy64gq252PHxH9eNmLVJ4oRX4g3zTpAgt/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5J3Pa7uXZvxL1pn18hq5rnK7h2ASQHknYuFB8fGsabaZ",
+      "symbol": "ROOT",
+      "name": "Root",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5J3Pa7uXZvxL1pn18hq5rnK7h2ASQHknYuFB8fGsabaZ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
     }
   ],
   "version": {
