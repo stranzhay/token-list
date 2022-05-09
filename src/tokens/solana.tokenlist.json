@@ -162270,6 +162270,49 @@
         "DAO-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BHz39KcF6taQSUmNvDCYTnjAdeN95UrtduBVaAV5AxtQ",
+      "symbol": "BH",
+      "name": "BucketHeadz WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BHz39KcF6taQSUmNvDCYTnjAdeN95UrtduBVaAV5AxtQ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "BucketHeadz WL Token",
+        "discord": "https://discord.gg/bucketheadz",
+        "twitter": "https://twitter.com/BucketHeadzNFT",
+        "website": "http://bucketheadz.xyz/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Ev7xV5Qmf3LfHrNZ4rXVyyzqWqf6AqrfG7eR297MueyN",
+      "symbol": "GravMot",
+      "name": "GRAVMOT - Gravitational Motor NFT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AlainJSPainchaud/Crypto/main/GravitationMotorToken.png",
+      "tags": [
+        "art-token",
+        "business-token",
+        "financial-token",
+        "monetary-token",
+        "currency-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EZKwSV8LwPv9zW6JBpbvMEeHDopTt3xsa8u44jg6bzLh",
+      "symbol": "GRHB",
+      "name": "Graham Bucks",
+      "decimals": 0,
+      "logoURI": "https://github.com/apejawn/GBS/blob/main/GB-512x512.png",
+      "tags": [
+        "Family-token"
+      ]
     }
   ],
   "version": {
