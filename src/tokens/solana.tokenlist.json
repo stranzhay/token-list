@@ -163144,6 +163144,26 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2owxEk5TBpRKwt8N1hTG6w52XqRBDj85s5fzU8Kcfwu1",
+      "symbol": "REPUB1",
+      "name": "NFT OF THE UNIVERSAL SOVEREIGN REPUBLICS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AlainJosephStephanePainchaud/crypto2/main/RepublicToken..png",
+      "tags": [
+        "art-token",
+        "financial-token",
+        "monetary-token",
+        "educational-token",
+        "project-token"
+      ],
+      "extensions": {
+        "description": "Universal Sovereign Republics have been founded in the atomic vacuum on April 15th, 2013 by Dr. AJSP",
+        "twitter": "https://twitter.com/RepubSouveraine",
+        "website": "https://www.republiquesouveraine.org"
+      }
     }
   ],
   "version": {
