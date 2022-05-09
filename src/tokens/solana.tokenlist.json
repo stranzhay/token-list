@@ -163475,6 +163475,22 @@
         "twitter": "https://twitter.com/LadderCaster",
         "website": "https://laddercaster.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9CWCftESNbotd1vwDbzgeBL1JphShcCGEzFZtygTFLxM",
+      "symbol": "CC",
+      "name": "Clown Collective Token",
+      "decimals": 2,
+      "logoURI": "https://metadata.clowncollective.io/cc-wl-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Clowncollective",
+        "twitter": "https://twitter.com/ClownColl3ctive",
+        "website": "https://www.clowncollective.io"
+      }
     }
   ],
   "version": {
