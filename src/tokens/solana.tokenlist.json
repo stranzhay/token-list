@@ -162257,6 +162257,19 @@
         "twitter": "https://twitter.com/DivineDogsNFT",
         "website": "https://www.divinedogsnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5MdKp8XXwLibRXbyYN8osLsVfKgiWxxcRqrM1zJmYRmz",
+      "symbol": "HOPE",
+      "name": "HOPE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/letushope/hope-token/main/logo/logo.png",
+      "tags": [
+        "community-token",
+        "DAO-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
