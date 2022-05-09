@@ -163144,6 +163144,84 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2owxEk5TBpRKwt8N1hTG6w52XqRBDj85s5fzU8Kcfwu1",
+      "symbol": "REPUB1",
+      "name": "NFT OF THE UNIVERSAL SOVEREIGN REPUBLICS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AlainJosephStephanePainchaud/crypto2/main/RepublicToken..png",
+      "tags": [
+        "art-token",
+        "financial-token",
+        "monetary-token",
+        "educational-token",
+        "project-token"
+      ],
+      "extensions": {
+        "description": "Universal Sovereign Republics have been founded in the atomic vacuum on April 15th, 2013 by Dr. AJSP",
+        "twitter": "https://twitter.com/RepubSouveraine",
+        "website": "https://www.republiquesouveraine.org"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5t8Z73FYA3qH8Q9jkvAT32dpia8HT6e4gojJzQ8Hx1jP",
+      "symbol": "PCHC",
+      "name": "PEACHCOIN",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5t8Z73FYA3qH8Q9jkvAT32dpia8HT6e4gojJzQ8Hx1jP/logo.png",
+      "tags": [
+        "community-token",
+        "PEACHCOIN"
+      ],
+      "extensions": {
+        "website": "https://peachcoin.net/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5AnEGwYSHhdJiBQ1p2UkhjNw9LgnhDXEN2GMgQqmobFD",
+      "symbol": "BLUG",
+      "name": "Blue Ghost",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/RioDroid/crypto1/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9dbktd9NRs4qyqP4sr91WzbXqWX3Mfu7fbgCgn6QFdqJ",
+      "symbol": "PXRWL",
+      "name": "Pixel Racers WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9dbktd9NRs4qyqP4sr91WzbXqWX3Mfu7fbgCgn6QFdqJ/6e062aaf-12fe-4758-8430-12e069091298.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/sJyp4gMGJD",
+        "twitter": "https://twitter.com/pixelracersnft",
+        "website": "https://pixelracers.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Tokn8FgLAGUBpWScUHfWf6HUB372CM5bZczpv7uC4me",
+      "symbol": "EH",
+      "name": "Empty Header Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Tokn8FgLAGUBpWScUHfWf6HUB372CM5bZczpv7uC4me/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "description": "Empty Headers is a wide collection of NFTs on Solana Blockchain.",
+        "twitter": "https://twitter.com/emptyheadernft",
+        "website": "https://emptyheader.com"
+      }
     }
   ],
   "version": {
