@@ -163520,6 +163520,22 @@
         "twitter": "https://twitter.com/CastleFinance",
         "website": "https://app.castle.finance/vault/3tBqjyYtf9Utb1NNsx4o7AV1qtzHoxsMXgkmat3rZ3y6"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9ET2QCQJdFkeKkuaampNbmicbA8eLYauFCWch9Ddh9p5",
+      "symbol": "CTI",
+      "name": "ClinTex CTI",
+      "decimals": 9,
+      "logoURI": "https://clintex.io/cti_sml.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "ClinTex CTI: Clinical Trials Intelligence.",
+        "twitter": "https://twitter.com/ClinTexCTi",
+        "website": "https://clintex.io/"
+      }
     }
   ],
   "version": {
