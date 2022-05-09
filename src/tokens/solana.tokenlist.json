@@ -163122,6 +163122,17 @@
         "business-token",
         "financial-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8u3o8FJ2YAQLWdUrGg8C7YYXgdpspjf7NLUBtUqQUFgq",
+      "symbol": "WAGBULL",
+      "name": "WAGBULL",
+      "decimals": 9,
+      "logoURI": "https://rawcdn.githack.com/okaybulls/token/fb8f19a8139c0be093815f0b9fc0ff80133c0e36/token.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
