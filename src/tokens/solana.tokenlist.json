@@ -163322,6 +163322,17 @@
       "extensions": {
         "twitter": "https://twitter.com/TamakiApes"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ri3iwFvNLQXsVrP7uWcxUxtuYVVgnR6Nrm8mU5jrgkc",
+      "symbol": "CTH",
+      "name": "CRYPTO TREASURE HUNTER",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/BLMcrypto/token-list/main/assets/mainnet/ri3iwFvNLQXsVrP7uWcxUxtuYVVgnR6Nrm8mU5jrgkc/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
