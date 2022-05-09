@@ -162313,6 +162313,30 @@
       "tags": [
         "Family-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9qtQ7g6dcFQS47YfQR48XFNvYDnoDwr86ze6hTDVfzTX",
+      "symbol": "CMMN",
+      "name": "Common Token",
+      "decimals": 0,
+      "logoURI": "https://github.com/defiquaz/CMMNBRND/blob/main/CBLOGO-512x512.png",
+      "tags": [
+        "utility-token",
+        "Community-Token",
+        "DAO-Token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GS7uX4SbCqftqJtfMkXBkZUrvZmXjXZxyp75KqqrS4aB",
+      "symbol": "TNDC",
+      "name": "Tunisian Dinar Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nouraouioua/tndc/main/logo.png",
+      "tags": [
+        "TND-Token"
+      ]
     }
   ],
   "version": {
