@@ -163081,6 +163081,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hyko95PcrPNcvYugHcHsD9UBk47ckEoe1S9TED4xwGme",
+      "symbol": "ENTROPY",
+      "name": "ENTROPY CASES DEFINITION",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AlainJSP/crypto/main/EntropyNFT.png",
+      "tags": [
+        "utility-token",
+        "art-token",
+        "business-token",
+        "financial-token",
+        "monetary-token",
+        "currency-token"
+      ]
     }
   ],
   "version": {
