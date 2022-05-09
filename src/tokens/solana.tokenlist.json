@@ -163491,6 +163491,20 @@
         "twitter": "https://twitter.com/ClownColl3ctive",
         "website": "https://www.clowncollective.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NortQGrHwSajv5dfeCdQp6tbrccPtH9Bt8jcu9GDp9v",
+      "symbol": "NORTHMAN",
+      "name": "The Northman Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NortQGrHwSajv5dfeCdQp6tbrccPtH9Bt8jcu9GDp9v/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheNorthmanNFT"
+      }
     }
   ],
   "version": {
