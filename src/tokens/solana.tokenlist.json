@@ -163109,6 +163109,41 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 102,
+      "address": "iT6Rzh8BRP9GMevCXDAvuKsLPp4Gp5rfP422P8vJk9Q",
+      "symbol": "mo",
+      "name": "moso-token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MoneshROR/icury_token/main/logo.png",
+      "tags": [
+        "art-token",
+        "business-token",
+        "financial-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8u3o8FJ2YAQLWdUrGg8C7YYXgdpspjf7NLUBtUqQUFgq",
+      "symbol": "WAGBULL",
+      "name": "WAGBULL",
+      "decimals": 9,
+      "logoURI": "https://rawcdn.githack.com/okaybulls/token/fb8f19a8139c0be093815f0b9fc0ff80133c0e36/token.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "49AAjXJMHqEHKkEhZfHVmtB6YYGRkrmQYZqkCYPGhDS5",
+      "symbol": "PMGK",
+      "name": "PaulMcG Koin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Grit-Dev/crypto1/main/TryTwo(1).png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
