@@ -162270,6 +162270,23 @@
         "DAO-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BHz39KcF6taQSUmNvDCYTnjAdeN95UrtduBVaAV5AxtQ",
+      "symbol": "BH",
+      "name": "BucketHeadz WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BHz39KcF6taQSUmNvDCYTnjAdeN95UrtduBVaAV5AxtQ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "BucketHeadz WL Token",
+        "discord": "https://discord.gg/bucketheadz",
+        "twitter": "https://twitter.com/BucketHeadzNFT",
+        "website": "http://bucketheadz.xyz/"
+      }
     }
   ],
   "version": {
