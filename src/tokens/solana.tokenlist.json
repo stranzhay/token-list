@@ -163206,6 +163206,22 @@
         "twitter": "https://twitter.com/pixelracersnft",
         "website": "https://pixelracers.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Tokn8FgLAGUBpWScUHfWf6HUB372CM5bZczpv7uC4me",
+      "symbol": "EH",
+      "name": "Empty Header Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Tokn8FgLAGUBpWScUHfWf6HUB372CM5bZczpv7uC4me/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "description": "Empty Headers is a wide collection of NFTs on Solana Blockchain.",
+        "twitter": "https://twitter.com/emptyheadernft",
+        "website": "https://emptyheader.com"
+      }
     }
   ],
   "version": {
