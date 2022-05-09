@@ -163264,6 +163264,49 @@
       "extensions": {
         "website": "https://global.vaha.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+      "symbol": "calUSD",
+      "name": "calUSD Stablecoin",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/167318344-e9ea9147-8969-4818-877c-5c75de10aecc.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/Me2zTTdQpu",
+        "medium": "https://medium.com/@CalciferFinance",
+        "twitter": "https://twitter.com/CalciferFi",
+        "website": "https://calcifer.fi/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "F8hUpNakKw4i8aqGASTbLZUVR4uJ1tFHFCiMi8Wc5HbY",
+      "symbol": "W$",
+      "name": "W Token For Testing",
+      "decimals": 9,
+      "logoURI": "https://imgur.com/a/homEoCO",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "W token top top top",
+        "github": "https://github.com/ayumi760405"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "SPLFjZvdxzVW5pHbXWhUdDSumyN38Ep3pCGWqzSfiuG",
+      "symbol": "SPLIFF",
+      "name": "SPLIFF",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SPLFjZvdxzVW5pHbXWhUdDSumyN38Ep3pCGWqzSfiuG/logo.jpg",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
