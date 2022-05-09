@@ -163264,6 +163264,23 @@
       "extensions": {
         "website": "https://global.vaha.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+      "symbol": "calUSD",
+      "name": "calUSD Stablecoin",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/167318344-e9ea9147-8969-4818-877c-5c75de10aecc.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/Me2zTTdQpu",
+        "medium": "https://medium.com/@CalciferFinance",
+        "twitter": "https://twitter.com/CalciferFi",
+        "website": "https://calcifer.fi/"
+      }
     }
   ],
   "version": {
