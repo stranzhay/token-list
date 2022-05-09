@@ -163547,6 +163547,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "yYR3HA3XZ3r474YSrS5i1uSkxHeKjSBXZQKQeJDQr5n",
+      "symbol": "$MGK",
+      "name": "Magiken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/BlackFlame94/Magicards/main/logo.png",
+      "tags": [
+        "gaming",
+        "nfts",
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
