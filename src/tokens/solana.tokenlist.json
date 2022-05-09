@@ -163109,6 +163109,19 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 102,
+      "address": "iT6Rzh8BRP9GMevCXDAvuKsLPp4Gp5rfP422P8vJk9Q",
+      "symbol": "mo",
+      "name": "moso-token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MoneshROR/icury_token/main/logo.png",
+      "tags": [
+        "art-token",
+        "business-token",
+        "financial-token"
+      ]
     }
   ],
   "version": {
