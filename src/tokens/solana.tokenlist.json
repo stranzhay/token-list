@@ -163164,6 +163164,21 @@
         "twitter": "https://twitter.com/RepubSouveraine",
         "website": "https://www.republiquesouveraine.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5t8Z73FYA3qH8Q9jkvAT32dpia8HT6e4gojJzQ8Hx1jP",
+      "symbol": "PCHC",
+      "name": "PEACHCOIN",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5t8Z73FYA3qH8Q9jkvAT32dpia8HT6e4gojJzQ8Hx1jP/logo.png",
+      "tags": [
+        "community-token",
+        "PEACHCOIN"
+      ],
+      "extensions": {
+        "website": "https://peachcoin.net/"
+      }
     }
   ],
   "version": {
