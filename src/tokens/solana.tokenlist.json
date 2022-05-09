@@ -163296,6 +163296,17 @@
         "description": "W token top top top",
         "github": "https://github.com/ayumi760405"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SPLFjZvdxzVW5pHbXWhUdDSumyN38Ep3pCGWqzSfiuG",
+      "symbol": "SPLIFF",
+      "name": "SPLIFF",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SPLFjZvdxzVW5pHbXWhUdDSumyN38Ep3pCGWqzSfiuG/logo.jpg",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
