@@ -163561,6 +163561,18 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ac2kit8FHmzSK6Xkvsk5UTAL3cwVfbppvcWAGYdVCQnU",
+      "symbol": "ONYX",
+      "name": "ONYX",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ferasawadi/onyx-assets/main/onyx-logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
