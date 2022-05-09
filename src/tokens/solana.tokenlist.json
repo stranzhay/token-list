@@ -162214,6 +162214,17 @@
       "extensions": {
         "twitter": "https://twitter.com/SolaxyMetaverse"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4NDCtPowqWxgiwWcZ1Nzw2odYGUrV2WPJaPowrHcp86u",
+      "symbol": "OMO",
+      "name": "OMO DeFi",
+      "decimals": 0,
+      "logoURI": "https://github.com/defimill/logo/blob/main/Logo-512x512.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
