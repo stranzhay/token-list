@@ -163059,6 +163059,17 @@
         "twitter": "https://twitter.com/bridgesplit",
         "vault": "https://app.bridgesplit.com/fractions/2fgYu8vYZhvVsocNM4y4HcrZCCPXYcoo8mZof5hJ3miw"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "sRLY3migNrkC1HLgqotpvi66qGkdNedqPZ9TJpAQhyh",
+      "symbol": "sRLY",
+      "name": "sRLY (Rally Solana)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RLYv2ubRMDLcGG2UyvPmnPmkfuQTsMbg4Jtygc7dmnq/logo.png",
+      "extensions": {
+        "website": "https://rly.network"
+      }
     }
   ],
   "version": {
