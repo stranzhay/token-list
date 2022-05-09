@@ -163233,6 +163233,23 @@
       "tags": [
         "WL-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AttCypPTiTgGpxeHYeFZ6dTwZqd1iqf5MPoG12TQrf1C",
+      "symbol": "HTO",
+      "name": "Heaven Land Metaverse",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/htoHLBJV1err8xP5oxyQdV2PLQhtVjxLXpKB7FsgJQD/logo.png",
+      "tags": [
+        "utility-token",
+        "governance-token",
+        "metaverse"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/heavenland_io",
+        "website": "https://heavenland.io/"
+      }
     }
   ],
   "version": {
