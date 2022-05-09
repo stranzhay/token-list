@@ -163222,6 +163222,48 @@
         "twitter": "https://twitter.com/emptyheadernft",
         "website": "https://emptyheader.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FF75evgj5bFWiBuu9MfLF54imFo8ypSYwfC6xQSiKYcJ",
+      "symbol": "MBOT",
+      "name": "MBOT Mint PassToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FF75evgj5bFWiBuu9MfLF54imFo8ypSYwfC6xQSiKYcJ/logo.png",
+      "tags": [
+        "WL-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AttCypPTiTgGpxeHYeFZ6dTwZqd1iqf5MPoG12TQrf1C",
+      "symbol": "HTO",
+      "name": "Heaven Land Metaverse",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/htoHLBJV1err8xP5oxyQdV2PLQhtVjxLXpKB7FsgJQD/logo.png",
+      "tags": [
+        "utility-token",
+        "governance-token",
+        "metaverse"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/heavenland_io",
+        "website": "https://heavenland.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CMHrkMFNNqdQNYEyMQK4FEV5nf4xgxkH1aUvRizdsnha",
+      "symbol": "VTest",
+      "name": "VTest (VAHA test coin)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CMHrkMFNNqdQNYEyMQK4FEV5nf4xgxkH1aUvRizdsnha/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://global.vaha.com/"
+      }
     }
   ],
   "version": {
