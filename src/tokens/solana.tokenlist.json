@@ -163536,6 +163536,17 @@
         "twitter": "https://twitter.com/ClinTexCTi",
         "website": "https://clintex.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gu2ouFDwgFzwHSWqNQmfNxu2wcKkPwaVh4yWewzD3rb6",
+      "symbol": "SLNDWL",
+      "name": "Soland Presale Whitelist",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/logo-soland.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
