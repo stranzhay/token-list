@@ -163133,6 +163133,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "49AAjXJMHqEHKkEhZfHVmtB6YYGRkrmQYZqkCYPGhDS5",
+      "symbol": "PMGK",
+      "name": "PaulMcG Koin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Grit-Dev/crypto1/main/TryTwo(1).png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
