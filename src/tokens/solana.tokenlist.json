@@ -163250,6 +163250,20 @@
         "twitter": "https://twitter.com/heavenland_io",
         "website": "https://heavenland.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CMHrkMFNNqdQNYEyMQK4FEV5nf4xgxkH1aUvRizdsnha",
+      "symbol": "VTest",
+      "name": "VTest (VAHA test coin)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CMHrkMFNNqdQNYEyMQK4FEV5nf4xgxkH1aUvRizdsnha/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://global.vaha.com/"
+      }
     }
   ],
   "version": {
