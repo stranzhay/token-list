@@ -163415,6 +163415,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5e2fjEHEMn2SrAqdUAvSPc5LPK1GC5abfXn4di6Cvapg",
+      "symbol": "MLR",
+      "name": "Meliora",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5e2fjEHEMn2SrAqdUAvSPc5LPK1GC5abfXn4di6Cvapg/meliora.jpg",
+      "tags": [
+        "carbon-offset"
+      ],
+      "extensions": {
+        "description": "MLR is used for transaction data storage. All transactions are happening through Meliora - a carbon offset marketplace",
+        "website": "https://melioraapp.com"
+      }
     }
   ],
   "version": {
