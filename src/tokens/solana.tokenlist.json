@@ -163393,6 +163393,17 @@
         "github": "https://github.com/Mobile-Telematics",
         "website": "https://www.damoov.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "34n9iy2ZiTvVzsC8EFJtKV3SwtG3wv8obUsWHZ5JeFyg",
+      "symbol": "JKBC",
+      "name": "JokubasCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JokubasGaid/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
