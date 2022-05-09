@@ -162326,6 +162326,17 @@
         "Community-Token",
         "DAO-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GS7uX4SbCqftqJtfMkXBkZUrvZmXjXZxyp75KqqrS4aB",
+      "symbol": "TNDC",
+      "name": "Tunisian Dinar Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nouraouioua/tndc/main/logo.png",
+      "tags": [
+        "TND-Token"
+      ]
     }
   ],
   "version": {
