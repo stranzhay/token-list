@@ -163475,6 +163475,67 @@
         "twitter": "https://twitter.com/LadderCaster",
         "website": "https://laddercaster.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9CWCftESNbotd1vwDbzgeBL1JphShcCGEzFZtygTFLxM",
+      "symbol": "CC",
+      "name": "Clown Collective Token",
+      "decimals": 2,
+      "logoURI": "https://metadata.clowncollective.io/cc-wl-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Clowncollective",
+        "twitter": "https://twitter.com/ClownColl3ctive",
+        "website": "https://www.clowncollective.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "NortQGrHwSajv5dfeCdQp6tbrccPtH9Bt8jcu9GDp9v",
+      "symbol": "NORTHMAN",
+      "name": "The Northman Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NortQGrHwSajv5dfeCdQp6tbrccPtH9Bt8jcu9GDp9v/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheNorthmanNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "866Z6snjQuaAzs6gubHJwPQso6jCrPHrZCY7GqoFVAEE",
+      "symbol": "cstlUSDC",
+      "name": "Castle Vault USDC LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/castle-finance/castle-lp-token-list/main/assets/mainnet/866Z6snjQuaAzs6gubHJwPQso6jCrPHrZCY7GqoFVAEE/icon.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CastleFinance",
+        "website": "https://app.castle.finance/vault/3tBqjyYtf9Utb1NNsx4o7AV1qtzHoxsMXgkmat3rZ3y6"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9ET2QCQJdFkeKkuaampNbmicbA8eLYauFCWch9Ddh9p5",
+      "symbol": "CTI",
+      "name": "ClinTex CTI",
+      "decimals": 9,
+      "logoURI": "https://clintex.io/cti_sml.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "ClinTex CTI: Clinical Trials Intelligence.",
+        "twitter": "https://twitter.com/ClinTexCTi",
+        "website": "https://clintex.io/"
+      }
     }
   ],
   "version": {
