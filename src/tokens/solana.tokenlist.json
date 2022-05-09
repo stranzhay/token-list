@@ -163333,6 +163333,66 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4BU2ZbCiRv8NRg59qt55XEo3WqWpZC6dmtV4yc9Xsxo8",
+      "symbol": "DTC",
+      "name": "Damoov TravellingCoin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/VorobevSA/solana-token-image-storage/main/assets/mainnet/4BU2ZbCiRv8NRg59qt55XEo3WqWpZC6dmtV4yc9Xsxo8/DamoovTravellingCounts.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Mobile-Telematics",
+        "website": "https://www.damoov.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4Ca87EUd63nMymw3AdeH3YZhiCTV3rLLBu8tNcR1CRFW",
+      "symbol": "DEC",
+      "name": "Damoov EcoCoin",
+      "decimals": 2,
+      "logoURI": "https://github.com/VorobevSA/solana-token-image-storage/blob/main/assets/mainnet/4Ca87EUd63nMymw3AdeH3YZhiCTV3rLLBu8tNcR1CRFW/DamoovEcoDrivingCoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Mobile-Telematics",
+        "website": "https://www.damoov.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BoyBCgc8uupc1J6v9po4zP6WEyuUWgZjJMMLS3oMmfH1",
+      "symbol": "DDC",
+      "name": "Damoov DriveCoin",
+      "decimals": 2,
+      "logoURI": "https://github.com/VorobevSA/solana-token-image-storage/blob/main/assets/mainnet/BoyBCgc8uupc1J6v9po4zP6WEyuUWgZjJMMLS3oMmfH1/DamoovDrivecoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Mobile-Telematics",
+        "website": "https://www.damoov.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5cR6hJJbtV4d14aAtwSeW2oNk8CrCAZphkhXbS45edxH",
+      "symbol": "DSC",
+      "name": "Damoov SafeCoin",
+      "decimals": 2,
+      "logoURI": "https://github.com/VorobevSA/solana-token-image-storage/blob/main/assets/mainnet/5cR6hJJbtV4d14aAtwSeW2oNk8CrCAZphkhXbS45edxH/DamoovSafecoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Mobile-Telematics",
+        "website": "https://www.damoov.com"
+      }
     }
   ],
   "version": {
