@@ -163536,6 +163536,43 @@
         "twitter": "https://twitter.com/ClinTexCTi",
         "website": "https://clintex.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gu2ouFDwgFzwHSWqNQmfNxu2wcKkPwaVh4yWewzD3rb6",
+      "symbol": "SLNDWL",
+      "name": "Soland Presale Whitelist",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/logo-soland.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "yYR3HA3XZ3r474YSrS5i1uSkxHeKjSBXZQKQeJDQr5n",
+      "symbol": "$MGK",
+      "name": "Magiken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/BlackFlame94/Magicards/main/logo.png",
+      "tags": [
+        "gaming",
+        "nfts",
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ac2kit8FHmzSK6Xkvsk5UTAL3cwVfbppvcWAGYdVCQnU",
+      "symbol": "ONYX",
+      "name": "ONYX",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ferasawadi/onyx-assets/main/onyx-logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
