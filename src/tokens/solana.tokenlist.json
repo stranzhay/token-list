@@ -163222,6 +163222,17 @@
         "twitter": "https://twitter.com/emptyheadernft",
         "website": "https://emptyheader.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FF75evgj5bFWiBuu9MfLF54imFo8ypSYwfC6xQSiKYcJ",
+      "symbol": "MBOT",
+      "name": "MBOT Mint PassToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FF75evgj5bFWiBuu9MfLF54imFo8ypSYwfC6xQSiKYcJ/logo.png",
+      "tags": [
+        "WL-token"
+      ]
     }
   ],
   "version": {
