@@ -163070,6 +163070,33 @@
       "extensions": {
         "website": "https://rly.network"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GLeHPn4ZqRvAqN9LVDeWrcUtNi7YtQs3oewz7aFfngwG",
+      "symbol": "WLNINJAS",
+      "name": "WL token BCNinjas Generation 2",
+      "decimals": 0,
+      "logoURI": "https://i.ibb.co/JkT8swM/2.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hyko95PcrPNcvYugHcHsD9UBk47ckEoe1S9TED4xwGme",
+      "symbol": "ENTROPY",
+      "name": "ENTROPY CASES DEFINITION",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AlainJSP/crypto/main/EntropyNFT.png",
+      "tags": [
+        "utility-token",
+        "art-token",
+        "business-token",
+        "financial-token",
+        "monetary-token",
+        "currency-token"
+      ]
     }
   ],
   "version": {
