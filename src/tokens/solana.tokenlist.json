@@ -163281,6 +163281,21 @@
         "twitter": "https://twitter.com/CalciferFi",
         "website": "https://calcifer.fi/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "F8hUpNakKw4i8aqGASTbLZUVR4uJ1tFHFCiMi8Wc5HbY",
+      "symbol": "W$",
+      "name": "W Token For Testing",
+      "decimals": 9,
+      "logoURI": "https://imgur.com/a/homEoCO",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "W token top top top",
+        "github": "https://github.com/ayumi760405"
+      }
     }
   ],
   "version": {
