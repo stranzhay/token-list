@@ -162178,6 +162178,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "44thGfHRsdCB61NAkrDFe6djRrwWZegTTqrs1bwMeAGu",
+      "symbol": "44TH",
+      "name": "44TH",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/44thGfHRsdCB61NAkrDFe6djRrwWZegTTqrs1bwMeAGu/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
