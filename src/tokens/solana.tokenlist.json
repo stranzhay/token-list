@@ -163505,6 +163505,21 @@
       "extensions": {
         "twitter": "https://twitter.com/TheNorthmanNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "866Z6snjQuaAzs6gubHJwPQso6jCrPHrZCY7GqoFVAEE",
+      "symbol": "cstlUSDC",
+      "name": "Castle Vault USDC LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/castle-finance/castle-lp-token-list/main/assets/mainnet/866Z6snjQuaAzs6gubHJwPQso6jCrPHrZCY7GqoFVAEE/icon.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CastleFinance",
+        "website": "https://app.castle.finance/vault/3tBqjyYtf9Utb1NNsx4o7AV1qtzHoxsMXgkmat3rZ3y6"
+      }
     }
   ],
   "version": {
