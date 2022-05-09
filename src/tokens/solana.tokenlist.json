@@ -130761,6 +130761,7 @@
         "vici"
       ],
       "extensions": {
+        "coingeckoId": "zebec-protocol",
         "description": "Zebec is a continuous Settlement Protocol that will transform payroll, cash flow, and token vesting by allowing users to send payments and distributions every second.",
         "discord": "https://discord.gg/gYCe7h8p",
         "telegram": "https://t.me/zebececosystem",
