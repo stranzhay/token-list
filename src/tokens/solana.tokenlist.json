@@ -163190,6 +163190,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9dbktd9NRs4qyqP4sr91WzbXqWX3Mfu7fbgCgn6QFdqJ",
+      "symbol": "PXRWL",
+      "name": "Pixel Racers WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9dbktd9NRs4qyqP4sr91WzbXqWX3Mfu7fbgCgn6QFdqJ/6e062aaf-12fe-4758-8430-12e069091298.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/sJyp4gMGJD",
+        "twitter": "https://twitter.com/pixelracersnft",
+        "website": "https://pixelracers.io/"
+      }
     }
   ],
   "version": {
