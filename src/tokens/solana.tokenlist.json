@@ -162287,6 +162287,21 @@
         "twitter": "https://twitter.com/BucketHeadzNFT",
         "website": "http://bucketheadz.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ev7xV5Qmf3LfHrNZ4rXVyyzqWqf6AqrfG7eR297MueyN",
+      "symbol": "GravMot",
+      "name": "GRAVMOT - Gravitational Motor NFT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AlainJSPainchaud/Crypto/main/GravitationMotorToken.png",
+      "tags": [
+        "art-token",
+        "business-token",
+        "financial-token",
+        "monetary-token",
+        "currency-token"
+      ]
     }
   ],
   "version": {
