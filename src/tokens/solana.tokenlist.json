@@ -163628,6 +163628,39 @@
       "extensions": {
         "twitter": "https://twitter.com/YokedYetis"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9TFB5m9EKKGSqRqGiohTv6bGAWCFVNqossmjzQohL9N8",
+      "symbol": "MPTKN",
+      "name": "WyvernLabs Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/redwyvernlabs.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3LE7aFahiHN3rLzuLYAL9HeDgiwp1oX1Sg69ZTX8Z61b",
+      "symbol": "OGTKN",
+      "name": "WyvernLabs OG Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/pinkwyvernlabs.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8kazth76gv4CyufQLiNmYVQVnascfSMjQ4m168ZRsWg5",
+      "symbol": "WLTKN",
+      "name": "WyvernLabs WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/purplewyvernlabs.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
