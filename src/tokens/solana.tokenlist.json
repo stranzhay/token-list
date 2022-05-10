@@ -163823,6 +163823,17 @@
         "DAPG",
         "Dappio"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BDMW2XP4ZJt6hB8CDKrVWb6kSP1wApf3x9on3Rkp7PAi",
+      "symbol": "WUWD",
+      "name": "Wulfwaerd Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Mhaug80/Crypto/main/Earth.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
