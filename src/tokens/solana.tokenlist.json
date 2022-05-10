@@ -163680,6 +163680,66 @@
         "twitter": "https://twitter.com/GalahDAO",
         "website": "https://galah.community/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ykTEJEezJRBFx5FyWA3X2hRnWjg9C31ZbZDYHWS8yAa",
+      "symbol": "SDC",
+      "name": "Safe Driving Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5cR6hJJbtV4d14aAtwSeW2oNk8CrCAZphkhXbS45edxH/DamoovSafeCoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Mobile-Telematics",
+        "website": "https://www.damoov.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AteG8TcRrukZh76yknzY1RkHxGPeG9P1YUgfjxCjg59M",
+      "symbol": "EDC",
+      "name": "ECO Driving Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4Ca87EUd63nMymw3AdeH3YZhiCTV3rLLBu8tNcR1CRFW/DamoovEcoDrivingCoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Mobile-Telematics",
+        "website": "https://www.damoov.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CvbLKTnBB9zcZHe3P8MDNTMEoMYFcEf16j1YEiSDPJF3",
+      "symbol": "PDC",
+      "name": "Performance Driving Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4BU2ZbCiRv8NRg59qt55XEo3WqWpZC6dmtV4yc9Xsxo8/DamoovTravellingCoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Mobile-Telematics",
+        "website": "https://www.damoov.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8S2ASX2WteonH3bgzgmCpbeQ58kzNVpyeinG71xEWtbW",
+      "symbol": "DRC",
+      "name": "Drivecoin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BoyBCgc8uupc1J6v9po4zP6WEyuUWgZjJMMLS3oMmfH1/DamoovDriveCoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Mobile-Telematics",
+        "website": "https://www.damoov.com"
+      }
     }
   ],
   "version": {
