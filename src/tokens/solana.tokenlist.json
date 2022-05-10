@@ -163740,6 +163740,20 @@
         "github": "https://github.com/Mobile-Telematics",
         "website": "https://www.damoov.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BVzXdyYVJPXZuEGnQE5Qb2gzFJHcqTfpvPUvvhDkFqe4",
+      "symbol": "ICY",
+      "name": "icury",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/prakash-syndy/icury-token/main/logo-icury.png",
+      "tags": [
+        "icecat-token"
+      ],
+      "extensions": {
+        "website": "https://www.icury.com"
+      }
     }
   ],
   "version": {
