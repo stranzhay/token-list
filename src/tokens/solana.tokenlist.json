@@ -163661,6 +163661,25 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7BTQFmXVZZwwRratNKNpohsLsj4FnCQVQmtY4AR1KgyA",
+      "symbol": "FGAUTH",
+      "name": "Flaming Galah Mint Token",
+      "decimals": 0,
+      "logoURI": "https://galah.community/src/img/v1/auth_token.png",
+      "tags": [
+        "whitelist-token",
+        "security-token"
+      ],
+      "extensions": {
+        "description": "A token allowing you to mint a Flaming Galah and join the Galah DAO.",
+        "discord": "https://discord.gg/J8Hmep7ZCY",
+        "instagram": "https://www.instagram.com/flaming.galahs/",
+        "twitter": "https://twitter.com/GalahDAO",
+        "website": "https://galah.community/"
+      }
     }
   ],
   "version": {
