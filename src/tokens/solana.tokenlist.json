@@ -163787,6 +163787,17 @@
       "name": "Boogy Token",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/EeiNMyKPDUhdkc8xDupMgMgnSos4GNc7RtLy8S1HB1tq/logo.png?raw=true"
+    },
+    {
+      "chainId": 102,
+      "address": "DnVRxspeQ6Hy3PjfA1JkTDAUcHrf5cvBf2MG5hMLBXJB",
+      "symbol": "ULT",
+      "name": "UALIT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/oklitovchenko/logos/main/png/ualit.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
