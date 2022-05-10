@@ -163897,6 +163897,17 @@
       "tags": [
         "governance-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9XL58QrV9ZQHVeyq8tUvByJDjmDz65geCBiRPcnTtPCq",
+      "symbol": "GLKV",
+      "name": "Gullkorv Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/OAlRa/glkv/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
