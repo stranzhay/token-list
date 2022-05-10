@@ -163779,6 +163779,14 @@
       "extensions": {
         "twitter": "https://twitter.com/MeltLabs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EeiNMyKPDUhdkc8xDupMgMgnSos4GNc7RtLy8S1HB1tq",
+      "symbol": "BOOGY",
+      "name": "Boogy Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/EeiNMyKPDUhdkc8xDupMgMgnSos4GNc7RtLy8S1HB1tq/logo.png?raw=true"
     }
   ],
   "version": {
