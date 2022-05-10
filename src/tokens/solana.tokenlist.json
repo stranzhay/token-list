@@ -163598,6 +163598,20 @@
       "name": "Meta Bucks",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/HVVS4QVsYwLL7LuvzU5V6Qbot5DjtKYcewaugHEN1gAP/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "KiDzL41CLQ2A8Jv9civn6xeGZaV5vbZBJG8SqqyTbhK",
+      "symbol": "trippykids",
+      "name": "trippy kidz Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KiDzL41CLQ2A8Jv9civn6xeGZaV5vbZBJG8SqqyTbhK/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TrippyKidzNFT"
+      }
     }
   ],
   "version": {
