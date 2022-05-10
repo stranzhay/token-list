@@ -164043,6 +164043,23 @@
         "website": "https://swim.io/",
         "whitepaper": "https://swim.io/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FfV1vXZw6bnRLbvuuyySSi5S9pwr1Hs7BbJRKb5oryhQ",
+      "symbol": "NUGA",
+      "name": "NUGA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FfV1vXZw6bnRLbvuuyySSi5S9pwr1Hs7BbJRKb5oryhQ/logo.jpg",
+      "tags": [
+        "tokenomics",
+        "social-network",
+        "new-world-order",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://thetribes.io"
+      }
     }
   ],
   "version": {
