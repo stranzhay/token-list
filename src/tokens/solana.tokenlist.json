@@ -163947,6 +163947,25 @@
         "twitter": "https://twitter.com/Akelasolana",
         "website": "https://akelatoken.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8txs8CweQjWqiJS9hzYuuisDNfHb8EL4TCkTLUxrZ2WP",
+      "symbol": "SHRED",
+      "name": "Shred Threads Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/JHockman43/Shred-Threads-Project/main/ST%20logo%20520.png",
+      "tags": [
+        "NFT-token",
+        "community-token",
+        "payment-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/ZEWbK8PFXy",
+        "instagram": "https://www.instagram.com/shredthreadsnft/",
+        "twitter": "https://twitter.com/ShredThreadsNFT",
+        "website": "https://www.shredthreadsnfts.com/"
+      }
     }
   ],
   "version": {
