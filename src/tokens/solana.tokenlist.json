@@ -163834,6 +163834,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "tEArpddkwAQKkCd4jcWqSDp2w1aejGkwSrUu7gjQRPc",
+      "symbol": "TEAR",
+      "name": "Tear",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/rPlrQvCvaSANJ6u6rPjo9tH5WwCRubgSmPeE9Q-zqus",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/eyeguysocialclb",
+        "website": "https://www.eyeguysocialclub.com/"
+      }
     }
   ],
   "version": {
