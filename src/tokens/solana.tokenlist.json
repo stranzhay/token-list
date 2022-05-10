@@ -16489,23 +16489,23 @@
       "chainId": 101,
       "address": "BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg",
       "symbol": "CYS",
-      "name": "Cyclos",
+      "name": "Cykura",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg/logo.svg",
       "tags": [
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "cyclos",
+        "coingeckoId": "cykura",
         "coinmarketcap": "https://coinmarketcap.com/currencies/cyclos/",
-        "discord": "https://discord.gg/vpbTxzHWYg",
-        "github": "https://github.com/cyclos-io",
-        "medium": "https://medium.com/@cyclosfinance",
+        "discord": "https://discord.gg/gyaK56UreX",
+        "github": "https://github.com/cykura",
+        "medium": "https://cykura.medium.com/",
         "serumV3Usdc": "6V6y6QFi17QZC9qNRpVp7SaPiHpCTp2skbRQkUyZZXPW",
         "solanium": "https://www.solanium.io/project/cyclos/",
-        "telegram": "https://t.me/cyclosofficialchat",
-        "twitter": "https://twitter.com/cyclosfi",
-        "website": "https://cyclos.io/"
+        "telegram": "https://t.me/cykuraofficialchat",
+        "twitter": "https://twitter.com/cykurafi",
+        "website": "https://cykura.io/"
       }
     },
     {
