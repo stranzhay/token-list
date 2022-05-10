@@ -163779,6 +163779,50 @@
       "extensions": {
         "twitter": "https://twitter.com/MeltLabs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EeiNMyKPDUhdkc8xDupMgMgnSos4GNc7RtLy8S1HB1tq",
+      "symbol": "BOOGY",
+      "name": "Boogy Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/EeiNMyKPDUhdkc8xDupMgMgnSos4GNc7RtLy8S1HB1tq/logo.png?raw=true"
+    },
+    {
+      "chainId": 102,
+      "address": "DnVRxspeQ6Hy3PjfA1JkTDAUcHrf5cvBf2MG5hMLBXJB",
+      "symbol": "ULT",
+      "name": "UALIT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/oklitovchenko/logos/main/png/ualit.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GU3eBCktj187ior5PMUzWRn14NZvE2z3W5siEzkuNaaE",
+      "symbol": "BWRO",
+      "name": "Bawer Online",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bawer1077/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "NFTUcWc3R1cGzpsh9UzGeKnVeXDTJQjRVL6wUM9Qt98",
+      "symbol": "NFTU",
+      "name": "NFTU",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NFTUcWc3R1cGzpsh9UzGeKnVeXDTJQjRVL6wUM9Qt98/logo.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
     }
   ],
   "version": {
