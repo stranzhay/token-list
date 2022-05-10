@@ -163919,6 +163919,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EuttjwkfdDAfF1KoUuLAafC7bsH4du1P7WQKqyvT9757",
+      "symbol": "WARI",
+      "name": "Opportunities NFTs",
+      "decimals": 9,
+      "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/EuttjwkfdDAfF1KoUuLAafC7bsH4du1P7WQKqyvT9757/logo.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
