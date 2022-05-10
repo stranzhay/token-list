@@ -163990,6 +163990,21 @@
         "NFT-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DVFS3CY1VEneDm3zMUZwi5b9ZLk4oJP3UuLpxRYEMywp",
+      "symbol": "AYK",
+      "name": "AYAKO Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://i.postimg.cc/XN1xtY1C/5ape-Sn-Ur-400x400.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Ayako_sol",
+        "website": "http://ayako-sol.com/"
+      }
     }
   ],
   "version": {
