@@ -163874,6 +163874,18 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "69mPSwgv1jC2SfXP1xNKTQr4GhAaEEQubdtFWe8yT5EB",
+      "symbol": "VRX",
+      "name": "VirtX Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/69mPSwgv1jC2SfXP1xNKTQr4GhAaEEQubdtFWe8yT5EB/logo.png",
+      "tags": [
+        "Metaverse",
+        "utility-token"
+      ]
     }
   ],
   "version": {
