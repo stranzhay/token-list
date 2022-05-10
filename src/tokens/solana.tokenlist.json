@@ -163798,6 +163798,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GU3eBCktj187ior5PMUzWRn14NZvE2z3W5siEzkuNaaE",
+      "symbol": "BWRO",
+      "name": "Bawer Online",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Bawer1077/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
