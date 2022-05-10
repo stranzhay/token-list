@@ -163977,6 +163977,19 @@
       "extensions": {
         "twitter": "https://twitter.com/Fut_Whale"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8uTnKtEXxdfoJWN9md4dEgBvTYq1S9WsCtLUgZuMk5eU",
+      "symbol": "xNFT",
+      "name": "xNFT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/tokenauth/xnft-token/main/logo/logo.png",
+      "tags": [
+        "community-token",
+        "NFT-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
