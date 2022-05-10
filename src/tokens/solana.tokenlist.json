@@ -163849,6 +163849,20 @@
         "twitter": "https://twitter.com/eyeguysocialclb",
         "website": "https://www.eyeguysocialclub.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BridfBr4ye3KJP8KjCdt72NkBnyQ1NbpPPN3Z7RtHZUN",
+      "symbol": "Birdged",
+      "name": "The Bridged Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BridfBr4ye3KJP8KjCdt72NkBnyQ1NbpPPN3Z7RtHZUN/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TheFracture_"
+      }
     }
   ],
   "version": {
