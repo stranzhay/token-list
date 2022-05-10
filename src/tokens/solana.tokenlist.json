@@ -163863,6 +163863,29 @@
       "extensions": {
         "twitter": "https://twitter.com/TheFracture_"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F5tmDpUQaH8QKpv5LihZnfcmMoKtB1HZxyzEfBgLJeaN",
+      "symbol": "GNOWL",
+      "name": "Crypto Gnomes WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F5tmDpUQaH8QKpv5LihZnfcmMoKtB1HZxyzEfBgLJeaN/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "69mPSwgv1jC2SfXP1xNKTQr4GhAaEEQubdtFWe8yT5EB",
+      "symbol": "VRX",
+      "name": "VirtX Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/69mPSwgv1jC2SfXP1xNKTQr4GhAaEEQubdtFWe8yT5EB/logo.png",
+      "tags": [
+        "Metaverse",
+        "utility-token"
+      ]
     }
   ],
   "version": {
