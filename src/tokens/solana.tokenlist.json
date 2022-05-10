@@ -163886,6 +163886,17 @@
         "Metaverse",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Fc7RRrbXEbrL2KyCiKbd1BiStWuGpxPXHYotTvvoSYYC",
+      "symbol": "JUN",
+      "name": "Juniverse Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fc7RRrbXEbrL2KyCiKbd1BiStWuGpxPXHYotTvvoSYYC/logo.png",
+      "tags": [
+        "governance-token"
+      ]
     }
   ],
   "version": {
