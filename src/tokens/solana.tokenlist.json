@@ -163966,6 +163966,17 @@
         "twitter": "https://twitter.com/ShredThreadsNFT",
         "website": "https://www.shredthreadsnfts.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7G3Nzr99ePGSnABp8uSzpQnQGUaWpj2RohRynMtqiuzZ",
+      "symbol": "$KOHOLA",
+      "name": "KOHOLA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/farhan067/koholaToken/main/logo.jpg",
+      "extensions": {
+        "twitter": "https://twitter.com/Fut_Whale"
+      }
     }
   ],
   "version": {
