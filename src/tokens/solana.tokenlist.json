@@ -163590,6 +163590,14 @@
         "discord": "https://discord.com/invite/WBAkPTmv",
         "twitter": "https://twitter.com/DopeMunsterz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HVVS4QVsYwLL7LuvzU5V6Qbot5DjtKYcewaugHEN1gAP",
+      "symbol": "BUCKS",
+      "name": "Meta Bucks",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/HVVS4QVsYwLL7LuvzU5V6Qbot5DjtKYcewaugHEN1gAP/logo.png?raw=true"
     }
   ],
   "version": {
