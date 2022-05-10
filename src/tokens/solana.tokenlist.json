@@ -163908,6 +163908,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8M7ngdTiASGintaxxpTfutU36tAi98TGGiA3ndGehQmw",
+      "symbol": "SPNS",
+      "name": "SpoonsCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Midwaymodder/crypto/main/SPNSlogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
