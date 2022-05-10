@@ -163612,6 +163612,22 @@
       "extensions": {
         "twitter": "https://twitter.com/TrippyKidzNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TRENpVRAR9LiZgyYv9zWrQwYqSHa7ThCYdbpFCJixj1",
+      "symbol": "TREN",
+      "name": "Trenbolone",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TRENpVRAR9LiZgyYv9zWrQwYqSHa7ThCYdbpFCJixj1/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/YokedYetis"
+      }
     }
   ],
   "version": {
