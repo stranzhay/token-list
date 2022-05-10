@@ -163765,6 +163765,20 @@
       "tags": [
         "stablecoin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "MELTC3bafNmWRvUNrFm86aWgyDH7sHPz4L8575tVLmH",
+      "symbol": "MLWL",
+      "name": "MELT LABS WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MELTC3bafNmWRvUNrFm86aWgyDH7sHPz4L8575tVLmH/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MeltLabs"
+      }
     }
   ],
   "version": {
