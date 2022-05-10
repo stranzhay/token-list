@@ -163573,6 +163573,22 @@
         "community-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WLTu66hPZSdCBjH86zkdv8Q3a1HWZvgsYU995a5JWCt",
+      "symbol": "MUNSTER",
+      "name": "DopeMunsterz WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTu66hPZSdCBjH86zkdv8Q3a1HWZvgsYU995a5JWCt/logo.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "description": "Each token gives you access to buy a DopeMunster",
+        "discord": "https://discord.com/invite/WBAkPTmv",
+        "twitter": "https://twitter.com/DopeMunsterz"
+      }
     }
   ],
   "version": {
