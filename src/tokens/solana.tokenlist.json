@@ -163754,6 +163754,17 @@
       "extensions": {
         "website": "https://www.icury.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "BiTkfYDcjCPQu1NsVo5AH7SaNT7tZ37zKcZtc5G4KQ7B",
+      "symbol": "vslcard",
+      "name": "VSL Car D Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/vietsaclo/Rust.Solana.Tutorial/develop/install-01/vslcard.svg",
+      "tags": [
+        "stablecoin"
+      ]
     }
   ],
   "version": {
