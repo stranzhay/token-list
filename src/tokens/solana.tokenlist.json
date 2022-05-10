@@ -163809,6 +163809,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "NFTUcWc3R1cGzpsh9UzGeKnVeXDTJQjRVL6wUM9Qt98",
+      "symbol": "NFTU",
+      "name": "NFTU",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NFTUcWc3R1cGzpsh9UzGeKnVeXDTJQjRVL6wUM9Qt98/logo.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
     }
   ],
   "version": {
