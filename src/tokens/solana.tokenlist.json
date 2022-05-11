@@ -164119,6 +164119,72 @@
       "extensions": {
         "twitter": "https://twitter.com/ThewavesTech"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CftMwm8645rEvpmzHyJuaHFVbUqnAzemjbDYKwfsquss",
+      "symbol": "RICH",
+      "name": "deMonopoly game Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CftMwm8645rEvpmzHyJuaHFVbUqnAzemjbDYKwfsquss/logo.png",
+      "tags": [
+        "NFT-token",
+        "community-token",
+        "payment-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/ZPQMd8G5aa",
+        "twitter": "https://twitter.com/deMonopolyNFT",
+        "website": "http://www.demonopoly.fun/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "8GzvVqMkLkFp3f24s9Gn9WeCeP65eoJVTqhxZeobZGWR",
+      "symbol": "TAM",
+      "name": "Tam Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8GzvVqMkLkFp3f24s9Gn9WeCeP65eoJVTqhxZeobZGWR/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://tam-vn.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9uUzFsTmaPXgMmoXvLVgCAwXPxo2zgiXYHN9WrU9BxLx",
+      "symbol": "DNRG",
+      "name": "Jin's Divine Energy",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Crypto-G0d/Holy-Energy/main/JinDivineEnergy.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "KomoNuvereGko9jNKUgb3AJZdG3pDaXjbph77ZWvFy1",
+      "symbol": "KOMO",
+      "name": "Komoverse Token",
+      "decimals": 2,
+      "logoURI": "https://komoverse.io/assets/img/favicon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/komoverse",
+        "github": "https://github.com/komoverse",
+        "instagram": "https://instagram.com/komoverse",
+        "linkedin": "https://www.linkedin.com/company/komoverse",
+        "medium": "https://medium.com/@komoverse",
+        "telegram": "https://t.me/komoverse",
+        "tiktok": "https://www.tiktok.com/@komoverse",
+        "twitter": "https://twitter.com/komoverse",
+        "website": "https://komoverse.io",
+        "youtube": "https://youtube.com/c/Komoverse"
+      }
     }
   ],
   "version": {
