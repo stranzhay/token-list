@@ -164119,6 +164119,24 @@
       "extensions": {
         "twitter": "https://twitter.com/ThewavesTech"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CftMwm8645rEvpmzHyJuaHFVbUqnAzemjbDYKwfsquss",
+      "symbol": "RICH",
+      "name": "deMonopoly game Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CftMwm8645rEvpmzHyJuaHFVbUqnAzemjbDYKwfsquss/logo.png",
+      "tags": [
+        "NFT-token",
+        "community-token",
+        "payment-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/ZPQMd8G5aa",
+        "twitter": "https://twitter.com/deMonopolyNFT",
+        "website": "http://www.demonopoly.fun/"
+      }
     }
   ],
   "version": {
