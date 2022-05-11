@@ -164239,6 +164239,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GRDWJqzoSWNM67uW951wTHftTM7vznnFnugaAzCYM7MA",
+      "symbol": "GEO",
+      "name": "Geo",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/GeomyCode/assets/main/icons/geo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "GFfhm8Bt4P5957iDVaMcKjodaFWqxx2CJWLSCnUQY2oB",
+      "symbol": "BALGR",
+      "name": "BALGREEN More Balance More Green",
+      "decimals": 6,
+      "logoURI": "https://github.com/sparkrisp/balgreen/blob/main/BGREEN_isoLogo_1.png",
+      "tags": [
+        "ecologic-token"
+      ]
     }
   ],
   "version": {
