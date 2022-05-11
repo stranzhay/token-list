@@ -164151,6 +164151,17 @@
       "extensions": {
         "website": "https://tam-vn.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9uUzFsTmaPXgMmoXvLVgCAwXPxo2zgiXYHN9WrU9BxLx",
+      "symbol": "DNRG",
+      "name": "Jin's Divine Energy",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Crypto-G0d/Holy-Energy/main/JinDivineEnergy.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
