@@ -164228,6 +164228,17 @@
       "extensions": {
         "website": "https://bind.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5ffMTb6rKYswSfnJM6CYYu5Z6rabLeS7sSHo2KSLRxAc",
+      "symbol": "TB",
+      "name": "TwoBits",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Aterzos/two-cents-img/main/twocents-1208151868.jpeg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
