@@ -164294,6 +164294,24 @@
         "twitter": "https://twitter.com/Urban_Bats",
         "website": "https://urbats.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B5UrfiGMqqnr9afZP6HNYHjcawQucmzunU4PMo7u93ba",
+      "symbol": "SIVA",
+      "name": "SivaCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/sivacoin/logo/main/siva-logo-2k.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Community engagement reward token (engage2earn)",
+        "discord": "https://discord.gg/TF2R73RWQt",
+        "twitter": "https://twitter.com/sivacoin",
+        "website": "https://siva.gg"
+      }
     }
   ],
   "version": {
