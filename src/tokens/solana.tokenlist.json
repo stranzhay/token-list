@@ -164423,6 +164423,18 @@
       "extensions": {
         "twitter": "https://twitter.com/TheSasquatchnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HSW6TGC6AeTgRX51Rt8ksbSMzJmC3kGeHeaxyxWGuPwd",
+      "symbol": "TCOIN",
+      "name": "TesterCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/qetohotest/test_cryptocurrency_token_solana/main/token_test.png",
+      "tags": [
+        "test_token",
+        "token_test"
+      ]
     }
   ],
   "version": {
