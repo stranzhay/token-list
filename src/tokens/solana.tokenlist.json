@@ -164435,6 +164435,17 @@
         "test_token",
         "token_test"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EUWZ574ghzvs8Yj78QARDq9WQyQYxt1rWGz3dNfTEdqx",
+      "symbol": "SLP",
+      "name": "SOLPLUS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EUWZ574ghzvs8Yj78QARDq9WQyQYxt1rWGz3dNfTEdqx/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
