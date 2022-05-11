@@ -164250,6 +164250,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "GFfhm8Bt4P5957iDVaMcKjodaFWqxx2CJWLSCnUQY2oB",
+      "symbol": "BALGR",
+      "name": "BALGREEN More Balance More Green",
+      "decimals": 6,
+      "logoURI": "https://github.com/sparkrisp/balgreen/blob/main/BGREEN_isoLogo_1.png",
+      "tags": [
+        "ecologic-token"
+      ]
     }
   ],
   "version": {
