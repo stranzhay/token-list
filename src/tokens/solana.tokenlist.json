@@ -164261,6 +164261,20 @@
       "tags": [
         "ecologic-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CLubYr6VMX5tr1GNaVe1eGTd1stARjiQKmP5hqwC41qD",
+      "symbol": "CLUB",
+      "name": "THE CLUB WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLubYr6VMX5tr1GNaVe1eGTd1stARjiQKmP5hqwC41qD/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/theclubnft"
+      }
     }
   ],
   "version": {
