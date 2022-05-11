@@ -164239,6 +164239,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GRDWJqzoSWNM67uW951wTHftTM7vznnFnugaAzCYM7MA",
+      "symbol": "GEO",
+      "name": "Geo",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/GeomyCode/assets/main/icons/geo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
