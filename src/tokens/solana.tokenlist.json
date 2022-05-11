@@ -164075,6 +164075,25 @@
         "twitter": "https://twitter.com/monstadao_",
         "website": "https://monstadao.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FF7rjqkufosL6kTxeXum4BxRhhDrrJXp4VcNZ3bwPjUU",
+      "symbol": "WRB",
+      "name": "Whitelist Rotten Ville Bust Sculptures",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FF7rjqkufosL6kTxeXum4BxRhhDrrJXp4VcNZ3bwPjUU/LogoRottenVille_Token.png",
+      "tags": [
+        "whitelist-token",
+        "rv",
+        "ky",
+        "bust-claim"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/QeR9yvSWvk",
+        "twitter": "https://twitter.com/rotten_ville",
+        "website": "https://rottenville.io"
+      }
     }
   ],
   "version": {
