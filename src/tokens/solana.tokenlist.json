@@ -164185,6 +164185,14 @@
         "website": "https://komoverse.io",
         "youtube": "https://youtube.com/c/Komoverse"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2uYR4bf8FYsW29RV2QpoT7Qv3xbjzEyiov8njassCeR7",
+      "symbol": "HYPE",
+      "name": "HYPE Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Salro1g/Token_spl/main/logo.png"
     }
   ],
   "version": {
