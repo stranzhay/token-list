@@ -164193,6 +164193,52 @@
       "name": "HYPE Coin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/Salro1g/Token_spl/main/logo.png"
+    },
+    {
+      "chainId": 102,
+      "address": "CBzPZ92VgdrXQWGd5gE1x7PXwtMfzf6EM8K1ZTFmSHXr",
+      "symbol": "BETX",
+      "name": "BetDEX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HX7SXjc2D1FDY9pxk2AUaePWp54hkUnyyCLpHYe9CV78/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/BetDEXLabs",
+        "website": "https://www.betdex.com/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "7rcZJW5TQVcUzRE8aHdHb7woGH7uTqDpj81AroikXXSX",
+      "symbol": "BETX",
+      "name": "BetDEX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HX7SXjc2D1FDY9pxk2AUaePWp54hkUnyyCLpHYe9CV78/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/BetDEXLabs",
+        "website": "https://www.betdex.com/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "2quyJixqNe3id7TY54vYzhtLYNYLYdfsbbA9nfsoxriF",
+      "symbol": "BIND",
+      "name": "BIND",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2quyJixqNe3id7TY54vYzhtLYNYLYdfsbbA9nfsoxriF/BIND.svg",
+      "extensions": {
+        "website": "https://bind.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5ffMTb6rKYswSfnJM6CYYu5Z6rabLeS7sSHo2KSLRxAc",
+      "symbol": "TB",
+      "name": "TwoBits",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Aterzos/two-cents-img/main/twocents-1208151868.jpeg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
