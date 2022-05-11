@@ -164060,6 +164060,21 @@
       "extensions": {
         "website": "https://thetribes.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2w45gq6Q4WrhMaYrKFV9HDb9fjNrs7hWkTnkca4QRw9k",
+      "symbol": "MPOTION",
+      "name": "Monsta Potion",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/monstadao/logo/main/monsta-potion.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/monstadao_",
+        "website": "https://monstadao.com"
+      }
     }
   ],
   "version": {
