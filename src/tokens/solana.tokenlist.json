@@ -164334,6 +164334,17 @@
         "website": "https://PurpleZone.github.io/NFTs/carbon/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GcexYp3KGE8YkpKwaCJKxMFd33Q2xF9ba1RNRrh43sFm",
+      "symbol": "KUPA",
+      "name": "Kuta Paisa",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/haider954/kutapaisa/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
