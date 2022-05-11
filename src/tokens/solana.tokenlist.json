@@ -164193,6 +164193,30 @@
       "name": "HYPE Coin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/Salro1g/Token_spl/main/logo.png"
+    },
+    {
+      "chainId": 102,
+      "address": "CBzPZ92VgdrXQWGd5gE1x7PXwtMfzf6EM8K1ZTFmSHXr",
+      "symbol": "BETX",
+      "name": "BetDEX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HX7SXjc2D1FDY9pxk2AUaePWp54hkUnyyCLpHYe9CV78/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/BetDEXLabs",
+        "website": "https://www.betdex.com/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "7rcZJW5TQVcUzRE8aHdHb7woGH7uTqDpj81AroikXXSX",
+      "symbol": "BETX",
+      "name": "BetDEX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HX7SXjc2D1FDY9pxk2AUaePWp54hkUnyyCLpHYe9CV78/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/BetDEXLabs",
+        "website": "https://www.betdex.com/"
+      }
     }
   ],
   "version": {
