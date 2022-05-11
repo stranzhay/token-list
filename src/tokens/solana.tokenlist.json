@@ -164471,6 +164471,23 @@
       "extensions": {
         "website": "https://valhallavikings.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FdviznPoMEakdJ37fikNxhoscyruUHSHNkKyvntSqbuo",
+      "symbol": "$CATNIP",
+      "name": "CATNIP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FdviznPoMEakdJ37fikNxhoscyruUHSHNkKyvntSqbuo/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/WrUgj3BhrN",
+        "twitter": "https://twitter.com/FatCatsCapital",
+        "website": "https://fatcatscapital.com"
+      }
     }
   ],
   "version": {
