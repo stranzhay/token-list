@@ -164094,6 +164094,17 @@
         "twitter": "https://twitter.com/rotten_ville",
         "website": "https://rottenville.io"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "HLPKuGCo5a1xki2N8zt19QiCeRfuy1kHtmc8V2vJQxqt",
+      "symbol": "UNNJ",
+      "name": "socialUni",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HLPKuGCo5a1xki2N8zt19QiCeRfuy1kHtmc8V2vJQxqt/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
