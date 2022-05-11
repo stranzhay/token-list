@@ -164446,6 +164446,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3z2vPLw1k9whGwM2KqMMVruKGZmecfEFmeAiXzqhXrUr",
+      "symbol": "NESTWL",
+      "name": "Nest Arcade WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3z2vPLw1k9whGwM2KqMMVruKGZmecfEFmeAiXzqhXrUr/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
