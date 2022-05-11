@@ -164312,6 +164312,28 @@
         "twitter": "https://twitter.com/sivacoin",
         "website": "https://siva.gg"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "CaRbonA6QNTWAKhq1oaH8BVBRyNvYkWYBLb4KqkeQ5jH",
+      "symbol": "carbon",
+      "name": "Carbon Credit Coin",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/carbon/carbon-credit.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "description": "Proof of Carbon Sequestration to be used as Carbon credit (unit: 1kg CO2e)",
+        "imageUrl": "https://bafybeid7dw4tdtbuj5pn4gqlqooajzfaecujcupwzgu2bp6p6z46qlv2g4.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "website": "https://PurpleZone.github.io/NFTs/carbon/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf"
+      }
     }
   ],
   "version": {
