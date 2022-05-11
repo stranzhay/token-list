@@ -164356,6 +164356,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "E3ph1yXJ6ChaVjeLZzVkGSaVChj7iDzY4YWzwWDTF98T",
+      "symbol": "MIN",
+      "name": "Made in Thailand",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/logo-min.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/ThailandSuppliers",
+        "telegram": "https://t.me/made_in_thailand",
+        "website": "https://www.ezdal.com"
+      }
     }
   ],
   "version": {
