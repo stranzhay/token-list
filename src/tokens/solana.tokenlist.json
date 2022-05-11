@@ -164334,6 +164334,55 @@
         "website": "https://PurpleZone.github.io/NFTs/carbon/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GcexYp3KGE8YkpKwaCJKxMFd33Q2xF9ba1RNRrh43sFm",
+      "symbol": "KUPA",
+      "name": "Kuta Paisa",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/haider954/kutapaisa/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "p1u2eUjLLm7Q5P3WFhcXF972dsdWdcZ4x6hEyTtNLAb",
+      "symbol": "LSC",
+      "name": "LegendCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Legendstyler00/legendcoin/main/lele2.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "E3ph1yXJ6ChaVjeLZzVkGSaVChj7iDzY4YWzwWDTF98T",
+      "symbol": "MIN",
+      "name": "Made in Thailand",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/logo-min.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/ThailandSuppliers",
+        "telegram": "https://t.me/made_in_thailand",
+        "website": "https://www.ezdal.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "spr1yvmfxbPVW9Pn1Nn5uHJzunKXZGLwytSvGgHNv46",
+      "symbol": "SPRAY",
+      "name": "SPRAY - Oh My Girls",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/spr1yvmfxbPVW9Pn1Nn5uHJzunKXZGLwytSvGgHNv46/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
