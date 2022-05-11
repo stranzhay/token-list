@@ -164275,6 +164275,25 @@
       "extensions": {
         "twitter": "https://twitter.com/theclubnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "UrbatHbZxMFiHdqLNw2NkjBhqKDEPjrxssuFq4Zuh5e",
+      "symbol": "UBWLT",
+      "name": "Urbats WhiteListToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UrbatHbZxMFiHdqLNw2NkjBhqKDEPjrxssuFq4Zuh5e/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "description": "Use this token to participate in the presale of our collection! Keep it in your wallet until the Mint.",
+        "discord": "https://discord.com/invite/XbPkjgbnUc",
+        "facebook": "https://www.facebook.com/urbats.io",
+        "instagram": "https://www.instagram.com/urbats.io/",
+        "twitter": "https://twitter.com/Urban_Bats",
+        "website": "https://urbats.io/"
+      }
     }
   ],
   "version": {
