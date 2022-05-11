@@ -164137,6 +164137,20 @@
         "twitter": "https://twitter.com/deMonopolyNFT",
         "website": "http://www.demonopoly.fun/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "8GzvVqMkLkFp3f24s9Gn9WeCeP65eoJVTqhxZeobZGWR",
+      "symbol": "TAM",
+      "name": "Tam Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8GzvVqMkLkFp3f24s9Gn9WeCeP65eoJVTqhxZeobZGWR/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://tam-vn.com/"
+      }
     }
   ],
   "version": {
