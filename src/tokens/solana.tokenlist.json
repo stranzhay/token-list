@@ -164372,6 +164372,17 @@
         "telegram": "https://t.me/made_in_thailand",
         "website": "https://www.ezdal.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "spr1yvmfxbPVW9Pn1Nn5uHJzunKXZGLwytSvGgHNv46",
+      "symbol": "SPRAY",
+      "name": "SPRAY - Oh My Girls",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/spr1yvmfxbPVW9Pn1Nn5uHJzunKXZGLwytSvGgHNv46/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
