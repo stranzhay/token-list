@@ -164412,6 +164412,17 @@
         "twitter": "https://twitter.com/ClownColl3ctive",
         "website": "https://www.clowncollective.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9STaUry5ZwR214wMqsWEFWXpvseuyWCddFLMLKAMyeG",
+      "symbol": "$CRYPTID",
+      "name": "CRYPTID",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/farhan067/cryptidToken/main/logo.jpg",
+      "extensions": {
+        "twitter": "https://twitter.com/TheSasquatchnft"
+      }
     }
   ],
   "version": {
