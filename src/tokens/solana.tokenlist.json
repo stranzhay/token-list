@@ -164396,6 +164396,22 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9nGDRoax8XNQow3HLUiZ6JfMGUiS3WDK1fLz8LZ7KCJV",
+      "symbol": "CC",
+      "name": "Clown Collective WL Token",
+      "decimals": 2,
+      "logoURI": "https://metadata.clowncollective.io/cc-wl-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Clowncollective",
+        "twitter": "https://twitter.com/ClownColl3ctive",
+        "website": "https://www.clowncollective.io"
+      }
     }
   ],
   "version": {
