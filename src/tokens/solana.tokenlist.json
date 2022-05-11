@@ -164345,6 +164345,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "p1u2eUjLLm7Q5P3WFhcXF972dsdWdcZ4x6hEyTtNLAb",
+      "symbol": "LSC",
+      "name": "LegendCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Legendstyler00/legendcoin/main/lele2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
