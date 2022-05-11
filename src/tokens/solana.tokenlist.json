@@ -164162,6 +164162,29 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "KomoNuvereGko9jNKUgb3AJZdG3pDaXjbph77ZWvFy1",
+      "symbol": "KOMO",
+      "name": "Komoverse Token",
+      "decimals": 2,
+      "logoURI": "https://komoverse.io/assets/img/favicon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/komoverse",
+        "github": "https://github.com/komoverse",
+        "instagram": "https://instagram.com/komoverse",
+        "linkedin": "https://www.linkedin.com/company/komoverse",
+        "medium": "https://medium.com/@komoverse",
+        "telegram": "https://t.me/komoverse",
+        "tiktok": "https://www.tiktok.com/@komoverse",
+        "twitter": "https://twitter.com/komoverse",
+        "website": "https://komoverse.io",
+        "youtube": "https://youtube.com/c/Komoverse"
+      }
     }
   ],
   "version": {
