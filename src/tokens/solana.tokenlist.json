@@ -164718,6 +164718,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EwKzqVEaE3H6YBA16pndGzN7zWiMLZWbrzwWvseUSeeD",
+      "symbol": "GCAC",
+      "name": "GavCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DjBigG122/new-crypto-logo/main/crypto-logo-min.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
