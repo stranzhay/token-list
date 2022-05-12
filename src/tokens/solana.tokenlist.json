@@ -164642,6 +164642,49 @@
         "twitter": "https://twitter.com/LionPrideClub",
         "website": "https://lionprideclub.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "42EcKSvDBQrezYudAF8DHGwDzU677kYkJMJqWKtaKiyh",
+      "symbol": "SUN",
+      "name": "SUN COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/femi-taiwo/token-list/main/assets/mainnet/42EcKSvDBQrezYudAF8DHGwDzU677kYkJMJqWKtaKiyh/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/sfA67huhJ4",
+        "website": "https://thedreammakersclub.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "828oFZuUAtisZ1n17DEH2yys9foTXgJz7xqZj9YwGubu",
+      "symbol": "ANTLER",
+      "name": "antler",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/828oFZuUAtisZ1n17DEH2yys9foTXgJz7xqZj9YwGubu/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Utility token for the Loose Moose Crew ecosystem",
+        "discord": "https://discord.gg/loosemoosecrew",
+        "twitter": "https://twitter.com/LooseMooseCrew",
+        "website": "https://loosemoosecrew.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HRdi71vK23SRF4V5G1SnpNQFSNrnkbyeRsiwj4HWC7Fe",
+      "symbol": "BLD",
+      "name": "Blood Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRdi71vK23SRF4V5G1SnpNQFSNrnkbyeRsiwj4HWC7Fe/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/UndeadSols"
+      }
     }
   ],
   "version": {
