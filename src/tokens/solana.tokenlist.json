@@ -164729,6 +164729,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "BTCG4EGjivgfgnfKfkqgZkDXuj5KdTeWuJsEGFFzkjai",
+      "symbol": "btc-g",
+      "name": "Greener Bitcoin",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcg/btc-g.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "bitcoin",
+        "description": "Greening cryptocurrencies one coin at a time",
+        "imageUrl": "https://bafybeiakx66r7u5u5sxi24b25k4y5qm6zhpyuetocphl7kfcs4yij6zjgy.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/btcg/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmUs6X2QHrPSAW9mZYtHGNCDjMDWTk7cg3EiEQ1Ao4PvL9/whitepaper.pdf"
+      }
     }
   ],
   "version": {
