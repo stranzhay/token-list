@@ -164518,6 +164518,21 @@
         "twitter": "https://twitter.com/SolanaScouts",
         "website": "https://solanascouts.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AkAF22MXs5xcwH1BineDvrD81sFV1dCuXX5PQzYdko46",
+      "symbol": "WNDY",
+      "name": "Wandyclub Social Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AkAF22MXs5xcwH1BineDvrD81sFV1dCuXX5PQzYdko46/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/wandyclub",
+        "website": "https://www.wandyclub.com"
+      }
     }
   ],
   "version": {
