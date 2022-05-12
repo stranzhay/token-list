@@ -164599,6 +164599,20 @@
       "extensions": {
         "website": "http://star-nft.co.kr/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3GhLNM5EuuuBPZyMRweMbGgMWaVdA5YpLWU1NRAERi6d",
+      "symbol": "LITIT",
+      "name": "litit",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3GhLNM5EuuuBPZyMRweMbGgMWaVdA5YpLWU1NRAERi6d/lit.it-token-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://lit.it"
+      }
     }
   ],
   "version": {
