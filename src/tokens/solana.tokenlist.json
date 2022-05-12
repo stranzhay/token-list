@@ -164751,6 +164751,17 @@
         "website": "https://PurpleZone.github.io/NFTs/btcg/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmUs6X2QHrPSAW9mZYtHGNCDjMDWTk7cg3EiEQ1Ao4PvL9/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JCS2Fd7QwmXFR4pbeHCtsY4aCuzm6PMgb3nctK513svU",
+      "symbol": "FALK",
+      "name": "Falko Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/FALKO99/FALKO/main/FALKO.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
