@@ -164584,6 +164584,21 @@
         "twitter": "https://twitter.com/kamen_nft",
         "website": "https://www.kamennft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GUn2MnTKac8wUCm9TroPtcPhFz9eQQe8W3kSu3oAA6Yx",
+      "symbol": "BYL",
+      "name": "BYUL",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GUn2MnTKac8wUCm9TroPtcPhFz9eQQe8W3kSu3oAA6Yx/logo.png",
+      "tags": [
+        "community-token",
+        "BYULCOIN"
+      ],
+      "extensions": {
+        "website": "http://star-nft.co.kr/"
+      }
     }
   ],
   "version": {
