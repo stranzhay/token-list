@@ -164642,6 +164642,21 @@
         "twitter": "https://twitter.com/LionPrideClub",
         "website": "https://lionprideclub.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "42EcKSvDBQrezYudAF8DHGwDzU677kYkJMJqWKtaKiyh",
+      "symbol": "SUN",
+      "name": "SUN COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/femi-taiwo/token-list/main/assets/mainnet/42EcKSvDBQrezYudAF8DHGwDzU677kYkJMJqWKtaKiyh/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/sfA67huhJ4",
+        "website": "https://thedreammakersclub.com/"
+      }
     }
   ],
   "version": {
