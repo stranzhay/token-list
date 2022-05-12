@@ -164502,6 +164502,22 @@
       "extensions": {
         "twitter": "https://twitter.com/plvsvltra_inv"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HawL4cqiNoYdTre8bExsEM3TqrUqigd6YV4fJsNMVEng",
+      "symbol": "SST",
+      "name": "Solana Scouts Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HawL4cqiNoYdTre8bExsEM3TqrUqigd6YV4fJsNMVEng/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/solanascouts",
+        "twitter": "https://twitter.com/SolanaScouts",
+        "website": "https://solanascouts.io/"
+      }
     }
   ],
   "version": {
