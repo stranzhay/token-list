@@ -164533,6 +164533,21 @@
         "twitter": "https://twitter.com/wandyclub",
         "website": "https://www.wandyclub.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fr5PGegS78PVfXAKNdxBv2NqWSvropf28xhnhDmwP9V5",
+      "symbol": "BYUL",
+      "name": "ByulCoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fr5PGegS78PVfXAKNdxBv2NqWSvropf28xhnhDmwP9V5/logo.png",
+      "tags": [
+        "community-token",
+        "ByulCoin"
+      ],
+      "extensions": {
+        "website": "http://star-nft.co.kr/"
+      }
     }
   ],
   "version": {
