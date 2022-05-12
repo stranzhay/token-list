@@ -164624,6 +164624,24 @@
       "tags": [
         "WL-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WLTJb89azAxv6wiPM2yGR1v6CLEoEkSrC1C5JqgsF5h",
+      "symbol": "LIONWLT",
+      "name": "Lion Pride NFT Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTJb89azAxv6wiPM2yGR1v6CLEoEkSrC1C5JqgsF5h/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://t.co/te0ypLTUGO",
+        "medium": "https://medium.com/@lionprideclub",
+        "telegram": "https://t.me/LionPrideClub",
+        "twitter": "https://twitter.com/LionPrideClub",
+        "website": "https://lionprideclub.io/"
+      }
     }
   ],
   "version": {
