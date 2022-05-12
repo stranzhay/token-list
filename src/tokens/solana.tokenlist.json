@@ -164566,6 +164566,24 @@
         "twitter": "https://twitter.com/LionPrideClub",
         "website": "https://lionprideclub.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ELXgUrK1F8hoVzcrE5HD8bTJn1QZ9mGWMA9dM4kpEaJX",
+      "symbol": "KME",
+      "name": "Kamen Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ELXgUrK1F8hoVzcrE5HD8bTJn1QZ9mGWMA9dM4kpEaJX/logo.svg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/kamennft",
+        "instagram": "https://www.instagram.com/kamennft/",
+        "twitter": "https://twitter.com/kamen_nft",
+        "website": "https://www.kamennft.com/"
+      }
     }
   ],
   "version": {
