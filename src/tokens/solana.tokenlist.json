@@ -164696,6 +164696,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GLitgDLt6T4HNpo2CTcaWeCqZLhKNneTgvyPPnckd9bA",
+      "symbol": "GLIT",
+      "name": "Glitch",
+      "decimals": 9,
+      "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/GLitgDLt6T4HNpo2CTcaWeCqZLhKNneTgvyPPnckd9bA/logo.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
