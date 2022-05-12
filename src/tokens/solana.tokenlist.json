@@ -164488,6 +164488,20 @@
         "twitter": "https://twitter.com/FatCatsCapital",
         "website": "https://fatcatscapital.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "27YTm6d9hbcMAjfahTcMhj1ghBceB18hwEm8C4L38VXS",
+      "symbol": "PLVS",
+      "name": "PLVS VLTRA",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/27YTm6d9hbcMAjfahTcMhj1ghBceB18hwEm8C4L38VXS/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/plvsvltra_inv"
+      }
     }
   ],
   "version": {
