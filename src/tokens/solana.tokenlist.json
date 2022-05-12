@@ -164548,6 +164548,71 @@
       "extensions": {
         "website": "http://star-nft.co.kr/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WLTQmV3VDxgUqvEPyBv3nCCMdfkV2b92yC4KRtvZajN",
+      "symbol": "LPWLT",
+      "name": "Lion Pride Collective Whitelist Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTQmV3VDxgUqvEPyBv3nCCMdfkV2b92yC4KRtvZajN/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://t.co/te0ypLTUGO",
+        "medium": "https://medium.com/@lionprideclub",
+        "telegram": "https://t.me/LionPrideClub",
+        "twitter": "https://twitter.com/LionPrideClub",
+        "website": "https://lionprideclub.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ELXgUrK1F8hoVzcrE5HD8bTJn1QZ9mGWMA9dM4kpEaJX",
+      "symbol": "KME",
+      "name": "Kamen Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ELXgUrK1F8hoVzcrE5HD8bTJn1QZ9mGWMA9dM4kpEaJX/logo.svg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/kamennft",
+        "instagram": "https://www.instagram.com/kamennft/",
+        "twitter": "https://twitter.com/kamen_nft",
+        "website": "https://www.kamennft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GUn2MnTKac8wUCm9TroPtcPhFz9eQQe8W3kSu3oAA6Yx",
+      "symbol": "BYL",
+      "name": "BYUL",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GUn2MnTKac8wUCm9TroPtcPhFz9eQQe8W3kSu3oAA6Yx/logo.png",
+      "tags": [
+        "community-token",
+        "BYULCOIN"
+      ],
+      "extensions": {
+        "website": "http://star-nft.co.kr/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3GhLNM5EuuuBPZyMRweMbGgMWaVdA5YpLWU1NRAERi6d",
+      "symbol": "LITIT",
+      "name": "litit",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3GhLNM5EuuuBPZyMRweMbGgMWaVdA5YpLWU1NRAERi6d/lit.it-token-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://lit.it"
+      }
     }
   ],
   "version": {
