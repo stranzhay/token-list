@@ -164613,6 +164613,17 @@
       "extensions": {
         "website": "https://lit.it"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5vRFqzW3pkw2bcjaVwM3Sdzhnf3Czg67a2L3iDKbY78n",
+      "symbol": "VRKWL",
+      "name": "vrakka WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5vRFqzW3pkw2bcjaVwM3Sdzhnf3Czg67a2L3iDKbY78n/logo.png",
+      "tags": [
+        "WL-token"
+      ]
     }
   ],
   "version": {
