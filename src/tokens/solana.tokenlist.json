@@ -164685,6 +164685,17 @@
       "extensions": {
         "twitter": "https://twitter.com/UndeadSols"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3TspxMnkVCMZbJyz4TPj7i7tKVdUbCs9pGidQXqqUJSB",
+      "symbol": "CORNY",
+      "name": "CORN COB COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tseibel/crypto/main/corn_square.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
