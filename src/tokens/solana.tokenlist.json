@@ -164548,6 +164548,24 @@
       "extensions": {
         "website": "http://star-nft.co.kr/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WLTQmV3VDxgUqvEPyBv3nCCMdfkV2b92yC4KRtvZajN",
+      "symbol": "LPWLT",
+      "name": "Lion Pride Collective Whitelist Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTQmV3VDxgUqvEPyBv3nCCMdfkV2b92yC4KRtvZajN/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://t.co/te0ypLTUGO",
+        "medium": "https://medium.com/@lionprideclub",
+        "telegram": "https://t.me/LionPrideClub",
+        "twitter": "https://twitter.com/LionPrideClub",
+        "website": "https://lionprideclub.io/"
+      }
     }
   ],
   "version": {
