@@ -164801,6 +164801,21 @@
       "extensions": {
         "website": "http://www.ezhigh.co.kr"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "1ZKwykzoyXHKZdayRAJHQ7ZY8fcZrfmwhuwPLxKdEW3",
+      "symbol": "DHL",
+      "name": "Diamond Hand: Legends Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/1ZKwykzoyXHKZdayRAJHQ7ZY8fcZrfmwhuwPLxKdEW3/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dhlegends",
+        "website": "https://www.diamondhandlegends.com"
+      }
     }
   ],
   "version": {
