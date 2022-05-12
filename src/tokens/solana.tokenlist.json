@@ -164674,6 +164674,17 @@
         "twitter": "https://twitter.com/LooseMooseCrew",
         "website": "https://loosemoosecrew.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HRdi71vK23SRF4V5G1SnpNQFSNrnkbyeRsiwj4HWC7Fe",
+      "symbol": "BLD",
+      "name": "Blood Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRdi71vK23SRF4V5G1SnpNQFSNrnkbyeRsiwj4HWC7Fe/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/UndeadSols"
+      }
     }
   ],
   "version": {
