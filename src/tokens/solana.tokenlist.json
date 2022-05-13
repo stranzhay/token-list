@@ -164888,6 +164888,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EkhbjG14GJdnWkKSTdnPSG8xhFDmh855XK1xKAFjYmUR",
+      "symbol": "$BDAWG",
+      "name": "BDAWG",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/BDAWG_coin.png"
     }
   ],
   "version": {
