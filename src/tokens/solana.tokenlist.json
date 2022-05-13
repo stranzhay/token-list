@@ -165281,6 +165281,14 @@
       "extensions": {
         "twitter": "https://twitter.com/ZenjinViperz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FDU3nHdhdaj6Wk35pKqXsDaoDDZTysCqkkSnQY8HcZ8E",
+      "symbol": "JUMP",
+      "name": "Double Jump",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FDU3nHdhdaj6Wk35pKqXsDaoDDZTysCqkkSnQY8HcZ8E/logo.png"
     }
   ],
   "version": {
