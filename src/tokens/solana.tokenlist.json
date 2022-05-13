@@ -165210,6 +165210,40 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CiBddaPynSdAG2SkbrusBfyrUKdCSXVPHs6rTgSEkfsV",
+      "symbol": "gSOL",
+      "name": "GooseFX LP Token (gSOL)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CiBddaPynSdAG2SkbrusBfyrUKdCSXVPHs6rTgSEkfsV/icon.svg",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/cDEPXpY26q",
+        "telegram": "https://t.me/goosefx",
+        "twitter": "https://twitter.com/GooseFX1",
+        "website": "https://goosefx.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7Hvq1zbYWmBpJ7qb4AZSpC1gLC95eBdQgdT3aLQyq6pG",
+      "symbol": "gUSDC",
+      "name": "GooseFX LP Token (gUSDC)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Hvq1zbYWmBpJ7qb4AZSpC1gLC95eBdQgdT3aLQyq6pG/logo.svg",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/cDEPXpY26q",
+        "telegram": "https://t.me/goosefx",
+        "twitter": "https://twitter.com/GooseFX1",
+        "website": "https://goosefx.io"
+      }
     }
   ],
   "version": {
