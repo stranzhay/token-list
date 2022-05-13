@@ -164962,6 +164962,201 @@
         "twitter": "https://twitter.com/DeFi_Land",
         "website": "https://defiland.app/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "BTCG2sUyE8qtfLNuk73cdEET2YQVbgrc7VzdW5B4RZ3b",
+      "symbol": "green",
+      "name": "Greener Bitcoin (dev)",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcg/btc-g.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "bitcoin",
+        "description": "Greening cryptocurrencies one coin at a time",
+        "imageUrl": "https://bafybeiakx66r7u5u5sxi24b25k4y5qm6zhpyuetocphl7kfcs4yij6zjgy.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/btcg/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmUs6X2QHrPSAW9mZYtHGNCDjMDWTk7cg3EiEQ1Ao4PvL9/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "BTCdSsSQeS44k2kgpo8URUZWrACHvHAdoLewt3Q3EGU6",
+      "symbol": "DBTC",
+      "name": "Dirty BitCoin",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcd/dirty-bitcoin.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "Bitcoin pending to carbon removal",
+        "imageUrl": "https://bafybeidawinaasorjj6i6ftg5kgdlaibtwxaxhetioefi2scnzny5ai73u.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/btcd/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmTqYzytHkEjTZyBxBBPbvMyXqUABc55aSwGUNbAYtVzXu/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "CarBoNrDsrBtp4YgjuxjXQnrpaLDB4HoL2dDLBFUnZjq",
+      "symbol": "kg",
+      "name": "Removed Carbon Coin",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/sequestred/carbon-removed.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "polkadot",
+        "description": "Carbon Sequestration (unit: 1kg CO2e)",
+        "imageUrl": "https://bafybeidf6nrmoxuik2y2g27jnxuj5c3gphlr75ndrkqx267h3nwszh7uya.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/sequestred/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "C1RcPUJHx1Mon7RqDck2KUco8jkYraMjNCdA3K2NP7Wk",
+      "symbol": "colorcoin",
+      "name": "Colored Generic Token",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/colorcoin/colorcoin.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "This generic token is the equivalent of color coin on bitcoin network: it carries a color: 32B hash as an addr",
+        "imageUrl": "https://bafybeihkbjkjiqsvdez4jxiwiqbaeamp7gvidia4ss6htobcqsydpfmx3u.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/colorcoin",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmTSW3uzsinLRN6TGt1igwuY6aMcMidmRpUR6fhhSG7Euv/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "GcoinFPXjY1iWwLCgAuYm6Eks18bP4KKP3FUVg9G53X7",
+      "symbol": "FGC",
+      "name": "Fractional Green Coin",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/gcoin/gcoin.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "The only way to get carbon negative cryptocurrency is using gcoin: a CO2 accountancy NFT",
+        "imageUrl": "https://bafybeifpmi7gyvlze7jumfkqwcvi6vjtz2ojropt32knktwrzwlr5hw6fa.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://ipfs.safewatch.care/ipns/QmTo1AnNH7Snu37Dotphw2fX54u1S5VLFpnnERN7GbyUrW/#gcoin",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmTo1AnNH7Snu37Dotphw2fX54u1S5VLFpnnERN7GbyUrW/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "giftiAvNxpqPLzvrAu78xfgZ3Z9o64ecSSLKG3GkEvc",
+      "symbol": "gift",
+      "name": "Quantifed Gift",
+      "decimals": 0,
+      "logoURI": "https://bafybeighotrgs2akl3tfsnznwpepzgk2taams4bgix5kxc5zgiq5dvyqnq.ipfs.nftstorage.link/?ext=svg",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "description": "A gift goes long way, this is a NFT you can donnate with the playload you want",
+        "discord": "https://discord.gg/vwkCmMQv",
+        "imageUrl": "https://ipfs.safewatch.care/ipfs/QmUw3iyMPqKuajnLRevFyEU8Yn1ZGLGA2pb8A11BBuj4NQ/gift.svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://ipfs.safewatch.xyz/ipfs/QmUw3iyMPqKuajnLRevFyEU8Yn1ZGLGA2pb8A11BBuj4NQ/#gift",
+        "whitepaper": "https://gateway.ipfs.io/ipfs/QmUw3iyMPqKuajnLRevFyEU8Yn1ZGLGA2pb8A11BBuj4NQ/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "PHXCEm9BjgB5nxySKvGVb7naLS2fcU2DqdU529sGa8G",
+      "symbol": "phxshare",
+      "name": "PhenomX Shares",
+      "decimals": 6,
+      "logoURI": "https://bafybeice4ze77lnjlrv42d2pyobeccwc6guyfw7absvt7fhfjv5ofgm5pe.ipfs.nftstorage.link/?ext=svg",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "description": "PhenomX Health shares",
+        "discord": "https://discord.gg/vwkCmMQv",
+        "imageUrl": "https://ipfs.safewatch.care/ipfs/QmepciACTEREwoeoMxLJfaGcPD56DHefJCeYbPKDyZBo6B/phxcoin.svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://ipfs.safewatch.care/ipfs/QmepciACTEREwoeoMxLJfaGcPD56DHefJCeYbPKDyZBo6B/#phxcoin",
+        "whitepaper": "https://gateway.ipfs.io/ipfs/QmepciACTEREwoeoMxLJfaGcPD56DHefJCeYbPKDyZBo6B/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "pmfa5SgJwSrmDf66gvob2tUyzx3vSZSZ63pff3yGXiH",
+      "symbol": "pmfa",
+      "name": "PMF A-Coin",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@master/pmfa/pmfa.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "PMF-A Token",
+        "imageUrl": "https://bafybeicskrgdfnhrwn5jjz2l3h7kk5au6fz6hivjfxq2mv4lw5wymfejpm.ipfs.nftstorage.link/?ext=svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://ipfs.safewatch.care/ipns/QmVfmosDQdVzHRH2cGgWyXKsZ5s5iub677ZtUcq6Ao2DJt/#pmfa",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmVfmosDQdVzHRH2cGgWyXKsZ5s5iub677ZtUcq6Ao2DJt/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "NfTyU3JxnZtticXZ5LsmzxHsUbCemLox66huiWqmNtc",
+      "symbol": "WNFT",
+      "name": "Wrapped NFT",
+      "decimals": 9,
+      "logoURI": "https://bafybeihlud5s72vd2h7bd5njpkxc6c546y3uhfdo3w56ujrcfhf2dr6dme.ipfs.nftstorage.link/?ext=svg",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "description": "NFT are nothing else than glorified hash, so by wrapping a hash in an NFT we have a generic vehicle to manage any NFTs",
+        "discord": "https://discord.gg/vwkCmMQv",
+        "imageUrl": "https://ipfs.safewatch.care/ipfs/QmetuPoEjrgbzMjCHPsybpndbaDmBSLaNZutFA5hwFzgJS/WNFT.svg",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://ipfs.safewatch.care/ipfs/QmetuPoEjrgbzMjCHPsybpndbaDmBSLaNZutFA5hwFzgJS/#WNFT",
+        "whitepaper": "https://gateway.ipfs.io/ipfs/QmetuPoEjrgbzMjCHPsybpndbaDmBSLaNZutFA5hwFzgJS/whitepaper.pdf"
+      }
     }
   ],
   "version": {
