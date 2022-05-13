@@ -164776,6 +164776,46 @@
       "extensions": {
         "twitter": "https://twitter.com/TrippyKidzNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DkfTo5ozVuzn8ge8pxXdSA7auHWAtn5VzwoXV4dvXuii",
+      "symbol": "HC",
+      "name": "Hurel Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/martinhurel/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 102,
+      "address": "gr6V8YHjagNd4DvTBMrHY14GTu4b9CdFegQ7oCkvVNM",
+      "symbol": "EZT",
+      "name": "EZT Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/gr6V8YHjagNd4DvTBMrHY14GTu4b9CdFegQ7oCkvVNM/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://www.ezhigh.co.kr"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "1ZKwykzoyXHKZdayRAJHQ7ZY8fcZrfmwhuwPLxKdEW3",
+      "symbol": "DHL",
+      "name": "Diamond Hand: Legends Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/1ZKwykzoyXHKZdayRAJHQ7ZY8fcZrfmwhuwPLxKdEW3/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/dhlegends",
+        "website": "https://www.diamondhandlegends.com"
+      }
     }
   ],
   "version": {
