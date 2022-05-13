@@ -165244,6 +165244,17 @@
         "twitter": "https://twitter.com/GooseFX1",
         "website": "https://goosefx.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "iVMbf6rkeZKXXLGNjrJhMZL3KFDuo4h1C3RqAyeYaBa",
+      "symbol": "IVM",
+      "name": "InvestmorCoin",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/iVMbf6rkeZKXXLGNjrJhMZL3KFDuo4h1C3RqAyeYaBa/logo.png",
+      "extensions": {
+        "website": "https://investmorcoin.com"
+      }
     }
   ],
   "version": {
