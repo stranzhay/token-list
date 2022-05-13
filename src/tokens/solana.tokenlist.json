@@ -164932,6 +164932,36 @@
       "name": "Grass",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/PnW1/grassToken/main/logo.png"
+    },
+    {
+      "chainId": 102,
+      "address": "B8mnGmyZ91zRbVZW1sxy4wjDAgV5vZCGn3eh4mB4gGYF",
+      "symbol": "GYDC",
+      "name": "GYD Coin",
+      "decimals": 9,
+      "logoURI": "https://cricnation592.sfo3.cdn.digitaloceanspaces.com/logo.png",
+      "tags": [
+        "utility-coin",
+        "social-defi"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GoLDYyyiVeXnVf9qgoK712N5esm1cCbHEK9aNJFx47Sx",
+      "symbol": "GOLDY",
+      "name": "DeFi Land Gold",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoLDYyyiVeXnVf9qgoK712N5esm1cCbHEK9aNJFx47Sx/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/defiland",
+        "medium": "https://defiland.medium.com/",
+        "telegram": "https://t.me/defiland_official",
+        "twitter": "https://twitter.com/DeFi_Land",
+        "website": "https://defiland.app/"
+      }
     }
   ],
   "version": {
