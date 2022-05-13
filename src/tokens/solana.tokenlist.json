@@ -165267,6 +165267,39 @@
         "community-token",
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ZenJuJnFPUrja8HZ74Pj5tySvaJ6xCBZPm6ghT6v3mr",
+      "symbol": "ZVWL",
+      "name": "Zenjin Viperz WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZenJuJnFPUrja8HZ74Pj5tySvaJ6xCBZPm6ghT6v3mr/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZenjinViperz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FDU3nHdhdaj6Wk35pKqXsDaoDDZTysCqkkSnQY8HcZ8E",
+      "symbol": "JUMP",
+      "name": "Double Jump",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FDU3nHdhdaj6Wk35pKqXsDaoDDZTysCqkkSnQY8HcZ8E/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "bELTRVTyKjwQxya7CztPdvpHTHXuLKmowsbeD2NUHpD",
+      "symbol": "HHXC",
+      "name": "How High Extra Credit",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bELTRVTyKjwQxya7CztPdvpHTHXuLKmowsbeD2NUHpD/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
