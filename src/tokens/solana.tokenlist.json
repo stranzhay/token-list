@@ -164835,6 +164835,24 @@
       "name": "SKC Whitelist Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SKC5GoMp18Yd9YLLrbWUphy9d85YuHBwv1HHLJM3f5w/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GGTGLHPUaEmGSQMo89FoYXJywuQBPnbqHuBjHivgpKZY",
+      "symbol": "GOBLET",
+      "name": "Golden Goblet",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GGTGLHPUaEmGSQMo89FoYXJywuQBPnbqHuBjHivgpKZY/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/pqVDAw7DE9",
+        "twitter": "https://twitter.com/goblinraidsnft",
+        "website": "https://goblinraid.passivepad.cc"
+      }
     }
   ],
   "version": {
