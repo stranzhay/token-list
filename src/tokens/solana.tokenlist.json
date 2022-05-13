@@ -164896,6 +164896,34 @@
       "name": "BDAWG",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/BDAWG_coin.png"
+    },
+    {
+      "chainId": 103,
+      "address": "BL7nWUGANnKHMiJtVWAUJp8xbuCoqsgPcLBXPffU9Td8",
+      "symbol": "CDFI",
+      "name": "Cleandefi",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BL7nWUGANnKHMiJtVWAUJp8xbuCoqsgPcLBXPffU9Td8/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://www.cleandefi.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BL7nWUGANnKHMiJtVWAUJp8xbuCoqsgPcLBXPffU9Td8",
+      "symbol": "CDFI",
+      "name": "Cleandefi",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BL7nWUGANnKHMiJtVWAUJp8xbuCoqsgPcLBXPffU9Td8/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://www.cleandefi.com"
+      }
     }
   ],
   "version": {
