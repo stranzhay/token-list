@@ -164924,6 +164924,14 @@
       "extensions": {
         "website": "http://www.cleandefi.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3G6UDViPSymTnpEoFeoPqMRjA1VE1HqWLVf8kHULewaj",
+      "symbol": "GRASS",
+      "name": "Grass",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/PnW1/grassToken/main/logo.png"
     }
   ],
   "version": {
