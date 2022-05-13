@@ -164932,6 +164932,18 @@
       "name": "Grass",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/PnW1/grassToken/main/logo.png"
+    },
+    {
+      "chainId": 102,
+      "address": "B8mnGmyZ91zRbVZW1sxy4wjDAgV5vZCGn3eh4mB4gGYF",
+      "symbol": "GYDC",
+      "name": "GYD Coin",
+      "decimals": 9,
+      "logoURI": "https://cricnation592.sfo3.cdn.digitaloceanspaces.com/logo.png",
+      "tags": [
+        "utility-coin",
+        "social-defi"
+      ]
     }
   ],
   "version": {
