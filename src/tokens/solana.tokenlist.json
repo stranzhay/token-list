@@ -165157,6 +165157,28 @@
         "website": "https://ipfs.safewatch.care/ipfs/QmetuPoEjrgbzMjCHPsybpndbaDmBSLaNZutFA5hwFzgJS/#WNFT",
         "whitepaper": "https://gateway.ipfs.io/ipfs/QmetuPoEjrgbzMjCHPsybpndbaDmBSLaNZutFA5hwFzgJS/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "CArBo4puwrkEsEqDY5SDxNwj31bi3V2ZubimRNSwXVNr",
+      "symbol": "kg",
+      "name": "Carbon Credit",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/carbon/carbon-credit.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "description": "Proof of Carbon Sequestration to be used as Carbon credit (unit: 1kg CO2e)",
+        "imageUrl": "https://bafybeid7dw4tdtbuj5pn4gqlqooajzfaecujcupwzgu2bp6p6z46qlv2g4.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "website": "https://PurpleZone.github.io/NFTs/carbon/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf"
+      }
     }
   ],
   "version": {
