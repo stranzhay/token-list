@@ -164944,6 +164944,24 @@
         "utility-coin",
         "social-defi"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GoLDYyyiVeXnVf9qgoK712N5esm1cCbHEK9aNJFx47Sx",
+      "symbol": "GOLDY",
+      "name": "DeFi Land Gold",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoLDYyyiVeXnVf9qgoK712N5esm1cCbHEK9aNJFx47Sx/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/defiland",
+        "medium": "https://defiland.medium.com/",
+        "telegram": "https://t.me/defiland_official",
+        "twitter": "https://twitter.com/DeFi_Land",
+        "website": "https://defiland.app/"
+      }
     }
   ],
   "version": {
