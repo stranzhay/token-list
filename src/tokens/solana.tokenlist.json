@@ -164861,6 +164861,22 @@
       "name": "Test boy Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5g5Yc2jNizJFfCqf4oauxZdQTqHAaDiLE183TSuAb51A/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "A5NF1e6RnYkVwtg3V3z1qeUz4PZfHCXmQ9RotuJWgi6F",
+      "symbol": "VYNC",
+      "name": "VYNK CHAIN",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A5NF1e6RnYkVwtg3V3z1qeUz4PZfHCXmQ9RotuJWgi6F/logo.png",
+      "tags": [
+        "utility-token",
+        "VYNCTOKEN",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://vynkchain.org"
+      }
     }
   ],
   "version": {
