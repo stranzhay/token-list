@@ -164816,6 +164816,25 @@
         "twitter": "https://twitter.com/dhlegends",
         "website": "https://www.diamondhandlegends.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Brf6wicHUX2MKkGxFdpCMaSuwZdgkikDfTCx9Vzauzk",
+      "symbol": "LENI",
+      "name": "LeninCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/seanmcalevey/lenin_coin/main/lenin_coin_logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "SKC5GoMp18Yd9YLLrbWUphy9d85YuHBwv1HHLJM3f5w",
+      "symbol": "SKCT",
+      "name": "SKC Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SKC5GoMp18Yd9YLLrbWUphy9d85YuHBwv1HHLJM3f5w/logo.png"
     }
   ],
   "version": {
