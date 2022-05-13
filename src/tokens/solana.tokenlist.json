@@ -164776,6 +164776,17 @@
       "extensions": {
         "twitter": "https://twitter.com/TrippyKidzNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DkfTo5ozVuzn8ge8pxXdSA7auHWAtn5VzwoXV4dvXuii",
+      "symbol": "HC",
+      "name": "Hurel Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/martinhurel/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
