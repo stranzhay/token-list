@@ -164787,6 +164787,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 102,
+      "address": "gr6V8YHjagNd4DvTBMrHY14GTu4b9CdFegQ7oCkvVNM",
+      "symbol": "EZT",
+      "name": "EZT Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/gr6V8YHjagNd4DvTBMrHY14GTu4b9CdFegQ7oCkvVNM/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://www.ezhigh.co.kr"
+      }
     }
   ],
   "version": {
