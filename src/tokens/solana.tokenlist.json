@@ -165255,6 +165255,18 @@
       "extensions": {
         "website": "https://investmorcoin.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5aqxDnPXy6kqTBTQWRYBQ8RdsmjoY9TNLPRjV3PiFKAB",
+      "symbol": "NBUS",
+      "name": "Incubus",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5aqxDnPXy6kqTBTQWRYBQ8RdsmjoY9TNLPRjV3PiFKAB/logo.png",
+      "tags": [
+        "community-token",
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
