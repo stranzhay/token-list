@@ -164853,6 +164853,14 @@
         "twitter": "https://twitter.com/goblinraidsnft",
         "website": "https://goblinraid.passivepad.cc"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "5g5Yc2jNizJFfCqf4oauxZdQTqHAaDiLE183TSuAb51A",
+      "symbol": "TSBT",
+      "name": "Test boy Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5g5Yc2jNizJFfCqf4oauxZdQTqHAaDiLE183TSuAb51A/logo.png"
     }
   ],
   "version": {
