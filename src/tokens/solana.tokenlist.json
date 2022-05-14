@@ -165648,6 +165648,68 @@
         "twitter": "https://twitter.com/Ayako_sol",
         "website": "http://ayako-sol.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8VPcCHQ5FRnZ4ihYLEqkkDY5d8ers9rjQ7mo95Y18JJ4",
+      "symbol": "LDTG2",
+      "name": "LDT Gen 2 Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8VPcCHQ5FRnZ4ihYLEqkkDY5d8ers9rjQ7mo95Y18JJ4/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Living Dead Teds Gen 2 Mint Token",
+        "discord": "https://discord.gg/livingdeadteds",
+        "twitter": "https://twitter.com/LivingDeadTeds",
+        "website": "https://livingdeadteds.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DuS8UxSX2f2Trniw9WeXpQgM94zZy67KZe9Z93vuNVh7",
+      "symbol": "LDTG2WL",
+      "name": "LDT Gen 2 WL Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DuS8UxSX2f2Trniw9WeXpQgM94zZy67KZe9Z93vuNVh7/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Living Dead Teds Gen 2 WL Mint Token",
+        "discord": "https://discord.gg/livingdeadteds",
+        "twitter": "https://twitter.com/LivingDeadTeds",
+        "website": "https://livingdeadteds.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DriLz492FPfYforf7PVDaoxBJE3WwNhqDqa5VGDtCUn1",
+      "symbol": "LDTG1ASC",
+      "name": "LDT Gen 1 Ascension Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DriLz492FPfYforf7PVDaoxBJE3WwNhqDqa5VGDtCUn1/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Living Dead Teds Gen 1 Ascension Token",
+        "discord": "https://discord.gg/livingdeadteds",
+        "twitter": "https://twitter.com/LivingDeadTeds",
+        "website": "https://livingdeadteds.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EKfDCMnjkx9f919JRpfAn4kG8vVg5BEkjBnuDa4HSmfw",
+      "symbol": "MICA",
+      "name": "MICA Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/micasdad/crypto/main/rsz_1img_5819.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
