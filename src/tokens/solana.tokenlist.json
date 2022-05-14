@@ -165577,6 +165577,19 @@
         "stable-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "78WCPzsCiyAsHRfYLnwfBfEQT4yBX7g5gfKjbzj9WjqL",
+      "symbol": "HIT",
+      "name": "HICOIN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/78WCPzsCiyAsHRfYLnwfBfEQT4yBX7g5gfKjbzj9WjqL/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
