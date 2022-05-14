@@ -165577,6 +165577,47 @@
         "stable-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "78WCPzsCiyAsHRfYLnwfBfEQT4yBX7g5gfKjbzj9WjqL",
+      "symbol": "HIT",
+      "name": "HICOIN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/78WCPzsCiyAsHRfYLnwfBfEQT4yBX7g5gfKjbzj9WjqL/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8FtAbvh2Q1TL5PbWE529NFbuj5zxnAVR6NByxampNc1c",
+      "symbol": "LCTN",
+      "name": "Luna Capsule Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/lunacapsuletoken/lunacapsuletoken/main/logo.png",
+      "tags": [
+        "airdrop-token",
+        "community-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/lunacapsuletoken",
+        "twitter": "https://twitter.com/lunacapstoken"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8dK5tfnxtbCRmqev2iJGqsizRxcPrpaNLSjuVokcbtDx",
+      "symbol": "Shake",
+      "name": "Shake",
+      "decimals": 2,
+      "logoURI": "https://i.postimg.cc/7PcVcwjG/BUDDIES.png",
+      "extensions": {
+        "twitter": "https://twitter.com/potprincessNFT",
+        "website": "https://www.potprincess.xyz/"
+      }
     }
   ],
   "version": {
