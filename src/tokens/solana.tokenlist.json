@@ -165590,6 +165590,22 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8FtAbvh2Q1TL5PbWE529NFbuj5zxnAVR6NByxampNc1c",
+      "symbol": "LCTN",
+      "name": "Luna Capsule Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/lunacapsuletoken/lunacapsuletoken/main/logo.png",
+      "tags": [
+        "airdrop-token",
+        "community-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/lunacapsuletoken",
+        "twitter": "https://twitter.com/lunacapstoken"
+      }
     }
   ],
   "version": {
