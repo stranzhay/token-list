@@ -165536,6 +165536,17 @@
       "extensions": {
         "description": "For more info, contact nhscryptocurrency@gmail.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B3z92d9ZN8zeRMaXkJGbLhKRHwLn2Pw78WwjZrAV9E1g",
+      "symbol": "SEEL",
+      "name": "Sealcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Sealcakes/crypto/main/PNG-images-Seal-18png.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
