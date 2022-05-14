@@ -165332,6 +165332,17 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "DGEz5naP1RuvitQSvrFXNg8sM6waaEjkwj3P4VCVAm1t",
+      "symbol": "TestA",
+      "name": "TestAAAAA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DGEz5naP1RuvitQSvrFXNg8sM6waaEjkwj3P4VCVAm1t/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
