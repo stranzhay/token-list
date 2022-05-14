@@ -165606,6 +165606,18 @@
         "telegram": "https://t.me/lunacapsuletoken",
         "twitter": "https://twitter.com/lunacapstoken"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8dK5tfnxtbCRmqev2iJGqsizRxcPrpaNLSjuVokcbtDx",
+      "symbol": "Shake",
+      "name": "Shake",
+      "decimals": 2,
+      "logoURI": "https://i.postimg.cc/7PcVcwjG/BUDDIES.png",
+      "extensions": {
+        "twitter": "https://twitter.com/potprincessNFT",
+        "website": "https://www.potprincess.xyz/"
+      }
     }
   ],
   "version": {
