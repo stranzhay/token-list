@@ -165463,6 +165463,64 @@
         "imageUrl": "https://imgur.com/wVWGpJL.png",
         "website": "https://www.bloomon.nl"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3hnUjiTnCnSS1FmdFDxCPgMAb7r724Boa3vWb3p3WJuV",
+      "symbol": "TRIPWL",
+      "name": "Trippin' Ape Tribe WL",
+      "decimals": 0,
+      "logoURI": "https://pbs.twimg.com/profile_images/1516190526592139266/tTBE_jP5_400x400.jpg",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Es624KL9Z86oig5VpLwu61eHEZfcMNW5NgdqQWouhpsg",
+      "symbol": "KGWT",
+      "name": "Kawaii Ghouls Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/IvaldiS6/image/main/Tiny_logo.png",
+      "tags": [
+        "social-token",
+        "whitelist-token",
+        "community-token",
+        "utility-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6FedugQ",
+        "twitter": "https://twitter.com/KawaiiGhoulsNFT",
+        "website": "https://www.kawaiighouls.art"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3EfhVMtQpWRRTDyhYudsBx6uEZzK89HhE8j1pSyACKeX",
+      "symbol": "JS",
+      "name": "JASMIN",
+      "decimals": 0,
+      "logoURI": "https://imgur.com/PAA21On.gif",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9kRUGxsMKtTSpW4JjCLnf1DQQV5pafETHbcB2npvyaX1",
+      "symbol": "ORCH",
+      "name": "ORCHID",
+      "decimals": 0,
+      "logoURI": "https://imgur.com/zPr9R8D.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "animationUrl": "https://imgur.com/1O39DGg.mp4",
+        "description": "Venus de Fleur",
+        "imageUrl": "https://imgur.com/a59QP7g.png",
+        "website": "https://www.venusetfleur.com"
+      }
     }
   ],
   "version": {
