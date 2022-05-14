@@ -165387,6 +165387,20 @@
         "twitter": "https://twitter.com/fancyfoxassoc",
         "website": "https://www.fancyfoxassociation.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "PHNX6NaMPbSPNvhDWEvr18dAfjM4Qz2PBYvm5NvgcD9",
+      "symbol": "PHNX",
+      "name": "PHOENIX BURN ",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PHNX6NaMPbSPNvhDWEvr18dAfjM4Qz2PBYvm5NvgcD9/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "PHOENIX BURN"
+      }
     }
   ],
   "version": {
