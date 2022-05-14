@@ -165366,6 +165366,27 @@
         "website": "https://PurpleZone.github.io/NFTs/kgCO2e/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmepRU1Rr2SLURq9m2AkiyC1E8hRMBzetrq5TrQxCxNh8E/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FFAWLA1yaqYXmbYVofEQYH19mz7WZDb57V2h63BsvoKo",
+      "symbol": "FFA-WL",
+      "name": "FFA Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FFAWLA1yaqYXmbYVofEQYH19mz7WZDb57V2h63BsvoKo/logo.png",
+      "tags": [
+        "utility-token",
+        "whitelist-ticket",
+        "FFA-whitelist",
+        "FFA"
+      ],
+      "extensions": {
+        "description": "Each ticket gives you access to buy one NFT on https://www.fancyfoxassociation.org/ before the mint date and with a discount!!",
+        "discord": "https://discord.gg/9ynuEbpzcR",
+        "telegram": "https://t.me/+cypOc8aptmhlNWQ1",
+        "twitter": "https://twitter.com/fancyfoxassoc",
+        "website": "https://www.fancyfoxassociation.org/"
+      }
     }
   ],
   "version": {
