@@ -165321,6 +165321,28 @@
         "twitter": "https://twitter.com/eraspheres",
         "website": "https://eraspheres.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WLUczF9P5wKLfq53ZSR9UGgBmwxXcELXpECnRyzS2Jp",
+      "symbol": "CHEESMT",
+      "name": "CHEES Mint Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLUczF9P5wKLfq53ZSR9UGgBmwxXcELXpECnRyzS2Jp/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "DGEz5naP1RuvitQSvrFXNg8sM6waaEjkwj3P4VCVAm1t",
+      "symbol": "TestA",
+      "name": "TestAAAAA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DGEz5naP1RuvitQSvrFXNg8sM6waaEjkwj3P4VCVAm1t/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
