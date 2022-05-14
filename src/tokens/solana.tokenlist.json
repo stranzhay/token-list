@@ -165699,6 +165699,17 @@
         "twitter": "https://twitter.com/LivingDeadTeds",
         "website": "https://livingdeadteds.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EKfDCMnjkx9f919JRpfAn4kG8vVg5BEkjBnuDa4HSmfw",
+      "symbol": "MICA",
+      "name": "MICA Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/micasdad/crypto/main/rsz_1img_5819.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
