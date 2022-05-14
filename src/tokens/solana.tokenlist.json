@@ -165762,6 +165762,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CAPLiX3SbW4fEUoQWb92EUNTqqDyKssqgbHWCa5gmmRc",
+      "symbol": "FCHT",
+      "name": "Fight Capital Handshake Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/metapupsclub/log/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Officially Licensed, Limited Edition Fighters, Immortalized On The Blockchain",
+        "twitter": "https://twitter.com/FightCapitalNFT",
+        "website": "http://fightcapital.io"
+      }
     }
   ],
   "version": {
