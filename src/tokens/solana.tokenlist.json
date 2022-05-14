@@ -165547,6 +165547,36 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "RPEbt7HCzbJGL24VCzr17pPspFaieFQ44skWsM2332Y",
+      "symbol": "RPE",
+      "name": "Royal Panther Empire Coin",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/rpectdev/RPE-token/main/RPE-COIn.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/9WAp99TVqZ",
+        "instagram": "https://www.instagram.com/royalpantherempire/",
+        "twitter": "https://twitter.com/royalpantheremp",
+        "website": "https://royalpantherempire.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6ot4f3FMZSsK9dpBSiqeCSrQXVvTNtpYptk5da75LYqA",
+      "symbol": "MKD",
+      "name": "MKD STABLECOIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MKD-Stable-token/logo/main/logo.png",
+      "tags": [
+        "stablecoin",
+        "stable-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
