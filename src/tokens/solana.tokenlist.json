@@ -165751,6 +165751,17 @@
       "extensions": {
         "twitter": "https://twitter.com/TakashiRonin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9tTzGfAy53kPNNUZqQ3hCwjSTzvFDRbhekCqkGN11ZaC",
+      "symbol": "ABC",
+      "name": "Assassin Brothers Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/assassinbrothers/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
