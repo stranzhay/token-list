@@ -165429,6 +165429,23 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3d1oXrdZATm2vcZ44tUtBmWcAXPziWmZfxbsVt9smHkC",
+      "symbol": "wrBTC-USDC",
+      "name": "Player 2 LP Token (wrBTC-USDC)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3d1oXrdZATm2vcZ44tUtBmWcAXPziWmZfxbsVt9smHkC/logo_P2_black.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/player2",
+        "github": "https://github.com/player2world",
+        "reddit": "https://www.reddit.com/r/player2world",
+        "twitter": "https://twitter.com/player2world"
+      }
     }
   ],
   "version": {
