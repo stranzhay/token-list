@@ -165343,6 +165343,29 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "Co2FP2AdUaKmUMLg4aGRTTNqKAQEwgAgAh5RVFXJhzar",
+      "symbol": "kgCO2eq",
+      "name": "Carbon Footprint",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/kgCO2e/carbon-weight.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "euro-tether",
+        "description": "Accounting for CO2eq emissions",
+        "imageUrl": "https://bafybeidyuuvtfjbkz3pivhtc5ttdi6up3evhrxjkbd6fpuwla3hoj6x3lu.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/kgCO2e/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmepRU1Rr2SLURq9m2AkiyC1E8hRMBzetrq5TrQxCxNh8E/whitepaper.pdf"
+      }
     }
   ],
   "version": {
