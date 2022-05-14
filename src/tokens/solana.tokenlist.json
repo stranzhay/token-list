@@ -165564,6 +165564,19 @@
         "twitter": "https://twitter.com/royalpantheremp",
         "website": "https://royalpantherempire.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6ot4f3FMZSsK9dpBSiqeCSrQXVvTNtpYptk5da75LYqA",
+      "symbol": "MKD",
+      "name": "MKD STABLECOIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MKD-Stable-token/logo/main/logo.png",
+      "tags": [
+        "stablecoin",
+        "stable-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
