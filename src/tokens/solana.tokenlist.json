@@ -165721,6 +165721,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4B619RbcXbXrKTzNVgDSRiUn9wfxWgA1w1oFLveGacNy",
+      "symbol": "HCOIN",
+      "name": "Hydrogencoin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/dataalg/Hydrogen/main/4B619RbcXbXrKTzNVgDSRiUn9wfxWgA1w1oFLveGacNy/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Hydrogencoin is a digital currency founded by DataAlg. It aims to develop green hydrogen economies.",
+        "twitter": "https://twitter.com/hydrogencoin_io",
+        "website": "http://hydrogencoin.io"
+      }
     }
   ],
   "version": {
