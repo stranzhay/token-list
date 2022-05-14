@@ -165463,6 +165463,17 @@
         "imageUrl": "https://imgur.com/wVWGpJL.png",
         "website": "https://www.bloomon.nl"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3hnUjiTnCnSS1FmdFDxCPgMAb7r724Boa3vWb3p3WJuV",
+      "symbol": "TRIPWL",
+      "name": "Trippin' Ape Tribe WL",
+      "decimals": 0,
+      "logoURI": "https://pbs.twimg.com/profile_images/1516190526592139266/tTBE_jP5_400x400.jpg",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
