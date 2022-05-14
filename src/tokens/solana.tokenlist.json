@@ -165418,6 +165418,17 @@
         "instagram": "https://www.instagram.com/mpbj_memes/",
         "twitter": "https://twitter.com/ProcusteiOS"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CSKh2PUQ3WENAKBjMTd2su8MFENU9roRw5p1hJ5meTSC",
+      "symbol": "RCHWST",
+      "name": "deMonopoly Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSKh2PUQ3WENAKBjMTd2su8MFENU9roRw5p1hJ5meTSC/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
