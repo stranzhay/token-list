@@ -165618,6 +165618,20 @@
         "twitter": "https://twitter.com/potprincessNFT",
         "website": "https://www.potprincess.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JoZohHHuqmXoKy38z7xnSohYQAsYRtQ8JkjRYKGnSRB",
+      "symbol": "JGWL",
+      "name": "JoZo Gators WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JoZohHHuqmXoKy38z7xnSohYQAsYRtQ8JkjRYKGnSRB/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/JozoGators"
+      }
     }
   ],
   "version": {
