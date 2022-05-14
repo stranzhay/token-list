@@ -165387,6 +165387,48 @@
         "twitter": "https://twitter.com/fancyfoxassoc",
         "website": "https://www.fancyfoxassociation.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "PHNX6NaMPbSPNvhDWEvr18dAfjM4Qz2PBYvm5NvgcD9",
+      "symbol": "PHNX",
+      "name": "PHOENIX BURN ",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PHNX6NaMPbSPNvhDWEvr18dAfjM4Qz2PBYvm5NvgcD9/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "PHOENIX BURN"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DTMnsXFNxkeLAHWYqGrfzjKArqpqzLaTMpdkzkaFUcDA",
+      "symbol": "POH",
+      "name": "POH Crypto",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Procuste34/poh_crypto/main/poh_image.png",
+      "tags": [
+        "meme",
+        "ginette",
+        "nft"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/mpbj_memes/",
+        "twitter": "https://twitter.com/ProcusteiOS"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CSKh2PUQ3WENAKBjMTd2su8MFENU9roRw5p1hJ5meTSC",
+      "symbol": "RCHWST",
+      "name": "deMonopoly Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSKh2PUQ3WENAKBjMTd2su8MFENU9roRw5p1hJ5meTSC/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
