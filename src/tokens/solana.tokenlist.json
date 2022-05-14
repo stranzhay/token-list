@@ -165737,6 +165737,31 @@
         "twitter": "https://twitter.com/hydrogencoin_io",
         "website": "http://hydrogencoin.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "RoniLMQHDYpTFqs3wKrWwT2eVv8XSPSR9XuxKiRt8RN",
+      "symbol": "Takashironin",
+      "name": "Takashi Ronin Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RoniLMQHDYpTFqs3wKrWwT2eVv8XSPSR9XuxKiRt8RN/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TakashiRonin"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9tTzGfAy53kPNNUZqQ3hCwjSTzvFDRbhekCqkGN11ZaC",
+      "symbol": "ABC",
+      "name": "Assassin Brothers Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/assassinbrothers/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
