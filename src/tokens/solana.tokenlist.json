@@ -165401,6 +165401,23 @@
       "extensions": {
         "description": "PHOENIX BURN"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DTMnsXFNxkeLAHWYqGrfzjKArqpqzLaTMpdkzkaFUcDA",
+      "symbol": "POH",
+      "name": "POH Crypto",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Procuste34/poh_crypto/main/poh_image.png",
+      "tags": [
+        "meme",
+        "ginette",
+        "nft"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/mpbj_memes/",
+        "twitter": "https://twitter.com/ProcusteiOS"
+      }
     }
   ],
   "version": {
