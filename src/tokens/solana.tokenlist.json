@@ -165474,6 +165474,25 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Es624KL9Z86oig5VpLwu61eHEZfcMNW5NgdqQWouhpsg",
+      "symbol": "KGWT",
+      "name": "Kawaii Ghouls Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/IvaldiS6/image/main/Tiny_logo.png",
+      "tags": [
+        "social-token",
+        "whitelist-token",
+        "community-token",
+        "utility-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6FedugQ",
+        "twitter": "https://twitter.com/KawaiiGhoulsNFT",
+        "website": "https://www.kawaiighouls.art"
+      }
     }
   ],
   "version": {
