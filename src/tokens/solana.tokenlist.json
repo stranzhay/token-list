@@ -165521,6 +165521,21 @@
         "imageUrl": "https://imgur.com/a59QP7g.png",
         "website": "https://www.venusetfleur.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FzeuYTjS42pi2SZN1HMWwgH86A3v8dLyt52SuLFrinK1",
+      "symbol": "CCNHS",
+      "name": "ColdCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ZacharyLiebl/SnowCoinSymbol/main/SnowCoinSymbol.png",
+      "tags": [
+        "nor-easters",
+        "experiment"
+      ],
+      "extensions": {
+        "description": "For more info, contact nhscryptocurrency@gmail.com"
+      }
     }
   ],
   "version": {
