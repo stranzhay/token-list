@@ -165504,6 +165504,23 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9kRUGxsMKtTSpW4JjCLnf1DQQV5pafETHbcB2npvyaX1",
+      "symbol": "ORCH",
+      "name": "ORCHID",
+      "decimals": 0,
+      "logoURI": "https://imgur.com/zPr9R8D.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "animationUrl": "https://imgur.com/1O39DGg.mp4",
+        "description": "Venus de Fleur",
+        "imageUrl": "https://imgur.com/a59QP7g.png",
+        "website": "https://www.venusetfleur.com"
+      }
     }
   ],
   "version": {
