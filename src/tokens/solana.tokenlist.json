@@ -165844,6 +165844,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "9UGMFdqeQbNqu488mKYzsAwBu6P2gLJnsFeQZ29cGSEw",
+      "symbol": "SNV",
+      "name": "Solniverse",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9UGMFdqeQbNqu488mKYzsAwBu6P2gLJnsFeQZ29cGSEw/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solniverse.net/"
+      }
     }
   ],
   "version": {
