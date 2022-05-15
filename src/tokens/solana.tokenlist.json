@@ -165800,6 +165800,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Gtw39NL6rLvWrFQfatbvxEWZsGdU54EKLmqyjo5FQqkk",
+      "symbol": "DAKN",
+      "name": "Dakender Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dakender/Dakender-Coin/main/logo-dak.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EABJLPosabmVSpGdvxsQHfCg9qGhTf3a1oaAmbjKa92V",
+      "symbol": "STBN",
+      "name": "Stewbunie Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dakender/Stewbunie-Coin/main/logo-stew.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
