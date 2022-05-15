@@ -166126,6 +166126,14 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2xugPpLrsGxNq7zMC93bWPoL4YAQR3gQztoiB62wfDwu",
+      "symbol": "AJAX",
+      "name": "Ajax",
+      "decimals": 0,
+      "logoURI": "https://imgur.com/IcU4ub0.jpeg"
     }
   ],
   "version": {
