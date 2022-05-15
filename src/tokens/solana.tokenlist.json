@@ -165858,6 +165858,17 @@
       "extensions": {
         "website": "https://solniverse.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3YHijuF9GJLEFY1njrgKhhqvwSKUAruEAsKBZceNebpi",
+      "symbol": "DIPC",
+      "name": "DipCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/E-Liz/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
