@@ -165789,6 +165789,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DGJMicLBpwAc7UphNQ44qGVy6jgQkRwJEaKXx5mRKmA5",
+      "symbol": "MURC",
+      "name": "MurciCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/thorium31/Murchi/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
