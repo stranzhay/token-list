@@ -165778,6 +165778,17 @@
         "twitter": "https://twitter.com/FightCapitalNFT",
         "website": "http://fightcapital.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "32WEN49r7DqeyNArGd2hGcFinCCTFVrXjZSpMftA12ym",
+      "symbol": "ICED",
+      "name": "Icedawn Productions Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/32WEN49r7DqeyNArGd2hGcFinCCTFVrXjZSpMftA12ym/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
