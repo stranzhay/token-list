@@ -165980,6 +165980,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HczeKYQmeY6dNiEseTwWhtmgmzUuDNhNjgHggXkp1sCX",
+      "symbol": "eL",
+      "name": "eLcoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HczeKYQmeY6dNiEseTwWhtmgmzUuDNhNjgHggXkp1sCX/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
