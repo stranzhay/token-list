@@ -166083,6 +166083,22 @@
         "twitter": "https://twitter.com/fansublive",
         "website": "https://fansub.live"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DAG2E3z5MCjkcfjepiU3oTYo751xQR5Ak9qWgSkKc6au",
+      "symbol": "WLDAG",
+      "name": "DAG Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DAG2E3z5MCjkcfjepiU3oTYo751xQR5Ak9qWgSkKc6au/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/drunkapegangdao/",
+        "twitter": "https://twitter.com/DAGDAOv2",
+        "website": "https://www.drunkapegang.com/"
+      }
     }
   ],
   "version": {
