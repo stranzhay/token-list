@@ -166115,6 +166115,17 @@
       "extensions": {
         "twitter": "https://twitter.com/BACOIN_Official"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CJx9of9U5KsfYXcvPU5Wi3KNBpo8nLpqehVLffokYR2i",
+      "symbol": "RMCF",
+      "name": "Real Madrid CF",
+      "decimals": 0,
+      "logoURI": "https://imgur.com/BlY3PNB.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
