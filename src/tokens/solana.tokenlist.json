@@ -165880,6 +165880,17 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8S46ooYiMtmrvpJxg3P3cteEtPuhbvfM65rXj9ywdD4q",
+      "symbol": "FFn",
+      "name": "Fluffy Frens Whitelist Access Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8S46ooYiMtmrvpJxg3P3cteEtPuhbvfM65rXj9ywdD4q/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/nftfluffyfrens"
+      }
     }
   ],
   "version": {
