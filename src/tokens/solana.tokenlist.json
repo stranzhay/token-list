@@ -166005,6 +166005,17 @@
       "extensions": {
         "twitter": "https://twitter.com/droidcapital"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5LwkUHbof6yxaVJcc7TTc1oMoJpoJxEouidAamvwtCsX",
+      "symbol": "LYFE",
+      "name": "LYFE Token",
+      "decimals": 2,
+      "logoURI": "https://media.discordapp.net/attachments/926535226820276264/974752195864068126/20220514_004708.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
