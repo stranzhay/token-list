@@ -165858,6 +165858,28 @@
       "extensions": {
         "website": "https://solniverse.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3YHijuF9GJLEFY1njrgKhhqvwSKUAruEAsKBZceNebpi",
+      "symbol": "DIPC",
+      "name": "DipCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/E-Liz/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7B9ALzzrs2iefZvrDVwZiP8GrFw3957UyExpBAhFYKq2",
+      "symbol": "WLHALO",
+      "name": "WL HALO LABS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/halowl.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
