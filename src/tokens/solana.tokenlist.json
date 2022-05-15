@@ -165891,6 +165891,20 @@
       "extensions": {
         "twitter": "https://twitter.com/nftfluffyfrens"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SPCc5sh97jK7bvtxjvGZy94DX6Zi7GDQuZdxDFkxe4h",
+      "symbol": "SPCTK",
+      "name": "BHSG Spaceship Claim Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JetNnLZpbECCfyeZSvJdgg5gf37QfCkPrp2X8XfmNWn/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://bountyhunterspaceguild.com"
+      }
     }
   ],
   "version": {
