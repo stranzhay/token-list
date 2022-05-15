@@ -165905,6 +165905,70 @@
       "extensions": {
         "website": "https://bountyhunterspaceguild.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BENVbd7vc1sAks5xeAKMQVHP3qTqTXSHAJqTgbSgUdLw",
+      "symbol": "WTOY",
+      "name": "Whappy TOY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Wcworker/Wcdonalds/main/WTOY.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/WcdonaldsNFT",
+        "website": "https://wcdonalds.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5Gdcbs6SFEUyVb7z88obUToe1gRgUxPQQV95zrh3MZL",
+      "symbol": "WNFT",
+      "name": "Whappy NFT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Wcworker/Wcdonalds/main/WNFT.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/WcdonaldsNFT",
+        "website": "https://wcdonalds.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9QF3bA4kyccT241Pg9zC3ew63UAJokWnGCWMaa36WfnV",
+      "symbol": "WTIK",
+      "name": "Whappy Ticket",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Wcworker/Wcdonalds/main/WTIK.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/WcdonaldsNFT",
+        "website": "https://wcdonalds.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GpEbwsDYr5ER68oQPTf92YLT5HjQW9BV4XSa2yS4LfpT",
+      "symbol": "WTRY",
+      "name": "Whappy Try Again",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Wcworker/Wcdonalds/main/WTRY.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/WcdonaldsNFT",
+        "website": "https://wcdonalds.io"
+      }
     }
   ],
   "version": {
