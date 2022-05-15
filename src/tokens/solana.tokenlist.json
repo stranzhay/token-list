@@ -165833,6 +165833,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4Cz1spVURCwkwPVaAgGazrx12X8UT4YzEXoCivHkih3J",
+      "symbol": "DRNC",
+      "name": "DRN Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DuaneHill67/drn-crypto-01/main/drn-education-logo-crypto-300x300.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
