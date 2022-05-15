@@ -165969,6 +165969,17 @@
         "twitter": "https://twitter.com/WcdonaldsNFT",
         "website": "https://wcdonalds.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9Z9rp7jqeNprtdMBmFTeHaiy3dcAXbDC7uFQT9mUXZbv",
+      "symbol": "TAJ",
+      "name": "TajCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TajCoin54/Crypto/main/TajCoin-Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
