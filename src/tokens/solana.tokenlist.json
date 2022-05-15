@@ -166099,6 +166099,41 @@
         "twitter": "https://twitter.com/DAGDAOv2",
         "website": "https://www.drunkapegang.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4ViRrJaAzSkUifscKU3mRjP7sMH5AiHPs6q36hjoN6vE",
+      "symbol": "$BACON",
+      "name": "BACON",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ViRrJaAzSkUifscKU3mRjP7sMH5AiHPs6q36hjoN6vE/logo.png",
+      "tags": [
+        "utility-token",
+        "nft-token",
+        "cryptogame-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BACOIN_Official"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CJx9of9U5KsfYXcvPU5Wi3KNBpo8nLpqehVLffokYR2i",
+      "symbol": "RMCF",
+      "name": "Real Madrid CF",
+      "decimals": 0,
+      "logoURI": "https://imgur.com/BlY3PNB.png",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2xugPpLrsGxNq7zMC93bWPoL4YAQR3gQztoiB62wfDwu",
+      "symbol": "AJAX",
+      "name": "Ajax",
+      "decimals": 0,
+      "logoURI": "https://imgur.com/IcU4ub0.jpeg"
     }
   ],
   "version": {
