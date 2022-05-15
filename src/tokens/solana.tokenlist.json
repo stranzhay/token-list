@@ -166066,6 +166066,23 @@
       "extensions": {
         "twitter": "https://twitter.com/theinvasion_nft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5yBCtc2zMHwrK5YZafwwp153QYcJuGLZC5Xsujj2wZMh",
+      "symbol": "AC",
+      "name": "AC Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Fansub-Dev/fansub-crypto/main/logo.png",
+      "tags": [
+        "community",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/fansublive",
+        "website": "https://fansub.live"
+      }
     }
   ],
   "version": {
