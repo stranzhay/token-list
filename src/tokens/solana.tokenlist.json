@@ -165822,6 +165822,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GPxMP8BAoT5FULh1yK7Nu1bHSyBofUhWtUK5MWJ3hemp",
+      "symbol": "$HEMP",
+      "name": "CANNAVERSE HEMP TOKEN",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GPxMP8BAoT5FULh1yK7Nu1bHSyBofUhWtUK5MWJ3hemp/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4Cz1spVURCwkwPVaAgGazrx12X8UT4YzEXoCivHkih3J",
+      "symbol": "DRNC",
+      "name": "DRN Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DuaneHill67/drn-crypto-01/main/drn-education-logo-crypto-300x300.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
