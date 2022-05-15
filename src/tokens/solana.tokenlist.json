@@ -166016,6 +166016,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "odtZbFYqBbthaRU8nNKABN3yWB9sTrpTQrFq1XkDEdJ",
+      "symbol": "ODW",
+      "name": "Optimus Dino Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/odtZbFYqBbthaRU8nNKABN3yWB9sTrpTQrFq1XkDEdJ/logo.png"
     }
   ],
   "version": {
