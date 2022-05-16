@@ -166531,6 +166531,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FfMRKofNLF3Z38qcuvP72xr4t39kYnWUhwfgt8X7jigd",
+      "symbol": "CARTON",
+      "name": "CARTON",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FfMRKofNLF3Z38qcuvP72xr4t39kYnWUhwfgt8X7jigd/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CartonkidsNFT",
+        "website": "https://www.cartonkids.xyz/"
+      }
     }
   ],
   "version": {
