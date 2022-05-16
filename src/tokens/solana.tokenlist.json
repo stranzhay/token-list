@@ -166478,6 +166478,17 @@
         "twitter": "https://twitter.com/solaunchief",
         "website": "https://www.solaunchief.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4LmBST72YGpmv4GA26dXQs2ocwECmt19SYA7j4Ar1URb",
+      "symbol": "Soil",
+      "name": "Soil",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Datatolk/Solana/main/Soil%20logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
