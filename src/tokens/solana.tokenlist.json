@@ -166281,6 +166281,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4LAKVnUQFNSiMLdqNboynMf3KjctauodmEuEA6S3Xqu6",
+      "symbol": "GNS",
+      "name": "Genius Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jslhost/genius_coin_logo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
