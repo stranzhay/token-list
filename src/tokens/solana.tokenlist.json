@@ -166292,6 +166292,34 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 102,
+      "address": "Figt9t7AcUbYBxRaUZu7tkLZt3sDwk2Ge5c5RtLMUKvg",
+      "symbol": "STT",
+      "name": "Solana Test Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/daddydonke/gem-farm-ui/main/public/images/icon.png",
+      "tags": [
+        "testtoken"
+      ],
+      "extensions": {
+        "website": "https://www.solana.com/"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "CEhqvEgXz86KhRHBfyJD48eCZ9kocJnfSKy53DrcYyrX",
+      "symbol": "NST",
+      "name": "New Solana Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/InnoVetrov/Blockchain-token/main/logo.jpg",
+      "tags": [
+        "newtoken"
+      ],
+      "extensions": {
+        "website": "https://www.solana.com/"
+      }
     }
   ],
   "version": {
