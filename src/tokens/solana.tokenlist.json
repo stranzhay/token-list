@@ -166370,6 +166370,17 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9P3rqFGoJNbNgGtEaVX9rADzBY1L9DM37viqxUvByQU9",
+      "symbol": "LTC",
+      "name": "Lotus Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Aoisuki/coin_project/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
