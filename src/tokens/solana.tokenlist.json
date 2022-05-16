@@ -166179,6 +166179,17 @@
       "name": "Sleepy",
       "decimals": 9,
       "logoURI": "https://github.com/boosbasement/metaboss/blob/main/$sleepy.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "27KXQsTik6Uw67TMjRTaA6mciKYBqDATgwTobnCgSpQ2",
+      "symbol": "NF1",
+      "name": "Neon Formula One",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/felle64/crypto/main/0315-min.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
