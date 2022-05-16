@@ -166403,6 +166403,24 @@
       "name": "Ghekre Gorillaz WL token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HrTAyM65ePyJ48uSV4zw7oP7kDqNaM7MxwAUbbGwNVP5/icon.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BgnUXNGACSKpoba3P54APdQRSCtghSZndH5dq6kT6uR2",
+      "symbol": "DCATGT",
+      "name": "DCAT GOLD TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dcatmusicnft/token-list/main/assets/mainnet/BgnUXNGACSKpoba3P54APdQRSCtghSZndH5dq6kT6uR2/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/dcatmetaverse",
+        "instagram": "https://www.instagram.com/dcatmusicnft",
+        "telegram": "https://t.me/dcatmetaverse",
+        "twitter": "https://twitter.com/dcatmetaverse",
+        "website": "https://www.dcatmusic.com/"
+      }
     }
   ],
   "version": {
