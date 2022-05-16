@@ -166421,6 +166421,22 @@
         "twitter": "https://twitter.com/dcatmetaverse",
         "website": "https://www.dcatmusic.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6q7mSkFsgCspNwZCgBTgo7Q1RcmKo7P4DpKFy3PxAUXg",
+      "symbol": "NOROI",
+      "name": "Atama NOROI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AtamaNFT/crypto/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/adeEYRAbmy",
+        "twitter": "https://twitter.com/NorowaretaUchu",
+        "website": "https://atamanft.com/"
+      }
     }
   ],
   "version": {
