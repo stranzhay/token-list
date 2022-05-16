@@ -166259,6 +166259,28 @@
         "twitter": "https://twitter.com/TheGoomies",
         "website": "https://www.goomies.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5BwDHmAdRqv8Rbg73zHEgbbuLJ4TezoZWNzfcYy76Lfp",
+      "symbol": "GC",
+      "name": "Goubi Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/judysoukkari/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GXwm1z14osgRaQRNaszvLx3bTCdj3ANYZ7vbv6gwAYEP",
+      "symbol": "AX",
+      "name": "AX Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/amelie-project/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
