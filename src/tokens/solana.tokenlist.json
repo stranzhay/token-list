@@ -166270,6 +166270,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GXwm1z14osgRaQRNaszvLx3bTCdj3ANYZ7vbv6gwAYEP",
+      "symbol": "AX",
+      "name": "AX Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/amelie-project/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
