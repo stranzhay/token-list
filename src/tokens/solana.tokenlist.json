@@ -166437,6 +166437,47 @@
         "twitter": "https://twitter.com/NorowaretaUchu",
         "website": "https://atamanft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4NBLvi2sEzRFDUreaHARCagWTvzMWVjhw3qfDW3agF7J",
+      "symbol": "CDT",
+      "name": "Crypto Deity Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/b4dcat404/crypto_deity/main/logo.png",
+      "tags": [
+        "social-token",
+        "crypto-deity-token",
+        "gaming"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "NovawtDyKZ6feVg3EUjuZfVUtqtjGP4fkXwuQZWQS86",
+      "symbol": "NOVA",
+      "name": "NOVA PROGRAMMABLE ASSETS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BDrL8huis6S5tpmozaAaT5zhE5A7ZBAB2jMMvpKEeF8A/logo.svg",
+      "extensions": {
+        "twitter": "https://twitter.com/NovaFinance_"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HhWdM2VApdTkBL8sWgURrKhc3yGaGYtyKk2majWsC5dn",
+      "symbol": "$SLCF",
+      "name": "Solaunchief Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HhWdM2VApdTkBL8sWgURrKhc3yGaGYtyKk2majWsC5dn/logo.png",
+      "tags": [
+        "social-token",
+        "finance-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solaunchief",
+        "website": "https://www.solaunchief.xyz/"
+      }
     }
   ],
   "version": {
