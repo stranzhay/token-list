@@ -166437,6 +166437,19 @@
         "twitter": "https://twitter.com/NorowaretaUchu",
         "website": "https://atamanft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4NBLvi2sEzRFDUreaHARCagWTvzMWVjhw3qfDW3agF7J",
+      "symbol": "CDT",
+      "name": "Crypto Deity Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/b4dcat404/crypto_deity/main/logo.png",
+      "tags": [
+        "social-token",
+        "crypto-deity-token",
+        "gaming"
+      ]
     }
   ],
   "version": {
