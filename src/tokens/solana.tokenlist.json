@@ -166346,6 +166346,19 @@
       "extensions": {
         "website": "https://neon.game"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AqZ6KDci9ichNuz1WVYiWxmUdfsHsbXeYsSyJffF26kn",
+      "symbol": "FION",
+      "name": "Finoa Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/shahinabdi/Crypto/main/Logo.png",
+      "tags": [
+        "social-token",
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
