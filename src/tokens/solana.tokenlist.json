@@ -166507,6 +166507,19 @@
         "twitter": "https://twitter.com/_Robin_Token_",
         "website": "https://robintoken.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6MwT3xNSDqqe3zu4JX8iSFzdqU8xfv1MDA3u4brJ87Ct",
+      "symbol": "DWR",
+      "name": "Deep-Waters",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dwr-research/DWResearch/main/dwfinaudit.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "governance-token"
+      ]
     }
   ],
   "version": {
