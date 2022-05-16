@@ -166346,6 +166346,81 @@
       "extensions": {
         "website": "https://neon.game"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AqZ6KDci9ichNuz1WVYiWxmUdfsHsbXeYsSyJffF26kn",
+      "symbol": "FION",
+      "name": "Finoa Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/shahinabdi/Crypto/main/Logo.png",
+      "tags": [
+        "social-token",
+        "NFT",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "LjjVwwYJLCRW9vegYFj7y8kVp1nfw9j3nMG3VEkeMGr",
+      "symbol": "FEED",
+      "name": "Feederino",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jbeckmann1/feederino.coin/main/logo.png",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9P3rqFGoJNbNgGtEaVX9rADzBY1L9DM37viqxUvByQU9",
+      "symbol": "LTC",
+      "name": "Lotus Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Aoisuki/coin_project/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ZZZE4qEtwCEgNqhQVLkRqnY2rBwsWL3W1XaYDkhVRUx",
+      "symbol": "ZZZE",
+      "name": "ZENJIN VIPERZ OFFICIAL WL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZZZE4qEtwCEgNqhQVLkRqnY2rBwsWL3W1XaYDkhVRUx/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZenjinViperz"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HrTAyM65ePyJ48uSV4zw7oP7kDqNaM7MxwAUbbGwNVP5",
+      "symbol": "GGWL",
+      "name": "Ghekre Gorillaz WL token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HrTAyM65ePyJ48uSV4zw7oP7kDqNaM7MxwAUbbGwNVP5/icon.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BgnUXNGACSKpoba3P54APdQRSCtghSZndH5dq6kT6uR2",
+      "symbol": "DCATGT",
+      "name": "DCAT GOLD TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dcatmusicnft/token-list/main/assets/mainnet/BgnUXNGACSKpoba3P54APdQRSCtghSZndH5dq6kT6uR2/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/dcatmetaverse",
+        "instagram": "https://www.instagram.com/dcatmusicnft",
+        "telegram": "https://t.me/dcatmetaverse",
+        "twitter": "https://twitter.com/dcatmetaverse",
+        "website": "https://www.dcatmusic.com/"
+      }
     }
   ],
   "version": {
