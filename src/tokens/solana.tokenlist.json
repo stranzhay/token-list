@@ -166134,6 +166134,22 @@
       "name": "Ajax",
       "decimals": 0,
       "logoURI": "https://imgur.com/IcU4ub0.jpeg"
+    },
+    {
+      "chainId": 101,
+      "address": "6z1oue9xiJCHcDqsyeTZ3NHFVzqMHQSoZmTvVamdW2MZ",
+      "symbol": "BIG",
+      "name": "UNKWN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/h3ll0x/bigdaddytestpic/main/pinkguy.png",
+      "tags": [
+        "utility-token",
+        "virtual-currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/salestest11",
+        "website": "https://www.celestialzmarketplace.io/"
+      }
     }
   ],
   "version": {
