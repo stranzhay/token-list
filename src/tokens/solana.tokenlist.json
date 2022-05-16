@@ -166190,6 +166190,29 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "CaRBon66o8vaibpjDdAGz1Gt9GetvSFnXVUP1DoJE1L3",
+      "symbol": "kg",
+      "name": "Fractional Carbon Credit",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/carbon/carbon-credit.svg",
+      "tags": [
+        "carbon-coin",
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "polkadot",
+        "description": "Proof of Carbon Sequestration to be used as Carbon credit (unit: 1kg CO2e)",
+        "imageUrl": "https://bafybeid7dw4tdtbuj5pn4gqlqooajzfaecujcupwzgu2bp6p6z46qlv2g4.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "website": "https://PurpleZone.github.io/NFTs/carbon/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf"
+      }
     }
   ],
   "version": {
