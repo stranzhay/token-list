@@ -166381,6 +166381,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ZZZE4qEtwCEgNqhQVLkRqnY2rBwsWL3W1XaYDkhVRUx",
+      "symbol": "ZZZE",
+      "name": "ZENJIN VIPERZ OFFICIAL WL TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZZZE4qEtwCEgNqhQVLkRqnY2rBwsWL3W1XaYDkhVRUx/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZenjinViperz"
+      }
     }
   ],
   "version": {
