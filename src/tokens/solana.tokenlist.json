@@ -166520,6 +166520,17 @@
         "community-token",
         "governance-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "A7myaSTanmpsa79NiMojGkxU9WfWDjS6wE7ei6EjxmV5",
+      "symbol": "ACHV",
+      "name": "AchievementCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/YenteCeulemans/Crypto/main/CryptoCirkel.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
