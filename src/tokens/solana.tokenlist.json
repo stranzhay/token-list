@@ -166559,6 +166559,37 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Gi2AYxsjmRTDTKbNSaq7ieZ2WmWLZyvgQtnupqFPiDH7",
+      "symbol": "AMCWL",
+      "name": "Ancient Meta Cats WL Access",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gi2AYxsjmRTDTKbNSaq7ieZ2WmWLZyvgQtnupqFPiDH7/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/metacats",
+        "instagram": "https://www.instagram.com/AncientMetaCats/",
+        "twitter": "https://twitter.com/AncientMetaCats",
+        "website": "https://ancientmetacats.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DvaTtZB5XbJysHvAi4qAgN9gEQU3g4Dgy1w2eo5vuLUV",
+      "symbol": "HTC",
+      "name": "HF-Fund Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DvaTtZB5XbJysHvAi4qAgN9gEQU3g4Dgy1w2eo5vuLUV/fh-logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.fh-fund.org.ua/en"
+      }
     }
   ],
   "version": {
