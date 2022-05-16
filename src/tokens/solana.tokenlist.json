@@ -166213,6 +166213,17 @@
         "website": "https://PurpleZone.github.io/NFTs/carbon/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7eYfqg7yeWVSVQPRP4LEo7oZ93RaCXExn4JLgrcWtUd6",
+      "symbol": "DOMEIN",
+      "name": "Domein Bergen community-coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/SicoDM/crypto/blob/main/logo.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
