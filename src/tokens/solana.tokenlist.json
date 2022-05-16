@@ -166478,6 +166478,59 @@
         "twitter": "https://twitter.com/solaunchief",
         "website": "https://www.solaunchief.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4LmBST72YGpmv4GA26dXQs2ocwECmt19SYA7j4Ar1URb",
+      "symbol": "Soil",
+      "name": "Soil",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Datatolk/Solana/main/Soil%20logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9bnKvEK2ymzbrtKGeCSbDtn7Dr1afCQoTTH1y4fL5seK",
+      "symbol": "RBN",
+      "name": "Robin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9bnKvEK2ymzbrtKGeCSbDtn7Dr1afCQoTTH1y4fL5seK/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/XcYRWpbm7Z",
+        "instagram": "https://www.instagram.com/_robin_token_/",
+        "telegram": "https://t.me/robintoken",
+        "twitter": "https://twitter.com/_Robin_Token_",
+        "website": "https://robintoken.net/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6MwT3xNSDqqe3zu4JX8iSFzdqU8xfv1MDA3u4brJ87Ct",
+      "symbol": "DWR",
+      "name": "Deep-Waters",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dwr-research/DWResearch/main/dwfinaudit.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "governance-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "A7myaSTanmpsa79NiMojGkxU9WfWDjS6wE7ei6EjxmV5",
+      "symbol": "ACHV",
+      "name": "AchievementCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/YenteCeulemans/Crypto/main/CryptoCirkel.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
