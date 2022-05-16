@@ -166320,6 +166320,17 @@
       "extensions": {
         "website": "https://www.solana.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C4mtUoREqECRPC78tBBfjLuC5TwVaLhPDaz6Rb3ddyBo",
+      "symbol": "INNO",
+      "name": "Inno Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/InnoVetrov/Blockchain-token/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
