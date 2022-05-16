@@ -166461,6 +166461,23 @@
       "extensions": {
         "twitter": "https://twitter.com/NovaFinance_"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HhWdM2VApdTkBL8sWgURrKhc3yGaGYtyKk2majWsC5dn",
+      "symbol": "$SLCF",
+      "name": "Solaunchief Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HhWdM2VApdTkBL8sWgURrKhc3yGaGYtyKk2majWsC5dn/logo.png",
+      "tags": [
+        "social-token",
+        "finance-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solaunchief",
+        "website": "https://www.solaunchief.xyz/"
+      }
     }
   ],
   "version": {
