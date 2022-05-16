@@ -166171,6 +166171,14 @@
         "twitter": "https://twitter.com/eraspheres",
         "website": "https://eraspheres.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TupVw9WuoZQZ3Zb2kegZvf8xrwEo2EGwx7gB79P5gx4",
+      "symbol": "SLEEPY",
+      "name": "Sleepy",
+      "decimals": 9,
+      "logoURI": "https://github.com/boosbasement/metaboss/blob/main/$sleepy.png?raw=true"
     }
   ],
   "version": {
