@@ -166450,6 +166450,17 @@
         "crypto-deity-token",
         "gaming"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "NovawtDyKZ6feVg3EUjuZfVUtqtjGP4fkXwuQZWQS86",
+      "symbol": "NOVA",
+      "name": "NOVA PROGRAMMABLE ASSETS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BDrL8huis6S5tpmozaAaT5zhE5A7ZBAB2jMMvpKEeF8A/logo.svg",
+      "extensions": {
+        "twitter": "https://twitter.com/NovaFinance_"
+      }
     }
   ],
   "version": {
