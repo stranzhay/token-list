@@ -166598,6 +166598,24 @@
       "name": "SCREAM",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TokkUDv5pRKTJNAs8ceraoKC2JUThjuj8LAHXoTAUsZ/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GLS5WLSpjdDo7z9AVscccA85vfqt1qHTuMiU6oynYCyB",
+      "symbol": "NEKO",
+      "name": "NEKO Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GLS5WLSpjdDo7z9AVscccA85vfqt1qHTuMiU6oynYCyB/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/Ge3XntNb53",
+        "instagram": "https://instagram.com/pluginio",
+        "telegram": "https://t.me/pluginio",
+        "twitter": "https://twitter.com/pluginio",
+        "website": "https://plugin.io"
+      }
     }
   ],
   "version": {
