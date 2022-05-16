@@ -166242,6 +166242,23 @@
         "twitter": "https://twitter.com/mk_cryptopunks",
         "website": "https://www.monkeycryptopunks.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "aoUpST1bQEgCqYGbgq1e1rU4wyg2bf8R7UfAJSjbKX7",
+      "symbol": "GOOM",
+      "name": "GoomCoin",
+      "decimals": 6,
+      "logoURI": "https://drive.google.com/file/d/1hacK8KWncwESO_qamhNzQEJsm_AnAigb/view",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/NT83yQv3qd",
+        "twitter": "https://twitter.com/TheGoomies",
+        "website": "https://www.goomies.io/"
+      }
     }
   ],
   "version": {
