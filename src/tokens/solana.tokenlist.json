@@ -166548,6 +166548,17 @@
         "twitter": "https://twitter.com/CartonkidsNFT",
         "website": "https://www.cartonkids.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FtssCcc6aYaadQbuopCPJnpaku3YaVkP7kB1KNzF2nkR",
+      "symbol": "JOTC",
+      "name": "JokerOfTimeCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mrlowbot/Crypto/main/crypto.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
