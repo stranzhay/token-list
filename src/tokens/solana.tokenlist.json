@@ -167025,6 +167025,22 @@
         "twitter": "https://twitter.com/GameHubNFT",
         "website": "https://www.gamehub.is/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BANANAs2SCcdFmZw3ahhM9PpQ1GhdgpxJ6mcARTuSzQc",
+      "symbol": "BANANA",
+      "name": "AOWS Banana",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BANANAs2SCcdFmZw3ahhM9PpQ1GhdgpxJ6mcARTuSzQc/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/apesofwallstreet",
+        "twitter": "https://twitter.com/ApesOfWallStNFT",
+        "website": "https://www.apesofwallstreetnft.com"
+      }
     }
   ],
   "version": {
