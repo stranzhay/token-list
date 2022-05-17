@@ -166933,6 +166933,98 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FD2AYBKWQJ3oySdffANDCejBGYv3etrfzuyhKoMg1sab",
+      "symbol": "LEAN",
+      "name": "Leancoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Phongii/crypto/main/logo.png.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6JKtKEFiyp67VPN61nTCyUpY1cLrAZ7qpXiBsKqWZqWh",
+      "symbol": "tsRAY",
+      "name": "tsRAY",
+      "decimals": 6,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/168856965-d216c773-a3ad-4e9c-b6f8-f64025c735a5.png",
+      "tags": [
+        "solfarm",
+        "tulip",
+        "lending",
+        "strategy"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/tulip",
+        "twitter": "https://twitter.com/TulipProtocol",
+        "website": "https://tulip.garden/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AHV6CBjuT7M2HMMKDa5gRSEoBcJGWVjURCBhpgMbyESX",
+      "symbol": "tsUSDT",
+      "name": "tsUSDT",
+      "decimals": 6,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/168857135-62593b94-1dcd-42d7-8373-ee505a006ed9.png",
+      "tags": [
+        "solfarm",
+        "tulip",
+        "lending",
+        "strategy"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/tulip",
+        "twitter": "https://twitter.com/TulipProtocol",
+        "website": "https://tulip.garden/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DgnaQdr5VkNbH7n8qN471Hgsw19hUbMBhUs1N3MQKgtu",
+      "symbol": "tsSOL",
+      "name": "tsSOL",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/168851932-17ddaac9-979b-4c2f-9838-4a397d961722.png",
+      "tags": [
+        "solfarm",
+        "tulip",
+        "lending",
+        "strategy"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/tulip",
+        "twitter": "https://twitter.com/TulipProtocol",
+        "website": "https://tulip.garden/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FrYsXT2tdyRCL9wGapgWkL1YAWU8pUk7x4rcR2LLhade",
+      "symbol": "MARS",
+      "name": "MissionMars",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fboch25/solana-token-creation/main/iphone_app60x60%403x.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7iE3sX7yTTg9Pn8P4nC99gii9MezNK9cPVz3XqEj17yg",
+      "symbol": "HUB",
+      "name": "HUBTOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7iE3sX7yTTg9Pn8P4nC99gii9MezNK9cPVz3XqEj17yg/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/gamehubnft",
+        "twitter": "https://twitter.com/GameHubNFT",
+        "website": "https://www.gamehub.is/"
+      }
     }
   ],
   "version": {
