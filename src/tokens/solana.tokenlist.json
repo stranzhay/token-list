@@ -167215,6 +167215,23 @@
         "website": "https://PurpleZone.github.io/NFTs/btcz/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmYaMUFdqHmTk4V3HLfHwK3pq8d3Tqpk8s96ftb7WUkS1w/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J64w7g38vBf6XZwie14pJJYSwdTxutEX5XB1dDcDBH4n",
+      "symbol": "$YUMI",
+      "name": "YUMI Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J64w7g38vBf6XZwie14pJJYSwdTxutEX5XB1dDcDBH4n/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Utility Token For Takashi Ronin",
+        "discord": "https://discord.gg/takashironin",
+        "twitter": "https://twitter.com/TakashiRonin",
+        "website": "https://www.takashironin.com"
+      }
     }
   ],
   "version": {
