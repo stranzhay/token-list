@@ -166922,6 +166922,17 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3v2o7RSMPpXCPjmE3ANeiqUTHnKX2CFMVuoAj2EdR9ve",
+      "symbol": "$HEART",
+      "name": "HEART",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/HeartOfficial/Heart-v1/main/Heart%20Logo%20V1.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
