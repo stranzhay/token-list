@@ -167001,6 +167001,17 @@
         "twitter": "https://twitter.com/TulipProtocol",
         "website": "https://tulip.garden/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FrYsXT2tdyRCL9wGapgWkL1YAWU8pUk7x4rcR2LLhade",
+      "symbol": "MARS",
+      "name": "MissionMars",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fboch25/solana-token-creation/main/iphone_app60x60%403x.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
