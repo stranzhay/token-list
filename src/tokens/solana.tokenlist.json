@@ -166933,6 +166933,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FD2AYBKWQJ3oySdffANDCejBGYv3etrfzuyhKoMg1sab",
+      "symbol": "LEAN",
+      "name": "Leancoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Phongii/crypto/main/logo.png.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
