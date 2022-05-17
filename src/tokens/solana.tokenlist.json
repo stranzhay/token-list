@@ -166850,6 +166850,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "79BXbiiN5HcXH1vRHbQgs9T9Qmae9por26ULEMXuaP7L",
+      "symbol": "$PARENT",
+      "name": "PARENT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/PARENT_coin.png"
     }
   ],
   "version": {
