@@ -166768,6 +166768,21 @@
         "website": "https://swim.io/",
         "whitepaper": "https://swim.io/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2ng5Y3i1qXPfSNSuyps4GzE2csa9V268SrwHkxwhkZ7R",
+      "symbol": "3KNG",
+      "name": "3KingzKaterin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/WiZzMaN47/CryptoToken/main/PicsArt_02-11-02.05.26.jpg",
+      "tags": [
+        "social-token",
+        "3KingzKaterin",
+        "3KNG",
+        "420",
+        "MzpHX420"
+      ]
     }
   ],
   "version": {
