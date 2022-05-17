@@ -166885,6 +166885,31 @@
       "extensions": {
         "website": "https://edensol.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Dms1zJEcmRsxv4QP3JZfMz9Bo8arYAsYdeSGyncnnFM",
+      "symbol": "SUNF",
+      "name": "SunflowerF",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/ELFatimazahra02/crypto/main/attachment_60759885.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5kDKM99M919G4xQgbUQLAbTHmN4msR5JsRP9aSbDrfMz",
+      "symbol": "$WFC",
+      "name": "Wild Fox Cash",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/WildFoxClub/asset/main/Logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://wildfoxclub.com/"
+      }
     }
   ],
   "version": {
