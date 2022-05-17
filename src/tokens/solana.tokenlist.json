@@ -166874,6 +166874,17 @@
       "name": "GSWL",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/GSWL_coin.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FKuNiWqyAaNpc6LpNvR84qcX411WPm3UT42jZy6wZeRf",
+      "symbol": "NSOL",
+      "name": "EdenSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FKuNiWqyAaNpc6LpNvR84qcX411WPm3UT42jZy6wZeRf/logo.png",
+      "extensions": {
+        "website": "https://edensol.net/"
+      }
     }
   ],
   "version": {
