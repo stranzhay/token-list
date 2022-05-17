@@ -167155,6 +167155,21 @@
         "website": "https://PurpleZone.github.io/NFTs/anchorcoin/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmXwMs5cRBesM4fWY6Sdqz9unkMUfCNmmypj19c1JvBDYk/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7i7LiEhcmoqSefeWG2v9v7nXoXNywBT3aMgnt7sz5fAZ",
+      "symbol": "GLUG",
+      "name": "GLUG Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/onuraladi/GlugToken/main/glugtoken.png",
+      "tags": [
+        "art-token",
+        "financial-token",
+        "monetary-token",
+        "educational-token",
+        "project-token"
+      ]
     }
   ],
   "version": {
