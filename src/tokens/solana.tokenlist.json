@@ -166811,6 +166811,34 @@
         "twitter": "https://twitter.com/lunawolvesnft",
         "website": "https://www.worldofwolves.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FdabruMo1vKVdFMVKiCCN3iJZyvCEFNkGjJVKfL3LZs9",
+      "symbol": "INTEL",
+      "name": "INTEL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FdabruMo1vKVdFMVKiCCN3iJZyvCEFNkGjJVKfL3LZs9/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://sectorh.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HixHwyVf1fLLYbEHdjEjmhrYN274EVDKENa9xoogqXdv",
+      "symbol": "XCHI",
+      "name": "XCHI Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HixHwyVf1fLLYbEHdjEjmhrYN274EVDKENa9xoogqXdv/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Mantis_Chick"
+      }
     }
   ],
   "version": {
