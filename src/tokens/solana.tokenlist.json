@@ -167012,6 +167012,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7iE3sX7yTTg9Pn8P4nC99gii9MezNK9cPVz3XqEj17yg",
+      "symbol": "HUB",
+      "name": "HUBTOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7iE3sX7yTTg9Pn8P4nC99gii9MezNK9cPVz3XqEj17yg/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/gamehubnft",
+        "twitter": "https://twitter.com/GameHubNFT",
+        "website": "https://www.gamehub.is/"
+      }
     }
   ],
   "version": {
