@@ -167079,6 +167079,59 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6H2U4ueSn1K1U9LSMGNV4u2oTeApup47J38hn5BJ63Qa",
+      "symbol": "LMC",
+      "name": "Limbocoin ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Novak-Fenocchio/LimboCoin/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6G2pWrzW5SzsQbpU6LLn5AJwV9FASCWvTNfAPKyFCKHV",
+      "symbol": "JELLY_WL_ONE",
+      "name": "JELLYBABIES PHASE ONE WHITELIST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3PGgQnN1icXNscLCjwF6zdyeCrDP4vmBg6LBK5MLdAC4/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wzEfUjmpFw",
+        "twitter": "https://twitter.com/JellyBabiesNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9VthVfjnNoeBzPpN4Dk8U4Nhn5g96ddLb8aAc9xJKiGv",
+      "symbol": "JELLY_WL_TWO",
+      "name": "JELLYBABIES PHASE TWO WHITELIST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3PGgQnN1icXNscLCjwF6zdyeCrDP4vmBg6LBK5MLdAC4/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wzEfUjmpFw",
+        "twitter": "https://twitter.com/JellyBabiesNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "73pWtZwP3bq5XUYQdPi4jkchGKJpL3pR5U93rh1oFJV3",
+      "symbol": "JELLY_WL_THREE",
+      "name": "JELLYBABIES PHASE THREE WHITELIST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3PGgQnN1icXNscLCjwF6zdyeCrDP4vmBg6LBK5MLdAC4/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/wzEfUjmpFw",
+        "twitter": "https://twitter.com/JellyBabiesNFT"
+      }
     }
   ],
   "version": {
