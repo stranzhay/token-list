@@ -167057,6 +167057,17 @@
       "extensions": {
         "twitter": "https://twitter.com/partyparrotsdao"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "q4n1gKnvhPXiHNq5EroZDEbHt1WFuJ1tJjj5xUX5B5G",
+      "symbol": "LYUM",
+      "name": "Project Lylium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/proDestiny/TokenLylium/main/LOGO.jpg",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
