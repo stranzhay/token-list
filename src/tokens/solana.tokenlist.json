@@ -167155,6 +167155,43 @@
         "website": "https://PurpleZone.github.io/NFTs/anchorcoin/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmXwMs5cRBesM4fWY6Sdqz9unkMUfCNmmypj19c1JvBDYk/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7i7LiEhcmoqSefeWG2v9v7nXoXNywBT3aMgnt7sz5fAZ",
+      "symbol": "GLUG",
+      "name": "GLUG Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/onuraladi/GlugToken/main/glugtoken.png",
+      "tags": [
+        "art-token",
+        "financial-token",
+        "monetary-token",
+        "educational-token",
+        "project-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BZEBAESPFUs5BxapADhzLCuNCdKxbXD9SwZ48StYrh9X",
+      "symbol": "1689",
+      "name": "1689 Continental",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Kryptoenterprise/Crypto/main/LogoPlain.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ANbgghBCZS7bN899tcS4RK6ndtAShoLEoReDN8W6ujPL",
+      "symbol": "RCN",
+      "name": "Rapid Cash Network",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rohitz308/crypto/main/Rapid%20Cash.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
