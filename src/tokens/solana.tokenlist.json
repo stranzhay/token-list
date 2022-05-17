@@ -166910,6 +166910,18 @@
       "extensions": {
         "website": "https://wildfoxclub.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FMYExjhXQHErTxAFFwMp7VRjvtoYKWciyztxwsrAdAmf",
+      "symbol": "CRS",
+      "name": "Car Shadows",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Shadowhashem/shadowcars/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
