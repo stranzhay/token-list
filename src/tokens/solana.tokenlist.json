@@ -167041,6 +167041,22 @@
         "twitter": "https://twitter.com/ApesOfWallStNFT",
         "website": "https://www.apesofwallstreetnft.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2mtG2SXAUPBewyFX4evjmCBH5MZHAiA7VFmVVFTxcvQA",
+      "symbol": "PAGMI",
+      "name": "PAGMI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2mtG2SXAUPBewyFX4evjmCBH5MZHAiA7VFmVVFTxcvQA/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/partyparrotsdao"
+      }
     }
   ],
   "version": {
