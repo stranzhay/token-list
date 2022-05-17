@@ -167170,6 +167170,17 @@
         "educational-token",
         "project-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BZEBAESPFUs5BxapADhzLCuNCdKxbXD9SwZ48StYrh9X",
+      "symbol": "1689",
+      "name": "1689 Continental",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Kryptoenterprise/Crypto/main/LogoPlain.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
