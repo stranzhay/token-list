@@ -166768,6 +166768,33 @@
         "website": "https://swim.io/",
         "whitepaper": "https://swim.io/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2ng5Y3i1qXPfSNSuyps4GzE2csa9V268SrwHkxwhkZ7R",
+      "symbol": "3KNG",
+      "name": "3KingzKaterin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/WiZzMaN47/CryptoToken/main/PicsArt_02-11-02.05.26.jpg",
+      "tags": [
+        "social-token",
+        "3KingzKaterin",
+        "3KNG",
+        "420",
+        "MzpHX420"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "c2Moo4p2343VHsEtCVXSsx5D1dLCdhJQAb8dGXsjBsy",
+      "symbol": "YUKAG",
+      "name": "YUKON Silver",
+      "decimals": 9,
+      "logoURI": "https://static.wixstatic.com/media/4b5c4d_70908113a6b94c1ea6034a291ca026c6~mv2.png",
+      "tags": [
+        "community-token",
+        "trading-token"
+      ]
     }
   ],
   "version": {
