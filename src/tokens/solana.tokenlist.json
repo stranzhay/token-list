@@ -166616,6 +166616,158 @@
         "twitter": "https://twitter.com/pluginio",
         "website": "https://plugin.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DKwsWeqHrB8R1u2DFMHKtq4iqaQNgPgUbHTJyXPqkTzK",
+      "symbol": "swimUSD-avalUSDC",
+      "name": "Swim AVAX USDC Meta-pool LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DKwsWeqHrB8R1u2DFMHKtq4iqaQNgPgUbHTJyXPqkTzK/lp_metapool_avalanche_usdc.svg",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "blog": "https://blog.swim.io",
+        "discord": "https://discord.gg/wGrxQ7GAgP",
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "twitter": "https://twitter.com/SwimProtocol",
+        "website": "https://swim.io/",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5rwvDmUbcnZTwZ4Zywev2wnDbyDDD2vcsGU2Xmy7aRNS",
+      "symbol": "swimUSD-avalUSDT",
+      "name": "Swim AVAX USDT Meta-pool LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5rwvDmUbcnZTwZ4Zywev2wnDbyDDD2vcsGU2Xmy7aRNS/lp_metapool_avalanche_usdt.svg",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "blog": "https://blog.swim.io",
+        "discord": "https://discord.gg/wGrxQ7GAgP",
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "twitter": "https://twitter.com/SwimProtocol",
+        "website": "https://swim.io/",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ANFojEXhiEQQoovhBs77XmBQuqbe59UBygRWViyf4945",
+      "symbol": "swimUSD-polyUSDC",
+      "name": "Swim Polygon USDC Meta-pool LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ANFojEXhiEQQoovhBs77XmBQuqbe59UBygRWViyf4945/lp_metapool_polygon_usdc.svg",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "blog": "https://blog.swim.io",
+        "discord": "https://discord.gg/wGrxQ7GAgP",
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "twitter": "https://twitter.com/SwimProtocol",
+        "website": "https://swim.io/",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2Nx6L79dHHgHcJtNfZWukQkWZvf5h4bps34zuh1gjtdP",
+      "symbol": "swimUSD-polyUSDT",
+      "name": "Swim Polygon USDT Meta-pool LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Nx6L79dHHgHcJtNfZWukQkWZvf5h4bps34zuh1gjtdP/lp_metapool_polygon_usdt.svg",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "blog": "https://blog.swim.io",
+        "discord": "https://discord.gg/wGrxQ7GAgP",
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "twitter": "https://twitter.com/SwimProtocol",
+        "website": "https://swim.io/",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J5ifGexAQTg76TresJhJSqTPJLT6BNxrV5rwNJTTz4Cx",
+      "symbol": "swimUSD-fantUSDC",
+      "name": "Swim Fantom USDC Meta-pool LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J5ifGexAQTg76TresJhJSqTPJLT6BNxrV5rwNJTTz4Cx/lp_metapool_fantom_usdc.svg",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "blog": "https://blog.swim.io",
+        "discord": "https://discord.gg/wGrxQ7GAgP",
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "twitter": "https://twitter.com/SwimProtocol",
+        "website": "https://swim.io/",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3eXCU7YoiCq3rZ6787pPFJE7TXBsKuTZ49wH2kFnuTeF",
+      "symbol": "swimUSD-auroUSN",
+      "name": "Swim Aurora USN Meta-pool LP",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3eXCU7YoiCq3rZ6787pPFJE7TXBsKuTZ49wH2kFnuTeF/lp_metapool_aurora_usn.svg",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "blog": "https://blog.swim.io",
+        "discord": "https://discord.gg/wGrxQ7GAgP",
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "twitter": "https://twitter.com/SwimProtocol",
+        "website": "https://swim.io/",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9qRe2nBrR2rTXxRaV1PZN9hZnqq3UXgoFWTbP6NE3MEu",
+      "symbol": "swimUSD-auroUSDC",
+      "name": "Swim Aurora USDC Meta-pool LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9qRe2nBrR2rTXxRaV1PZN9hZnqq3UXgoFWTbP6NE3MEu/lp_metapool_aurora_usdc.svg",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "blog": "https://blog.swim.io",
+        "discord": "https://discord.gg/wGrxQ7GAgP",
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "twitter": "https://twitter.com/SwimProtocol",
+        "website": "https://swim.io/",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4XPDxtGbcM7bAPKZxALd2s862n3WoG4xPPvyCPVULKAb",
+      "symbol": "swimUSD-auroUSDT",
+      "name": "Swim Aurora USDT Meta-pool LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4XPDxtGbcM7bAPKZxALd2s862n3WoG4xPPvyCPVULKAb/lp_metapool_aurora_usdt.svg",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "blog": "https://blog.swim.io",
+        "discord": "https://discord.gg/wGrxQ7GAgP",
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "twitter": "https://twitter.com/SwimProtocol",
+        "website": "https://swim.io/",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
+      }
     }
   ],
   "version": {
