@@ -166896,6 +166896,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5kDKM99M919G4xQgbUQLAbTHmN4msR5JsRP9aSbDrfMz",
+      "symbol": "$WFC",
+      "name": "Wild Fox Cash",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/WildFoxClub/asset/main/Logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://wildfoxclub.com/"
+      }
     }
   ],
   "version": {
