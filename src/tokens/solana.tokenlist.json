@@ -167181,6 +167181,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ANbgghBCZS7bN899tcS4RK6ndtAShoLEoReDN8W6ujPL",
+      "symbol": "RCN",
+      "name": "Rapid Cash Network",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rohitz308/crypto/main/Rapid%20Cash.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
