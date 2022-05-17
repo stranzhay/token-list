@@ -167025,6 +167025,49 @@
         "twitter": "https://twitter.com/GameHubNFT",
         "website": "https://www.gamehub.is/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BANANAs2SCcdFmZw3ahhM9PpQ1GhdgpxJ6mcARTuSzQc",
+      "symbol": "BANANA",
+      "name": "AOWS Banana",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BANANAs2SCcdFmZw3ahhM9PpQ1GhdgpxJ6mcARTuSzQc/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/apesofwallstreet",
+        "twitter": "https://twitter.com/ApesOfWallStNFT",
+        "website": "https://www.apesofwallstreetnft.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2mtG2SXAUPBewyFX4evjmCBH5MZHAiA7VFmVVFTxcvQA",
+      "symbol": "PAGMI",
+      "name": "PAGMI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2mtG2SXAUPBewyFX4evjmCBH5MZHAiA7VFmVVFTxcvQA/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/partyparrotsdao"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "q4n1gKnvhPXiHNq5EroZDEbHt1WFuJ1tJjj5xUX5B5G",
+      "symbol": "LYUM",
+      "name": "Project Lylium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/proDestiny/TokenLylium/main/LOGO.jpg",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
