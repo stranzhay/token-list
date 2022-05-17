@@ -167068,6 +167068,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5XG32F6fSbnAzyG348FjUnSLQxw3cxgPFnBSo7UfSXKH",
+      "symbol": "DWBLN",
+      "name": "Dawbloon",
+      "decimals": 9,
+      "logoURI": "https://imgix.cosmicjs.com/556be6e0-d608-11ec-bb19-d9085ce408df-Icon.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
