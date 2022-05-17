@@ -166839,6 +166839,17 @@
       "extensions": {
         "twitter": "https://twitter.com/Mantis_Chick"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HJK8mdAx5gZqW7Y9riSF3A1gR41pmR26c4GhmHtcvuz",
+      "symbol": "CLDZ",
+      "name": "Clouderz Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/elijahbrookss/crypto/main/noob_with_panV4.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
