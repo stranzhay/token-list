@@ -166982,6 +166982,25 @@
         "twitter": "https://twitter.com/TulipProtocol",
         "website": "https://tulip.garden/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DgnaQdr5VkNbH7n8qN471Hgsw19hUbMBhUs1N3MQKgtu",
+      "symbol": "tsSOL",
+      "name": "tsSOL",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/168851932-17ddaac9-979b-4c2f-9838-4a397d961722.png",
+      "tags": [
+        "solfarm",
+        "tulip",
+        "lending",
+        "strategy"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/tulip",
+        "twitter": "https://twitter.com/TulipProtocol",
+        "website": "https://tulip.garden/"
+      }
     }
   ],
   "version": {
