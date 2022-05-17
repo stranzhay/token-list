@@ -167132,6 +167132,29 @@
         "discord": "https://discord.com/invite/wzEfUjmpFw",
         "twitter": "https://twitter.com/JellyBabiesNFT"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "nchrLQC3YT6kepn9JvepyDDwRMQDyZXqQ29P85Q22qf",
+      "symbol": "a-btc",
+      "name": "Anchored Bitcoin",
+      "decimals": 10,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/anchorcoin/anchorcoin.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "bitcoin",
+        "description": "Anchoring Bitcoin to the right value: people",
+        "imageUrl": "https://bafybeignxjpwr5lp7zcnxlitnz2kf65zclybls2hxlwc7rgzmqp7ys54ta.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/anchorcoin/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmXwMs5cRBesM4fWY6Sdqz9unkMUfCNmmypj19c1JvBDYk/whitepaper.pdf"
+      }
     }
   ],
   "version": {
