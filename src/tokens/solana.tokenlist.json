@@ -167316,6 +167316,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "gLhY2arqFpmVGkpbBbTi3TeWbsWevA8dqrwbKacK3vJ",
+      "symbol": "tuUSDT",
+      "name": "tuUSDT",
+      "decimals": 6,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/169034746-d2bef331-4829-442f-8f91-5556e7c60d28.png",
+      "tags": [
+        "tulip-protocol",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/tulip",
+        "twitter": "https://twitter.com/TulipProtocol",
+        "website": "https://tulip.garden/"
+      }
     }
   ],
   "version": {
