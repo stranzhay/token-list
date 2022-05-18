@@ -167524,6 +167524,18 @@
         "bears",
         "Crax"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8oXhRzmhmf12yrhqHWuso4bKqGnsLNmBfAY2U8w7HwWW",
+      "symbol": "GBARS",
+      "name": "Gold Bars",
+      "decimals": 9,
+      "logoURI": "https://raw.githack.com/solanafrontier/tokenlogo/main/frontier.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
