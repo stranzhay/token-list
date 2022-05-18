@@ -167536,6 +167536,17 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4vasoS3ZVVEaaoMqPFJUbd7s5sbJE2WVt8a6QZNZx64u",
+      "symbol": "KUNAI",
+      "name": "Kunai",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/floppy-labs/public-images/master/kunaitoken.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
