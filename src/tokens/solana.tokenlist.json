@@ -167385,6 +167385,33 @@
       "tags": [
         "dodgy-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CTYiHf58UGShfHtpkTwx7vjPDA779dd6iVaeD281fEVx",
+      "symbol": "HUNT",
+      "name": "Hunter Diamond",
+      "decimals": 9,
+      "logoURI": "https://tokenhunters.app/assets/img/icons/chest-close.svg"
+    },
+    {
+      "chainId": 101,
+      "address": "GRsoqmhsS7fCLpEqqE7oRM92ag3WVy8VbJAi6KfWSeHS",
+      "symbol": "BBI",
+      "name": "Bridgesplit Brand Index",
+      "decimals": 2,
+      "logoURI": "https://i.imgur.com/lbvoBFh.png",
+      "tags": [
+        "unstoppable-domains",
+        "domains",
+        "bridgesplit-fraction",
+        "curated-index"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/curated-index/GRsoqmhsS7fCLpEqqE7oRM92ag3WVy8VbJAi6KfWSeHS"
+      }
     }
   ],
   "version": {
