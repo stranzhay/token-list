@@ -167429,6 +167429,40 @@
         "twitter": "https://twitter.com/StonerCupsNFT",
         "website": "https://stonercups.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Xy3Z4fW8wmEPMopehpzAaS6VKiVUJU8BGbDppPUKsX8",
+      "symbol": "DACO",
+      "name": "DanielCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ch-daniel/crypto/main/token-logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4VcGrPUMkicSjwEapYznsXo78rPpdZk9tbTgB1vHaSrA",
+      "symbol": "SPIRIT",
+      "name": "LOST SPIRIT TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DefiTokens/assets/main/spirit.png"
+    },
+    {
+      "chainId": 101,
+      "address": "AYKo5aPAtTVy88aSvQ2HmXFzcNEnU5rG9z99LViBDeiG",
+      "symbol": "AYKO",
+      "name": "AYKO Protocol",
+      "decimals": 9,
+      "logoURI": "https://i.postimg.cc/BbvHCJz1/IMG-0977.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AyakoSol",
+        "website": "http://ayako-sol.com/"
+      }
     }
   ],
   "version": {
