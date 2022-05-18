@@ -167429,6 +167429,17 @@
         "twitter": "https://twitter.com/StonerCupsNFT",
         "website": "https://stonercups.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Xy3Z4fW8wmEPMopehpzAaS6VKiVUJU8BGbDppPUKsX8",
+      "symbol": "DACO",
+      "name": "DanielCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ch-daniel/crypto/main/token-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
