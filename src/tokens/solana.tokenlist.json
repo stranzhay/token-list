@@ -167232,6 +167232,22 @@
         "twitter": "https://twitter.com/TakashiRonin",
         "website": "https://www.takashironin.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6cwW3gBpWnBU8UAsximLQVfbMySJqBG6LkFsozkr7BTg",
+      "symbol": "$MEAT",
+      "name": "Dino Jump MEAT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6cwW3gBpWnBU8UAsximLQVfbMySJqBG6LkFsozkr7BTg/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/dinojump",
+        "twitter": "https://twitter.com/dinojumpnft",
+        "website": "http://dinojump.co/"
+      }
     }
   ],
   "version": {
