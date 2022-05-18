@@ -167512,6 +167512,18 @@
       "name": "MindFi",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/726Uy6q8QY4NAr2hrmPFWgMr8QXSAt3xN7PFqXzS3o8d/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "crSLiJCoVd3UG5KKtj5Yy6c9kqW9Y7afTZefcV6c5tZ",
+      "symbol": "CRAX",
+      "name": "Bears on Crek Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/crSLiJCoVd3UG5KKtj5Yy6c9kqW9Y7afTZefcV6c5tZ/logo.png",
+      "tags": [
+        "bears",
+        "Crax"
+      ]
     }
   ],
   "version": {
