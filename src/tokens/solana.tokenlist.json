@@ -167385,6 +167385,14 @@
       "tags": [
         "dodgy-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CTYiHf58UGShfHtpkTwx7vjPDA779dd6iVaeD281fEVx",
+      "symbol": "HUNT",
+      "name": "Hunter Diamond",
+      "decimals": 9,
+      "logoURI": "https://tokenhunters.app/assets/img/icons/chest-close.svg"
     }
   ],
   "version": {
