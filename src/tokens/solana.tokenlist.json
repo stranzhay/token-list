@@ -167492,6 +167492,18 @@
         "twitter": "https://twitter.com/theamigosnft",
         "website": "http://theamigos.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6mYq94Uo1ciebHZuUhn7waNKV1Xh5tKdQdJToFTJQWb5",
+      "symbol": "UNCLES",
+      "name": "UNCLS",
+      "decimals": 9,
+      "logoURI": "https://i.pinimg.com/564x/9d/84/75/9d8475e2fc5877f9fc312cc53e3c0bb0.jpg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
