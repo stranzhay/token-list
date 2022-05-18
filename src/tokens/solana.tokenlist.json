@@ -167286,6 +167286,14 @@
         "website": "https://www.hugsplatform.com",
         "whitepaper": "https://docs.hugsplatform.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EDMcdz5QTtfDowHrzPYR1WDw23BhwBJBUbJjFo1RhmdT",
+      "symbol": "LTW",
+      "name": "LTW Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EDMcdz5QTtfDowHrzPYR1WDw23BhwBJBUbJjFo1RhmdT/ltwtoken.png"
     }
   ],
   "version": {
