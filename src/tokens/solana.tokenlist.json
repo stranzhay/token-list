@@ -167463,6 +167463,20 @@
         "twitter": "https://twitter.com/AyakoSol",
         "website": "http://ayako-sol.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3w7WvrnzdEsWq7qPciqZM6SXx8YZUj7stEgAE4WRuzRd",
+      "symbol": "DTKN",
+      "name": "Demigod Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3w7WvrnzdEsWq7qPciqZM6SXx8YZUj7stEgAE4WRuzRd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://demigodcats.com"
+      }
     }
   ],
   "version": {
