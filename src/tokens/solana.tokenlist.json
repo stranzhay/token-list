@@ -167412,6 +167412,23 @@
         "twitter": "https://twitter.com/bridgesplit",
         "vault": "https://app.bridgesplit.com/curated-index/GRsoqmhsS7fCLpEqqE7oRM92ag3WVy8VbJAi6KfWSeHS"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4DUQcmSn13YoXHAMfPAT3WDsQb8SmmnC7nom4hcAwRHD",
+      "symbol": "Grams",
+      "name": "Grams",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4DUQcmSn13YoXHAMfPAT3WDsQb8SmmnC7nom4hcAwRHD/grams_coin.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/gFQdk9wt7z",
+        "twitter": "https://twitter.com/StonerCupsNFT",
+        "website": "https://stonercups.io/"
+      }
     }
   ],
   "version": {
