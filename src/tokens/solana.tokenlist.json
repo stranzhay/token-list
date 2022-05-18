@@ -167363,6 +167363,17 @@
         "twitter": "https://twitter.com/thestonedfrogs",
         "website": "https://www.thestonedfrogs.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7vG8c9DyEUj3k6Sf2FYZ9NsN7nUXDE4XWzvkAoUQwjCp",
+      "symbol": "BLD",
+      "name": "Bloodlust",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vG8c9DyEUj3k6Sf2FYZ9NsN7nUXDE4XWzvkAoUQwjCp/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/UndeadSols"
+      }
     }
   ],
   "version": {
