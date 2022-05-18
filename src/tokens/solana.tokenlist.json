@@ -167374,6 +167374,17 @@
       "extensions": {
         "twitter": "https://twitter.com/UndeadSols"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gx2RyCAui6nbkC2eY3T1J53Le9UfNYUzFaiNGogvqmYF",
+      "symbol": "BNLU",
+      "name": "Banalu",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/techsteramman/banalu/main/banalu%20coin.png",
+      "tags": [
+        "dodgy-token"
+      ]
     }
   ],
   "version": {
