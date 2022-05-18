@@ -167524,6 +167524,29 @@
         "bears",
         "Crax"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8oXhRzmhmf12yrhqHWuso4bKqGnsLNmBfAY2U8w7HwWW",
+      "symbol": "GBARS",
+      "name": "Gold Bars",
+      "decimals": 9,
+      "logoURI": "https://raw.githack.com/solanafrontier/tokenlogo/main/frontier.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4vasoS3ZVVEaaoMqPFJUbd7s5sbJE2WVt8a6QZNZx64u",
+      "symbol": "KUNAI",
+      "name": "Kunai",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/floppy-labs/public-images/master/kunaitoken.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
