@@ -167345,6 +167345,35 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9Tv7peSKQ3JTR5J1dYubnqhf8t4TaAGMiEv86eZaWsM3",
+      "symbol": "LOTTERY",
+      "name": "TSF LOTTERY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9Tv7peSKQ3JTR5J1dYubnqhf8t4TaAGMiEv86eZaWsM3/logo.jpg",
+      "tags": [
+        "nft-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Collect TSF Flies token to open your mystery box.",
+        "discord": "http://discord.gg/stonedfrogs",
+        "twitter": "https://twitter.com/thestonedfrogs",
+        "website": "https://www.thestonedfrogs.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7vG8c9DyEUj3k6Sf2FYZ9NsN7nUXDE4XWzvkAoUQwjCp",
+      "symbol": "BLD",
+      "name": "Bloodlust",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vG8c9DyEUj3k6Sf2FYZ9NsN7nUXDE4XWzvkAoUQwjCp/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/UndeadSols"
+      }
     }
   ],
   "version": {
