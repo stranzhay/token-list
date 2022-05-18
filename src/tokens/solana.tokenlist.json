@@ -167463,6 +167463,55 @@
         "twitter": "https://twitter.com/AyakoSol",
         "website": "http://ayako-sol.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3w7WvrnzdEsWq7qPciqZM6SXx8YZUj7stEgAE4WRuzRd",
+      "symbol": "DTKN",
+      "name": "Demigod Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3w7WvrnzdEsWq7qPciqZM6SXx8YZUj7stEgAE4WRuzRd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://demigodcats.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "G33nLPsvygo4qT6ocxA5TuJng7d6BGK6844DCLB3kcfC",
+      "symbol": "AMIGO-WL",
+      "name": "AMIGO-WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TheAmigosNFT/Logo/main/Logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/theamigosnft",
+        "website": "http://theamigos.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6mYq94Uo1ciebHZuUhn7waNKV1Xh5tKdQdJToFTJQWb5",
+      "symbol": "UNCLES",
+      "name": "UNCLS",
+      "decimals": 9,
+      "logoURI": "https://i.pinimg.com/564x/9d/84/75/9d8475e2fc5877f9fc312cc53e3c0bb0.jpg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "726Uy6q8QY4NAr2hrmPFWgMr8QXSAt3xN7PFqXzS3o8d",
+      "symbol": "MiFi",
+      "name": "MindFi",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/726Uy6q8QY4NAr2hrmPFWgMr8QXSAt3xN7PFqXzS3o8d/logo.png"
     }
   ],
   "version": {
