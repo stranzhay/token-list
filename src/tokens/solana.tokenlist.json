@@ -167305,6 +167305,17 @@
       "tags": [
         "DeFi"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FfHyRCUVhsgBkWijV6PXpAzP5Tdkf86eYUof6ZZfx6Kb",
+      "symbol": "UZM",
+      "name": "UzbMoon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Khxuja1/CryptoUZS/main/uzs-min.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
