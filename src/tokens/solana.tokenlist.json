@@ -167477,6 +167477,21 @@
       "extensions": {
         "website": "https://demigodcats.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G33nLPsvygo4qT6ocxA5TuJng7d6BGK6844DCLB3kcfC",
+      "symbol": "AMIGO-WL",
+      "name": "AMIGO-WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TheAmigosNFT/Logo/main/Logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/theamigosnft",
+        "website": "http://theamigos.io/"
+      }
     }
   ],
   "version": {
