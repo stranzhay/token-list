@@ -167267,6 +167267,25 @@
       "name": "Hotdog",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HotDogCsQgc25peDiEq8rxX7sopMdVJBUABxm8fwqBC5/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7uzUfnJrRrSPhBapKgo9hxKuVugEccXLRr9Mgaqg1Hog",
+      "symbol": "HUGS",
+      "name": "Hugs Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/hugs-platform/hugs-token-assets/main/logo.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "The Decentralized Crowdsourcing Platform",
+        "github": "https://github.com/hugs-platform",
+        "linkedin": "https://www.linkedin.com/company/hugsplatform",
+        "twitter": "https://twitter.com/HugsPlatform",
+        "website": "https://www.hugsplatform.com",
+        "whitepaper": "https://docs.hugsplatform.com"
+      }
     }
   ],
   "version": {
