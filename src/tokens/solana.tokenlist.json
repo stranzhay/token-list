@@ -167294,6 +167294,28 @@
       "name": "LTW Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EDMcdz5QTtfDowHrzPYR1WDw23BhwBJBUbJjFo1RhmdT/ltwtoken.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FujiSB9NYj8bGeEh77bibsK9PnBhRNXLZ5V4t6aMBtfK",
+      "symbol": "FUJILIST",
+      "name": "Fujilist Token",
+      "decimals": 0,
+      "logoURI": "https://i.imgur.com/Ve9wr7a_d.webp?maxwidth=760\u0026fidelity=grand",
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FfHyRCUVhsgBkWijV6PXpAzP5Tdkf86eYUof6ZZfx6Kb",
+      "symbol": "UZM",
+      "name": "UzbMoon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Khxuja1/CryptoUZS/main/uzs-min.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
