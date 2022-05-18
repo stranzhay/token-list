@@ -167259,6 +167259,14 @@
       "tags": [
         "DeFi"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HotDogCsQgc25peDiEq8rxX7sopMdVJBUABxm8fwqBC5",
+      "symbol": "HOTDOG",
+      "name": "Hotdog",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HotDogCsQgc25peDiEq8rxX7sopMdVJBUABxm8fwqBC5/logo.png"
     }
   ],
   "version": {
