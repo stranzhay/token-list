@@ -167547,6 +167547,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FTaa1sN6woeeDFtSXJ7VsNZiVQKiwXpCnR5WfhsPDRks",
+      "symbol": "LYME",
+      "name": "Lymewares",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTaa1sN6woeeDFtSXJ7VsNZiVQKiwXpCnR5WfhsPDRks/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
