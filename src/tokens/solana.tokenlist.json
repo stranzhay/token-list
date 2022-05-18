@@ -167448,6 +167448,21 @@
       "name": "LOST SPIRIT TOKEN",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/DefiTokens/assets/main/spirit.png"
+    },
+    {
+      "chainId": 101,
+      "address": "AYKo5aPAtTVy88aSvQ2HmXFzcNEnU5rG9z99LViBDeiG",
+      "symbol": "AYKO",
+      "name": "AYKO Protocol",
+      "decimals": 9,
+      "logoURI": "https://i.postimg.cc/BbvHCJz1/IMG-0977.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AyakoSol",
+        "website": "http://ayako-sol.com/"
+      }
     }
   ],
   "version": {
