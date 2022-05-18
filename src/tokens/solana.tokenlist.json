@@ -167248,6 +167248,17 @@
         "twitter": "https://twitter.com/dinojumpnft",
         "website": "http://dinojump.co/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BoM2h2rFPgqwjgq5qS41tKHZ18C6tqm9EimhXk6ojw8z",
+      "symbol": "TICKET",
+      "name": "Paradise Ticket",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ParadiseAutomata/token-list/main/assets/mainnet/BoM2h2rFPgqwjgq5qS41tKHZ18C6tqm9EimhXk6ojw8z/logo.png",
+      "tags": [
+        "DeFi"
+      ]
     }
   ],
   "version": {
