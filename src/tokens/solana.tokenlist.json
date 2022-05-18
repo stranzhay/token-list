@@ -167440,6 +167440,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4VcGrPUMkicSjwEapYznsXo78rPpdZk9tbTgB1vHaSrA",
+      "symbol": "SPIRIT",
+      "name": "LOST SPIRIT TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DefiTokens/assets/main/spirit.png"
     }
   ],
   "version": {
