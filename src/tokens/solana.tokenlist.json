@@ -167752,6 +167752,17 @@
         "NFTs",
         "Staking"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4f4D9hsgi2LmMG25MVKnGchybhd6nfZGM6CSuoS9Ynu3",
+      "symbol": "TCWT",
+      "name": "Trippy Cats WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Deghf666g/catswl/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
