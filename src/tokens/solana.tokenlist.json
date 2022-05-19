@@ -167871,6 +167871,17 @@
       "extensions": {
         "website": "https://aeralife.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "X71v8NH6dbLwPsn4TR1Tx38K4uWgGZ78mC599XSPJox",
+      "symbol": "XMLZW",
+      "name": "XMLZW Test",
+      "decimals": 18,
+      "logoURI": "https://github.com/LeviFiks/asf/blob/main/fikusa.svg",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
