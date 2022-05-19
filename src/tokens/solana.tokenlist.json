@@ -167882,6 +167882,61 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6MTCiSHqANSXinWrJtdpXV7KVtSMkhxhJMFDpEsptjU4",
+      "symbol": "SSTAR",
+      "name": "Seoul Stars",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6MTCiSHqANSXinWrJtdpXV7KVtSMkhxhJMFDpEsptjU4/logo.png",
+      "tags": [
+        "gaming",
+        "nfts",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "SSTAR is the governance token for Seoul Stars, the leading K-pop virtual artist metaverse and play-to-earn/sing-to-earn music game on Solana",
+        "discord": "https://discord.gg/seoulstars",
+        "telegram": "https://t.me/seoulstars",
+        "twitter": "https://twitter.com/seoulstarsnft",
+        "website": "https://www.seoulstars.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6FefhPSmUF9nxW6Jp5Tn6ieGA7aghvRExx5zNNkAsB7c",
+      "symbol": "SCI",
+      "name": "SCIENCE",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/science.png",
+      "tags": [
+        "staking-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "CcREDkwUxBVoazUe4a8Lw9Jrb483EVpmsw9bzscp7se2",
+      "symbol": "kg",
+      "name": "Carbon Credit Token",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/carbon/carbon-credit.svg",
+      "tags": [
+        "carbon-coin",
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "solana",
+        "description": "Proof of Carbon Sequestration to be used as Carbon credit (unit: 1kg CO2e)",
+        "imageUrl": "https://bafybeid7dw4tdtbuj5pn4gqlqooajzfaecujcupwzgu2bp6p6z46qlv2g4.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "website": "https://PurpleZone.github.io/NFTs/carbon/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf"
+      }
     }
   ],
   "version": {
