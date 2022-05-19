@@ -167681,6 +167681,14 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DK6F53Wm1FWzAguhbt6dPgxoXbDhvDZax1u5sf6pE54L",
+      "symbol": "ROOTER",
+      "name": "ROOTER TEST TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DK6F53Wm1FWzAguhbt6dPgxoXbDhvDZax1u5sf6pE54L/logo.png"
     }
   ],
   "version": {
