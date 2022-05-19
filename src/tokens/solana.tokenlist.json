@@ -168028,6 +168028,18 @@
         "twitter": "https://twitter.com/kleos_nft",
         "website": "https://kleosnft.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BAM2LDmxSjbkRNVQC3bNYo514tGSXTKH3NrW3xQEAkwX",
+      "symbol": "BAMMM",
+      "name": "BAM (The Sol Den)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BAM2LDmxSjbkRNVQC3bNYo514tGSXTKH3NrW3xQEAkwX/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/thesoldennfts",
+        "website": "https://solden.io/"
+      }
     }
   ],
   "version": {
