@@ -167903,6 +167903,17 @@
         "twitter": "https://twitter.com/seoulstarsnft",
         "website": "https://www.seoulstars.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6FefhPSmUF9nxW6Jp5Tn6ieGA7aghvRExx5zNNkAsB7c",
+      "symbol": "SCI",
+      "name": "SCIENCE",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/science.png",
+      "tags": [
+        "staking-token"
+      ]
     }
   ],
   "version": {
