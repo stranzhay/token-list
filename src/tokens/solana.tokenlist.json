@@ -168040,6 +168040,78 @@
         "twitter": "https://twitter.com/thesoldennfts",
         "website": "https://solden.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E8oV8JywpgPxEzaugAzW4bapoN3krEFX9mCoPgvrdTXH",
+      "symbol": "tuSHDW",
+      "name": "tuSHDW",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/169387149-0e34721b-616f-473b-b18d-e46ca40e38ce.png",
+      "tags": [
+        "tulip-protocol",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/tulip",
+        "twitter": "https://twitter.com/TulipProtocol",
+        "website": "https://tulip.garden/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GNjwMCt8GmPwQHy45UDzeprHkSTsNQHddsWXADz1HE6H",
+      "symbol": "tuBASIS",
+      "name": "tuBASIS",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/169387491-e7e6c298-eda3-4aed-9e8e-e5e4e8c7c10f.png",
+      "tags": [
+        "tulip-protocol",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/tulip",
+        "twitter": "https://twitter.com/TulipProtocol",
+        "website": "https://tulip.garden/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CEGSnMwZmF512Uva5rTiF1Gx1byMDNdT7UpD8vNXuTQJ",
+      "symbol": "tuGMT",
+      "name": "tuGMT",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/169387895-c8604043-2e6c-4769-9400-e535fea11e9f.png",
+      "tags": [
+        "tulip-protocol",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/tulip",
+        "twitter": "https://twitter.com/TulipProtocol",
+        "website": "https://tulip.garden/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Ghvf8bVnDjv1nbi9b3PjSw9iBWFy2ApmdCUgzmPFmNVi",
+      "symbol": "tuGST",
+      "name": "tuGST",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/8619106/169388131-07867c9e-76bd-4659-8fd4-a0ea57317208.png",
+      "tags": [
+        "tulip-protocol",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/tulip",
+        "twitter": "https://twitter.com/TulipProtocol",
+        "website": "https://tulip.garden/"
+      }
     }
   ],
   "version": {
