@@ -167763,6 +167763,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FrGoxNkySvFmnnCzuwAVZhCz4PbfcyFTBvUc6rNqNH6J",
+      "symbol": "YUKAU",
+      "name": "YUKON Gold",
+      "decimals": 9,
+      "logoURI": "https://static.wixstatic.com/media/4b5c4d_db96c2a1b13142fd961d7e05fdfcaf90~mv2.png",
+      "tags": [
+        "community-token",
+        "trading-token"
+      ]
     }
   ],
   "version": {
