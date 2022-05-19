@@ -167996,6 +167996,22 @@
         "twitter": "https://twitter.com/drippieverse",
         "website": "https://www.drippies.space/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3rnxGhmJLTB8ds98MXBQJtHKzgSD6MtRTo7phuydyu5x",
+      "symbol": "GNN",
+      "name": "GYNNA",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3rnxGhmJLTB8ds98MXBQJtHKzgSD6MtRTo7phuydyu5x/logo.png",
+      "tags": [
+        "comunity-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6EaDCUvz",
+        "twitter": "https://twitter.com/gynna_nft",
+        "website": "https://gynna.io/"
+      }
     }
   ],
   "version": {
