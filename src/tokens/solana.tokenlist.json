@@ -167979,6 +167979,23 @@
         "gaming",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DripS2zAsRhwuALQp2cBW7vBB8LTqYnqAGivtUpEXDWV",
+      "symbol": "DRIP",
+      "name": "Drips",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Ashtar-Global-Solutions/spl-tokens/main/drip/dripcoin_small.gif",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://www.discord.gg/drippieverse",
+        "instagram": "https://www.instagram.com/drippieverse/",
+        "twitter": "https://twitter.com/drippieverse",
+        "website": "https://www.drippies.space/"
+      }
     }
   ],
   "version": {
