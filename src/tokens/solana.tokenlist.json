@@ -167967,6 +167967,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5tcVUoxhedTqt9A2gxxToRGSCWDcbK6AC67xayrgW3Sf",
+      "symbol": "SKK",
+      "name": "Skirk Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/lilhaay1/crypto/main/logo.png",
+      "tags": [
+        "gaming",
+        "social-token"
+      ]
     }
   ],
   "version": {
