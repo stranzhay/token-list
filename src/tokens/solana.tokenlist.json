@@ -167775,6 +167775,32 @@
         "community-token",
         "trading-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BCBYTtmof1sApJsnrb3yqCsyXcArkUHk6LHNKK5B9poE",
+      "symbol": "BCBYHP",
+      "name": "BCBY Holder Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BCBYNAjzL4xqA8KoaqftqFNoq7jKfa5J4YB2nca2VFfp/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2jmhtbcbnmqpTaL7ythKYPS64fdb9VGcTNpXoHNbGPrN",
+      "symbol": "PORES",
+      "name": "Mushie Spores",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2jmhtbcbnmqpTaL7ythKYPS64fdb9VGcTNpXoHNbGPrN/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/magic_mushies",
+        "website": "https://magicmushies.io/"
+      }
     }
   ],
   "version": {
