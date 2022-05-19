@@ -167979,6 +167979,67 @@
         "gaming",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DripS2zAsRhwuALQp2cBW7vBB8LTqYnqAGivtUpEXDWV",
+      "symbol": "DRIP",
+      "name": "Drips",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Ashtar-Global-Solutions/spl-tokens/main/drip/dripcoin_small.gif",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://www.discord.gg/drippieverse",
+        "instagram": "https://www.instagram.com/drippieverse/",
+        "twitter": "https://twitter.com/drippieverse",
+        "website": "https://www.drippies.space/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3rnxGhmJLTB8ds98MXBQJtHKzgSD6MtRTo7phuydyu5x",
+      "symbol": "GNN",
+      "name": "GYNNA",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3rnxGhmJLTB8ds98MXBQJtHKzgSD6MtRTo7phuydyu5x/logo.png",
+      "tags": [
+        "comunity-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6EaDCUvz",
+        "twitter": "https://twitter.com/gynna_nft",
+        "website": "https://gynna.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7GZ1wiXg1ZSCgJ8GmnHEEyMvH7CkNiKChkRpyUNJhSbb",
+      "symbol": "TROJAN",
+      "name": "Kleos Trojan",
+      "decimals": 0,
+      "logoURI": "https://i.imgur.com/L0rjuAC.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "description": "Kleos Trojan is the whitelist token to the Kleos Mint.",
+        "twitter": "https://twitter.com/kleos_nft",
+        "website": "https://kleosnft.xyz/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BAM2LDmxSjbkRNVQC3bNYo514tGSXTKH3NrW3xQEAkwX",
+      "symbol": "BAMMM",
+      "name": "BAM (The Sol Den)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BAM2LDmxSjbkRNVQC3bNYo514tGSXTKH3NrW3xQEAkwX/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/thesoldennfts",
+        "website": "https://solden.io/"
+      }
     }
   ],
   "version": {
