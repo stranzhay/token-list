@@ -167569,6 +167569,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "J837mp2mBaSeKeRfwPLyCHunxj9GyUPMp9czdhAW1LyG",
+      "symbol": "MTTC",
+      "name": "Tsivery",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MTsivery/crypto/main/logo_mttc.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
