@@ -167604,6 +167604,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "E7QfCszwdutZovb8rYAPUfj338M3C4szZPPY8RceTiXm",
+      "symbol": "BLEND",
+      "name": "blendhit",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/redazul/s3/main/blend_coin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "blendhit is a competitive 3D community",
+        "discord": "https://discord.gg/HDky5cNeSB",
+        "twitter": "https://twitter.com/blendhit",
+        "website": "https://www.blendhit.com"
+      }
     }
   ],
   "version": {
