@@ -167713,6 +167713,68 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6DAQD2CTgBjQW2no6CTUfUXj7U6cvbtRcHSVoMVVWpJS",
+      "symbol": "OMENSSOUL",
+      "name": "OMENS SOUL CHEST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6DAQD2CTgBjQW2no6CTUfUXj7U6cvbtRcHSVoMVVWpJS/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/jkYNtg3Rx2",
+        "website": "https://omens.art"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "PrDgwZN6dQjDLVaTRZN4rhA78EQh76TESsHtFyCB9SG",
+      "symbol": "JUTC",
+      "name": "JUngle TreAzure Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/catblue88/token-test/main/JUTClogo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3uB5EV7BMFRp1sTnjegeJjyYDpTijgfepEzjY29j9GFx",
+      "symbol": "MBSTAKING",
+      "name": "Moonbears staking",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/coin.png",
+      "tags": [
+        "NFTs",
+        "Staking"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4f4D9hsgi2LmMG25MVKnGchybhd6nfZGM6CSuoS9Ynu3",
+      "symbol": "TCWT",
+      "name": "Trippy Cats WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Deghf666g/catswl/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FrGoxNkySvFmnnCzuwAVZhCz4PbfcyFTBvUc6rNqNH6J",
+      "symbol": "YUKAU",
+      "name": "YUKON Gold",
+      "decimals": 9,
+      "logoURI": "https://static.wixstatic.com/media/4b5c4d_db96c2a1b13142fd961d7e05fdfcaf90~mv2.png",
+      "tags": [
+        "community-token",
+        "trading-token"
+      ]
     }
   ],
   "version": {
