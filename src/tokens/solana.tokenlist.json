@@ -167728,6 +167728,18 @@
         "discord": "https://discord.gg/jkYNtg3Rx2",
         "website": "https://omens.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "PrDgwZN6dQjDLVaTRZN4rhA78EQh76TESsHtFyCB9SG",
+      "symbol": "JUTC",
+      "name": "JUngle TreAzure Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/catblue88/token-test/main/JUTClogo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
