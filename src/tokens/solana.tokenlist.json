@@ -168136,6 +168136,22 @@
         "twitter": "https://twitter.com/ACDealerNFT",
         "website": "https://anonymouscryptodealer.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8z3LQnxfAgTwLjedPyxeRBUHKWmjz1bU7aEccpi3jECr",
+      "symbol": "KLEOSWL",
+      "name": "Kleos WhiteList",
+      "decimals": 1,
+      "logoURI": "https://github.com/elonsdev/token-list/blob/add-kleos/assets/mainnet/8z3LQnxfAgTwLjedPyxeRBUHKWmjz1bU7aEccpi3jECr/trojan.png",
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "description": "Kleos Trojan is the whitelist token to the Kleos Mint.",
+        "twitter": "https://twitter.com/kleos_nft",
+        "website": "https://kleosnft.xyz/"
+      }
     }
   ],
   "version": {
