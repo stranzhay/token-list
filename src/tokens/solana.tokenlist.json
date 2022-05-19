@@ -167593,6 +167593,17 @@
         "community-token",
         "spl-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EmpqzDmk9iqQn93uDBFcJqiuYCEV6f9iXHJTt4SxjcEN",
+      "symbol": "MOFROG",
+      "name": "MoFroggie Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dakender/MoFroggie-Coin/main/logo-mofroggie.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
