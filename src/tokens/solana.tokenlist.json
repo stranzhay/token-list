@@ -167713,6 +167713,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6DAQD2CTgBjQW2no6CTUfUXj7U6cvbtRcHSVoMVVWpJS",
+      "symbol": "OMENSSOUL",
+      "name": "OMENS SOUL CHEST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6DAQD2CTgBjQW2no6CTUfUXj7U6cvbtRcHSVoMVVWpJS/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/jkYNtg3Rx2",
+        "website": "https://omens.art"
+      }
     }
   ],
   "version": {
