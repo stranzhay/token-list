@@ -167580,6 +167580,47 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7n2VscxSrpGLBMCXgV9f5rgpKY6LV9U48CmJRN1cq9yJ",
+      "symbol": "LDT",
+      "name": "Lil Token",
+      "decimals": 0,
+      "logoURI": "https://github.com/LilDAOs/lilthings/blob/main/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "spl-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EmpqzDmk9iqQn93uDBFcJqiuYCEV6f9iXHJTt4SxjcEN",
+      "symbol": "MOFROG",
+      "name": "MoFroggie Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dakender/MoFroggie-Coin/main/logo-mofroggie.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "E7QfCszwdutZovb8rYAPUfj338M3C4szZPPY8RceTiXm",
+      "symbol": "BLEND",
+      "name": "blendhit",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/redazul/s3/main/blend_coin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "blendhit is a competitive 3D community",
+        "discord": "https://discord.gg/HDky5cNeSB",
+        "twitter": "https://twitter.com/blendhit",
+        "website": "https://www.blendhit.com"
+      }
     }
   ],
   "version": {
