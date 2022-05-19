@@ -167856,6 +167856,32 @@
         "community-token",
         "trading-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BjZ5Hazjyp9LrzfapAHYZuceWm6zJZDqMH1QPCWtsouq",
+      "symbol": "AERA",
+      "name": "Aera Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BjZ5Hazjyp9LrzfapAHYZuceWm6zJZDqMH1QPCWtsouq/logo.png",
+      "tags": [
+        "aera-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://aeralife.com"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "X71v8NH6dbLwPsn4TR1Tx38K4uWgGZ78mC599XSPJox",
+      "symbol": "XMLZW",
+      "name": "XMLZW Test",
+      "decimals": 18,
+      "logoURI": "https://github.com/LeviFiks/asf/blob/main/fikusa.svg",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
