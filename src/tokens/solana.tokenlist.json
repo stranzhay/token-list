@@ -167740,6 +167740,18 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3uB5EV7BMFRp1sTnjegeJjyYDpTijgfepEzjY29j9GFx",
+      "symbol": "MBSTAKING",
+      "name": "Moonbears staking",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/coin.png",
+      "tags": [
+        "NFTs",
+        "Staking"
+      ]
     }
   ],
   "version": {
