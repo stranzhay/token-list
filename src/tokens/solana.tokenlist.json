@@ -167956,6 +167956,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "B1WXiYQB1CUtdVfPWYMKHenFkpqQc4kujvmBMjP2h5Mb",
+      "symbol": "CLST",
+      "name": "Celestia",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/timotheecaumartin/crypto-celestia/main/CELESTIA.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
