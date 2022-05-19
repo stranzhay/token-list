@@ -167689,6 +167689,19 @@
       "name": "ROOTER TEST TOKEN",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DK6F53Wm1FWzAguhbt6dPgxoXbDhvDZax1u5sf6pE54L/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "82EhaAkps3mQWjxiftLFYzEK3xNA2hE4s8BbsUYDAx1f",
+      "symbol": "PiPCoin",
+      "name": "PanizInParis Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/shahinabdi/Crypto/main/Logo.png",
+      "tags": [
+        "social-token",
+        "NFT",
+        "utility-token"
+      ]
     }
   ],
   "version": {
