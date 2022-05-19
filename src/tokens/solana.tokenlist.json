@@ -167812,6 +167812,50 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "41EY95rbDfpebvAXyxmrKHdvShBZ9ASBcRmrke7xqki2",
+      "symbol": "U2",
+      "name": "U2",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/41EY95rbDfpebvAXyxmrKHdvShBZ9ASBcRmrke7xqki2/logo.png",
+      "tags": [
+        "utility-token",
+        "dex",
+        "defi",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/rwZ5pycE",
+        "twitter": "https://twitter.com/youdex_io",
+        "website": "https://youdex.io/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "GobzzzFQsFAHPvmwT42rLockfUCeV3iutEkK218BxT8K",
+      "symbol": "G3",
+      "name": "G3 Token",
+      "decimals": 9,
+      "logoURI": "https://static.particle.network/g3.png",
+      "tags": [
+        "community-token",
+        "trading-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7XVbmgaYHV3BWQvauR77yCRiWwRJUoiCdwN2rnZbJCC1",
+      "symbol": "YUKCU",
+      "name": "YUKON Copper",
+      "decimals": 9,
+      "logoURI": "https://static.wixstatic.com/media/4b5c4d_557ccbfa50ec43bc81376c0d96462187~mv2.png",
+      "tags": [
+        "community-token",
+        "trading-token"
+      ]
     }
   ],
   "version": {
