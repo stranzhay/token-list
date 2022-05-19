@@ -167621,6 +167621,19 @@
         "twitter": "https://twitter.com/blendhit",
         "website": "https://www.blendhit.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CLNTcXKJEqaiKZ53jMTXMuAnTmz7iULKPxSXy6aSaU66",
+      "symbol": "CLNT",
+      "name": "Coolant (BitWhips)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLNTcXKJEqaiKZ53jMTXMuAnTmz7iULKPxSXy6aSaU66/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/bitwhips",
+        "twitter": "https://twitter.com/bitwhips",
+        "website": "https://bitwhips.io/"
+      }
     }
   ],
   "version": {
