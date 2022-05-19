@@ -167647,6 +167647,18 @@
         "community-token",
         "yoroshii"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EkB2Z2jZDLN8YQVnKeJfAYeoUhCVXtwfmq8eS9fH6kpL",
+      "symbol": "RSPT",
+      "name": "MKTV Entertainment Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EkB2Z2jZDLN8YQVnKeJfAYeoUhCVXtwfmq8eS9fH6kpL/logo.png",
+      "tags": [
+        "entertainment-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
