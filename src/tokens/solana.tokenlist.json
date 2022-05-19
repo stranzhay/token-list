@@ -167937,6 +167937,14 @@
         "website": "https://PurpleZone.github.io/NFTs/carbon/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "5ftoDyQvRRL9wFXmaHVN4vYqfdjWue8woQSQ1T8RpinA",
+      "symbol": "GCW",
+      "name": "GamCheckedWorks",
+      "decimals": 9,
+      "logoURI": "https://github.com/vuanhtuanvn85/token-list/tree/main/assets/mainnet/5ftoDyQvRRL9wFXmaHVN4vYqfdjWue8woQSQ1T8RpinA/logo.png"
     }
   ],
   "version": {
