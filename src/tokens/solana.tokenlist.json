@@ -167832,6 +167832,18 @@
         "twitter": "https://twitter.com/youdex_io",
         "website": "https://youdex.io/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "GobzzzFQsFAHPvmwT42rLockfUCeV3iutEkK218BxT8K",
+      "symbol": "G3",
+      "name": "G3 Token",
+      "decimals": 9,
+      "logoURI": "https://static.particle.network/g3.png",
+      "tags": [
+        "community-token",
+        "trading-token"
+      ]
     }
   ],
   "version": {
