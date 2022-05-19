@@ -167681,6 +167681,38 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DK6F53Wm1FWzAguhbt6dPgxoXbDhvDZax1u5sf6pE54L",
+      "symbol": "ROOTER",
+      "name": "ROOTER TEST TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DK6F53Wm1FWzAguhbt6dPgxoXbDhvDZax1u5sf6pE54L/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "82EhaAkps3mQWjxiftLFYzEK3xNA2hE4s8BbsUYDAx1f",
+      "symbol": "PiPCoin",
+      "name": "PanizInParis Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/shahinabdi/Crypto/main/Logo.png",
+      "tags": [
+        "social-token",
+        "NFT",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CrWM7qs9JSzDntLrxtKxuuWdi96zqtxKbx8kQpJ7X725",
+      "symbol": "MEL",
+      "name": "Mel Coin",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmS7x3KF6Gjos396R6gYgFUoK9q7cK9Vv8RPg7KugDBDv5",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
