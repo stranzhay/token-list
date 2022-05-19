@@ -167945,6 +167945,17 @@
       "name": "GamCheckedWorks",
       "decimals": 9,
       "logoURI": "https://github.com/vuanhtuanvn85/token-list/tree/main/assets/mainnet/5ftoDyQvRRL9wFXmaHVN4vYqfdjWue8woQSQ1T8RpinA/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "4c5K1DJ3TcUkHt68PrBAzrYJj35r5hv9PAVsL2owYwn5",
+      "symbol": "PCC",
+      "name": "Purpose Cash",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/purposecash/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
