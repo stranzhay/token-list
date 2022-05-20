@@ -168239,6 +168239,23 @@
         "instagram": "https://www.instagram.com/lalibertadavanzaoficial/",
         "website": "https://lalibertadavanza.com.ar/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8ymjMjitLchSFU9zkcbjsJENhSXou4YKh7RD2U3yvqdJ",
+      "symbol": "KSW",
+      "name": "KillSwitch (Ethereum)",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8ymjMjitLchSFU9zkcbjsJENhSXou4YKh7RD2U3yvqdJ/logo.svg",
+      "tags": [
+        "DeFi"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/vsnK4sYGB4",
+        "telegram": "https://t.me/killswitch_global",
+        "twitter": "https://twitter.com/KillSwitch_Defi",
+        "website": "https://killswitch.finance/"
+      }
     }
   ],
   "version": {
