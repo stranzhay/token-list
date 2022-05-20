@@ -168753,6 +168753,14 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FyNuYGBBry5LAtPEkh8Y73izjTUNT2td2J3sGCK7E9Ju",
+      "symbol": "VIBEZ",
+      "name": "VIBEZ",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/FyNuYGBBry5LAtPEkh8Y73izjTUNT2td2J3sGCK7E9Ju/logo.png?raw=true"
     }
   ],
   "version": {
