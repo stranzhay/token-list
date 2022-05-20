@@ -168820,6 +168820,17 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DeGbpw8kYC8YCiH4f6JL9ppMWdJ2nC6GZAxasFXfaqVW",
+      "symbol": "TREE",
+      "name": "TREE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/crypto-tree/tree-of-life/main/treelogo.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
