@@ -168256,6 +168256,39 @@
         "twitter": "https://twitter.com/KillSwitch_Defi",
         "website": "https://killswitch.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW",
+      "symbol": "2XD",
+      "name": "2XD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "description": "2XD Token",
+        "discord": "https://discord.gg/prcWsTvTm9",
+        "medium": "https://medium.com/@2XD",
+        "twitter": "https://twitter.com/2XDProtocol",
+        "website": "https://2xd.fi/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "89iVdMKfyXc5NYmtY9BoGQbps92JGcJ1w594nC7TmVrF",
+      "symbol": "CKOG",
+      "name": "Cultured Kongz OG Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/89iVdMKfyXc5NYmtY9BoGQbps92JGcJ1w594nC7TmVrF/icon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/gSHWqephYV",
+        "twitter": "https://twitter.com/CulturedKongz"
+      }
     }
   ],
   "version": {
