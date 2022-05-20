@@ -168628,6 +168628,58 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ReGuwoy3cEGfWC7Ko28EeYL1BJg1usVvHD1huyEpamp",
+      "symbol": "ReGuLaTeD",
+      "name": "ReGuLaTeD Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ReGuwoy3cEGfWC7Ko28EeYL1BJg1usVvHD1huyEpamp/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/RegulatedNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2tVaYxWZW9YkGBqUkmoZ6Wnq3ALndTKWoVKNqpwGVngb",
+      "symbol": "COA",
+      "name": "COA Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/coatsandknights/coa-token/main/coa-token.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/NBQ5YbPHNM",
+        "twitter": "https://twitter.com/coatsandknights",
+        "website": "https://coatsandknights.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "87pGBJh1Ts8jGSgD81nXfnRBE773yKdai1ceS4fZ2qc5",
+      "symbol": "OGGY",
+      "name": "OggyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/alexkroeker177/oggycoin/main/OGGY.png",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7GptK2dfK4u8yNU7MUs8eJoFypkuNaKYTR2pG2WfYpcq",
+      "symbol": "CNANA",
+      "name": "SolMonkeez Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7GptK2dfK4u8yNU7MUs8eJoFypkuNaKYTR2pG2WfYpcq/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
