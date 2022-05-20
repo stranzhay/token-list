@@ -168514,6 +168514,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AWKNP2bYEi5B5JqACwaRudrmVwvdcVWxATkrTdyDzwVX",
+      "symbol": "LFNDWL",
+      "name": "LIT FUND WL",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/dth5geg.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/C5z57xrw52",
+        "telegram": "https://t.me/litfund",
+        "twitter": "https://twitter.com/litfund_defi",
+        "website": "https://lit.fund"
+      }
     }
   ],
   "version": {
