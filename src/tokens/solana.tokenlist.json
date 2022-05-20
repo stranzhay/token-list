@@ -168369,6 +168369,17 @@
       "extensions": {
         "website": "https://www.underspenders.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FJqUunUUhJffBdrheanuBJySmS2UEShoGLtxKHfBch5R",
+      "symbol": "ECLPS",
+      "name": "SOL Eclipse",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FJqUunUUhJffBdrheanuBJySmS2UEShoGLtxKHfBch5R/eclipse.png",
+      "tags": [
+        "to-the-moon"
+      ]
     }
   ],
   "version": {
