@@ -168691,6 +168691,17 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8UheazYYUJBWWXvxD6g2q1STGvcaAchLoz3ftwRfoEzs",
+      "symbol": "TABE",
+      "name": "TabeCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MiltronBee/Tabecoin/main/tabecoin.fw.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
