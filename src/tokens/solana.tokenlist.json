@@ -168761,6 +168761,17 @@
       "name": "VIBEZ",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/FyNuYGBBry5LAtPEkh8Y73izjTUNT2td2J3sGCK7E9Ju/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "2zwkTwiN4ABxovt2FaBQpRzVD4Kar7sHi3azBRQZfXSr",
+      "symbol": "ALPACA",
+      "name": "LLAMA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Eziollama/llamatoken/main/llama-logo.jpeg",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
