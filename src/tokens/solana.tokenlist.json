@@ -168355,6 +168355,20 @@
         "twitter": "https://twitter.com/2XDProtocol",
         "website": "https://2xd.fi/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HkJnGnKCoGUF4sL9j8aFfFZozEQpKuj557nFUUvKJC3d",
+      "symbol": "SLTK",
+      "name": "Soltok",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HkJnGnKCoGUF4sL9j8aFfFZozEQpKuj557nFUUvKJC3d/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.underspenders.com"
+      }
     }
   ],
   "version": {
