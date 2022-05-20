@@ -168337,6 +168337,24 @@
         "twitter": "https://twitter.com/kleos_nft",
         "website": "https://kleosnft.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA",
+      "symbol": "2XD-USDC",
+      "name": "2XD-USDC LP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "description": "2XD-USDC LP Token",
+        "discord": "https://discord.gg/prcWsTvTm9",
+        "medium": "https://medium.com/@2XD",
+        "twitter": "https://twitter.com/2XDProtocol",
+        "website": "https://2xd.fi/"
+      }
     }
   ],
   "version": {
