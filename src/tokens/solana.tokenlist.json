@@ -112272,11 +112272,11 @@
     },
     {
       "chainId": 101,
-      "address": "EYAT7vE2TNu4bunpCNfPgmQKUoZCZb4S5ZMJk7AF5xYP",
+      "address": "Egnk28ph1b8s8DQJHnunSin6BbGoLptufb1po5vbmsPn",
       "symbol": "ROVE",
       "name": "Rove Token",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EYAT7vE2TNu4bunpCNfPgmQKUoZCZb4S5ZMJk7AF5xYP/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Egnk28ph1b8s8DQJHnunSin6BbGoLptufb1po5vbmsPn/logo.png",
       "tags": [
         "utility-token"
       ],
