@@ -168720,6 +168720,17 @@
         "twitter": "https://twitter.com/solangels_nft",
         "website": "https://solangelsnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6M9omYci4d51LDueVspcazVJECUb4nMQWeX4YKcqq8KS",
+      "symbol": "RG",
+      "name": "GLORY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6M9omYci4d51LDueVspcazVJECUb4nMQWeX4YKcqq8KS/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
