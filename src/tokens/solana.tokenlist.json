@@ -168547,6 +168547,20 @@
         "twitter": "https://twitter.com/WcdonaldsNFT",
         "website": "https://wcdonalds.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Pirapf3w881Hv5FXjRRpWmEP34WZNDHpV9Jd6DV2o8p",
+      "symbol": "Deadpirate",
+      "name": "Dead Pirates Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Pirapf3w881Hv5FXjRRpWmEP34WZNDHpV9Jd6DV2o8p/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DeadPiratess"
+      }
     }
   ],
   "version": {
