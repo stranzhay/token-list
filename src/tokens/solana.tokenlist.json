@@ -168391,6 +168391,118 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CczfrwwXahja6Ey3CfQH6mqH6PYAf14QQoGaWZAXVDtX",
+      "symbol": "COINT",
+      "name": "CoINT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ismaelfema/coint/main/coint.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5q5gWXXT315DnaaoCwrQD39XNxvF5PRLriwMzW6t2338",
+      "symbol": "BOSS",
+      "name": "The Boss Baby Family",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/atenidegbeolanrewaju/BB_/main/BBFY.png"
+    },
+    {
+      "chainId": 101,
+      "address": "D7rPWtAUPRsccndR94M6y3tET85KQiv5v9u6E3YtMjC5",
+      "symbol": "GROV",
+      "name": "Groove Token",
+      "decimals": 9,
+      "logoURI": "https://bafybeibrkixvmd3d4urfqfh3dev53gf3pefrhjaoqbbiegwjbcwivuukhy.ipfs.dweb.link/GrooveCoin.png",
+      "tags": [
+        "governance-token",
+        "utility-token",
+        "game-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GrooveDAO",
+        "website": "https://groove.day"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HmR2bYbMjRLU81extUiuztz7y79CKYKVZftJC6xLXmJh",
+      "symbol": "DVOP",
+      "name": "DevOps Token",
+      "decimals": 9,
+      "logoURI": "https://bafybeicxitbpsfddpmwi2ymxw2wlyxvdrxwwiukxyokptro62at4l3zj4i.ipfs.dweb.link/DVOPCoin.png",
+      "tags": [
+        "utility-token",
+        "game-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GrooveDAO",
+        "website": "https://groove.day"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5Vo6asJMB5jL9KzcVYwW2gyACzennwW8Adf2LZNusw52",
+      "symbol": "EPCT",
+      "name": "Epics Token",
+      "decimals": 9,
+      "logoURI": "https://bafybeibal7k2hz6frznyjbl4qcnzcwlsuzxmquatrsaly6ttmuppgmdvwe.ipfs.dweb.link/EpicsCoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EpicsDAO",
+        "website": "https://epics.dev"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C5q2yAAgU9rtNdyFJBXcvjmTqf57ejP1iLGZ4bGScFCg",
+      "symbol": "EPCD",
+      "name": "Epics DAO Token",
+      "decimals": 9,
+      "logoURI": "https://bafybeifyk4rgmkqcj3kfvzzgjnrf7zvftye5gfcgzbbs2a6caqyphtiiuu.ipfs.dweb.link/EpicsCoinD.png",
+      "tags": [
+        "governance-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EpicsDAO",
+        "website": "https://epics.dev"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8sfuYgBRH8VBbXWAzyAWNuY8uBhnQgjfd4k5vB5JyoqJ",
+      "symbol": "BTBT",
+      "name": "bitbot Token",
+      "decimals": 9,
+      "logoURI": "https://bafybeidmrk25f4ozrsrmodi5bojedomfpowaw42idjxll7hu4cgol4g6my.ipfs.dweb.link/bitbotCoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bitbotDAO",
+        "website": "https://bit-bot.app"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AeDGpPrtf1SCcgLT99131xu7C5q3xt2BH1G4Wrri6UHn",
+      "symbol": "BTBD",
+      "name": "bitbot DAO Token",
+      "decimals": 9,
+      "logoURI": "https://bafybeiamycg7urzu3rityjodb7hgvsiw7rd44erlgcysucbiauxgppgv7a.ipfs.dweb.link/bitbotCoinD.png",
+      "tags": [
+        "governance-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bitbotDAO",
+        "website": "https://bit-bot.app"
+      }
     }
   ],
   "version": {
