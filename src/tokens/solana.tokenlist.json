@@ -168601,6 +168601,22 @@
       "extensions": {
         "website": "https://futureshiba.000webhostapp.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6tkJPYnMEWGgWPnixqj1qZpN4AL7Dag73EmfRPKNXs1",
+      "symbol": "Pie",
+      "name": "Pie Network",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/cryptonetwork777/crypto/main/logo.png",
+      "tags": [
+        "airdrop-token",
+        "community-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/network_pie",
+        "twitter": "https://twitter.com/pie_network"
+      }
     }
   ],
   "version": {
