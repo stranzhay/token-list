@@ -168642,6 +168642,22 @@
       "extensions": {
         "twitter": "https://twitter.com/RegulatedNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2tVaYxWZW9YkGBqUkmoZ6Wnq3ALndTKWoVKNqpwGVngb",
+      "symbol": "COA",
+      "name": "COA Token",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/coatsandknights/coa-token/main/coa-token.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/NBQ5YbPHNM",
+        "twitter": "https://twitter.com/coatsandknights",
+        "website": "https://coatsandknights.io"
+      }
     }
   ],
   "version": {
