@@ -168167,6 +168167,18 @@
         "description": "VIKN is a Social token of Vikash Network",
         "twitter": "https://twitter.com/vikashanandjha"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JE3YG49wCFQwemcHQo6JLeGmSxgVGgSTpgEm4Eu69Vmk",
+      "symbol": "HCOMB",
+      "name": "Party Bears Honeycomb",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/IcyyApex/assets/main/HCOMB.png",
+      "tags": [
+        "staking",
+        "utility-token"
+      ]
     }
   ],
   "version": {
