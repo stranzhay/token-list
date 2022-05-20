@@ -168702,6 +168702,24 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FwHjnVkpcxPaabZbJsrjYeFBJkGh1aHxjtBszJUSpHRn",
+      "symbol": "ANGLS",
+      "name": "Solana Angels NFT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FwHjnVkpcxPaabZbJsrjYeFBJkGh1aHxjtBszJUSpHRn/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "governance-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/TMQdq7Naq5",
+        "twitter": "https://twitter.com/solangels_nft",
+        "website": "https://solangelsnft.com/"
+      }
     }
   ],
   "version": {
