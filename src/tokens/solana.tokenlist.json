@@ -168575,6 +168575,18 @@
       "extensions": {
         "twitter": "https://twitter.com/RegulatedNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGdaZn9CAgsCCapWFTRmdRq9e24gJQet9Ts55V1Dqjo5",
+      "symbol": "DAZE",
+      "name": "DAZE Utility Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BASCDAO/token-art/3e57fb729cc82a2790533212ed719ffaad3ef965/logo.svg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
