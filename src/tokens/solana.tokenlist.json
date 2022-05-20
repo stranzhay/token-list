@@ -168658,6 +168658,17 @@
         "twitter": "https://twitter.com/coatsandknights",
         "website": "https://coatsandknights.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "87pGBJh1Ts8jGSgD81nXfnRBE773yKdai1ceS4fZ2qc5",
+      "symbol": "OGGY",
+      "name": "OggyCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/alexkroeker177/oggycoin/main/OGGY.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
