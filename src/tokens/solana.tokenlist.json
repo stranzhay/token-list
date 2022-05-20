@@ -168289,6 +168289,21 @@
         "discord": "https://discord.com/invite/gSHWqephYV",
         "twitter": "https://twitter.com/CulturedKongz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
+      "symbol": "FUXD",
+      "name": "FUXD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf/logo.png",
+      "extensions": {
+        "description": "FUXD Token",
+        "discord": "https://discord.gg/prcWsTvTm9",
+        "medium": "https://medium.com/@2XD",
+        "twitter": "https://twitter.com/2XDProtocol",
+        "website": "https://2xd.fi/"
+      }
     }
   ],
   "version": {
