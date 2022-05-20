@@ -168680,6 +168680,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8JgJUfALp74xF1zdvU3tsbqn2u8ZvaDBmefuU9Lp759L",
+      "symbol": "PUNK",
+      "name": "PUNK",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/roben-punk/roben-token/main/RP.jpeg",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
