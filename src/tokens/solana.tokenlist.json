@@ -168628,6 +168628,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ReGuwoy3cEGfWC7Ko28EeYL1BJg1usVvHD1huyEpamp",
+      "symbol": "ReGuLaTeD",
+      "name": "ReGuLaTeD Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ReGuwoy3cEGfWC7Ko28EeYL1BJg1usVvHD1huyEpamp/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/RegulatedNFT"
+      }
     }
   ],
   "version": {
