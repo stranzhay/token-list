@@ -168617,6 +168617,17 @@
         "telegram": "https://t.me/network_pie",
         "twitter": "https://twitter.com/pie_network"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "71MwukaK2Hudp862BC7X7e8Ggyzqx1aMQD611nRM85Vu",
+      "symbol": "JUN",
+      "name": "Junkiez Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/71MwukaK2Hudp862BC7X7e8Ggyzqx1aMQD611nRM85Vu/logo.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
