@@ -168669,6 +168669,17 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7GptK2dfK4u8yNU7MUs8eJoFypkuNaKYTR2pG2WfYpcq",
+      "symbol": "CNANA",
+      "name": "SolMonkeez Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7GptK2dfK4u8yNU7MUs8eJoFypkuNaKYTR2pG2WfYpcq/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
