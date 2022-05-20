@@ -168761,6 +168761,76 @@
       "name": "VIBEZ",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/FyNuYGBBry5LAtPEkh8Y73izjTUNT2td2J3sGCK7E9Ju/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "2zwkTwiN4ABxovt2FaBQpRzVD4Kar7sHi3azBRQZfXSr",
+      "symbol": "ALPACA",
+      "name": "LLAMA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Eziollama/llamatoken/main/llama-logo.jpeg",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BQTG5Jah1aLwaMkHgUuoQ1KYjCfmjd9YgHfagQ76AhNS",
+      "symbol": "CUB",
+      "name": "CUB",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/cubclub/club007/main/logo-cub.jpeg",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DG2kMSpmGaFxUSVAFLHk75VzJ6iQEQx3UzGkLoGrAX4D",
+      "symbol": "RVLN",
+      "name": "Revolution Token",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/Bearzuki/token/logo%20bright.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BearzukiNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EHXVTtFYT1bo4YaHxayHKdpho5G8kdtDY8Uain5rE71G",
+      "symbol": "MPOX",
+      "name": "MonkeyPOX",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EHXVTtFYT1bo4YaHxayHKdpho5G8kdtDY8Uain5rE71G/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Et4Ni9HzKXByeMx6bPmJLHwLTzhLojxbZe5pZJgpwjYr",
+      "symbol": "PENGUIN",
+      "name": "Pengu",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Pawel-Pe/storage/main/logo-penguin.jpeg",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DeGbpw8kYC8YCiH4f6JL9ppMWdJ2nC6GZAxasFXfaqVW",
+      "symbol": "TREE",
+      "name": "TREE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/crypto-tree/tree-of-life/main/treelogo.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
