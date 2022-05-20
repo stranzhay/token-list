@@ -168798,6 +168798,17 @@
       "extensions": {
         "twitter": "https://twitter.com/BearzukiNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EHXVTtFYT1bo4YaHxayHKdpho5G8kdtDY8Uain5rE71G",
+      "symbol": "MPOX",
+      "name": "MonkeyPOX",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EHXVTtFYT1bo4YaHxayHKdpho5G8kdtDY8Uain5rE71G/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
