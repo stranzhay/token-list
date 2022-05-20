@@ -168220,6 +168220,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2tQrhk5cH41AvqVvwXyvfWQc3tRhuZZSWKvAPAmKVsbw",
+      "symbol": "Milei",
+      "name": "Javier Milei",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/javiermileiToken/Logo/main/logo.png",
+      "tags": [
+        "carbon-coin",
+        "green-coin",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Made by Carlos Verbelen a Token for Javier Milei,Viva la libertad,carajo. Milei token value 1usdt = 10 Milei tokens",
+        "discord": "https://discord.gg/3yNwFyPzUb",
+        "instagram": "https://www.instagram.com/lalibertadavanzaoficial/",
+        "website": "https://lalibertadavanza.com.ar/"
+      }
     }
   ],
   "version": {
