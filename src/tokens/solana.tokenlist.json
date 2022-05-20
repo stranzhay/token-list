@@ -168503,6 +168503,17 @@
         "twitter": "https://twitter.com/bitbotDAO",
         "website": "https://bit-bot.app"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DfLAX4Cak5A6bDkhnrRJAQtPvQVbfNvY5E2wJ7Q2CSb3",
+      "symbol": "OLIV",
+      "name": "Olivia",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/akaPierre/olivia/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
