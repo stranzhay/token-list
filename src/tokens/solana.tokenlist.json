@@ -168402,6 +168402,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5q5gWXXT315DnaaoCwrQD39XNxvF5PRLriwMzW6t2338",
+      "symbol": "BOSS",
+      "name": "The Boss Baby Family",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/atenidegbeolanrewaju/BB_/main/BBFY.png"
     }
   ],
   "version": {
