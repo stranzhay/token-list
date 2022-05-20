@@ -168587,6 +168587,47 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AWLXYnJJ9ScoSc9t56CKEPRTuaunqrakcnFwt6AvdXuT",
+      "symbol": "ZOOSHIB",
+      "name": "ZOO Shibtok",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Wisemunk/My_Solana_coin/main/Logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://futureshiba.000webhostapp.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6tkJPYnMEWGgWPnixqj1qZpN4AL7Dag73EmfRPKNXs1",
+      "symbol": "Pie",
+      "name": "Pie Network",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/cryptonetwork777/crypto/main/logo.png",
+      "tags": [
+        "airdrop-token",
+        "community-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/network_pie",
+        "twitter": "https://twitter.com/pie_network"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "71MwukaK2Hudp862BC7X7e8Ggyzqx1aMQD611nRM85Vu",
+      "symbol": "JUN",
+      "name": "Junkiez Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/71MwukaK2Hudp862BC7X7e8Ggyzqx1aMQD611nRM85Vu/logo.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
