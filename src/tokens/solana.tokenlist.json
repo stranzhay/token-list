@@ -168587,6 +168587,20 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AWLXYnJJ9ScoSc9t56CKEPRTuaunqrakcnFwt6AvdXuT",
+      "symbol": "ZOOSHIB",
+      "name": "ZOO Shibtok",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Wisemunk/My_Solana_coin/main/Logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://futureshiba.000webhostapp.com/"
+      }
     }
   ],
   "version": {
