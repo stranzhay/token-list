@@ -168547,6 +168547,46 @@
         "twitter": "https://twitter.com/WcdonaldsNFT",
         "website": "https://wcdonalds.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Pirapf3w881Hv5FXjRRpWmEP34WZNDHpV9Jd6DV2o8p",
+      "symbol": "Deadpirate",
+      "name": "Dead Pirates Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Pirapf3w881Hv5FXjRRpWmEP34WZNDHpV9Jd6DV2o8p/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DeadPiratess"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "REguZ4WixdYQeLscUbSzHo3MJP4LmoH4cqosXpA3rwp",
+      "symbol": "AFR",
+      "name": "ReGuLaTeD WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/REguZ4WixdYQeLscUbSzHo3MJP4LmoH4cqosXpA3rwp/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/RegulatedNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CGdaZn9CAgsCCapWFTRmdRq9e24gJQet9Ts55V1Dqjo5",
+      "symbol": "DAZE",
+      "name": "DAZE Utility Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BASCDAO/token-art/3e57fb729cc82a2790533212ed719ffaad3ef965/logo.svg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
