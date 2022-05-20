@@ -168152,6 +168152,33 @@
         "twitter": "https://twitter.com/kleos_nft",
         "website": "https://kleosnft.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EqxvSkL78VCnzJbfetznFytJdSfaXqZ29wSGKhYuAfQL",
+      "symbol": "VIKN",
+      "name": "Vikash Network",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/VikashAnandJha/token-list/8e5527428ecec8d96be8e9061652ad34e855952f/assets/mainnet/EqxvSkL78VCnzJbfetznFytJdSfaXqZ29wSGKhYuAfQL/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "VIKN is a Social token of Vikash Network",
+        "twitter": "https://twitter.com/vikashanandjha"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "JE3YG49wCFQwemcHQo6JLeGmSxgVGgSTpgEm4Eu69Vmk",
+      "symbol": "HCOMB",
+      "name": "Party Bears Honeycomb",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/IcyyApex/assets/main/HCOMB.png",
+      "tags": [
+        "staking",
+        "utility-token"
+      ]
     }
   ],
   "version": {
