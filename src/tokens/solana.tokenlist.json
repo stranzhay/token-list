@@ -168274,6 +168274,21 @@
         "twitter": "https://twitter.com/2XDProtocol",
         "website": "https://2xd.fi/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "89iVdMKfyXc5NYmtY9BoGQbps92JGcJ1w594nC7TmVrF",
+      "symbol": "CKOG",
+      "name": "Cultured Kongz OG Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/89iVdMKfyXc5NYmtY9BoGQbps92JGcJ1w594nC7TmVrF/icon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/gSHWqephYV",
+        "twitter": "https://twitter.com/CulturedKongz"
+      }
     }
   ],
   "version": {
