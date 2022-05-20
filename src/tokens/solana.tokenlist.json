@@ -168809,6 +168809,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Et4Ni9HzKXByeMx6bPmJLHwLTzhLojxbZe5pZJgpwjYr",
+      "symbol": "PENGUIN",
+      "name": "Pengu",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Pawel-Pe/storage/main/logo-penguin.jpeg",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
