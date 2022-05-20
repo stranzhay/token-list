@@ -168209,6 +168209,17 @@
         "twitter": "https://twitter.com/Vulturesnft",
         "website": "https://culturevultures.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3hv4K3mUaBEDBt4jfWvHQCBdX512r7f23PVCZRGaiDRq",
+      "symbol": "XZ",
+      "name": "XZAV",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Moonsight91/fndfgdhdhdg/main/xzavicon.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
