@@ -168772,6 +168772,17 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BQTG5Jah1aLwaMkHgUuoQ1KYjCfmjd9YgHfagQ76AhNS",
+      "symbol": "CUB",
+      "name": "CUB",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/cubclub/club007/main/logo-cub.jpeg",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
