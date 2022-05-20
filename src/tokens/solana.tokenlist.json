@@ -168680,6 +168680,68 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8JgJUfALp74xF1zdvU3tsbqn2u8ZvaDBmefuU9Lp759L",
+      "symbol": "PUNK",
+      "name": "PUNK",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/roben-punk/roben-token/main/RP.jpeg",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8UheazYYUJBWWXvxD6g2q1STGvcaAchLoz3ftwRfoEzs",
+      "symbol": "TABE",
+      "name": "TabeCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MiltronBee/Tabecoin/main/tabecoin.fw.png",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FwHjnVkpcxPaabZbJsrjYeFBJkGh1aHxjtBszJUSpHRn",
+      "symbol": "ANGLS",
+      "name": "Solana Angels NFT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FwHjnVkpcxPaabZbJsrjYeFBJkGh1aHxjtBszJUSpHRn/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "governance-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/TMQdq7Naq5",
+        "twitter": "https://twitter.com/solangels_nft",
+        "website": "https://solangelsnft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6M9omYci4d51LDueVspcazVJECUb4nMQWeX4YKcqq8KS",
+      "symbol": "RG",
+      "name": "GLORY",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6M9omYci4d51LDueVspcazVJECUb4nMQWeX4YKcqq8KS/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9oquRLMWrtf7oHNwZDwhZfz1AYUVAqBA9V9rc74nzTvR",
+      "symbol": "JOSK",
+      "name": "Jolly WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9oquRLMWrtf7oHNwZDwhZfz1AYUVAqBA9V9rc74nzTvR/logo.png",
+      "tags": [
+        "Whitelist-token"
+      ]
     }
   ],
   "version": {
