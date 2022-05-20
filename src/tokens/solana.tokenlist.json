@@ -168742,6 +168742,25 @@
       "tags": [
         "Whitelist-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "CSuPPjRAFH3zt4SMrHRDoZpHapeZAHKPiCJ31KEZS7r5",
+      "symbol": "SKHTST",
+      "name": "Sikho Coin Test",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSuPPjRAFH3zt4SMrHRDoZpHapeZAHKPiCJ31KEZS7r5/logo.jpg",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FyNuYGBBry5LAtPEkh8Y73izjTUNT2td2J3sGCK7E9Ju",
+      "symbol": "VIBEZ",
+      "name": "VIBEZ",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/FyNuYGBBry5LAtPEkh8Y73izjTUNT2td2J3sGCK7E9Ju/logo.png?raw=true"
     }
   ],
   "version": {
