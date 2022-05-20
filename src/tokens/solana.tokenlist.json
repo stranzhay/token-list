@@ -168179,6 +168179,36 @@
         "staking",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HHfq3uy65SAZgLjpDsJ4WrbjNGpSTfD6UFyQgr2Jxz9i",
+      "symbol": "THCxWL",
+      "name": "THC WL TOKENS",
+      "decimals": 9,
+      "logoURI": "https://cannabiznft.io/assets/images/logo-final.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CannabizNFT",
+        "website": "https://cannabiznft.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5n74w9iCaS3ZpQudGx4hVyupCXcxLomhL6xcatoZXbnS",
+      "symbol": "CVGen2xWL",
+      "name": "CV Gen2 WL Token",
+      "decimals": 9,
+      "logoURI": "https://culturevultures.io/gen2/assets/images/cvgen2_logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Vulturesnft",
+        "website": "https://culturevultures.io/"
+      }
     }
   ],
   "version": {
