@@ -168380,6 +168380,17 @@
       "tags": [
         "to-the-moon"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CLUbn9QKBwbX3rfFTuvQG3HgERzu7R9naLfJas3WuPgx",
+      "symbol": "CLUB",
+      "name": "THECLUB",
+      "decimals": 9,
+      "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/CLUbn9QKBwbX3rfFTuvQG3HgERzu7R9naLfJas3WuPgx/logo.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
