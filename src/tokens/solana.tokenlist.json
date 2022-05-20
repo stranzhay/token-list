@@ -168742,6 +168742,17 @@
       "tags": [
         "Whitelist-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "CSuPPjRAFH3zt4SMrHRDoZpHapeZAHKPiCJ31KEZS7r5",
+      "symbol": "SKHTST",
+      "name": "Sikho Coin Test",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSuPPjRAFH3zt4SMrHRDoZpHapeZAHKPiCJ31KEZS7r5/logo.jpg",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
