@@ -168391,6 +168391,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CczfrwwXahja6Ey3CfQH6mqH6PYAf14QQoGaWZAXVDtX",
+      "symbol": "COINT",
+      "name": "CoINT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ismaelfema/coint/main/coint.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
