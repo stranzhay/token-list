@@ -168971,6 +168971,34 @@
         "twitter": "https://twitter.com/thestonedfrogs",
         "website": "https://www.thestonedfrogs.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GkpbHQu2zYmJxyp93p9wTX3uHjsFt8ZGeomVwZkGwXLH",
+      "symbol": "sGENE",
+      "name": "Synthetic Genopets",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GkpbHQu2zYmJxyp93p9wTX3uHjsFt8ZGeomVwZkGwXLH/logo.png",
+      "tags": [
+        "genopets",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/genopets",
+        "twitter": "https://twitter.com/genopets",
+        "website": "https://genopets.me"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DhpikB5Qf4YZRzeGpFiAcZdSPAETS1mLF94PZz3oUos1",
+      "symbol": "NAPE",
+      "name": "NAPE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/NotBoredApe/token-list/main/assets/mainnet/DhpikB5Qf4YZRzeGpFiAcZdSPAETS1mLF94PZz3oUos1/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
