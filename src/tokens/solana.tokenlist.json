@@ -168999,6 +168999,33 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "43nugMCbD2J7BDiDDTxUD15jcLnexdPtftPdANYy9tc6",
+      "symbol": "QKA",
+      "name": "QuokkaCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/43nugMCbD2J7BDiDDTxUD15jcLnexdPtftPdANYy9tc6/quokka.png",
+      "extensions": {
+        "discord": "https://discord.gg/E237janjhJ"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ZNEc3wSpNycdsEtsccWXooa8fKb8n4rGC24Py6ZpyUx",
+      "symbol": "$SNEK",
+      "name": "SNEK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/danvernon/tiny-dogz-logo/main/zen-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/ZenjinViperz",
+        "twitter": "https://twitter.com/ZenjinViperz",
+        "website": "https://www.zenjinviperz.io/"
+      }
     }
   ],
   "version": {
