@@ -169254,6 +169254,18 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5DcMU3LVh5gjimK5hK6qDBb6cJq5ktUV3vBsUzntK9BD",
+      "symbol": "MFT",
+      "name": "Mura Fan Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/blink3301/MFT/main/logo.png",
+      "tags": [
+        "social-token",
+        "fan-token"
+      ]
     }
   ],
   "version": {
