@@ -168923,6 +168923,22 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5bfheMDpL1rDFzo53nWx2zSjsKNVG9wdYDtuhDnnabu7",
+      "symbol": "PxBC",
+      "name": "PxB Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/PriceFB/PixelBabes-website/main/assets/images/pxbc.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "investment-token"
+      ],
+      "extensions": {
+        "website": "https://www.pixelbabes.io"
+      }
     }
   ],
   "version": {
