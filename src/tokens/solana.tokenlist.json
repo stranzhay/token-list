@@ -168912,6 +168912,48 @@
       "name": "GolemGuardians W/L",
       "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/cashboysen/golem1/main/GolemTokey.png"
+    },
+    {
+      "chainId": 101,
+      "address": "F5FsobHiQ1SAd7HNJBhLoyrtZxrWzYwCKJrZ6mqqjYJ6",
+      "symbol": "RTG",
+      "name": "Road To Glory",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mazagangi7/Road-to-Glory/main/logo.png",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5bfheMDpL1rDFzo53nWx2zSjsKNVG9wdYDtuhDnnabu7",
+      "symbol": "PxBC",
+      "name": "PxB Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/PriceFB/PixelBabes-website/main/assets/images/pxbc.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "investment-token"
+      ],
+      "extensions": {
+        "website": "https://www.pixelbabes.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9TeUnTLnQCRAC3erDjgXrpnVgkwcP283VEWM5o8QTNXF",
+      "symbol": "OKAYMAYC",
+      "name": "Mutant Serum",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9TeUnTLnQCRAC3erDjgXrpnVgkwcP283VEWM5o8QTNXF/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/okaybayc",
+        "website": "https://okaybayc.com"
+      }
     }
   ],
   "version": {
