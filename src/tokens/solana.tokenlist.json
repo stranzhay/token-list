@@ -169191,6 +169191,17 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6N3sRS3FGZszkSYgVe4zk8W42jPpQKfcqpe7fv1eC5UF",
+      "symbol": "BLACKB",
+      "name": "Black Bear",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/harper-bear/bearT/main/logo.jpeg",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
