@@ -168912,6 +168912,17 @@
       "name": "GolemGuardians W/L",
       "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/cashboysen/golem1/main/GolemTokey.png"
+    },
+    {
+      "chainId": 101,
+      "address": "F5FsobHiQ1SAd7HNJBhLoyrtZxrWzYwCKJrZ6mqqjYJ6",
+      "symbol": "RTG",
+      "name": "Road To Glory",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mazagangi7/Road-to-Glory/main/logo.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
