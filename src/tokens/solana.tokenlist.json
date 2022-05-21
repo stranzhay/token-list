@@ -169097,6 +169097,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "G2VJZGHdH6K6Ck4XDc9b6Nmi32c67gtZXrwufT4RFuHK",
+      "symbol": "DON",
+      "name": "THE DON FAMILY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/atenidegbeolanrewaju/BB_/main/DON.jpeg"
     }
   ],
   "version": {
