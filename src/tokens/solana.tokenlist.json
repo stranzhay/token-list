@@ -168988,6 +168988,17 @@
         "twitter": "https://twitter.com/genopets",
         "website": "https://genopets.me"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DhpikB5Qf4YZRzeGpFiAcZdSPAETS1mLF94PZz3oUos1",
+      "symbol": "NAPE",
+      "name": "NAPE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/NotBoredApe/token-list/main/assets/mainnet/DhpikB5Qf4YZRzeGpFiAcZdSPAETS1mLF94PZz3oUos1/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
