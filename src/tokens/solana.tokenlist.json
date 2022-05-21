@@ -169266,6 +169266,20 @@
         "social-token",
         "fan-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "KidzxFVUbMLqfh6CUXMAPRzkuW4UWUGuUJ8WmYEZ2bn",
+      "symbol": "KTWL",
+      "name": "KidzTokyo WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KidzxFVUbMLqfh6CUXMAPRzkuW4UWUGuUJ8WmYEZ2bn/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/KidzTokyo"
+      }
     }
   ],
   "version": {
