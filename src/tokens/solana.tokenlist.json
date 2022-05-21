@@ -168954,6 +168954,23 @@
         "twitter": "https://twitter.com/okaybayc",
         "website": "https://okaybayc.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "sEedsCkfvPzjnfPNWVJAeNkNZf8yWTwZF3jh42R4X25",
+      "symbol": "SEEDS",
+      "name": "TSF SEEDS",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sEedsCkfvPzjnfPNWVJAeNkNZf8yWTwZF3jh42R4X25/logo.jpg",
+      "tags": [
+        "nft-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/stonedfrogs",
+        "twitter": "https://twitter.com/thestonedfrogs",
+        "website": "https://www.thestonedfrogs.io/"
+      }
     }
   ],
   "version": {
