@@ -168859,6 +168859,14 @@
         "payment-token",
         "investment-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "66XLRNqb1CnPd1ZooD5hSNtz56SNNwywACTFzWq9Nvyp",
+      "symbol": "SHOW",
+      "name": "theShow Plus Coin",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/theshowcoin-asset/imgs/token-coin/logo.png"
     }
   ],
   "version": {
