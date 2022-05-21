@@ -169105,6 +169105,36 @@
       "name": "THE DON FAMILY",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/atenidegbeolanrewaju/BB_/main/DON.jpeg"
+    },
+    {
+      "chainId": 101,
+      "address": "9fdPtdnXYJGJgaioSXn4GdoPLmcbFpji68BuN7Xsjr45",
+      "symbol": "MYWL",
+      "name": "Minty Wl",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MintyAutomation/minty-logo/main/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/minty",
+        "twitter": "https://twitter.com/mintyautomation"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J5kDSC7iaz69uq8vAV6iim5RpxbdvHyghDd6ecNbvNBY",
+      "symbol": "MYWLG",
+      "name": "Minty Wl Guaranteed",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MintyAutomation/minty-logo/main/logo.png",
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/minty",
+        "twitter": "https://twitter.com/mintyautomation"
+      }
     }
   ],
   "version": {
