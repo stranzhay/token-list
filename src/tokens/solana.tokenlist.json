@@ -169158,6 +169158,39 @@
         "website": "https://PurpleZone.github.io/NFTs/YCA/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmNe4W3y2NHEpRChzPT6GjXoHUAQCAwWLMLMLzkijUCQKq/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FCWL8z8rrryZGs3BKSiiEeggmGv9sSdvs4jcJbm8LLYh",
+      "symbol": "FCWLT",
+      "name": "Fine Cats Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FCWL8z8rrryZGs3BKSiiEeggmGv9sSdvs4jcJbm8LLYh/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BB2gejCCLsh84iJPjsoZivSEBWn3Y6zZLk6XnVKhPGCv",
+      "symbol": "BBCA2WLT",
+      "name": "Big Brain Clique Alpha WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BB2gejCCLsh84iJPjsoZivSEBWn3Y6zZLk6XnVKhPGCv/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BMWToutR4MZJfywAKq6w8qTU4DPE6vb9cXFhFaThEnxe",
+      "symbol": "BMVWWLT",
+      "name": "BMV Wolves Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BMWToutR4MZJfywAKq6w8qTU4DPE6vb9cXFhFaThEnxe/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
