@@ -169202,6 +169202,25 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BENSbkQQjkNywEo6Q1M5PoNCugvg7Efe1xCXzTYSyt1V",
+      "symbol": "Riot",
+      "name": "LeagueOfLegends",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/LeagueofLegendsToken/Logo/main/logo.png",
+      "tags": [
+        "riot-coin",
+        "Riotpoint-coin",
+        "NFT-token"
+      ],
+      "extensions": {
+        "description": "Made by Carlos Verbelen a Token for LeagueofLegends Riot token value 1usdt = 10 Riot tokens",
+        "discord": "https://discord.gg/3yNwFyPzUb",
+        "instagram": "https://www.instagram.com/CarlosVerbelen/",
+        "website": "https://unstoppabledomains.com/d/zues369.nft"
+      }
     }
   ],
   "version": {
