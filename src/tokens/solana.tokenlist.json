@@ -168846,6 +168846,19 @@
       "extensions": {
         "website": "https://www.yukonmining.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4mXbAjYsLCYVbFu7PedBY6wcfCSH6KVyNtSZNbvMsjbH",
+      "symbol": "POLE",
+      "name": "Pole Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/zball07/crypto/main/POLE%20Token%20Logo.png",
+      "tags": [
+        "utility-token",
+        "payment-token",
+        "investment-token"
+      ]
     }
   ],
   "version": {
