@@ -169049,6 +169049,17 @@
         "website": "https://PurpleZone.github.io/NFTs/btcz/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmYaMUFdqHmTk4V3HLfHwK3pq8d3Tqpk8s96ftb7WUkS1w/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CHNKTCk77cP7U15xC6UQC2zB2HQY8nnEwTD5RFvYK9Gn",
+      "symbol": "SCREW",
+      "name": "Meta Robots WL token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CHNKTCk77cP7U15xC6UQC2zB2HQY8nnEwTD5RFvYK9Gn/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
