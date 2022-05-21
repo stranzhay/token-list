@@ -169135,6 +169135,29 @@
         "discord": "https://discord.gg/minty",
         "twitter": "https://twitter.com/mintyautomation"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "yca52CtBFG9skA8FVLfvsVcbFZMfUWvmyBt4hGWzVuF",
+      "symbol": "YCA",
+      "name": "YC Apocalypse",
+      "decimals": 1,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/YCA/yca-coin.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "polkadot",
+        "description": "The YCA token is part of our REGS program at EO Technologies to move beyond YC apocalypse",
+        "imageUrl": "https://bafybeidzazuktrg74jmbz67jpddi34chsldu2mxyrbncbx6ocvubdmdpyy.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/YCA/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmNe4W3y2NHEpRChzPT6GjXoHUAQCAwWLMLMLzkijUCQKq/whitepaper.pdf"
+      }
     }
   ],
   "version": {
