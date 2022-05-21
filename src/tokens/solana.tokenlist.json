@@ -169243,6 +169243,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DzogDPd7CcjRGYZgG8mVybvhrxDnB7zn9VwXMvZFM2nG",
+      "symbol": "GREENGLASS",
+      "name": "GREEN GLASS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/green.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
