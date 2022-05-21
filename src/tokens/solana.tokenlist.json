@@ -169221,6 +169221,39 @@
         "instagram": "https://www.instagram.com/CarlosVerbelen/",
         "website": "https://unstoppabledomains.com/d/zues369.nft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8KnaNdNFh2rnhysmBwK3tzaKkz6ywD2JQ63yDjcRpQMk",
+      "symbol": "NTGC",
+      "name": "NateTheGreatCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Coolnatethegreat/Crypto/main/logoforcryptotoken.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GfZTt4bgmeKmhTaMfpxvfRrnWkiDJ8yzpZ7AFbrJFpbo",
+      "symbol": "NBCC",
+      "name": "NaByCoCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Sestere-IA/NabyCoCoin/main/WhatsApp%20Image%202022-05-21%20at%2015.22.59%20(1).jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DzogDPd7CcjRGYZgG8mVybvhrxDnB7zn9VwXMvZFM2nG",
+      "symbol": "GREENGLASS",
+      "name": "GREEN GLASS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/green.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
