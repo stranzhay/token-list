@@ -168904,6 +168904,14 @@
       "extensions": {
         "website": "https://junglecats.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5iXRqsoxw5yf5b7AUZ2nNSJL8k4EocYHtWB9VndSRGDr",
+      "symbol": "GGWL",
+      "name": "GolemGuardians W/L",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/cashboysen/golem1/main/GolemTokey.png"
     }
   ],
   "version": {
