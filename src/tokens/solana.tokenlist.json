@@ -169060,6 +169060,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9Tn4dFiSokzKDoiAHVMH2L7TqaRwKbGDz4PCsMS6RkbC",
+      "symbol": "PROFT",
+      "name": "Profit protocol",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9Tn4dFiSokzKDoiAHVMH2L7TqaRwKbGDz4PCsMS6RkbC/logo.png",
+      "tags": [
+        "social-token",
+        "SocialFi"
+      ]
     }
   ],
   "version": {
