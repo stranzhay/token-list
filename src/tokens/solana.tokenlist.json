@@ -168939,6 +168939,21 @@
       "extensions": {
         "website": "https://www.pixelbabes.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9TeUnTLnQCRAC3erDjgXrpnVgkwcP283VEWM5o8QTNXF",
+      "symbol": "OKAYMAYC",
+      "name": "Mutant Serum",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9TeUnTLnQCRAC3erDjgXrpnVgkwcP283VEWM5o8QTNXF/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/okaybayc",
+        "website": "https://okaybayc.com"
+      }
     }
   ],
   "version": {
