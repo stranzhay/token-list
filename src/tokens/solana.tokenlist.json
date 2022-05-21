@@ -169026,6 +169026,29 @@
         "twitter": "https://twitter.com/ZenjinViperz",
         "website": "https://www.zenjinviperz.io/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "CZero7niHAHbW29oVf2XoCwDWznBaDbd2NxRq9zXfGW4",
+      "symbol": "btc-z",
+      "name": "CarbonZero BTC",
+      "decimals": 10,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcz/btc-z.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "bitcoin",
+        "description": "Removing Carbon in cryptocurrencies one coin at a time",
+        "imageUrl": "https://bafybeiaey7aarrnghsu6ziv6cofpqftj22c4ssyf4d74feccfgkmsw63du.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/btcz/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmYaMUFdqHmTk4V3HLfHwK3pq8d3Tqpk8s96ftb7WUkS1w/whitepaper.pdf"
+      }
     }
   ],
   "version": {
