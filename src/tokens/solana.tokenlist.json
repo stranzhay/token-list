@@ -169072,6 +169072,39 @@
         "social-token",
         "SocialFi"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HD2WMkhqBqHBeuPaJfziGwSGTaaJTVfWs9drW7yTsLtk",
+      "symbol": "NORY",
+      "name": "NORY Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HD2WMkhqBqHBeuPaJfziGwSGTaaJTVfWs9drW7yTsLtk/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/NoryozNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "D5fQ4jY4GxKfTjdqe7Rnwbu1wN1DLu7mwtmJxPsT9Zr6",
+      "symbol": "FERO",
+      "name": "Forest Industry staking token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D5fQ4jY4GxKfTjdqe7Rnwbu1wN1DLu7mwtmJxPsT9Zr6/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "G2VJZGHdH6K6Ck4XDc9b6Nmi32c67gtZXrwufT4RFuHK",
+      "symbol": "DON",
+      "name": "THE DON FAMILY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/atenidegbeolanrewaju/BB_/main/DON.jpeg"
     }
   ],
   "version": {
