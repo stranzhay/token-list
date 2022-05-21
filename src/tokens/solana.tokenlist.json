@@ -168867,6 +168867,21 @@
       "name": "theShow Plus Coin",
       "decimals": 9,
       "logoURI": "https://storage.googleapis.com/theshowcoin-asset/imgs/token-coin/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GJGCVHGErDYkiPvnzq7cBUi2P1GsT6zhxVhVnkA8TARY",
+      "symbol": "SOLRUM",
+      "name": "Mutant Solrum",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GJGCVHGErDYkiPvnzq7cBUi2P1GsT6zhxVhVnkA8TARY/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MascNft",
+        "website": "https://mutantapesolana.club"
+      }
     }
   ],
   "version": {
