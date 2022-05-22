@@ -169374,6 +169374,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "HGXMNjuvCi1rRKKE4Uxq2QCsLfzuJQAbfMsrMmftchAj",
+      "symbol": "KRSh",
+      "name": "KRISH",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/noahdark/image-crypto/main/krish.png",
+      "tags": [
+        "community-token",
+        "trading-token"
+      ]
     }
   ],
   "version": {
