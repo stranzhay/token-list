@@ -169513,6 +169513,29 @@
         "website": "https://PurpleZone.github.io/NFTs/X6R/",
         "whitepaper": "https://gateway.ipfs.io/ipns/Qmbsa2XG9WzBgVNGaUKnTv3CvnfXJtDxHX2LsHMLRfsTaS/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "miWLpCeMRnJ5zEhH952cYAQK4KN9MPbCrnXKMSnFpCE",
+      "symbol": "MIWL",
+      "name": "Minibot WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/miWLpCeMRnJ5zEhH952cYAQK4KN9MPbCrnXKMSnFpCE/ssataei.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8PMGziWVwD7foVgX3WMpm3MkEkXLdwTTgZBUESXK1Nrp",
+      "symbol": "OSOULS",
+      "name": "OMENS SOULS CHEST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8PMGziWVwD7foVgX3WMpm3MkEkXLdwTTgZBUESXK1Nrp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/jkYNtg3Rx2",
+        "website": "https://omens.art"
+      }
     }
   ],
   "version": {
