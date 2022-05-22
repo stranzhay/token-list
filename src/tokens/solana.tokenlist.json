@@ -169596,6 +169596,21 @@
       "name": "dalsna",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BKQjRqhganhpqWsJhdBHbXKGVuvXdcu4bd5GWJfXJGEP/Original.png"
+    },
+    {
+      "chainId": 101,
+      "address": "tripUsjy3rYrWpw6D2fj6dWhXCZSog7nzYmMXXp2wN6",
+      "symbol": "APE",
+      "name": "Trippin Ape Tribe Token WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tripUsjy3rYrWpw6D2fj6dWhXCZSog7nzYmMXXp2wN6/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/trippinapetribe",
+        "twitter": "https://twitter.com/trippinapenft"
+      }
     }
   ],
   "version": {
