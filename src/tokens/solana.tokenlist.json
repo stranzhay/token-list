@@ -169363,6 +169363,17 @@
       "tags": [
         "un1ted-coin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "t99hPXrjb1Zcx2QRLAhLhundAibYKSULQksPuEsNWSk",
+      "symbol": "BFS",
+      "name": "Best Friend Sammy",
+      "decimals": 0,
+      "logoURI": "https://github.com/PKattari22/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
