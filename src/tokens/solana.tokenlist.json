@@ -169429,6 +169429,14 @@
       "name": "MSB Service",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5QTEfnox5cFCCMCmggGNftAvZ8wwvpttBUuiTQr6Sswq/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "RRTBB9xWcYD9DvaTX7R8UgYbNmxDkVsM2jo1iEXm1Et",
+      "symbol": "RR",
+      "name": "Roadhouse Runts Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RRTBB9xWcYD9DvaTX7R8UgYbNmxDkVsM2jo1iEXm1Et/logo.png"
     }
   ],
   "version": {
