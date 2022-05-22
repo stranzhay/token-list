@@ -169352,6 +169352,17 @@
         "description": "DeCrbnX Voluntary Carbon Trading Platform",
         "website": "https://www.decrbnx.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FMjZMJswdCrK9U3aogY1a82iGnYdFcWTEPFzt6Kv61v5",
+      "symbol": "U1C",
+      "name": "Un1ted Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FMjZMJswdCrK9U3aogY1a82iGnYdFcWTEPFzt6Kv61v5/logo.png",
+      "tags": [
+        "un1ted-coin"
+      ]
     }
   ],
   "version": {
