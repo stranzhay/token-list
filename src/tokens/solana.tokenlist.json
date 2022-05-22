@@ -169352,6 +169352,52 @@
         "description": "DeCrbnX Voluntary Carbon Trading Platform",
         "website": "https://www.decrbnx.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FMjZMJswdCrK9U3aogY1a82iGnYdFcWTEPFzt6Kv61v5",
+      "symbol": "U1C",
+      "name": "Un1ted Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FMjZMJswdCrK9U3aogY1a82iGnYdFcWTEPFzt6Kv61v5/logo.png",
+      "tags": [
+        "un1ted-coin"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "t99hPXrjb1Zcx2QRLAhLhundAibYKSULQksPuEsNWSk",
+      "symbol": "BFS",
+      "name": "Best Friend Sammy",
+      "decimals": 0,
+      "logoURI": "https://github.com/PKattari22/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "HGXMNjuvCi1rRKKE4Uxq2QCsLfzuJQAbfMsrMmftchAj",
+      "symbol": "KRSh",
+      "name": "KRISH",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/noahdark/image-crypto/main/krish.png",
+      "tags": [
+        "community-token",
+        "trading-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "C5yrBrY6XRaaxCZ7FDHMhkRPpKmYuFG4A3rAMDJqgXhy",
+      "symbol": "APXWL",
+      "name": "Airplex WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C5yrBrY6XRaaxCZ7FDHMhkRPpKmYuFG4A3rAMDJqgXhy/logo.png",
+      "tags": [
+        "Whitelist",
+        "APX"
+      ]
     }
   ],
   "version": {
