@@ -169521,6 +169521,21 @@
       "name": "Minibot WL",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/miWLpCeMRnJ5zEhH952cYAQK4KN9MPbCrnXKMSnFpCE/ssataei.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8PMGziWVwD7foVgX3WMpm3MkEkXLdwTTgZBUESXK1Nrp",
+      "symbol": "OSOULS",
+      "name": "OMENS SOULS CHEST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8PMGziWVwD7foVgX3WMpm3MkEkXLdwTTgZBUESXK1Nrp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/jkYNtg3Rx2",
+        "website": "https://omens.art"
+      }
     }
   ],
   "version": {
