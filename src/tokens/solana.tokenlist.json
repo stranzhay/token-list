@@ -169302,6 +169302,26 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6xv1QnqPAHQbwx73sNMdeocRvdyKbLmkmFXZSsJ9JtMh",
+      "symbol": "IceFrog",
+      "name": "Dota",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/IcefrogDota/Dotalogo/main/logo.png",
+      "tags": [
+        "dota-coin",
+        "iceFrog-coin",
+        "governance-token",
+        "NFT-token"
+      ],
+      "extensions": {
+        "description": "Made by Carlos Verbelen for Dota NFT token value 1usdt = 10 Icefrog tokens",
+        "discord": "https://discord.gg/3yNwFyPzUb",
+        "twitter": "https://twitter.com/IceFrog",
+        "website": "https://unstoppabledomains.com/d/zues369.nft"
+      }
     }
   ],
   "version": {
