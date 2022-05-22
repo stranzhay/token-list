@@ -169398,6 +169398,18 @@
         "Whitelist",
         "APX"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GNMuD3LYBi2JMoCpggr5rAhuiPi8sNuhX8t9rK13bkfp",
+      "symbol": "BaBi",
+      "name": "baby coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GNMuD3LYBi2JMoCpggr5rAhuiPi8sNuhX8t9rK13bkfp/logo.png",
+      "extensions": {
+        "description": "baby coin which is release from LonYui|mai hua shao nian",
+        "website": "https://0xflower.shop/"
+      }
     }
   ],
   "version": {
