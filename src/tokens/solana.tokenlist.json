@@ -169410,6 +169410,17 @@
         "description": "baby coin which is release from LonYui|mai hua shao nian",
         "website": "https://0xflower.shop/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3AGhCVBunbbo2bc2bkzLXaRu5rZXgMBpsK1svhjgwcGE",
+      "symbol": "SHRTBK",
+      "name": "SchruteBuck",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/S3ANZ13/Crypto/S3ANZ13-SchruteBucks/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
