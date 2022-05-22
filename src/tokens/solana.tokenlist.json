@@ -169429,6 +169429,37 @@
       "name": "MSB Service",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5QTEfnox5cFCCMCmggGNftAvZ8wwvpttBUuiTQr6Sswq/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "RRTBB9xWcYD9DvaTX7R8UgYbNmxDkVsM2jo1iEXm1Et",
+      "symbol": "RR",
+      "name": "Roadhouse Runts Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RRTBB9xWcYD9DvaTX7R8UgYbNmxDkVsM2jo1iEXm1Et/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "NfWLyJSeXsEwWxgvZxuq3nhSXDnqkCKzf3YGSrLgTPx",
+      "symbol": "nfwl",
+      "name": "Non Fungible Wallet",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/wallet/nf-wallet.svg",
+      "tags": [
+        "green-wallet",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "description": "NFWL: is a subwallet to your wallet for organizing your precious sustainable tokens",
+        "imageUrl": "https://bafybeibmzz5vapcfx7daybdhbfqxjlwcrszlbq6j2gvayexn4rl6olndoe.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/wallet/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmPhMEKGiuyXg9eq2x8aEgjnEMzR5tHEcuSBSMayzR9uVr/whitepaper.pdf"
+      }
     }
   ],
   "version": {
