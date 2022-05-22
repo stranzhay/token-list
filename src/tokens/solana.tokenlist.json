@@ -169626,6 +169626,20 @@
         "description": "WNDO is a utility token used on the WNDO platform.  Buy stuff in the real world get rewarded in WNDO!",
         "website": "https://www.wndo.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D9yWWB2NpBdmYHgzSXa5VfHWB6pWrJSpYzvr6ecVEmqb",
+      "symbol": "BRA",
+      "name": "Bragabilia",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/BBBragerton/token-v3/main/BToken.png",
+      "tags": [
+        "nft-token",
+        "community-token",
+        "asset-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
