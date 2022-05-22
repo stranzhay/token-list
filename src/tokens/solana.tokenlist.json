@@ -169536,6 +169536,44 @@
         "discord": "https://discord.gg/jkYNtg3Rx2",
         "website": "https://omens.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TGTj1biiXa6JNg39a9i8rzQHzgDCjawQtr7xyDvKaVr",
+      "symbol": "TGT",
+      "name": "Tapn Game Token",
+      "decimals": 6,
+      "logoURI": "https://static.tapn.gg/token/tgt-signet.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/XhHrn2kef3",
+        "twitter": "https://twitter.com/tapngg",
+        "website": "https://tapn.gg"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GKUSBwYCx3DVBJoCqsEJ1xpY9qJ8aBQXeL4V1F57TApN",
+      "symbol": "AVCD",
+      "name": "Avocado",
+      "decimals": 0,
+      "logoURI": "https://github.com/Nillidok/Avocado/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CyCtkcjsFtCKQysCLzZ9UunTpXdMSkzvnVByewmjbYxn",
+      "symbol": "SAMX",
+      "name": "Super Automobile Mangement eXpert",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fullstackdev0410/spl-crypto/main/token.PNG",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
