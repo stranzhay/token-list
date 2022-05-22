@@ -169552,6 +169552,17 @@
         "twitter": "https://twitter.com/tapngg",
         "website": "https://tapn.gg"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GKUSBwYCx3DVBJoCqsEJ1xpY9qJ8aBQXeL4V1F57TApN",
+      "symbol": "AVCD",
+      "name": "Avocado",
+      "decimals": 0,
+      "logoURI": "https://github.com/Nillidok/Avocado/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
