@@ -169471,6 +169471,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DkY8QUqn7DRm1TUVtEJ8kiycotDvuaNSKCn1YchJpLHS",
+      "symbol": "LNDC",
+      "name": "Lean Do",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/vitorcriptos/solana/main/icone.png"
     }
   ],
   "version": {
