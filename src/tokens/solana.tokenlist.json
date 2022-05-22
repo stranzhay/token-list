@@ -169322,6 +169322,20 @@
         "twitter": "https://twitter.com/IceFrog",
         "website": "https://unstoppabledomains.com/d/zues369.nft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MTSUtji2nigjKJLoqCgvpdqoDSwpjCoFo8rWRPS8uvS",
+      "symbol": "MITSU",
+      "name": "Mitsu Bears Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MTSUtji2nigjKJLoqCgvpdqoDSwpjCoFo8rWRPS8uvS/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://mitsubears.io/"
+      }
     }
   ],
   "version": {
