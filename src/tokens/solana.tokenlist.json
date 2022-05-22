@@ -169460,6 +169460,25 @@
         "website": "https://PurpleZone.github.io/NFTs/wallet/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmPhMEKGiuyXg9eq2x8aEgjnEMzR5tHEcuSBSMayzR9uVr/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "768S3Qsg5YbmmoDinvshAVhYjSnLq5VPrnvzVxhLNxjW",
+      "symbol": "HMO",
+      "name": "HammoCoin",
+      "decimals": 0,
+      "logoURI": "https://github.com/pmjmay/crypto/blob/main/HammoCoin.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DkY8QUqn7DRm1TUVtEJ8kiycotDvuaNSKCn1YchJpLHS",
+      "symbol": "LNDC",
+      "name": "Lean Do",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/vitorcriptos/solana/main/icone.png"
     }
   ],
   "version": {
