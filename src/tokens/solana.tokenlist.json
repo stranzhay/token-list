@@ -169336,6 +169336,22 @@
       "extensions": {
         "website": "https://mitsubears.io/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "3Cvq1aEYCHbg2b5VpnQU884QGXr6VkkFsqywkrdH8Hv3",
+      "symbol": "DECRBNX",
+      "name": "DeCrbnX PoC",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Cvq1aEYCHbg2b5VpnQU884QGXr6VkkFsqywkrdH8Hv3/logo.png",
+      "tags": [
+        "utility-token",
+        "nft"
+      ],
+      "extensions": {
+        "description": "DeCrbnX Voluntary Carbon Trading Platform",
+        "website": "https://www.decrbnx.com/"
+      }
     }
   ],
   "version": {
