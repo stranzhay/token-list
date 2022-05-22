@@ -169460,6 +169460,17 @@
         "website": "https://PurpleZone.github.io/NFTs/wallet/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmPhMEKGiuyXg9eq2x8aEgjnEMzR5tHEcuSBSMayzR9uVr/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "768S3Qsg5YbmmoDinvshAVhYjSnLq5VPrnvzVxhLNxjW",
+      "symbol": "HMO",
+      "name": "HammoCoin",
+      "decimals": 0,
+      "logoURI": "https://github.com/pmjmay/crypto/blob/main/HammoCoin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
