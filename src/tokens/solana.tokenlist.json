@@ -169588,6 +169588,14 @@
         "twitter": "https://twitter.com/OddKeyCafe",
         "website": "https://oddkey.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BKQjRqhganhpqWsJhdBHbXKGVuvXdcu4bd5GWJfXJGEP",
+      "symbol": "DALSNA",
+      "name": "dalsna",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BKQjRqhganhpqWsJhdBHbXKGVuvXdcu4bd5GWJfXJGEP/Original.png"
     }
   ],
   "version": {
