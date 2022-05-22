@@ -169479,6 +169479,17 @@
       "name": "Lean Do",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/vitorcriptos/solana/main/icone.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FjA8FNXryYsPEoND6RfUoXffXhZMpy6YDA83G5pz5bwP",
+      "symbol": "RGD",
+      "name": "ReGuLaTeD Stake Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FjA8FNXryYsPEoND6RfUoXffXhZMpy6YDA83G5pz5bwP/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/RegulatedNFT"
+      }
     }
   ],
   "version": {
