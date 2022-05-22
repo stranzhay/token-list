@@ -169563,6 +169563,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CyCtkcjsFtCKQysCLzZ9UunTpXdMSkzvnVByewmjbYxn",
+      "symbol": "SAMX",
+      "name": "Super Automobile Mangement eXpert",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/fullstackdev0410/spl-crypto/main/token.PNG",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
