@@ -169280,6 +169280,17 @@
       "extensions": {
         "twitter": "https://twitter.com/KidzTokyo"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hajw7G1jUtLRLBjZjTeaBwuE9nkViomFvtfRnZVNZ9bm",
+      "symbol": "MURPH",
+      "name": "MurphCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/S3ANZ13/Crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
