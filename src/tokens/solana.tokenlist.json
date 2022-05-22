@@ -169611,6 +169611,21 @@
         "discord": "https://discord.gg/trippinapetribe",
         "twitter": "https://twitter.com/trippinapenft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E8G4uo2i9d12aGnXDHXXcw6hU2fh2NytR5XR3qurTLBx",
+      "symbol": "WNDO",
+      "name": "WNDO",
+      "decimals": 9,
+      "logoURI": "https://static1.squarespace.com/static/6252f1590fac8d79fb6d772e/t/627682f25295251e0967c29c/1651933939477/wndocoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "WNDO is a utility token used on the WNDO platform.  Buy stuff in the real world get rewarded in WNDO!",
+        "website": "https://www.wndo.io/"
+      }
     }
   ],
   "version": {
