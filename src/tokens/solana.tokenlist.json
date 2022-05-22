@@ -169421,6 +169421,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5QTEfnox5cFCCMCmggGNftAvZ8wwvpttBUuiTQr6Sswq",
+      "symbol": "MSBS",
+      "name": "MSB Service",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5QTEfnox5cFCCMCmggGNftAvZ8wwvpttBUuiTQr6Sswq/logo.png"
     }
   ],
   "version": {
