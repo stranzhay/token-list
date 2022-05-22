@@ -169513,6 +169513,14 @@
         "website": "https://PurpleZone.github.io/NFTs/X6R/",
         "whitepaper": "https://gateway.ipfs.io/ipns/Qmbsa2XG9WzBgVNGaUKnTv3CvnfXJtDxHX2LsHMLRfsTaS/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "miWLpCeMRnJ5zEhH952cYAQK4KN9MPbCrnXKMSnFpCE",
+      "symbol": "MIWL",
+      "name": "Minibot WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/miWLpCeMRnJ5zEhH952cYAQK4KN9MPbCrnXKMSnFpCE/ssataei.png"
     }
   ],
   "version": {
