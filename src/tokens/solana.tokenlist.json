@@ -169950,6 +169950,42 @@
       "tags": [
         "utiliy-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3DWL5LRJwWiXzDRUYJ1Ky2Dv6TRx5v4F7KSrCq1o6LJr",
+      "symbol": "3DFUNWL",
+      "name": "3D FunGuyz WL",
+      "decimals": 0,
+      "logoURI": "https://bafkreibp4wzfh5lrqr3gqlcduk4hk64qwmosyryhwrqjaa7qqcggyrylqe.ipfs.nftstorage.link/?ext=png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "description": "CONGRATS! You have received a WL token for the 3D FunGuyz Mint! Mint Price: 4 SOL, Wen Mint: May 26th 2022, Total Supply: 3000",
+        "discord": "https://discord.gg/dEKxrxt8ac",
+        "twitter": "https://twitter.com/FunGuyzNFT",
+        "website": "https://funguyz.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9TYa4pa644XhZAAK25oAotKiUF8345QefGYV5q7KrebN",
+      "symbol": "IDIOT",
+      "name": "4 IDIOTS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9TYa4pa644XhZAAK25oAotKiUF8345QefGYV5q7KrebN/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "4yx2gD7heLLTHGLN4CGPCaGYsCRfMnadcq8nLm1aWXDk",
+      "symbol": "FAME",
+      "name": "FAME",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4yx2gD7heLLTHGLN4CGPCaGYsCRfMnadcq8nLm1aWXDk/logo.png"
     }
   ],
   "version": {
