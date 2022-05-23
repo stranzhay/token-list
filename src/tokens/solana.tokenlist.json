@@ -169967,6 +169967,17 @@
         "twitter": "https://twitter.com/FunGuyzNFT",
         "website": "https://funguyz.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9TYa4pa644XhZAAK25oAotKiUF8345QefGYV5q7KrebN",
+      "symbol": "IDIOT",
+      "name": "4 IDIOTS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9TYa4pa644XhZAAK25oAotKiUF8345QefGYV5q7KrebN/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
