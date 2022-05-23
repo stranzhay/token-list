@@ -170106,6 +170106,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8jojCnqTnauGXkgjUzB8GhZd22GSBAjGwkh21SNCVMYx",
+      "symbol": "NOTOKAY",
+      "name": "Not Okay",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/qudo-code/assets/master/solana/tokens/NOTOKAY/NOTOKAY.jpg"
     }
   ],
   "version": {
