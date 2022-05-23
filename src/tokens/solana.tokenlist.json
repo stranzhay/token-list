@@ -170073,6 +170073,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DwH6w7pqjX923YbE94grsVe6Fbb2GPesYPSDPHuSTGLb",
+      "symbol": "SMC",
+      "name": "Simcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Simon271207/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
