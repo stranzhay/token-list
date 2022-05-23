@@ -169924,6 +169924,32 @@
         "description": "Destinator Travel Token - To be used for purchases inside the Destinator Metaverse and NFT Staking platform.",
         "website": "https://www.destinator.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7d9YNkXGxL8gN9dkZVw1Bt2yQyvXhvatHsC1J4w96F7w",
+      "symbol": "CVGen2xWL",
+      "name": "CV Gen2 WL Tokens",
+      "decimals": 0,
+      "logoURI": "https://culturevultures.io/gen2/assets/images/cvgen2_logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Vulturesnft",
+        "website": "https://culturevultures.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "23CqJ2yUqyQYchdoK3uKAt2adC23UZ9TtPsquFhtwrB1",
+      "symbol": "JAP",
+      "name": "JAP00_",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/23CqJ2yUqyQYchdoK3uKAt2adC23UZ9TtPsquFhtwrB1/logo.jpg",
+      "tags": [
+        "utiliy-token"
+      ]
     }
   ],
   "version": {
