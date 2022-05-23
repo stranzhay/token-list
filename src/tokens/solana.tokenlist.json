@@ -170350,6 +170350,109 @@
         "twitter": "https://twitter.com/legion_of_sol",
         "website": "https://legionofsol.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7YTpvsi55fzuwj3E4kpzFCWT71SuUf2YcMdVgGFE9fwr",
+      "symbol": "FTS",
+      "name": "Fatsas Coin",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/georgepelal/ok/main/fatsas1.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BLyV6szCZ7Ypye8AHXyHDmjC4uC73sGvEJoMwoVQw3Te",
+      "symbol": "TFOXES",
+      "name": "Transdimensional Fox Federation Floor Index",
+      "decimals": 2,
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/bafkreiaw7wgcu3o7xwmm3mbmm65pco5nti7etquvp7xlo6atgbksirb2va",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "tfoxes",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/BLyV6szCZ7Ypye8AHXyHDmjC4uC73sGvEJoMwoVQw3Te"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EK6j5Shv99xttoT3F2DfG8uQMoX6NoAZgTuYwCvrHzqo",
+      "symbol": "LIONESS",
+      "name": "Jungle Cats Lioness Index",
+      "decimals": 2,
+      "logoURI": "https://dl.airtable.com/.attachments/5befbef5bb59eb122426dac8db5a0b2f/2327b76a/QueenLion.jpg",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "jungle-cats-lioness",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/EK6j5Shv99xttoT3F2DfG8uQMoX6NoAZgTuYwCvrHzqo"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "uL2qhMckUAroJPt2MLHwEeppJNYE3wBAGFMCs3anwXn",
+      "symbol": "DRIPP",
+      "name": "Drippies Floor Index",
+      "decimals": 2,
+      "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/drippies_pfp_1648415706808.gif",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "drippies",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/uL2qhMckUAroJPt2MLHwEeppJNYE3wBAGFMCs3anwXn"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9j7pLeELCPTnXYXcHSiGSuYr1UE7cTaAd16kiH2AiNs5",
+      "symbol": "DRAKOSE",
+      "name": "Drakos Unchained Expansion Floor Index",
+      "decimals": 2,
+      "logoURI": "https://dl.airtable.com/.attachments/28e237c4f048b44953ce81d43ea0c1cb/1f0a0154/ME-PFP.gif",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "drakos-expansion",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/9j7pLeELCPTnXYXcHSiGSuYr1UE7cTaAd16kiH2AiNs5"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5iUW2aLFsSD5oRkmxpRfKFffvKvTeFmEruABLYyY2MRX",
+      "symbol": "HELIX",
+      "name": "Metahelix Floor Index",
+      "decimals": 2,
+      "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/metahelix_pfp_1647817083595.png",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "metahelix",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/5iUW2aLFsSD5oRkmxpRfKFffvKvTeFmEruABLYyY2MRX"
+      }
     }
   ],
   "version": {
