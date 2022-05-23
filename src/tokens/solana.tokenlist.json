@@ -170201,6 +170201,19 @@
         "discord": "https://discord.gg/https://discord.gg/NpZhjmTxY4",
         "twitter": "https://twitter.com/virgindao_sol"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B8WJxSDHCHM43WcfrC8HzBvg4cYRVA2EQiERxBtPQ99T",
+      "symbol": "OR5",
+      "name": "Algorithm",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Uplordi/crypto/main/logo.png.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "yoroshii"
+      ]
     }
   ],
   "version": {
