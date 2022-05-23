@@ -170084,6 +170084,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7Kec1tnaGXP9DggbauY9ieGQSy4pjH8HJzUEMHqhKBQz",
+      "symbol": "ATOMS",
+      "name": "Hexa Digital Assets",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/hexadigitalasset/Atoms_Logo/main/ATOMS_LOGO.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
