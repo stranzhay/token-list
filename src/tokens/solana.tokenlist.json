@@ -169939,6 +169939,17 @@
         "twitter": "https://twitter.com/Vulturesnft",
         "website": "https://culturevultures.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "23CqJ2yUqyQYchdoK3uKAt2adC23UZ9TtPsquFhtwrB1",
+      "symbol": "JAP",
+      "name": "JAP00_",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/23CqJ2yUqyQYchdoK3uKAt2adC23UZ9TtPsquFhtwrB1/logo.jpg",
+      "tags": [
+        "utiliy-token"
+      ]
     }
   ],
   "version": {
