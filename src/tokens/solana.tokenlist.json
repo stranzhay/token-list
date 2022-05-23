@@ -170288,6 +170288,25 @@
         "twitter": "https://twitter.com/AzuriaMetaverse",
         "website": "https://www.azuria.world/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BkCwEZ5Zbv85dAT9rD6mu19i26RY72gBWETr1bb8Wssv",
+      "symbol": "SWDTKN",
+      "name": "Sword Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/HitBox2022/crypto/main/logo.png",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "description": "The one token bringing the traditional and blockchain gaming world together",
+        "website": "http://swordsofblood.com"
+      }
     }
   ],
   "version": {
