@@ -170025,6 +170025,43 @@
         "twitter": "https://twitter.com/RegulatedNFT",
         "website": "https://www.regulatednft.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FUjcq8j9j1bAJnnEBwGQYT3WGUVLEDBjbR8ZgtcYJsAW",
+      "symbol": "1LOVE",
+      "name": "Kocham Cie",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/EPAL21/Kocham-Cie/main/kochamcie-logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GgZGpi7ycFNNFTt33rKH8gbP5dpD3PVHKBhKa5UHqCck",
+      "symbol": "CRAY",
+      "name": "CRAY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GgZGpi7ycFNNFTt33rKH8gbP5dpD3PVHKBhKa5UHqCck/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://peppyplatypus.com/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "7rQBH5uxDHbcP34zbEic8HDroejAyzwJnM96mbfgztFN",
+      "symbol": "VDAO",
+      "name": "Virgin DAO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7rQBH5uxDHbcP34zbEic8HDroejAyzwJnM96mbfgztFN/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/https://discord.gg/NpZhjmTxY4",
+        "twitter": "https://twitter.com/virgindao_sol"
+      }
     }
   ],
   "version": {
