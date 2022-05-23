@@ -170036,6 +170036,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GgZGpi7ycFNNFTt33rKH8gbP5dpD3PVHKBhKa5UHqCck",
+      "symbol": "CRAY",
+      "name": "CRAY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GgZGpi7ycFNNFTt33rKH8gbP5dpD3PVHKBhKa5UHqCck/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://peppyplatypus.com/"
+      }
     }
   ],
   "version": {
