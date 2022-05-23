@@ -170256,6 +170256,23 @@
         "telegram": "https://t.me/moneyland_verse",
         "twitter": "https://twitter.com/monelaverse"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3DFUNAzqFZTKHHHovSV3iJGvudnAPSoKoXe2XH6SBF6i",
+      "symbol": "3DFUN",
+      "name": "3D FunGuyz Discounted WL",
+      "decimals": 0,
+      "logoURI": "https://bafkreihebzouugjwf32gryfh7hqraxc5kue4rbsei3w57pks4phmpdfudq.ipfs.nftstorage.link/?ext=png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "description": "CONGRATS! You have received a discounted WL token for the 3D FunGuyz Mint for having 2 or more FunGuyz in your wallet! Mint Price: 3 SOL, Wen Mint: May 26th 2022, Total Supply: 3000",
+        "discord": "https://discord.gg/dEKxrxt8ac",
+        "twitter": "https://twitter.com/FunGuyzNFT",
+        "website": "https://funguyz.io/"
+      }
     }
   ],
   "version": {
