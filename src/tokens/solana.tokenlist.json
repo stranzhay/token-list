@@ -169640,6 +169640,21 @@
         "asset-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H9bisooRJP317gRKqdqDf1pzQC6VcWBCRFfthLKrpCwT",
+      "symbol": "BNNA",
+      "name": "The Moonkees Token",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/TheMoonkeesNFT/TheMoonkees_logo/main/assets/Logo%20transparente%20blanco.png",
+      "tags": [
+        "Utility-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/themoonkeesnft",
+        "twitter": "https://twitter.com/TheMoonkeesNFT"
+      }
     }
   ],
   "version": {
