@@ -170273,6 +170273,21 @@
         "twitter": "https://twitter.com/FunGuyzNFT",
         "website": "https://funguyz.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9XoLtLc3vGFocje9Jojm6nDkjz82mZQYbBPLDYvFafJL",
+      "symbol": "AZDWL",
+      "name": "Azuria Droids Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/AzuriaDev/token-images/bacedbbe6f30a1781aa498ae7db070486acf6bba/azuria-droids-whitelist-token.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AzuriaMetaverse",
+        "website": "https://www.azuria.world/"
+      }
     }
   ],
   "version": {
