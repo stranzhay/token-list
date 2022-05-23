@@ -170237,6 +170237,25 @@
       "name": "GeorgePelal Coin",
       "decimals": 1,
       "logoURI": "https://raw.githubusercontent.com/georgepelal/ok/main/mylogo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2G8y27mY1LWKaAAMDdFsGMpz9wQ1TgpkgChUGeVXu2wk",
+      "symbol": "MNL",
+      "name": "MONELA",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/MoneyLandVerse/pr/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/C5az2gHKae",
+        "linkedin": "https://www.linkedin.com/company/moneyland-metaverse",
+        "medium": "https://medium.com/@MonelaVerse",
+        "reddit": "https://www.reddit.com/r/Monelaverse",
+        "telegram": "https://t.me/moneyland_verse",
+        "twitter": "https://twitter.com/monelaverse"
+      }
     }
   ],
   "version": {
