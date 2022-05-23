@@ -170050,6 +170050,18 @@
       "extensions": {
         "website": "https://peppyplatypus.com/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "7rQBH5uxDHbcP34zbEic8HDroejAyzwJnM96mbfgztFN",
+      "symbol": "VDAO",
+      "name": "Virgin DAO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7rQBH5uxDHbcP34zbEic8HDroejAyzwJnM96mbfgztFN/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/https://discord.gg/NpZhjmTxY4",
+        "twitter": "https://twitter.com/virgindao_sol"
+      }
     }
   ],
   "version": {
