@@ -170214,6 +170214,21 @@
         "community-token",
         "yoroshii"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7ViSurf5Ve2a8qDWFYsfU8GFmRttQvS5paJ8L94QZgo7",
+      "symbol": "BBSAMO",
+      "name": "BabySamoio",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ViSurf5Ve2a8qDWFYsfU8GFmRttQvS5paJ8L94QZgo7/bbsamo.png",
+      "tags": [
+        "p2e"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/babysamoio",
+        "website": "https://babysamo.io"
+      }
     }
   ],
   "version": {
