@@ -170084,6 +170084,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7Kec1tnaGXP9DggbauY9ieGQSy4pjH8HJzUEMHqhKBQz",
+      "symbol": "ATOMS",
+      "name": "Hexa Digital Assets",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/hexadigitalasset/Atoms_Logo/main/ATOMS_LOGO.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7v4nVURDQDFVTr2sWMBpXzkPuXQR49uuBytMFdcZyks3",
+      "symbol": "SPRK",
+      "name": "Spark Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/prichards2921/Spark/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
