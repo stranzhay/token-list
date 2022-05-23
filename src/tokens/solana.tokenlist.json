@@ -170147,6 +170147,73 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7ttRirA9PD94MDR2KYfhA7DW8uXe4x9oVE4i7t9KcAab",
+      "symbol": "ZALI",
+      "name": "Zalina",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ttRirA9PD94MDR2KYfhA7DW8uXe4x9oVE4i7t9KcAab/logo.png",
+      "tags": [
+        "governance-token"
+      ],
+      "extensions": {
+        "description": "Governance token for zalina.finance",
+        "twitter": "https://twitter.com/ZalinaFinance",
+        "website": "https://zalina.finance/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Ef38uckDt5igFxn9kc2tAQQKVmvVat9PMxjybh9ZvvuL",
+      "symbol": "PR",
+      "name": "Passroom WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ef38uckDt5igFxn9kc2tAQQKVmvVat9PMxjybh9ZvvuL/logo.png",
+      "tags": [
+        "WL-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "87vA6oDxoTKbh7BLYsqNTrfVw1Udiu5zFy2Tw87gjytY",
+      "symbol": "HPWL",
+      "name": "Honest Poker Founder's Pass WL",
+      "decimals": 0,
+      "logoURI": "https://github.com/Honest-Labs/token-images/blob/main/assets/honest-poker-founders-wl.png",
+      "tags": [
+        "honest-poker"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HonestPoker_",
+        "website": "https://honest.poker/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AqtMo5WyQmi3dQsuuQfgxKM3Gah5QKgZBdTnifSzehJq",
+      "symbol": "VDAO",
+      "name": "Virgin DAO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AqtMo5WyQmi3dQsuuQfgxKM3Gah5QKgZBdTnifSzehJq/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/https://discord.gg/NpZhjmTxY4",
+        "twitter": "https://twitter.com/virgindao_sol"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "B8WJxSDHCHM43WcfrC8HzBvg4cYRVA2EQiERxBtPQ99T",
+      "symbol": "OR5",
+      "name": "Algorithm",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Uplordi/crypto/main/logo.png.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "yoroshii"
+      ]
     }
   ],
   "version": {
