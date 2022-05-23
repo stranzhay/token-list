@@ -170106,6 +170106,47 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8jojCnqTnauGXkgjUzB8GhZd22GSBAjGwkh21SNCVMYx",
+      "symbol": "NOTOKAY",
+      "name": "Not Okay",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/qudo-code/assets/master/solana/tokens/NOTOKAY/NOTOKAY.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "AXneQDz2f8QcVuPmxNNmme1EZZvKkPxnfP4maB5KHPFp",
+      "symbol": "CozyC",
+      "name": "CozyCub",
+      "decimals": 0,
+      "logoURI": "https://i.imgur.com/LVi8Qmi.jpeg",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4ntVBcshvLiUFD1uhXC3pUsqrPzFZJpg1NgfkmAfcb8s",
+      "symbol": "SEAN",
+      "name": "Sean",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/dickmasterson/seanies/master/sean-logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "E16AdwkqMrmWpVamKL2U8zwJLTjpA8dMsoedPqQNXAoo",
+      "symbol": "SMOOCH",
+      "name": "Smooches",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/dickmasterson/seanies/master/smooch-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
