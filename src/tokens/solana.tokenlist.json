@@ -170350,6 +170350,14 @@
         "twitter": "https://twitter.com/legion_of_sol",
         "website": "https://legionofsol.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7YTpvsi55fzuwj3E4kpzFCWT71SuUf2YcMdVgGFE9fwr",
+      "symbol": "FTS",
+      "name": "Fatsas Coin",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/georgepelal/ok/main/fatsas1.png"
     }
   ],
   "version": {
