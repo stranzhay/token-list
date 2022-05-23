@@ -169907,6 +169907,23 @@
         "website": "https://PurpleZone.github.io/NFTs/cryptolake/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmUbroCsNCYvDsHiAx2etSw5xfHpkFUpqum5hLajnoxd5k/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HPwpvG7M1aqkrbZMRH7EjB8ZadG8jTsQ3g7U4Utb2Apc",
+      "symbol": "TRAVEL",
+      "name": "Destinator Travel Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HPwpvG7M1aqkrbZMRH7EjB8ZadG8jTsQ3g7U4Utb2Apc/logo.png",
+      "tags": [
+        "nft-token",
+        "metaverse-token",
+        "staking-token"
+      ],
+      "extensions": {
+        "description": "Destinator Travel Token - To be used for purchases inside the Destinator Metaverse and NFT Staking platform.",
+        "website": "https://www.destinator.io"
+      }
     }
   ],
   "version": {
