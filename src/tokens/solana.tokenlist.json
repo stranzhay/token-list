@@ -170125,6 +170125,28 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4ntVBcshvLiUFD1uhXC3pUsqrPzFZJpg1NgfkmAfcb8s",
+      "symbol": "SEAN",
+      "name": "Sean",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/dickmasterson/seanies/master/sean-logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "E16AdwkqMrmWpVamKL2U8zwJLTjpA8dMsoedPqQNXAoo",
+      "symbol": "SMOOCH",
+      "name": "Smooches",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/dickmasterson/seanies/master/smooch-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
