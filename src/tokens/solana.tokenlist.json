@@ -170008,6 +170008,23 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6RXd57bcmKQLyhwBfzBjr5U2xyZfv843ceBeZki49dRM",
+      "symbol": "FREE",
+      "name": "FREE ReGuLaTeD Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6RXd57bcmKQLyhwBfzBjr5U2xyZfv843ceBeZki49dRM/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "A token at the heart of the ReGuLaTeD ecosystem.",
+        "discord": "https://discord.gg/regulated",
+        "twitter": "https://twitter.com/RegulatedNFT",
+        "website": "https://www.regulatednft.io/"
+      }
     }
   ],
   "version": {
