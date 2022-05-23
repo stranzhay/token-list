@@ -170174,6 +170174,21 @@
       "tags": [
         "WL-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "87vA6oDxoTKbh7BLYsqNTrfVw1Udiu5zFy2Tw87gjytY",
+      "symbol": "HPWL",
+      "name": "Honest Poker Founder's Pass WL",
+      "decimals": 0,
+      "logoURI": "https://github.com/Honest-Labs/token-images/blob/main/assets/honest-poker-founders-wl.png",
+      "tags": [
+        "honest-poker"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HonestPoker_",
+        "website": "https://honest.poker/"
+      }
     }
   ],
   "version": {
