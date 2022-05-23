@@ -170322,6 +170322,17 @@
         "twitter": "https://twitter.com/GhostKidDAO",
         "website": "https://tinyurl.com/ghostkiddao"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "77Rg8gKfGeozwDP1obvHU53fCpP5MzUs6pH4p4jj2kQ2",
+      "symbol": "PRTO2",
+      "name": "Proteau",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/GuillaumePB/proteaucrypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
