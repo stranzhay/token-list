@@ -170333,6 +170333,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Demon1dfcWS8nfQbwwpgXTD5cQsFChjGEER7VHuJndTD",
+      "symbol": "LMT",
+      "name": "Legion Mint",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SolStonez/Legion-Key-Logo/main/legion_mint_token.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Each Legion Mint Token is good for one free Legion of Sol mint. My name is legion: for we are many.",
+        "discord": "https://discord.gg/legionofsol",
+        "twitter": "https://twitter.com/legion_of_sol",
+        "website": "https://legionofsol.io/"
+      }
     }
   ],
   "version": {
