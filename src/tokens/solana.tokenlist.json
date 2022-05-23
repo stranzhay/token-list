@@ -169997,6 +169997,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ETnTP9jVHByQTse6zeohCAZAD5zHpynsCY4Zq9EQSKSW",
+      "symbol": "HYPEBAC",
+      "name": "HYpe Book and Claim",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ETnTP9jVHByQTse6zeohCAZAD5zHpynsCY4Zq9EQSKSW/HY.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
