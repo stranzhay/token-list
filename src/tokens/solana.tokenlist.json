@@ -170189,6 +170189,18 @@
         "twitter": "https://twitter.com/HonestPoker_",
         "website": "https://honest.poker/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AqtMo5WyQmi3dQsuuQfgxKM3Gah5QKgZBdTnifSzehJq",
+      "symbol": "VDAO",
+      "name": "Virgin DAO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AqtMo5WyQmi3dQsuuQfgxKM3Gah5QKgZBdTnifSzehJq/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/https://discord.gg/NpZhjmTxY4",
+        "twitter": "https://twitter.com/virgindao_sol"
+      }
     }
   ],
   "version": {
