@@ -170163,6 +170163,17 @@
         "twitter": "https://twitter.com/ZalinaFinance",
         "website": "https://zalina.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ef38uckDt5igFxn9kc2tAQQKVmvVat9PMxjybh9ZvvuL",
+      "symbol": "PR",
+      "name": "Passroom WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ef38uckDt5igFxn9kc2tAQQKVmvVat9PMxjybh9ZvvuL/logo.png",
+      "tags": [
+        "WL-token"
+      ]
     }
   ],
   "version": {
