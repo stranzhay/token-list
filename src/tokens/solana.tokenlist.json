@@ -170114,6 +170114,17 @@
       "name": "Not Okay",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/qudo-code/assets/master/solana/tokens/NOTOKAY/NOTOKAY.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "AXneQDz2f8QcVuPmxNNmme1EZZvKkPxnfP4maB5KHPFp",
+      "symbol": "CozyC",
+      "name": "CozyCub",
+      "decimals": 0,
+      "logoURI": "https://i.imgur.com/LVi8Qmi.jpeg",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
