@@ -169884,6 +169884,29 @@
         "twitter": "https://twitter.com/solcraftgame",
         "website": "https://solcraft.online/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "CRLKh4simiVwwtgyNL21EGmixS5viCETUDyhfiKZXZXj",
+      "symbol": "CRPTLK",
+      "name": "cryptolake",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/cryptolake/cryptolake.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "polkadot",
+        "description": "A token for CryptoLake membership --@cryptolake2",
+        "imageUrl": "https://bafybeibdnlyepxwur4twznpbriutw24qjzdgxslh6k7jg455d2sbzn3gie.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/cryptolake/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmUbroCsNCYvDsHiAx2etSw5xfHpkFUpqum5hLajnoxd5k/whitepaper.pdf"
+      }
     }
   ],
   "version": {
