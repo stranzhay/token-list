@@ -170062,6 +170062,28 @@
         "discord": "https://discord.gg/https://discord.gg/NpZhjmTxY4",
         "twitter": "https://twitter.com/virgindao_sol"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BzzCLSUrTM8qK2m1m8NrGEfXBY7kuQmhUeFjvFLM78T3",
+      "symbol": "SPC",
+      "name": "SOULPATS",
+      "decimals": 0,
+      "logoURI": "https://github.com/swordphish3d/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DwH6w7pqjX923YbE94grsVe6Fbb2GPesYPSDPHuSTGLb",
+      "symbol": "SMC",
+      "name": "Simcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Simon271207/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
