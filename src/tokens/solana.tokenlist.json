@@ -170147,6 +170147,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7ttRirA9PD94MDR2KYfhA7DW8uXe4x9oVE4i7t9KcAab",
+      "symbol": "ZALI",
+      "name": "Zalina",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ttRirA9PD94MDR2KYfhA7DW8uXe4x9oVE4i7t9KcAab/logo.png",
+      "tags": [
+        "governance-token"
+      ],
+      "extensions": {
+        "description": "Governance token for zalina.finance",
+        "twitter": "https://twitter.com/ZalinaFinance",
+        "website": "https://zalina.finance/"
+      }
     }
   ],
   "version": {
