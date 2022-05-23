@@ -169663,6 +169663,227 @@
       "name": "Horseys HAY Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HAYjU4YMHT7rjguMNCBg2XEmYErxCoFVd8xtDCtP1ANK/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GdTXHhRr9UoqaYj2MC9hPz4mjE3vigGbUEfjaDCU2onq",
+      "symbol": "FIRE",
+      "name": "Fire Rune",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GdTXHhRr9UoqaYj2MC9hPz4mjE3vigGbUEfjaDCU2onq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Fire Rune token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8hHra5o2LYCUrog9KrR39uT6WW4meTBtHKCDJbyr44ox",
+      "symbol": "EARTH",
+      "name": "Earth Rune",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8hHra5o2LYCUrog9KrR39uT6WW4meTBtHKCDJbyr44ox/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Earth Rune token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "JAJGBFCgN8YBP1ked9yRd5j52gWfyrkJAHEPQa4UUPDr",
+      "symbol": "ICE",
+      "name": "Ice Rune",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JAJGBFCgN8YBP1ked9yRd5j52gWfyrkJAHEPQa4UUPDr/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Ice Rune token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "A1iT9r65MpvabW47nfvKwBDhwMjrja2ub6Fs9iD2k46U",
+      "symbol": "SAND",
+      "name": "Sand Rune",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A1iT9r65MpvabW47nfvKwBDhwMjrja2ub6Fs9iD2k46U/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Sand Rune token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EUvo8GYTf2ntMGVkRqpWdN4DjAfyxkPvCKfguSuRNpK2",
+      "symbol": "DRGN",
+      "name": "Dragon Scale",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EUvo8GYTf2ntMGVkRqpWdN4DjAfyxkPvCKfguSuRNpK2/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Dragon Scale token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HEqxKLV8kW2XYd8XxCH7nPxCa5AYxhF1EqpsXCMUWDpa",
+      "symbol": "CORN",
+      "name": "Corn",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HEqxKLV8kW2XYd8XxCH7nPxCa5AYxhF1EqpsXCMUWDpa/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Corn token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4LW9ELPQg45772qU7ZT9q8BP19o3fuXcv8P15fs1MYuX",
+      "symbol": "PRICK",
+      "name": "Prickly Pears",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LW9ELPQg45772qU7ZT9q8BP19o3fuXcv8P15fs1MYuX/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Prickly Pears token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EdWYL5Z4tCCsMtdxPXT5iV9Ycg46U6mvCJDsQV9zQkCm",
+      "symbol": "HOLLY",
+      "name": "Snow Holly",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EdWYL5Z4tCCsMtdxPXT5iV9Ycg46U6mvCJDsQV9zQkCm/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Snow Holly token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FyctSeF2E7pcM3GRQdtfeAYsCPeHNWkgmdYGebB3y97A",
+      "symbol": "MAGM",
+      "name": "Magma Peppers",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FyctSeF2E7pcM3GRQdtfeAYsCPeHNWkgmdYGebB3y97A/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Magma Peppers token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6EMv9MPiTL5oWzkBHr9XmHHtRpUk12nKGfqboDFyY87P",
+      "symbol": "PINEH",
+      "name": "Pine Honey",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6EMv9MPiTL5oWzkBHr9XmHHtRpUk12nKGfqboDFyY87P/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Pine Honey token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FjJyWJfnb39fdsswQmzNbVxCsH976SQZGFPzXvN5ufwc",
+      "symbol": "SCORP",
+      "name": "Sand Scorpion",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FjJyWJfnb39fdsswQmzNbVxCsH976SQZGFPzXvN5ufwc/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Sand Scorpion token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CnSNBakQSv2MW7pdvdcAHpmUTmvPoChg3NfRtZ7HSaGA",
+      "symbol": "HARE",
+      "name": "Ice Hare",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CnSNBakQSv2MW7pdvdcAHpmUTmvPoChg3NfRtZ7HSaGA/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Ice Hare token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HvCbPvCoDhynUffEYP8DeNDxDQ7hetnBxqFWFM6Svsa4",
+      "symbol": "MICE",
+      "name": "Ash Mice",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HvCbPvCoDhynUffEYP8DeNDxDQ7hetnBxqFWFM6Svsa4/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Ash Mice token for SolCraft Game",
+        "discord": "https://discord.gg/solcraft",
+        "twitter": "https://twitter.com/solcraftgame",
+        "website": "https://solcraft.online/"
+      }
     }
   ],
   "version": {
