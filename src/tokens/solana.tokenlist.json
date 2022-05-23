@@ -169655,6 +169655,14 @@
         "discord": "https://discord.gg/themoonkeesnft",
         "twitter": "https://twitter.com/TheMoonkeesNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HAYjU4YMHT7rjguMNCBg2XEmYErxCoFVd8xtDCtP1ANK",
+      "symbol": "$HAY",
+      "name": "Horseys HAY Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HAYjU4YMHT7rjguMNCBg2XEmYErxCoFVd8xtDCtP1ANK/logo.png"
     }
   ],
   "version": {
