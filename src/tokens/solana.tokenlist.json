@@ -170025,6 +170025,17 @@
         "twitter": "https://twitter.com/RegulatedNFT",
         "website": "https://www.regulatednft.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FUjcq8j9j1bAJnnEBwGQYT3WGUVLEDBjbR8ZgtcYJsAW",
+      "symbol": "1LOVE",
+      "name": "Kocham Cie",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/EPAL21/Kocham-Cie/main/kochamcie-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
