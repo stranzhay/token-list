@@ -169640,6 +169640,29 @@
         "asset-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H9bisooRJP317gRKqdqDf1pzQC6VcWBCRFfthLKrpCwT",
+      "symbol": "BNNA",
+      "name": "The Moonkees Token",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/TheMoonkeesNFT/TheMoonkees_logo/main/assets/Logo%20transparente%20blanco.png",
+      "tags": [
+        "Utility-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/themoonkeesnft",
+        "twitter": "https://twitter.com/TheMoonkeesNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HAYjU4YMHT7rjguMNCBg2XEmYErxCoFVd8xtDCtP1ANK",
+      "symbol": "$HAY",
+      "name": "Horseys HAY Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HAYjU4YMHT7rjguMNCBg2XEmYErxCoFVd8xtDCtP1ANK/logo.png"
     }
   ],
   "version": {
