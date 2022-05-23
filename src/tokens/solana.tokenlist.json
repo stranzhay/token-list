@@ -169986,6 +169986,17 @@
       "name": "FAME",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4yx2gD7heLLTHGLN4CGPCaGYsCRfMnadcq8nLm1aWXDk/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7Sp7Rk23f1czHPUhscoXo8cXm6ZSLsDHYNdzCpgQsEzk",
+      "symbol": "EPAL",
+      "name": "EPAL Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/EPAL21/sol-token/main/epal-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
