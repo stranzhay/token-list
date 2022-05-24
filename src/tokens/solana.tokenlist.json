@@ -170829,6 +170829,21 @@
       "name": "TVP WL Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/georgiod9/tvp/master/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GGfRamVXbvqW389d4Za2pR1Cw7hwoxLd8usrnosLG5kb",
+      "symbol": "MTF",
+      "name": "MTFISH Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/TamasGMI/MonTheFishery/main/Mon%20The%20Fishery%20(2).png",
+      "tags": [
+        "Utility-Token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/monthefishery",
+        "twitter": "https://twitter.com/monthefishery"
+      }
     }
   ],
   "version": {
