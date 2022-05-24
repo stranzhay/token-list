@@ -170539,6 +170539,22 @@
       "name": "JD3 Coin",
       "decimals": 2,
       "logoURI": "https://staging.genwin.app/web/media/4e3ecedb-1fb0-4833-aaba-4b0c6436ae2f.png"
+    },
+    {
+      "chainId": 101,
+      "address": "4gN1u9LNBnvFERpDU3SrMusMJ1gKLbE9XB6EYraQkWTf",
+      "symbol": "DGWL",
+      "name": "Degenz Game Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4gN1u9LNBnvFERpDU3SrMusMJ1gKLbE9XB6EYraQkWTf/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/degenzgame",
+        "twitter": "https://twitter.com/degenzgame",
+        "website": "https://degenz.game"
+      }
     }
   ],
   "version": {
