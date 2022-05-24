@@ -170489,6 +170489,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9dnPpnfUemGweue1qmQiaHdygnYMNREuY3DLYUHQu9DE",
+      "symbol": "QUANT",
+      "name": "Quantum Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/Mpume-algorith/crypto-token/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
