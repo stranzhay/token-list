@@ -170467,6 +170467,17 @@
       "extensions": {
         "twitter": "https://twitter.com/GreatGoatsNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "64r432xziX6XHx8QMuHa4Ck7ayzVg2fe7cpPvFD3MPYX",
+      "symbol": "MSCN",
+      "name": "Morris Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/thomasokc/crypto/main/morrisCoin.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
