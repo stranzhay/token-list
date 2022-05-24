@@ -170661,6 +170661,21 @@
       "extensions": {
         "twitter": "https://twitter.com/CorruptedDogs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "479u78dczfjx9J5u32yGt1nTquM5f9zAFLeuy2eU7YnG",
+      "symbol": "LRNST",
+      "name": "Learner Shelter",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Rishikesh13882/png-token/main/ss.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ZRPxYn8rRs",
+        "website": "https://learnershelter.com/"
+      }
     }
   ],
   "version": {
