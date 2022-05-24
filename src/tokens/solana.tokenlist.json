@@ -170753,6 +170753,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2YCQcQgy9nNhgukjAur1jCvMXgSTQ5FVDc3ae3BcspXS",
+      "symbol": "VRS",
+      "name": "VeraSaw Plant Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2YCQcQgy9nNhgukjAur1jCvMXgSTQ5FVDc3ae3BcspXS/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YBYgAtX6",
+        "telegram": "https://t.me/VerasawOfficialGroup",
+        "twitter": "https://twitter.com/VeraSaw",
+        "youtube": "https://www.youtube.com/channel/UC_zgKg0gt2fu_oar0JSKY0Q"
+      }
     }
   ],
   "version": {
