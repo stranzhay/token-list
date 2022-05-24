@@ -170844,6 +170844,20 @@
         "instagram": "https://www.instagram.com/monthefishery",
         "twitter": "https://twitter.com/monthefishery"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "D4NhKJGBgNTQwmtgVco2b9wYaXcgeb488QicPfbvLEhz",
+      "symbol": "BDG",
+      "name": "La Bodegueta",
+      "decimals": 0,
+      "logoURI": "https://ipfs.io/ipfs/QmUu6HGQXMB2f69ch9PTjeh3nYbZgRTXgMztUJcn9XAHp3",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.labodeguetademollet.com"
+      }
     }
   ],
   "version": {
