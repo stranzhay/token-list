@@ -170606,6 +170606,17 @@
         "twitter": "https://twitter.com/CryptureDefense",
         "website": "https://www.randomcrypturedefense.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5EcRg4CXDXhNzecAH5JeFXuyRMWoXAu2S4YUwpHfKru2",
+      "symbol": "INCOIN",
+      "name": "Incog-coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Hoffers83/crypto/main/Logo.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
