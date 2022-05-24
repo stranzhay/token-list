@@ -170633,6 +170633,71 @@
         "discord": "https://discord.gg/GKvxz6knjs",
         "twitter": "https://twitter.com/metadopt"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "dogNpVvUavBx65BXETRFhwByMw65cAzFxTjbc7uD8br",
+      "symbol": "CDFM",
+      "name": "Corrupted Dogs OG Free Mint",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/dogNpVvUavBx65BXETRFhwByMw65cAzFxTjbc7uD8br/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CorruptedDogs"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "dogMuvvxb6LDEhfUFxYxHRKnR4NUtzz8BPHcit8mfpm",
+      "symbol": "CDWL",
+      "name": "Corrupted Dogs WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/dogMuvvxb6LDEhfUFxYxHRKnR4NUtzz8BPHcit8mfpm/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CorruptedDogs"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "479u78dczfjx9J5u32yGt1nTquM5f9zAFLeuy2eU7YnG",
+      "symbol": "LRNST",
+      "name": "Learner Shelter",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Rishikesh13882/png-token/main/ss.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ZRPxYn8rRs",
+        "website": "https://learnershelter.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6s17gerWtun1TkDiWakEGWMnxTBiyYABEU19BpuB65FR",
+      "symbol": "KUK",
+      "name": "KUK",
+      "decimals": 9,
+      "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/6s17gerWtun1TkDiWakEGWMnxTBiyYABEU19BpuB65FR/logo.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6cSq646iR9kfU2BJuFdFjKbvD5NjygZbhv71WNAzLiTk",
+      "symbol": "BUGA",
+      "name": "BUGA Coin",
+      "decimals": 8,
+      "logoURI": "https://cdn.shopify.com/s/files/1/1061/1924/products/Skull_Emoji_Icon_8cee31f2-35dd-42e7-b757-3cb8cfe72437_1024x1024.png?v=1571606093",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
