@@ -170520,6 +170520,25 @@
       "name": "Flash Ceypto Carency",
       "decimals": 2,
       "logoURI": "https://raw.githubusercontent.com/Crypto-carency/crypto/main/crypto-logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BjM9tHajUkjeFsGuymBUer4ZKLA4t37ehERW3dxRGbCJ",
+      "symbol": "AL3XA",
+      "name": "Alexa",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jpw5/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "6DMw6AM1jSNAspTDo2FFr9GU5hTPhdFWnvNDtaxdhZwt",
+      "symbol": "JD3Coin",
+      "name": "JD3 Coin",
+      "decimals": 2,
+      "logoURI": "https://staging.genwin.app/web/media/4e3ecedb-1fb0-4833-aaba-4b0c6436ae2f.png"
     }
   ],
   "version": {
