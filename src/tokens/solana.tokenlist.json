@@ -170698,6 +170698,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "okayaeHG5rLEy3tQJsVj2ppQp3qhrXZfRHf6uG4siUF",
+      "symbol": "OBWL",
+      "name": "Okaybulls WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/okayaeHG5rLEy3tQJsVj2ppQp3qhrXZfRHf6uG4siUF/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/okaybulls"
+      }
     }
   ],
   "version": {
