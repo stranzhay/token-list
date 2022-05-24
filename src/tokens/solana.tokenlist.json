@@ -170606,6 +170606,33 @@
         "twitter": "https://twitter.com/CryptureDefense",
         "website": "https://www.randomcrypturedefense.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5EcRg4CXDXhNzecAH5JeFXuyRMWoXAu2S4YUwpHfKru2",
+      "symbol": "INCOIN",
+      "name": "Incog-coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Hoffers83/crypto/main/Logo.PNG",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5qhyR2rYEZfGeJBKUdjom8pJNkqCBsYaZAtqsKAQhjoS",
+      "symbol": "MFS",
+      "name": "Metadopt Free Sloth",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5qhyR2rYEZfGeJBKUdjom8pJNkqCBsYaZAtqsKAQhjoS/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "This token gives you a free sloth mint on Metadopts Avatar Builder.",
+        "discord": "https://discord.gg/GKvxz6knjs",
+        "twitter": "https://twitter.com/metadopt"
+      }
     }
   ],
   "version": {
