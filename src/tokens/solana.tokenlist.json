@@ -170884,6 +170884,23 @@
         "twitter": "https://twitter.com/HonestPoker_",
         "website": "https://honest.poker/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FEXbpVRgJ6GZcpwutRSHdktXso7J5XCCgNDcvPiX2Nrj",
+      "symbol": "MLO",
+      "name": "Mottilio",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FEXbpVRgJ6GZcpwutRSHdktXso7J5XCCgNDcvPiX2Nrj/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/mottimobile",
+        "instagram": "https://www.instagram.com/mottimobile",
+        "twitter": "https://twitter.com/mottimobile",
+        "website": "https://motti.com"
+      }
     }
   ],
   "version": {
