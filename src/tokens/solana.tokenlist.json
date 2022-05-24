@@ -170478,6 +170478,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HCs795QpfXP6nVkPvzfgaFDoTyGgxG5vdBdS9hr6GDYL",
+      "symbol": "STNY",
+      "name": "STONEY TOKEN",
+      "decimals": 5,
+      "logoURI": "https://pasteboard.co/a7bWqj2fB5V4.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
