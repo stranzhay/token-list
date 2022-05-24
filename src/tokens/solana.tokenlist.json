@@ -170809,6 +170809,55 @@
         "twitter": "https://twitter.com/arrordefi",
         "website": "https://arrordefi.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EAUQ1HsgGX2Xgjc5kYYJ5AxxQnNmhbG4xrWUZp49NN1N",
+      "symbol": "MTWL",
+      "name": "Miner Tools",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAUQ1HsgGX2Xgjc5kYYJ5AxxQnNmhbG4xrWUZp49NN1N/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "B63QS4EuLN1b4UfHF1mqymvQsqJdHzmqA45Uy455upeS",
+      "symbol": "WLTVP",
+      "name": "TVP WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/georgiod9/tvp/master/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "GGfRamVXbvqW389d4Za2pR1Cw7hwoxLd8usrnosLG5kb",
+      "symbol": "MTF",
+      "name": "MTFISH Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/TamasGMI/MonTheFishery/main/Mon%20The%20Fishery%20(2).png",
+      "tags": [
+        "Utility-Token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/monthefishery",
+        "twitter": "https://twitter.com/monthefishery"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "D4NhKJGBgNTQwmtgVco2b9wYaXcgeb488QicPfbvLEhz",
+      "symbol": "BDG",
+      "name": "La Bodegueta",
+      "decimals": 0,
+      "logoURI": "https://ipfs.io/ipfs/QmUu6HGQXMB2f69ch9PTjeh3nYbZgRTXgMztUJcn9XAHp3",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.labodeguetademollet.com"
+      }
     }
   ],
   "version": {
