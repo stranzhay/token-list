@@ -170555,6 +170555,27 @@
         "twitter": "https://twitter.com/degenzgame",
         "website": "https://degenz.game"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DoLDqhWPLrAH4mzsGo54AshM6k94T23GnaFmGVdLTR4r",
+      "symbol": "mKOGWL",
+      "name": "mK OG Chef Whitelist",
+      "decimals": 0,
+      "logoURI": "https://metakitchendev.onrender.com/static/media/MK-coin.4572f8b4b0d0901217de.png",
+      "tags": [
+        "whitelist-token",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "description": "Whitelist token for metaKitchen OG Chefs",
+        "discord": "https://discord.gg/metakitchen",
+        "instagram": "https://www.instagram.com/metakitchennft/",
+        "twitter": "https://twitter.com/meta_Kitchen",
+        "website": "https://metakitchen.io/",
+        "whitepaper": "https://metakitchen.gitbook.io/metakitchen-wp/wb1pN4vYLKsa8w4IX5qL/"
+      }
     }
   ],
   "version": {
