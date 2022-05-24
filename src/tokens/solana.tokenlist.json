@@ -170467,6 +170467,59 @@
       "extensions": {
         "twitter": "https://twitter.com/GreatGoatsNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "64r432xziX6XHx8QMuHa4Ck7ayzVg2fe7cpPvFD3MPYX",
+      "symbol": "MSCN",
+      "name": "Morris Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/thomasokc/crypto/main/morrisCoin.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HCs795QpfXP6nVkPvzfgaFDoTyGgxG5vdBdS9hr6GDYL",
+      "symbol": "STNY",
+      "name": "STONEY TOKEN",
+      "decimals": 5,
+      "logoURI": "https://pasteboard.co/a7bWqj2fB5V4.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9dnPpnfUemGweue1qmQiaHdygnYMNREuY3DLYUHQu9DE",
+      "symbol": "QUANT",
+      "name": "Quantum Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/Mpume-algorith/crypto-token/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FnNQQjWpeFRMxS75GV9NTPzsBntmQRdKYM21Sr4B5V1t",
+      "symbol": "ZADN",
+      "name": "Zaiden Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dakender/Zaiden-Coin/main/logo-zaiden.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DRt2JmUCYDoVYfbAnAitCNetB1PUgbwpsZfhfhEJLyFs",
+      "symbol": "FBTC",
+      "name": "Flash Ceypto Carency",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/Crypto-carency/crypto/main/crypto-logo.png"
     }
   ],
   "version": {
