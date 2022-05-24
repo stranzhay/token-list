@@ -170617,6 +170617,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5qhyR2rYEZfGeJBKUdjom8pJNkqCBsYaZAtqsKAQhjoS",
+      "symbol": "MFS",
+      "name": "Metadopt Free Sloth",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5qhyR2rYEZfGeJBKUdjom8pJNkqCBsYaZAtqsKAQhjoS/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "This token gives you a free sloth mint on Metadopts Avatar Builder.",
+        "discord": "https://discord.gg/GKvxz6knjs",
+        "twitter": "https://twitter.com/metadopt"
+      }
     }
   ],
   "version": {
