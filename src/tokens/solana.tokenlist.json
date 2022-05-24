@@ -170901,6 +170901,21 @@
         "twitter": "https://twitter.com/mottimobile",
         "website": "https://motti.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ToPBXCrquTpnEz24bWeYkuXUDmnXdeGGSgTgPeX1sPF",
+      "symbol": "ZLOWL",
+      "name": "Planet Zloba - WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/6827050a10738590ef327b4c761519fe01913f2d/assets/mainnet/ToPBXCrquTpnEz24bWeYkuXUDmnXdeGGSgTgPeX1sPF/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/PlanetZloba",
+        "website": "https://www.planetzloba.com/"
+      }
     }
   ],
   "version": {
