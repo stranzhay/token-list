@@ -170712,6 +170712,17 @@
       "extensions": {
         "twitter": "https://twitter.com/okaybulls"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8RGdXex7StmeGsxmTcZDt37qhmtiRpDmHJDyCA97nhaY",
+      "symbol": "FTT",
+      "name": "Felix Thoen Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/FelixThoen/crypto/main/newlixn.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
