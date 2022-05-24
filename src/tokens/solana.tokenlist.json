@@ -170539,6 +170539,57 @@
       "name": "JD3 Coin",
       "decimals": 2,
       "logoURI": "https://staging.genwin.app/web/media/4e3ecedb-1fb0-4833-aaba-4b0c6436ae2f.png"
+    },
+    {
+      "chainId": 101,
+      "address": "4gN1u9LNBnvFERpDU3SrMusMJ1gKLbE9XB6EYraQkWTf",
+      "symbol": "DGWL",
+      "name": "Degenz Game Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4gN1u9LNBnvFERpDU3SrMusMJ1gKLbE9XB6EYraQkWTf/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/degenzgame",
+        "twitter": "https://twitter.com/degenzgame",
+        "website": "https://degenz.game"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DoLDqhWPLrAH4mzsGo54AshM6k94T23GnaFmGVdLTR4r",
+      "symbol": "mKOGWL",
+      "name": "mK OG Chef Whitelist",
+      "decimals": 0,
+      "logoURI": "https://metakitchendev.onrender.com/static/media/MK-coin.4572f8b4b0d0901217de.png",
+      "tags": [
+        "whitelist-token",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "description": "Whitelist token for metaKitchen OG Chefs",
+        "discord": "https://discord.gg/metakitchen",
+        "instagram": "https://www.instagram.com/metakitchennft/",
+        "twitter": "https://twitter.com/meta_Kitchen",
+        "website": "https://metakitchen.io/",
+        "whitepaper": "https://metakitchen.gitbook.io/metakitchen-wp/wb1pN4vYLKsa8w4IX5qL/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "D5FeXZ9aernffbG6UebUkfX612AyohHeoXFZABLVmMoX",
+      "symbol": "TAT",
+      "name": "Trippin Ape Tribe (Whitelist Token)",
+      "decimals": 0,
+      "logoURI": "https://pbs.twimg.com/profile_images/1516190526592139266/tTBE_jP5_400x400.jpg",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TrippinApeNFT"
+      }
     }
   ],
   "version": {
