@@ -170916,6 +170916,22 @@
         "twitter": "https://twitter.com/PlanetZloba",
         "website": "https://www.planetzloba.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CYbLZDG7TexKi2axdh4gQGLV3FnXvBgfJgLtixhKVytZ",
+      "symbol": "FUEL",
+      "name": "Biker",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CYbLZDG7TexKi2axdh4gQGLV3FnXvBgfJgLtixhKVytZ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/skullbots",
+        "twitter": "https://twitter.com/SKULLBOTS",
+        "website": "https://www.skullbots.io/"
+      }
     }
   ],
   "version": {
