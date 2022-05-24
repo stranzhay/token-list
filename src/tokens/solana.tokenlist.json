@@ -170676,6 +170676,17 @@
         "discord": "https://discord.gg/ZRPxYn8rRs",
         "website": "https://learnershelter.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6s17gerWtun1TkDiWakEGWMnxTBiyYABEU19BpuB65FR",
+      "symbol": "KUK",
+      "name": "KUK",
+      "decimals": 9,
+      "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/6s17gerWtun1TkDiWakEGWMnxTBiyYABEU19BpuB65FR/logo.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
