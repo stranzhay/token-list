@@ -170687,6 +170687,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6cSq646iR9kfU2BJuFdFjKbvD5NjygZbhv71WNAzLiTk",
+      "symbol": "BUGA",
+      "name": "BUGA Coin",
+      "decimals": 8,
+      "logoURI": "https://cdn.shopify.com/s/files/1/1061/1924/products/Skull_Emoji_Icon_8cee31f2-35dd-42e7-b757-3cb8cfe72437_1024x1024.png?v=1571606093",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
