@@ -170512,6 +170512,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DRt2JmUCYDoVYfbAnAitCNetB1PUgbwpsZfhfhEJLyFs",
+      "symbol": "FBTC",
+      "name": "Flash Ceypto Carency",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/Crypto-carency/crypto/main/crypto-logo.png"
     }
   ],
   "version": {
