@@ -170884,6 +170884,54 @@
         "twitter": "https://twitter.com/HonestPoker_",
         "website": "https://honest.poker/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FEXbpVRgJ6GZcpwutRSHdktXso7J5XCCgNDcvPiX2Nrj",
+      "symbol": "MLO",
+      "name": "Mottilio",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FEXbpVRgJ6GZcpwutRSHdktXso7J5XCCgNDcvPiX2Nrj/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/mottimobile",
+        "instagram": "https://www.instagram.com/mottimobile",
+        "twitter": "https://twitter.com/mottimobile",
+        "website": "https://motti.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ToPBXCrquTpnEz24bWeYkuXUDmnXdeGGSgTgPeX1sPF",
+      "symbol": "ZLOWL",
+      "name": "Planet Zloba - WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/6827050a10738590ef327b4c761519fe01913f2d/assets/mainnet/ToPBXCrquTpnEz24bWeYkuXUDmnXdeGGSgTgPeX1sPF/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/PlanetZloba",
+        "website": "https://www.planetzloba.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CYbLZDG7TexKi2axdh4gQGLV3FnXvBgfJgLtixhKVytZ",
+      "symbol": "FUEL",
+      "name": "Biker",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CYbLZDG7TexKi2axdh4gQGLV3FnXvBgfJgLtixhKVytZ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/skullbots",
+        "twitter": "https://twitter.com/SKULLBOTS",
+        "website": "https://www.skullbots.io/"
+      }
     }
   ],
   "version": {
