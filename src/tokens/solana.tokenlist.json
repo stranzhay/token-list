@@ -170858,6 +170858,17 @@
       "extensions": {
         "website": "https://www.labodeguetademollet.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5P4XspXXzCxyKH7uB4ygWByv1fJxrPGomqTEsURbZvvb",
+      "symbol": "ZEIT",
+      "name": "ZeitCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ZeitsCoin/cripto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
