@@ -170821,6 +170821,14 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "B63QS4EuLN1b4UfHF1mqymvQsqJdHzmqA45Uy455upeS",
+      "symbol": "WLTVP",
+      "name": "TVP WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/georgiod9/tvp/master/logo.png"
     }
   ],
   "version": {
