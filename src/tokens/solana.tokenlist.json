@@ -170742,6 +170742,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7NX2zna24nt9ZoKhYiqs6R63yZeeuviB8GtBcHr539zQ",
+      "symbol": "SHEN",
+      "name": "Arab Shaheen",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/atadar/ArabShaheen/main/assets/mainnet/7NX2zna24nt9ZoKhYiqs6R63yZeeuviB8GtBcHr539zQ/shaheen.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
