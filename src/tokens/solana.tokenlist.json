@@ -170576,6 +170576,20 @@
         "website": "https://metakitchen.io/",
         "whitepaper": "https://metakitchen.gitbook.io/metakitchen-wp/wb1pN4vYLKsa8w4IX5qL/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D5FeXZ9aernffbG6UebUkfX612AyohHeoXFZABLVmMoX",
+      "symbol": "TAT",
+      "name": "Trippin Ape Tribe (Whitelist Token)",
+      "decimals": 0,
+      "logoURI": "https://pbs.twimg.com/profile_images/1516190526592139266/tTBE_jP5_400x400.jpg",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TrippinApeNFT"
+      }
     }
   ],
   "version": {
