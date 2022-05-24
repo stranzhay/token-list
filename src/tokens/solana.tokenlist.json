@@ -170869,6 +170869,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4i3285PyW8ansfoHQWH3AadVV6UP39mdxhHS8xBdMtph",
+      "symbol": "HPWL",
+      "name": "Honest Poker WL (Founder's Pass)",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4i3285PyW8ansfoHQWH3AadVV6UP39mdxhHS8xBdMtph/logo.png",
+      "tags": [
+        "honest-poker"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HonestPoker_",
+        "website": "https://honest.poker/"
+      }
     }
   ],
   "version": {
