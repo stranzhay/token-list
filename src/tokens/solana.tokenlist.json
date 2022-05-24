@@ -170781,6 +170781,17 @@
       "tags": [
         "Memes"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3WKbcYBMKx9vX7419Nft7Anh2X5LHwsiSpm3PwnAAWU8",
+      "symbol": "SolPen",
+      "name": "SolanaPenguin",
+      "decimals": 0,
+      "logoURI": "https://i.imgur.com/NWW0MOs.png",
+      "tags": [
+        "nft"
+      ]
     }
   ],
   "version": {
