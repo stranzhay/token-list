@@ -170501,6 +170501,17 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FnNQQjWpeFRMxS75GV9NTPzsBntmQRdKYM21Sr4B5V1t",
+      "symbol": "ZADN",
+      "name": "Zaiden Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dakender/Zaiden-Coin/main/logo-zaiden.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
