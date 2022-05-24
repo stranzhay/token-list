@@ -170809,6 +170809,18 @@
         "twitter": "https://twitter.com/arrordefi",
         "website": "https://arrordefi.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EAUQ1HsgGX2Xgjc5kYYJ5AxxQnNmhbG4xrWUZp49NN1N",
+      "symbol": "MTWL",
+      "name": "Miner Tools",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAUQ1HsgGX2Xgjc5kYYJ5AxxQnNmhbG4xrWUZp49NN1N/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
