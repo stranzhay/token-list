@@ -170770,6 +170770,17 @@
         "twitter": "https://twitter.com/VeraSaw",
         "youtube": "https://www.youtube.com/channel/UC_zgKg0gt2fu_oar0JSKY0Q"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CYFWeAYftmLUDLoxCfP1bvKn5NFD6G6g7vWKWm28ELAh",
+      "symbol": "SCHCO",
+      "name": "SchrodinGersCoin",
+      "decimals": 0,
+      "logoURI": "https://github.com/SchrodingersCoinS/crypto/blob/main/SchrodingersCoin.png",
+      "tags": [
+        "Memes"
+      ]
     }
   ],
   "version": {
