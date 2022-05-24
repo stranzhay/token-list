@@ -170723,6 +170723,53 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "CKXFoHkE5yYaCXapwNQqRogfpKXmB3DgxP6Pbuw7AZ13",
+      "symbol": "JD3C",
+      "name": "JD3 Dev Coin",
+      "decimals": 2,
+      "logoURI": "https://staging.genwin.app/web/media/4e3ecedb-1fb0-4833-aaba-4b0c6436ae2f.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2qmM8tCYvYeXz9pztHLoNmshqmAf8ZQ5btUxStBekxBj",
+      "symbol": "$INDOI",
+      "name": "INDOI token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ahmaaz10/crypto/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7NX2zna24nt9ZoKhYiqs6R63yZeeuviB8GtBcHr539zQ",
+      "symbol": "SHEN",
+      "name": "Arab Shaheen",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/atadar/ArabShaheen/main/assets/mainnet/7NX2zna24nt9ZoKhYiqs6R63yZeeuviB8GtBcHr539zQ/shaheen.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2YCQcQgy9nNhgukjAur1jCvMXgSTQ5FVDc3ae3BcspXS",
+      "symbol": "VRS",
+      "name": "VeraSaw Plant Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2YCQcQgy9nNhgukjAur1jCvMXgSTQ5FVDc3ae3BcspXS/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/YBYgAtX6",
+        "telegram": "https://t.me/VerasawOfficialGroup",
+        "twitter": "https://twitter.com/VeraSaw",
+        "youtube": "https://www.youtube.com/channel/UC_zgKg0gt2fu_oar0JSKY0Q"
+      }
     }
   ],
   "version": {
