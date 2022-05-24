@@ -170590,6 +170590,22 @@
       "extensions": {
         "twitter": "https://twitter.com/TrippinApeNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dc3E5zi7V9MyTrrmD72NoX4pRmDh8xABsFmCVdCme82L",
+      "symbol": "RCDWL",
+      "name": "RCD WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dc3E5zi7V9MyTrrmD72NoX4pRmDh8xABsFmCVdCme82L/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/qmS6PWM75w",
+        "twitter": "https://twitter.com/CryptureDefense",
+        "website": "https://www.randomcrypturedefense.com/"
+      }
     }
   ],
   "version": {
