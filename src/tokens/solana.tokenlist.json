@@ -170520,6 +170520,17 @@
       "name": "Flash Ceypto Carency",
       "decimals": 2,
       "logoURI": "https://raw.githubusercontent.com/Crypto-carency/crypto/main/crypto-logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BjM9tHajUkjeFsGuymBUer4ZKLA4t37ehERW3dxRGbCJ",
+      "symbol": "AL3XA",
+      "name": "Alexa",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jpw5/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
