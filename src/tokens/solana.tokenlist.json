@@ -170997,6 +170997,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FBHFo6uQheu5WNXhryDUpkDwyCQP6e1iTF56veLVJu3a",
+      "symbol": "SFWLT",
+      "name": "Stoned Farms WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FBHFo6uQheu5WNXhryDUpkDwyCQP6e1iTF56veLVJu3a/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/stonedfarms",
+        "website": "https://stonedfarms.io/"
+      }
     }
   ],
   "version": {
