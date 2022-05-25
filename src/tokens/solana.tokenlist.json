@@ -171111,6 +171111,20 @@
         "twitter": "https://twitter.com/AlphaClubSOL",
         "website": "https://alphapass.net"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "rJ6DSDeAftuwTrEjmKpuUm9cmG5dgb4GiDD2oPPWTME",
+      "symbol": "Kiks",
+      "name": "Kikser shit coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Kikser1214/test/main/logo.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Kikser11"
+      }
     }
   ],
   "version": {
