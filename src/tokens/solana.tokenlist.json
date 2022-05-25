@@ -171095,6 +171095,22 @@
       "name": "Altered Token Coins",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATCvehjZsCC8JBdiKXj41xdpVKrtmBf2x9qwFHrrL2Nd/logo.svg"
+    },
+    {
+      "chainId": 101,
+      "address": "RUWV9EDJkyA3ua3CgNsZVdRJUPp9KrpmeM8i1AfK6We",
+      "symbol": "AlphaClub",
+      "name": "AlphaClub",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RUWV9EDJkyA3ua3CgNsZVdRJUPp9KrpmeM8i1AfK6We/logo.png",
+      "tags": [
+        "social-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AlphaClubSOL",
+        "website": "https://alphapass.net"
+      }
     }
   ],
   "version": {
