@@ -170969,6 +170969,34 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7UvcxpsYpDov3Q9GJU3HiHUVnVCEnY96XPAkD1LTDcLe",
+      "symbol": "ALBY",
+      "name": "Alby Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7UvcxpsYpDov3Q9GJU3HiHUVnVCEnY96XPAkD1LTDcLe/alby.png",
+      "tags": [
+        "personal-token",
+        "alby",
+        "in-alby-we-trust",
+        "invest-in-alby"
+      ],
+      "extensions": {
+        "description": "Congratulations! You are one of the holders of ALBY COIN! If you own this coin, Alby thanks you for being an overall awesome person and having chill vibes and stuff! You can continue to earn Alby coin by investing in Alby's overall quality of life, make sure to mention your wallet address."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4an6Mhiij3EXpkkti1rcerHdcucg7suEvycgqAC73LkU",
+      "symbol": "POTT",
+      "name": "Pot Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/tranmduke/crypto/5d7e4529068479dd17ffbe78964b70dd152c0902/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
