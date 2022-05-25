@@ -171295,6 +171295,188 @@
       "extensions": {
         "description": "Utility Token for Meta Minters"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7V5AaqHTwiySegaAmNPLekQfTAoK4WvEVgfi2R8V44tB",
+      "symbol": "rFRAKT",
+      "name": "Random FRAKTs",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7V5AaqHTwiySegaAmNPLekQfTAoK4WvEVgfi2R8V44tB/rFRAKT.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/CUvaGx32Z1p9Wia2Xheod37ii62byAxhNv8r2UJX729Y/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EmvtEzATa3n766yxojGZJmpSzkTxsCdDSX2zgRMZEoaQ",
+      "symbol": "rPWNG",
+      "name": "Random Pawnshop Gnomies",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EmvtEzATa3n766yxojGZJmpSzkTxsCdDSX2zgRMZEoaQ/rPWNG.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/FvKPzBfDx6AgBhkwweFnth2g9Mfd21vT9Lr7yoxUQsp8/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6RBwVuqgBsYsWXmEhV72MSBZMawuy9XxDpm9uzffxmw1",
+      "symbol": "rHRHC",
+      "name": "Random High Roller Hippo Clique",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6RBwVuqgBsYsWXmEhV72MSBZMawuy9XxDpm9uzffxmw1/rHRHC.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/CA5qBCJS5wwdvMmt2ANLUxUecmNjf7Py9s7N1UEJ1cxy/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7BzULwTHqMCc9Qo7qVFn27UxHgb9SPev3EsbbmQ4YNzw",
+      "symbol": "rLLAMA",
+      "name": "Random Sollamas",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7BzULwTHqMCc9Qo7qVFn27UxHgb9SPev3EsbbmQ4YNzw/rSLM.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/AaYBdEnjqYoay3ozs2tY1tm9kFXxjUrAZeNZngnqwmV1/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4PhPtyBhmMYBLjiJPr3wef2syoMSJYn5WcNgXxvmG3NZ",
+      "symbol": "rPUNK",
+      "name": "Random Solpunks",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4PJ8yD2hPXVGxnYcmjBoDyDHKAMEAKjGgAfvEqmZUaAw/logo.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/HfEJXp9YNdrrPuqAoaeKzL3pyCvsdnVQxHXpf7KVTsjY/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2qq3zxV9qBenTZLWRhmcSJdPFqdTGDDgc1aVQUCTs9Bu",
+      "symbol": "rSPTRL",
+      "name": "Random Sol Patrol",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2qq3zxV9qBenTZLWRhmcSJdPFqdTGDDgc1aVQUCTs9Bu/rSPTRL.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/7Bjj5LSjvC6Sumvx3L3gK25AGVGhFfPyZWkm1xep8kXv/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ugKuq43fnPEcEeH12gCfETbshMRJ8nD2qXmcbyNHaEb",
+      "symbol": "rTHUG",
+      "name": "Random Thugbirdz",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ugKuq43fnPEcEeH12gCfETbshMRJ8nD2qXmcbyNHaEb/rTHUG.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/3da5KmaRp9gHx2wzv8PdZHpxXWvbHMRUxCK9FCLvHGZr/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9m8E1yLHaG1B2TFSNeWahsitQh5yQRnrbyw756HFAcEa",
+      "symbol": "rLGND",
+      "name": "Random Blockasset Legends",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9m8E1yLHaG1B2TFSNeWahsitQh5yQRnrbyw756HFAcEa/rLGND.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/EHNimBvyzYB8qJvpXzaGudDZ3eNUnezyCMLxigXvTqwU/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8BobtXuP8hD69rZTLZiubSEbmQWpbmaJwyoayzQYyxs3",
+      "symbol": "rNBC",
+      "name": "Random Bat City Underground",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8BobtXuP8hD69rZTLZiubSEbmQWpbmaJwyoayzQYyxs3/rNBC.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/FuasyZT2HZDsz5ndmFP9XeuQneK7prDwRugenqkPC1TB/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9akvvCgpFc7LkpESHCSacrPPH7SztbvuAXNvJkzZSZWu",
+      "symbol": "rTRTL",
+      "name": "Random Turtles",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9akvvCgpFc7LkpESHCSacrPPH7SztbvuAXNvJkzZSZWu/rTRTL.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/GaTnrfAh8JsNxpVi8oKCoyeWwXySCju55GJfTaVTrGep/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7uENff26kbM3zP9YhYj4MdSzS5nGoEDSeHs81zQ7Gp2J",
+      "symbol": "rATRNT",
+      "name": "Random Aiternate",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7uENff26kbM3zP9YhYj4MdSzS5nGoEDSeHs81zQ7Gp2J/rATRNT.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/8ezfmbfr5rRNrvM1z4ZqWTjf9mbcpozpgFxgSbmmR2c2/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Vjq9T5xmqRzLXQRyvigzyZzpHCGCsbYAJ7afLVuF8j9",
+      "symbol": "rZOOM",
+      "name": "Random Zaysan Raptors",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Vjq9T5xmqRzLXQRyvigzyZzpHCGCsbYAJ7afLVuF8j9/rZOOM.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/2pCdQHULNgwesN7dQdRW93GFsLb99GpNC4wT9V1jvUvB/buy"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7Mfsbr8vS2LjWTFspTgfLPWm7s77zvJsevBuW4P9MZ3m",
+      "symbol": "rSAMO",
+      "name": "Random Samo",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Mfsbr8vS2LjWTFspTgfLPWm7s77zvJsevBuW4P9MZ3m/rSAMO.png",
+      "tags": [
+        "frakt-nft-pool"
+      ],
+      "extensions": {
+        "website": "https://frakt.xyz/pools/6oufJYFSNcWEBV465FDywN2VbYftnXff9KuNnebkc8YD/buy"
+      }
     }
   ],
   "version": {
