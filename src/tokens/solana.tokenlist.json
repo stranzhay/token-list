@@ -171054,6 +171054,31 @@
       "name": "BONE Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bone6zEsectLFPtSGHDya6mRvrKVZ7kyeUUc1uVFu7pB/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BEoAR8HvD8kFWjLyxcRbLcNyVctPjss7iGZwzeV3PHAg",
+      "symbol": "NYBC",
+      "name": "Nyabi Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/B0on/crypton/main/nyabc.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "666YXKdQzN49gzQetYffQUhy4hLxEB31PZkRew4VrXAj",
+      "symbol": "SHOIT",
+      "name": "Shoit Coin",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/106226389/170191878-49041947-b736-4224-992c-a2602fdc3657.JPG",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/shoit_coin"
+      }
     }
   ],
   "version": {
