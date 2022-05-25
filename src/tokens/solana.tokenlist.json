@@ -171557,6 +171557,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "JiGoA4fCoYDbdCUVmGEaLytnHT42BXhEmwacqM3RjUf",
+      "symbol": "Hounds",
+      "name": "Jigoku Hounds Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JiGoA4fCoYDbdCUVmGEaLytnHT42BXhEmwacqM3RjUf/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/JigokuHounds"
+      }
     }
   ],
   "version": {
