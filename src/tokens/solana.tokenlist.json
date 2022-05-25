@@ -171235,6 +171235,52 @@
       "extensions": {
         "description": "Yun Token on devnet"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9Nxsu2QQZZYSkpy9c9YFiLWG3QZwDXXFdpwCcXR2QNks",
+      "symbol": "DSCTK",
+      "name": "Disctok",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/moradev/disctok/main/icon.jpg",
+      "tags": [
+        "game-token",
+        "game-currency",
+        "game",
+        "utility-token",
+        "gaming",
+        "metaverse"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GsZcjMnaqw6VVpTtQa4ggkjT9w3wNiupUA4AYT2WKTXC",
+      "symbol": "DTN",
+      "name": "Detown",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GsZcjMnaqw6VVpTtQa4ggkjT9w3wNiupUA4AYT2WKTXC/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/detown_io",
+        "website": "https://www.detown.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "KoinFMYtye41ax7ehQiTFp6PCRXviqdBn1VuP3NYLsn",
+      "symbol": "Koinz",
+      "name": "Cultured Kongz Koinz",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KoinFMYtye41ax7ehQiTFp6PCRXviqdBn1VuP3NYLsn/icon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/gSHWqephYV",
+        "twitter": "https://twitter.com/CulturedKongz"
+      }
     }
   ],
   "version": {
