@@ -171266,6 +171266,21 @@
         "twitter": "https://twitter.com/detown_io",
         "website": "https://www.detown.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "KoinFMYtye41ax7ehQiTFp6PCRXviqdBn1VuP3NYLsn",
+      "symbol": "Koinz",
+      "name": "Cultured Kongz Koinz",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KoinFMYtye41ax7ehQiTFp6PCRXviqdBn1VuP3NYLsn/icon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/gSHWqephYV",
+        "twitter": "https://twitter.com/CulturedKongz"
+      }
     }
   ],
   "version": {
