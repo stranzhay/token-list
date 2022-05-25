@@ -171020,6 +171020,17 @@
       "name": "PRT TOOLS",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F3bHfhwKKvsDjy76BzBio9fHrg7rtPNg1xifpgevdvLn/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "CB8wh1bXWugaqaqcA2KxTv1nf5zyU5oTsT6XvT3A6uyh",
+      "symbol": "NWL",
+      "name": "NAKAMA WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/nakamawl.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
