@@ -171492,6 +171492,40 @@
         "twitter": "https://twitter.com/LocosNft",
         "website": "https://locosnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AHT7EvoyMP84XpyaEmt9Zhn9eTiUCL1oYEF8oYRocs6C",
+      "symbol": "LFNDFT",
+      "name": "LIT FUND FT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/dth5geg.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/C5z57xrw52",
+        "telegram": "https://t.me/litfund",
+        "twitter": "https://twitter.com/litfund_defi",
+        "website": "https://lit.fund"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7b75gMTwUS6rfN1CNoZnaAdgYwPejpLJrXBpmFpBqp5Y",
+      "symbol": "LFNDFC",
+      "name": "LIT FUND FC",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/dth5geg.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/C5z57xrw52",
+        "telegram": "https://t.me/litfund",
+        "twitter": "https://twitter.com/litfund_defi",
+        "website": "https://lit.fund"
+      }
     }
   ],
   "version": {
