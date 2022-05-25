@@ -171534,6 +171534,18 @@
       "name": "UNCHAINED",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GyvLD8DxSEVffv22eEWQ6NdJMbtzoYfPhue7XxCXMKqr/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ConFQvWZxf3Qdb7yMWPw2Ja1pHPuvYVpbKKunUJ36qqo",
+      "symbol": "SPAP",
+      "name": "Sugar Push Alpha Pass",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ConFQvWZxf3Qdb7yMWPw2Ja1pHPuvYVpbKKunUJ36qqo/logo.png",
+      "tags": [
+        "community-token",
+        "nfts"
+      ]
     }
   ],
   "version": {
