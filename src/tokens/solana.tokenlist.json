@@ -171281,6 +171281,20 @@
         "discord": "https://discord.com/invite/gSHWqephYV",
         "twitter": "https://twitter.com/CulturedKongz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4GuCMVuAky4ctt7Syb4ZneQtabA4pQ4yqVkeVoGuQHf2",
+      "symbol": "$INTL",
+      "name": "INTL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/CMHayden/crypto/master/intl-min.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Utility Token for Meta Minters"
+      }
     }
   ],
   "version": {
