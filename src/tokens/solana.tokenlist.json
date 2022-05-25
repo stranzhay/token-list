@@ -171079,6 +171079,22 @@
       "extensions": {
         "twitter": "https://twitter.com/shoit_coin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "RAcgAKBWGWqeZgQawUhLXbKaPTYAVYNFYcKyigGJhxX",
+      "symbol": "RAC",
+      "name": "Renegades Access Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RAcgAKBWGWqeZgQawUhLXbKaPTYAVYNFYcKyigGJhxX/logo.svg"
+    },
+    {
+      "chainId": 101,
+      "address": "ATCvehjZsCC8JBdiKXj41xdpVKrtmBf2x9qwFHrrL2Nd",
+      "symbol": "ATC",
+      "name": "Altered Token Coins",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATCvehjZsCC8JBdiKXj41xdpVKrtmBf2x9qwFHrrL2Nd/logo.svg"
     }
   ],
   "version": {
