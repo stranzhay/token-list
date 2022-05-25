@@ -171202,6 +171202,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2Vs8Xvhc7kMBBbniTCGhUYwAu74GSYVDAqyzxh6zro8x",
+      "symbol": "HANGAR",
+      "name": "Hangar Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Shoryn/hangarcoin/main/HangarPoundcoin112.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
