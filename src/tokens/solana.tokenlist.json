@@ -171477,6 +171477,21 @@
       "extensions": {
         "website": "https://frakt.xyz/pools/6oufJYFSNcWEBV465FDywN2VbYftnXff9KuNnebkc8YD/buy"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6349D3Ads4cVDLjUyjBEjnxC3ehgJX5W536VG7XP5a6S",
+      "symbol": "LExLOCOS",
+      "name": "Luna Exiled Locos",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6349D3Ads4cVDLjUyjBEjnxC3ehgJX5W536VG7XP5a6S/logo.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LocosNft",
+        "website": "https://locosnft.com/"
+      }
     }
   ],
   "version": {
