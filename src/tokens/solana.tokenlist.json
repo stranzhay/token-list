@@ -171175,6 +171175,22 @@
         "website": "https://linktr.ee/harmonyameta",
         "whitepaper": "https://harmonya-metaverse.gitbook.io/harmonya-white-paper/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "4SEY65PouYay9yzqex62ygAGKXrui4NbNoG8yqqzz8PQ",
+      "symbol": "LZV",
+      "name": "LazyVaccine",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4SEY65PouYay9yzqex62ygAGKXrui4NbNoG8yqqzz8PQ/logo.png",
+      "tags": [
+        "social-token",
+        "learn-and-earn"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/lazyvaccine",
+        "website": "https://lazyvaccine.com"
+      }
     }
   ],
   "version": {
