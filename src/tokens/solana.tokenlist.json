@@ -170932,6 +170932,17 @@
         "twitter": "https://twitter.com/SKULLBOTS",
         "website": "https://www.skullbots.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3YZhqNRn8Vnaf5K3X7j1w4s7djwHQVRmALF56ZfCkTBa",
+      "symbol": "SIXGE",
+      "name": "Sol Information Exchange",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rasiel506/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
