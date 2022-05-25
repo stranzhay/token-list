@@ -171213,6 +171213,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8SKcTZ2KsVpPJVU3QSHQD5uRQpw5WS4VsVfEVwhKMLCF",
+      "symbol": "DARKM",
+      "name": "Dark Matter",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8SKcTZ2KsVpPJVU3QSHQD5uRQpw5WS4VsVfEVwhKMLCF/darkmatter.png"
+    },
+    {
+      "chainId": 103,
+      "address": "2BBTUkry8pAtQCQUoCNgB2uWWZNhosw2urHKL9QkTTUA",
+      "symbol": "YUN",
+      "name": "Yun Token for devnet",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/PD1IjE9.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Yun Token on devnet"
+      }
     }
   ],
   "version": {
