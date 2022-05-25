@@ -171213,6 +171213,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8SKcTZ2KsVpPJVU3QSHQD5uRQpw5WS4VsVfEVwhKMLCF",
+      "symbol": "DARKM",
+      "name": "Dark Matter",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8SKcTZ2KsVpPJVU3QSHQD5uRQpw5WS4VsVfEVwhKMLCF/darkmatter.png"
     }
   ],
   "version": {
