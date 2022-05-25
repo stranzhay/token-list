@@ -171571,6 +171571,17 @@
       "extensions": {
         "twitter": "https://twitter.com/JigokuHounds"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9VkCgoLv8aXnNXafJkjPqdKp4NXSQ2Yzhba789gL6oTt",
+      "symbol": "STONY",
+      "name": "Stony Tokens",
+      "decimals": 8,
+      "logoURI": "https://pasteboard.co/j2ew86rkNCX0.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
