@@ -171607,6 +171607,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "hhCTVAJHNcDZAoQUXcDrsewomL6L2oDVttyFnP6631t",
+      "symbol": "GT",
+      "name": "GreenTech",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/chaddieboy1/crypto/main/Capture.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
