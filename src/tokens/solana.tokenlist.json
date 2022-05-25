@@ -171031,6 +171031,21 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "P1utjqwB7hEcgDe3u8oHeRCtfyWQY2XEhhCyPFYVhu7",
+      "symbol": "PLMTX",
+      "name": "Plutonium X",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/P1utjqwB7hEcgDe3u8oHeRCtfyWQY2XEhhCyPFYVhu7/icon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/ttcc",
+        "twitter": "https://twitter.com/TimeTravelingCC"
+      }
     }
   ],
   "version": {
