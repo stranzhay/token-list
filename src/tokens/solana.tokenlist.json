@@ -171526,6 +171526,14 @@
         "twitter": "https://twitter.com/litfund_defi",
         "website": "https://lit.fund"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GyvLD8DxSEVffv22eEWQ6NdJMbtzoYfPhue7XxCXMKqr",
+      "symbol": "MEC",
+      "name": "UNCHAINED",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GyvLD8DxSEVffv22eEWQ6NdJMbtzoYfPhue7XxCXMKqr/logo.png"
     }
   ],
   "version": {
