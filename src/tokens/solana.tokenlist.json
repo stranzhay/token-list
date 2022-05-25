@@ -171582,6 +171582,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Dhtv79Gax1gwvWNQCKFW4oUCsMLcmUbsZ6vdaCFYP2Ko",
+      "symbol": "PERTEL",
+      "name": "Cets Pertel",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/5nmPVbN/Untitled-design-4.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://discord.gg/ANg8B3FW55"
+      }
     }
   ],
   "version": {
