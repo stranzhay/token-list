@@ -171707,6 +171707,14 @@
       "tags": [
         "currency"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "3GWsMY8REuofBM4fsa9h3mJSkLtJRzSCJJDvjKdSMMXg",
+      "symbol": "HIT",
+      "name": "Hoi it tien token",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/10118456/170443817-4850ba13-f523-4c0d-b553-b56ec0a30a44.png"
     }
   ],
   "version": {
