@@ -171618,6 +171618,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D4JJfAe5ZVTkySAFTzzc2Tmn5xFzEghBTCWXC6ELrUgN",
+      "symbol": "FRESH",
+      "name": "Fresh Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/FreshCats/FRESH/main/Token.png",
+      "tags": [
+        "Utility-Token"
+      ]
     }
   ],
   "version": {
