@@ -171875,6 +171875,23 @@
     },
     {
       "chainId": 101,
+      "address": "o7Xdr1sQZpFnxP6yKsYCh6rmyx9PfQ4L4AXAYYXoW3g",
+      "symbol": "EMOTION",
+      "name": "Learn2Earn DAO",
+      "decimals": 6,
+      "logoURI": "https://l2edao.s3.amazonaws.com/logo.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/RzMwkYEKJ9",
+        "twitter": "https://twitter.com/l2eDAO",
+        "website": "https://learntoearn.xyz",
+        "description": "Emotion token is the l2eDAO protocol that revolutionizes the process of education. Learn, create, battle, build metaverse and make money with the new skills you learned from the community."
+      }
+    },
+    {
+      "chainId": 101,
       "address": "GanGt4btK71F4SChwakzh69bh2T7rBsAjmSE6rRWUSJM",
       "symbol": "Gangsta",
       "name": "kings of da street Whitelist Token",
