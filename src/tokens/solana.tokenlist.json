@@ -171629,6 +171629,26 @@
       "tags": [
         "Utility-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "RoTksthszZDGGZq4uZZZxVmV7xsaz4X8kBESMyeLZkE",
+      "symbol": "RoT",
+      "name": "Rotten Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RoTksthszZDGGZq4uZZZxVmV7xsaz4X8kBESMyeLZkE/RoT_Coin.png",
+      "tags": [
+        "rottenville-project",
+        "community-coin",
+        "utility-token",
+        "rotten",
+        "kyo"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/dHDwCRwH6b",
+        "twitter": "https://twitter.com/rotten_ville",
+        "website": "https://rottenville.io"
+      }
     }
   ],
   "version": {
