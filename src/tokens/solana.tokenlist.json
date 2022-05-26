@@ -171942,6 +171942,21 @@
         "twitter": "https://twitter.com/anybodiesNFT",
         "website": "https://www.anybodies.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BogkiGRxMWym5ZeZMAVJb3qedBuWTDGkQNTXQGEWHy7F",
+      "symbol": "TEMPLE",
+      "name": "TEMPLE TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BogkiGRxMWym5ZeZMAVJb3qedBuWTDGkQNTXQGEWHy7F/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/phrRD3n5",
+        "twitter": "https://twitter.com/temple_token"
+      }
     }
   ],
   "version": {
