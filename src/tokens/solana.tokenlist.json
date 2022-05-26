@@ -171798,6 +171798,18 @@
       "extensions": {
         "website": "https://twitter.com/ARTayade"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "uGPpPFGMNUbiEZG4kihsqXAGQcb3Egb8mks2pUTzSkj",
+      "symbol": "WingsWL",
+      "name": "Wings WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/uGPpPFGMNUbiEZG4kihsqXAGQcb3Egb8mks2pUTzSkj/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/hKuu9pTmrF",
+        "twitter": "https://twitter.com/Winto_io"
+      }
     }
   ],
   "version": {
