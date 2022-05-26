@@ -171730,6 +171730,17 @@
       "extensions": {
         "twitter": "https://twitter.com/sol_heyfox"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9qaZLzuNMFgyqYihpbwgyUtFDXM1Ht9e3GWebZ2FNWhH",
+      "symbol": "SUNC",
+      "name": "Suny Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9qaZLzuNMFgyqYihpbwgyUtFDXM1Ht9e3GWebZ2FNWhH/logo.png",
+      "tags": [
+        "sunycoin"
+      ]
     }
   ],
   "version": {
