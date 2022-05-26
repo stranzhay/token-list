@@ -171741,6 +171741,26 @@
       "tags": [
         "sunycoin"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "4e4sKGSGVzm5kFSAPPKmCxz7jBCUAixcSCAL1BbkrEPU",
+      "symbol": "HPT",
+      "name": "HyunPoongToken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4e4sKGSGVzm5kFSAPPKmCxz7jBCUAixcSCAL1BbkrEPU/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2R5Gtuayh7E4DCqtMKyBQRMthi51Y2da81XBF3S1mC59",
+      "symbol": "$WingsWL",
+      "name": "Wings WL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2R5Gtuayh7E4DCqtMKyBQRMthi51Y2da81XBF3S1mC59/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/hKuu9pTmrF",
+        "twitter": "https://twitter.com/Winto_io"
+      }
     }
   ],
   "version": {
