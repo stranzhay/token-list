@@ -171908,6 +171908,21 @@
       "extensions": {
         "website": "https://www.electroshoe.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CDTvfESJbaBDzKV11wTLxmMiutrc5jwBZjASysLbAovF",
+      "symbol": "$KIDZ",
+      "name": "Trippy Kidz Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CDTvfESJbaBDzKV11wTLxmMiutrc5jwBZjASysLbAovF/kidzz.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TrippyKidzNFT",
+        "website": "https://trippykidz.net/"
+      }
     }
   ],
   "version": {
