@@ -171784,6 +171784,20 @@
         "twitter": "https://twitter.com/MinersofMars",
         "website": "https://www.minersofmars.com/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "2jeTEbshhhKSCXZ82J7LkxGnUk4bhDXccFJqkbbaiwiL",
+      "symbol": "DOJOCOINONE",
+      "name": "DOJO TEST COIN ONE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2jeTEbshhhKSCXZ82J7LkxGnUk4bhDXccFJqkbbaiwiL/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/ARTayade"
+      }
     }
   ],
   "version": {
