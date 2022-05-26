@@ -171826,6 +171826,14 @@
         "twitter": "https://twitter.com/terminatorbearz",
         "website": "https://www.terminatorteddybearz.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5AJhdosQ88U1g2a4bhmxXpRVGiujKRwrWcAmd7iuWtQe",
+      "symbol": "BokitaPasion",
+      "name": "CABJ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Novak-Fenocchio/LimboCoin/main/bokitapasionlogo.png"
     }
   ],
   "version": {
