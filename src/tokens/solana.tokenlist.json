@@ -171772,6 +171772,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Cf4yCbJs2LZeNLN1jRvLk8q6tgBh7MMG1Rg1fKf5MxbL",
+      "symbol": "OSM",
+      "name": "Osmium",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cf4yCbJs2LZeNLN1jRvLk8q6tgBh7MMG1Rg1fKf5MxbL/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/MinersofMars",
+        "website": "https://www.minersofmars.com/"
+      }
     }
   ],
   "version": {
