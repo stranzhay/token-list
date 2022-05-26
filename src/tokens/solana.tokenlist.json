@@ -171696,6 +171696,17 @@
         "twitter": "https://twitter.com/RayWJ",
         "website": "https://linktr.ee/Zues369"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "AvtWDVgef2Yx68Yh67eNjS1CYkeXZNECoWJ7og4xYfrc",
+      "symbol": "SVT",
+      "name": "Solvenir Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AvtWDVgef2Yx68Yh67eNjS1CYkeXZNECoWJ7og4xYfrc/logo.png",
+      "tags": [
+        "currency"
+      ]
     }
   ],
   "version": {
