@@ -171582,6 +171582,42 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Dhtv79Gax1gwvWNQCKFW4oUCsMLcmUbsZ6vdaCFYP2Ko",
+      "symbol": "PERTEL",
+      "name": "Cets Pertel",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/5nmPVbN/Untitled-design-4.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://discord.gg/ANg8B3FW55"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DMZ2tx9KLEFNmzaarujHjEBjEHV5mbfQvW2Jo5qrzGxy",
+      "symbol": "BUGA_",
+      "name": "BUGA_ Coin",
+      "decimals": 8,
+      "logoURI": "https://cdn.shopify.com/s/files/1/1061/1924/products/Skull_Emoji_Icon_8cee31f2-35dd-42e7-b757-3cb8cfe72437_1024x1024.png?v=1571606093",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "hhCTVAJHNcDZAoQUXcDrsewomL6L2oDVttyFnP6631t",
+      "symbol": "GT",
+      "name": "GreenTech",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/chaddieboy1/crypto/main/Capture.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
