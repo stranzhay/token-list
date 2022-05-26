@@ -171886,6 +171886,28 @@
       "extensions": {
         "twitter": "https://twitter.com/kingsofdastreet"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4ErSwaQufa3rsyDfXq5rNSmvpHDmdTk4MifhFnFeKQEZ",
+      "symbol": "GHST",
+      "name": "GHST Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ErSwaQufa3rsyDfXq5rNSmvpHDmdTk4MifhFnFeKQEZ/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "wpHYDrmVvVoVqTXKFywkyWdCFKNGQLhd1gDaQ8BuDzw",
+      "symbol": "ESD",
+      "name": "ElectroShoeDemo",
+      "decimals": 0,
+      "logoURI": "https://i.postimg.cc/fWYZ76Mq/Screenshot-2022-05-26-230810.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://www.electroshoe.com/"
+      }
     }
   ],
   "version": {
