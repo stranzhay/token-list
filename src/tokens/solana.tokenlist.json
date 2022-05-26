@@ -171810,6 +171810,22 @@
         "discord": "https://discord.gg/hKuu9pTmrF",
         "twitter": "https://twitter.com/Winto_io"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "GUfxKpaqxBXdcgtcnWEmprXXsfprMktijcEySYq5TwG4",
+      "symbol": "TTB_WL_v1",
+      "name": "TTB Whitelist Token v1",
+      "decimals": 9,
+      "logoURI": "https://media.terminatorteddybearz.com/image/ttb_logo.svg",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/RfCSySm7Us",
+        "twitter": "https://twitter.com/terminatorbearz",
+        "website": "https://www.terminatorteddybearz.com"
+      }
     }
   ],
   "version": {
