@@ -171908,6 +171908,55 @@
       "extensions": {
         "website": "https://www.electroshoe.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CDTvfESJbaBDzKV11wTLxmMiutrc5jwBZjASysLbAovF",
+      "symbol": "$KIDZ",
+      "name": "Trippy Kidz Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CDTvfESJbaBDzKV11wTLxmMiutrc5jwBZjASysLbAovF/kidzz.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TrippyKidzNFT",
+        "website": "https://trippykidz.net/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3FHpkMTQ3QyAJoLoXVdBpH4TfHiehnL2kXmv9UXBpYuF",
+      "symbol": "STYLE",
+      "name": "STYLE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3FHpkMTQ3QyAJoLoXVdBpH4TfHiehnL2kXmv9UXBpYuF/style.png",
+      "tags": [
+        "utility-token",
+        "fashion",
+        "wte",
+        "wear-to-earn"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/anybodies",
+        "twitter": "https://twitter.com/anybodiesNFT",
+        "website": "https://www.anybodies.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BogkiGRxMWym5ZeZMAVJb3qedBuWTDGkQNTXQGEWHy7F",
+      "symbol": "TEMPLE",
+      "name": "TEMPLE TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BogkiGRxMWym5ZeZMAVJb3qedBuWTDGkQNTXQGEWHy7F/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/phrRD3n5",
+        "twitter": "https://twitter.com/temple_token"
+      }
     }
   ],
   "version": {
