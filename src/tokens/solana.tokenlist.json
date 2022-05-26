@@ -171761,6 +171761,17 @@
         "discord": "https://discord.gg/hKuu9pTmrF",
         "twitter": "https://twitter.com/Winto_io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ge15KTDNgqtaM7BGSBD5fSawJHxS8S7FFH9aZniaZ2kX",
+      "symbol": "MTM",
+      "name": "Motum",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mtm-token/mtm-token/main/MTM3.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
