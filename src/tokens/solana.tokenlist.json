@@ -171861,6 +171861,17 @@
       "extensions": {
         "website": "https://shapz.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "36eZaAUA92VL84LBbXbPJbxqRDyRYpqwMWjZGsED1Lyd",
+      "symbol": "ARYA",
+      "name": "ARYA TOKEN",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/36eZaAUA92VL84LBbXbPJbxqRDyRYpqwMWjZGsED1Lyd/logo.png",
+      "tags": [
+        "test"
+      ]
     }
   ],
   "version": {
