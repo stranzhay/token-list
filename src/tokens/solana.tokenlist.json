@@ -171649,6 +171649,27 @@
         "twitter": "https://twitter.com/rotten_ville",
         "website": "https://rottenville.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "RAZRymwM9F2nP9ZAsojyKRoneydftoqztsx3MnRS9MC",
+      "symbol": "RAZR",
+      "name": "Razr Finance",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RAZRymwM9F2nP9ZAsojyKRoneydftoqztsx3MnRS9MC/RAZR.png",
+      "tags": [
+        "utility-token",
+        "defi-token",
+        "staking-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/HXa3qAYe",
+        "github": "https://github.com/solrazr-app",
+        "medium": "https://medium.com/@SolRazr_App",
+        "telegram": "https://t.me/solrazr_app",
+        "twitter": "https://twitter.com/Solrazr_App",
+        "website": "https://razr.finance"
+      }
     }
   ],
   "version": {
