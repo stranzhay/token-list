@@ -171834,6 +171834,19 @@
       "name": "CABJ",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Novak-Fenocchio/LimboCoin/main/bokitapasionlogo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "fppTWtc6UvGtbtrDTJ52bMmQAkfbRVXZNrtKyWsJdaz",
+      "symbol": "MoMu",
+      "name": "MojaMula",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/fppTWtc6UvGtbtrDTJ52bMmQAkfbRVXZNrtKyWsJdaz/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "mojamula-token"
+      ]
     }
   ],
   "version": {
