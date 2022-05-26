@@ -171715,6 +171715,21 @@
       "name": "Hoi it tien token",
       "decimals": 9,
       "logoURI": "https://user-images.githubusercontent.com/10118456/170443817-4850ba13-f523-4c0d-b553-b56ec0a30a44.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Hefou8y5H8zDvb162mrKoanGJyyosx93nm9471oyUrkS",
+      "symbol": "HeFo",
+      "name": "HeFo TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hefou8y5H8zDvb162mrKoanGJyyosx93nm9471oyUrkS/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/sol_heyfox"
+      }
     }
   ],
   "version": {
