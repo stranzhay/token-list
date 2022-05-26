@@ -171872,6 +171872,20 @@
       "tags": [
         "test"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GanGt4btK71F4SChwakzh69bh2T7rBsAjmSE6rRWUSJM",
+      "symbol": "Gangsta",
+      "name": "kings of da street Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GanGt4btK71F4SChwakzh69bh2T7rBsAjmSE6rRWUSJM/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/kingsofdastreet"
+      }
     }
   ],
   "version": {
