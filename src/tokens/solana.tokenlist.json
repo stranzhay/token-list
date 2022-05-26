@@ -171847,6 +171847,20 @@
         "community-token",
         "mojamula-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2bAXDGxtgpH4Qyg6kqSsE9ojMw6TNCnDZQXhtkV9hjEj",
+      "symbol": "SIA",
+      "name": "Shapz Intelligence Artificial",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2bAXDGxtgpH4Qyg6kqSsE9ojMw6TNCnDZQXhtkV9hjEj/logo.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://shapz.org"
+      }
     }
   ],
   "version": {
