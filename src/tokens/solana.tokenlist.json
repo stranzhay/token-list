@@ -171886,6 +171886,14 @@
       "extensions": {
         "twitter": "https://twitter.com/kingsofdastreet"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4ErSwaQufa3rsyDfXq5rNSmvpHDmdTk4MifhFnFeKQEZ",
+      "symbol": "GHST",
+      "name": "GHST Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ErSwaQufa3rsyDfXq5rNSmvpHDmdTk4MifhFnFeKQEZ/logo.png"
     }
   ],
   "version": {
