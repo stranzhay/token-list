@@ -171741,6 +171741,14 @@
       "tags": [
         "sunycoin"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "4e4sKGSGVzm5kFSAPPKmCxz7jBCUAixcSCAL1BbkrEPU",
+      "symbol": "HPT",
+      "name": "HyunPoongToken",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4e4sKGSGVzm5kFSAPPKmCxz7jBCUAixcSCAL1BbkrEPU/logo.png"
     }
   ],
   "version": {
