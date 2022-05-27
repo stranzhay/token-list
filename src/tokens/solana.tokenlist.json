@@ -172174,6 +172174,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "D77WLoiZxiFyN8kuzHfGxTjgf6HZ7HPXysK1ZQbK3iK7",
+      "symbol": "YSSC",
+      "name": "Yellow Square Stable Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D77WLoiZxiFyN8kuzHfGxTjgf6HZ7HPXysK1ZQbK3iK7/logo.png",
+      "tags": [
+        "yellowsquare",
+        "yssc",
+        "stablecoin"
+      ]
     }
   ],
   "version": {
