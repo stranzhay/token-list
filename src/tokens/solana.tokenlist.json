@@ -172095,6 +172095,17 @@
       "extensions": {
         "website": "https://www.vitares.com.mk/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8KD9AtYCeZqt7eCpdwEDvGNnMkEJyq8YhdrQ9pDiNd4d",
+      "symbol": "CSM",
+      "name": "Cesium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/brewsterbonifacio/Cesium/main/cesium.png",
+      "tags": [
+        "cesium-token"
+      ]
     }
   ],
   "version": {
