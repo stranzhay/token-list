@@ -172253,6 +172253,17 @@
         "twitter": "https://twitter.com/LivingDeadTeds",
         "website": "https://livingdeadteds.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5BHXrVz8ogSyU8hMkmHsvMek67yAZPox5npWXWGUPxEW",
+      "symbol": "GNWL",
+      "name": "Genetix Primate Whitelist",
+      "decimals": 9,
+      "logoURI": "https://github.com/genetix00717/logo/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
