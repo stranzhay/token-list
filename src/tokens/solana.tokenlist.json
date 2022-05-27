@@ -172187,6 +172187,17 @@
         "yssc",
         "stablecoin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H8fPkH7c712okbKH1Uskc3KjQryMkr2aBpFceXYxXo4B",
+      "symbol": "GNXW",
+      "name": "Genetix Whitelist ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Kyawmin5644/genetixlogo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
