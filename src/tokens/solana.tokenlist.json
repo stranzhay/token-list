@@ -171957,6 +171957,39 @@
         "discord": "https://discord.gg/phrRD3n5",
         "twitter": "https://twitter.com/temple_token"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FWUvCEr1c379gYUa75x4bw2GgipcuWpaSHKZpYzJKtyt",
+      "symbol": "SGMC",
+      "name": "SugMa Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Cao-Tony/Sugma-Coin/main/SugMa%20Coin%20Logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2LSXNVyqVRdJWGgnZQdxjDLbsSiPwSpmt73jruXgQUPG",
+      "symbol": "MCBD",
+      "name": "McBeard Gaming",
+      "decimals": 0,
+      "logoURI": "https://github.com/McBeardGaming/crypto/blob/main/61lY1kT-_400x400.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HgW82hmbEYnguazY4X9tWBsAFHnz1Vfxa9qzp7ujz19G",
+      "symbol": "ILU",
+      "name": "LOVE333",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HgW82hmbEYnguazY4X9tWBsAFHnz1Vfxa9qzp7ujz19G/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
