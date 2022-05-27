@@ -171990,6 +171990,32 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "B4pijSKo7Miijt9osw13HeYs6TuSGttYNFNdjVqBDHaS",
+      "symbol": "Davos",
+      "name": "World Economic Forum",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/WorldEconomic-Forum/logo/main/logo.png",
+      "tags": [
+        "Davos-coin",
+        "WEF-coin",
+        "governance-token",
+        "Great-Reset-token",
+        "Klaus-Schwab-token"
+      ],
+      "extensions": {
+        "description": "Made by Carlos Verbelen for The Great Reset W.E.F and Klaus Schwab 1usdt = 2 Davos tokens",
+        "discord": "https://discord.gg/3yNwFyPzUb",
+        "facebook": "https://www.facebook.com/CarlosVerbelen",
+        "github": "https://github.com/WorldEconomic-Forum",
+        "instagram": "https://www.instagram.com/moonbootscapital/",
+        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen\u0026source=desktop",
+        "medium": "https://joinentre.com/?referredBy=el0nmusk",
+        "twitter": "https://twitter.com/Davos",
+        "website": "https://linktr.ee/Zues369"
+      }
     }
   ],
   "version": {
