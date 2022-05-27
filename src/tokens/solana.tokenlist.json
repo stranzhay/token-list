@@ -172275,6 +172275,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FEmN4zkCPqB6uGYB6LA3uHu2X6cayLx2quxpzZkhaNBw",
+      "symbol": "GNXWL",
+      "name": "Genetix WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/genetix00717/logo/main/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
