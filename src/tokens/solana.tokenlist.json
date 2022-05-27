@@ -171957,6 +171957,17 @@
         "discord": "https://discord.gg/phrRD3n5",
         "twitter": "https://twitter.com/temple_token"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FWUvCEr1c379gYUa75x4bw2GgipcuWpaSHKZpYzJKtyt",
+      "symbol": "SGMC",
+      "name": "SugMa Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Cao-Tony/Sugma-Coin/main/SugMa%20Coin%20Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
