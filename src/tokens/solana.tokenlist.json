@@ -172055,6 +172055,17 @@
         "description": "The Solciety NFT",
         "twitter": "https://twitter.com/TheSolcietyNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4p4Nsn5WLbzq6GXH8j8ADqMFdUxF6vTTEM4QYjScRbm7",
+      "symbol": "RTTY",
+      "name": "RatCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mroberts72/crypto/main/4p4Nsn5WLbzq6GXH8j8ADqMFdUxF6vTTEM4QYjScRbm7.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
