@@ -172163,6 +172163,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GooWYbh2Ao8WMfwRyWSEhAUMZqKnkHUpmpsLgXdLoN3k",
+      "symbol": "MTM",
+      "name": "M0TUM",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/mtmToken/mtm-token/main/MTM3.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
