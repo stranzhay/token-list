@@ -172027,6 +172027,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6f8q3YJNixh3qnTkM5BipUEoWPW7enz5iDN5HLBZcWbv",
+      "symbol": "SAAG",
+      "name": "SAAG Power",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/sminomas/crypto/main/SAAG.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
