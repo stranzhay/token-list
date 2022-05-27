@@ -172174,6 +172174,44 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "D77WLoiZxiFyN8kuzHfGxTjgf6HZ7HPXysK1ZQbK3iK7",
+      "symbol": "YSSC",
+      "name": "Yellow Square Stable Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D77WLoiZxiFyN8kuzHfGxTjgf6HZ7HPXysK1ZQbK3iK7/logo.png",
+      "tags": [
+        "yellowsquare",
+        "yssc",
+        "stablecoin"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "H8fPkH7c712okbKH1Uskc3KjQryMkr2aBpFceXYxXo4B",
+      "symbol": "GNXW",
+      "name": "Genetix Whitelist ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Kyawmin5644/genetixlogo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "D7DQMKopKbfscH1dgZkvS3aktVb9TDvSpUtytcf9gpEQ",
+      "symbol": "SOLNFTS",
+      "name": "Official Solana NFT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/4e126bd41e31ef0443b932c022613c9403aba567/assets/mainnet/D7DQMKopKbfscH1dgZkvS3aktVb9TDvSpUtytcf9gpEQ/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://solscan.space"
+      }
     }
   ],
   "version": {
