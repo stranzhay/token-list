@@ -172152,6 +172152,17 @@
       "name": "Drimly Coin",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Eb1v8yoS14H1hmF8HRWGmgq6SdHHfkUcy6v2biCePF3/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "F8rxpjPfYb5qmgvVVEtEQ2Vy872A13W1B4FwEL97FbiV",
+      "symbol": "JOC",
+      "name": "JOCONDE TOK",
+      "decimals": 0,
+      "logoURI": "https://ipfs.io/ipfs/QmQ1yQSVkNzZXF6sLyhAa8AyayKfh8dbnBGavfTfMpi9hP",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
