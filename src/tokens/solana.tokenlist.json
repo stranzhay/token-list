@@ -172095,6 +172095,55 @@
       "extensions": {
         "website": "https://www.vitares.com.mk/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8KD9AtYCeZqt7eCpdwEDvGNnMkEJyq8YhdrQ9pDiNd4d",
+      "symbol": "CSM",
+      "name": "Cesium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/brewsterbonifacio/Cesium/main/cesium.png",
+      "tags": [
+        "cesium-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6MqWmAxxJJVYzsdTrR7EjyZccEXu9BRfgVukVPVJiW6G",
+      "symbol": "DNLAB",
+      "name": "Digital Nomad Labs",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6MqWmAxxJJVYzsdTrR7EjyZccEXu9BRfgVukVPVJiW6G/logo.png",
+      "tags": [
+        "DNLAB",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DNomadLabs",
+        "website": "https://www.digitalnomadlabs.io"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "2p3D3M5HFUd2UXAwJ5BuoKQHhZ6gM5FZd1kKgmLqLd8H",
+      "symbol": "DGUST",
+      "name": "D'GUST Restaurante",
+      "decimals": 0,
+      "logoURI": "https://ipfs.io/ipfs/Qmf6kHuQKsahHx6vmoHG6TTv5i5YsNXhiF2ZffghbTvfzE",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "6zvSWwTESBNGGZxvygZZv82UouWXS8jEwppxaYnRu75t",
+      "symbol": "BOCA",
+      "name": "EnBoca Restaurante",
+      "decimals": 0,
+      "logoURI": "https://ipfs.io/ipfs/QmSEVTzh7a9Q3iMr5Rzt8779FhfefBvhD4JkjGnJc3yc8z",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
