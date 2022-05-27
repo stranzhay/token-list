@@ -172122,6 +172122,28 @@
         "twitter": "https://twitter.com/DNomadLabs",
         "website": "https://www.digitalnomadlabs.io"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "2p3D3M5HFUd2UXAwJ5BuoKQHhZ6gM5FZd1kKgmLqLd8H",
+      "symbol": "DGUST",
+      "name": "D'GUST Restaurante",
+      "decimals": 0,
+      "logoURI": "https://ipfs.io/ipfs/Qmf6kHuQKsahHx6vmoHG6TTv5i5YsNXhiF2ZffghbTvfzE",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "6zvSWwTESBNGGZxvygZZv82UouWXS8jEwppxaYnRu75t",
+      "symbol": "BOCA",
+      "name": "EnBoca Restaurante",
+      "decimals": 0,
+      "logoURI": "https://ipfs.io/ipfs/QmSEVTzh7a9Q3iMr5Rzt8779FhfefBvhD4JkjGnJc3yc8z",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
