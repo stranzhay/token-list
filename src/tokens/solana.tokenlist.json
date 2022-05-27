@@ -172236,6 +172236,23 @@
         "NFT",
         "Staking"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HcFuzSqHQhitpYqHkxBYs5vFSURAtSXojNdmQ7vBUimB",
+      "symbol": "LDTASC",
+      "name": "LDT Ascension Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HcFuzSqHQhitpYqHkxBYs5vFSURAtSXojNdmQ7vBUimB/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Living Dead Teds Gen 1 Ascension Token",
+        "discord": "https://discord.gg/livingdeadteds",
+        "twitter": "https://twitter.com/LivingDeadTeds",
+        "website": "https://livingdeadteds.com"
+      }
     }
   ],
   "version": {
