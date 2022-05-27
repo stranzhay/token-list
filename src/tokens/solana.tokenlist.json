@@ -172038,6 +172038,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BhyD7wsPdSfqfDWpbx7S99GAXqHJhX4QsviNNJ6oSzqu",
+      "symbol": "$CIETY",
+      "name": "CIETY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BhyD7wsPdSfqfDWpbx7S99GAXqHJhX4QsviNNJ6oSzqu/Logo.png",
+      "tags": [
+        "The-Solciety",
+        "utility-token",
+        "NFT-Project"
+      ],
+      "extensions": {
+        "description": "The Solciety NFT",
+        "twitter": "https://twitter.com/TheSolcietyNFT"
+      }
     }
   ],
   "version": {
