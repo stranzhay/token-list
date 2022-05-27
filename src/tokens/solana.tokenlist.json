@@ -171968,6 +171968,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2LSXNVyqVRdJWGgnZQdxjDLbsSiPwSpmt73jruXgQUPG",
+      "symbol": "MCBD",
+      "name": "McBeard Gaming",
+      "decimals": 0,
+      "logoURI": "https://github.com/McBeardGaming/crypto/blob/main/61lY1kT-_400x400.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
