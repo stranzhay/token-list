@@ -172016,6 +172016,17 @@
         "twitter": "https://twitter.com/Davos",
         "website": "https://linktr.ee/Zues369"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9usn7CnYvbe3Yq9yqNaA8oKSxZbUPobRzbYh83xAoumX",
+      "symbol": "ELKO",
+      "name": "Elkoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9usn7CnYvbe3Yq9yqNaA8oKSxZbUPobRzbYh83xAoumX/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
