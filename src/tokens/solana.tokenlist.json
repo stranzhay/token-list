@@ -172106,6 +172106,22 @@
       "tags": [
         "cesium-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6MqWmAxxJJVYzsdTrR7EjyZccEXu9BRfgVukVPVJiW6G",
+      "symbol": "DNLAB",
+      "name": "Digital Nomad Labs",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6MqWmAxxJJVYzsdTrR7EjyZccEXu9BRfgVukVPVJiW6G/logo.png",
+      "tags": [
+        "DNLAB",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DNomadLabs",
+        "website": "https://www.digitalnomadlabs.io"
+      }
     }
   ],
   "version": {
