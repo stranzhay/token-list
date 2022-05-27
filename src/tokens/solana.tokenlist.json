@@ -172079,6 +172079,22 @@
         "utility-token",
         "Blockchain-Project"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CtFVBBKmnsbcKYGZeYo7qK7tEvEe1nJxPKZRse81K5N3",
+      "symbol": "VTRS",
+      "name": "VITA RES",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MKD-Stable-token/vtrs/main/logo%20vtrs.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "asset-token"
+      ],
+      "extensions": {
+        "website": "https://www.vitares.com.mk/"
+      }
     }
   ],
   "version": {
