@@ -172264,6 +172264,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DKCP3dFJrLLATpkeZ3JWAkhWuD45ruyoJndZRsPZzpvH",
+      "symbol": "FINE",
+      "name": "FINE",
+      "decimals": 9,
+      "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/DKCP3dFJrLLATpkeZ3JWAkhWuD45ruyoJndZRsPZzpvH/logo.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
