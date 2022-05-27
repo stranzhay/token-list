@@ -172066,6 +172066,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4rfw89NXRNfg9tG2cWYp2XuuLQDd82AKbtk2hqzmbhnc",
+      "symbol": "CCT",
+      "name": "ChatChain",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/onuraladi/chatchain/main/chatchain.png",
+      "tags": [
+        "The-ChatChain",
+        "utility-token",
+        "Blockchain-Project"
+      ]
     }
   ],
   "version": {
