@@ -172300,6 +172300,21 @@
       "extensions": {
         "website": "https://www.jigokuhounds.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7wLNtLG7edmmiJyuWAaWekLxYAUp2uXWHNAP6L8fVurF",
+      "symbol": "INCENTIVE",
+      "name": "The Incentive",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7wLNtLG7edmmiJyuWAaWekLxYAUp2uXWHNAP6L8fVurF/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/The_Incentive",
+        "website": "https://www.theincentive.xyz/"
+      }
     }
   ],
   "version": {
