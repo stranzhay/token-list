@@ -172144,6 +172144,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7Eb1v8yoS14H1hmF8HRWGmgq6SdHHfkUcy6v2biCePF3",
+      "symbol": "DRIM",
+      "name": "Drimly Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Eb1v8yoS14H1hmF8HRWGmgq6SdHHfkUcy6v2biCePF3/logo.png"
     }
   ],
   "version": {
