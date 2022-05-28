@@ -172683,6 +172683,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GYhxEd1EcpAcqtBVFwihsMfJ5CYkECXJCACNZCETKeyj",
+      "symbol": "SNN",
+      "name": "Bulls News",
+      "decimals": 9,
+      "logoURI": "https://dm.sattonft.com/media/tokens/bac/news.jpg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BossBullsClub"
+      }
     }
   ],
   "version": {
