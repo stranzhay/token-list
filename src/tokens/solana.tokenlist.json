@@ -172489,6 +172489,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5VKHAZNgZVFKXPo2Ju732FmGzZc6WjyxenCQnF7XfHt5",
+      "symbol": "TC1001",
+      "name": "TheCoder1001 Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TheCoder1001/crypto/main/logo.PNG",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CiDX6Hn7J5UrPuf6eMmHt2XViEBRgH7Nd2dZbHVg45i1",
+      "symbol": "NFTMC",
+      "name": "NFT Master Class",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CiDX6Hn7J5UrPuf6eMmHt2XViEBRgH7Nd2dZbHVg45i1/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
