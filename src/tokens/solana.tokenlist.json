@@ -172672,6 +172672,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Ax2MkQAaS722tzToaoHQe16GVWVJvofWp1tFTdsTJhk",
+      "symbol": "RALMOND",
+      "name": "ROASTED ALMOND",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/STARSCREAM-SAYS/almond/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
