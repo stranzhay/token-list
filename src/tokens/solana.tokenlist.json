@@ -172427,6 +172427,17 @@
         "twitter": "https://twitter.com/theamigosnft",
         "website": "https://theamigos.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3VX51z65JKez2LYFTdYBfC9T5vWfSXFfrpdjrfeZCrkA",
+      "symbol": "BBKS",
+      "name": "BananaBucks",
+      "decimals": 0,
+      "logoURI": "https://github.com/mr365k/token-list/blob/1d4afce7c923a613540c5c793956ddae3d3ab607/assets/mainnet/3VX51z65JKez2LYFTdYBfC9T5vWfSXFfrpdjrfeZCrkA/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
