@@ -172489,6 +172489,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5VKHAZNgZVFKXPo2Ju732FmGzZc6WjyxenCQnF7XfHt5",
+      "symbol": "TC1001",
+      "name": "TheCoder1001 Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TheCoder1001/crypto/main/logo.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
