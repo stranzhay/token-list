@@ -172378,6 +172378,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "RKTQTjGy4Q31gzoixWfRpXUzywj3bUztEh7RQsJn5Bc",
+      "symbol": "ROCKET",
+      "name": "RocketDAO Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RKTQTjGy4Q31gzoixWfRpXUzywj3bUztEh7RQsJn5Bc/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/J3BgFWxh5x",
+        "twitter": "https://twitter.com/Rocketsauce_",
+        "website": "https://rocketsauce.xyz/"
+      }
     }
   ],
   "version": {
