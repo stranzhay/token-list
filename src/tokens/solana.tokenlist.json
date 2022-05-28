@@ -172531,6 +172531,20 @@
       "name": "Hidden BAGZ",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/HiddenBoyz/BAGZ/main/BAGZ%20Logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2SJduTt8KtPLEtz53fRKtVAsPaxcod4UeKvnodwz2CPD",
+      "symbol": "$KAGE",
+      "name": "KAGE Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2SJduTt8KtPLEtz53fRKtVAsPaxcod4UeKvnodwz2CPD/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://city-savior-scratch.netlify.app"
+      }
     }
   ],
   "version": {
