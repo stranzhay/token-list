@@ -172438,6 +172438,57 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9HhZRiV63c4pMc4xEscrGDh6Xu17gPSpkCMvSb5tmGis",
+      "symbol": "$MIGO",
+      "name": "Amigos",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AmigosOfficial/Amigos/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/theamigosnft",
+        "twitter": "https://twitter.com/theamigosnft",
+        "website": "https://theamigos.io/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "treessKmT2gWMhn2hiQ5QMuTPCdCLZ3wpVdE3SUB8Yp",
+      "symbol": "trees",
+      "name": "Forest Trees",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/forest/tree.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "polkadot",
+        "description": "Living Tree Accountancy Coin --@cryptolake2",
+        "imageUrl": "https://bafybeieoh4lkabcaenwb255hmvuvqzec6rql5khnzb3xyn43jjozftynwu.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/forest/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmYGRYVdvxxfL7B2jjHWss1FyU9fhQNFLihsWENCK6n5YP/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "9pio5iDDvov4PtdmZHjWV4zmkA5zTFVbh4eDBYKr5Ywz",
+      "symbol": "SUBLI",
+      "name": "SUBLIME P",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9pio5iDDvov4PtdmZHjWV4zmkA5zTFVbh4eDBYKr5Ywz/espsubl.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
