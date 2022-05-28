@@ -172438,6 +172438,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9HhZRiV63c4pMc4xEscrGDh6Xu17gPSpkCMvSb5tmGis",
+      "symbol": "$MIGO",
+      "name": "Amigos",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AmigosOfficial/Amigos/main/logo.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/theamigosnft",
+        "twitter": "https://twitter.com/theamigosnft",
+        "website": "https://theamigos.io/"
+      }
     }
   ],
   "version": {
