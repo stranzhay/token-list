@@ -172332,6 +172332,17 @@
         "twitter": "https://twitter.com/udderchaossol",
         "website": "https://udderchaos.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EXC3Fw3H2FNeiPuo5c5SQk9VSEM3gfFi6QmqSTizZ9zW",
+      "symbol": "KOCO",
+      "name": "KokoCoin ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EXC3Fw3H2FNeiPuo5c5SQk9VSEM3gfFi6QmqSTizZ9zW/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
