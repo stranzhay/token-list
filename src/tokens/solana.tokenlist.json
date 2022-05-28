@@ -172545,6 +172545,23 @@
       "extensions": {
         "website": "https://city-savior-scratch.netlify.app"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4YnWvpPRFypDAjzDbTegBivy6hbDp8UAMRKrCkmvAhdP",
+      "symbol": "$OIL",
+      "name": "SolBots OIL",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4YnWvpPRFypDAjzDbTegBivy6hbDp8UAMRKrCkmvAhdP/logo.png",
+      "tags": [
+        "utility-token",
+        "dao",
+        "staking-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6YVFUE5wjN",
+        "twitter": "https://twitter.com/SolBotsDAO"
+      }
     }
   ],
   "version": {
