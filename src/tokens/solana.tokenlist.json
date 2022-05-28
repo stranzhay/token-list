@@ -172455,6 +172455,29 @@
         "twitter": "https://twitter.com/theamigosnft",
         "website": "https://theamigos.io/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "treessKmT2gWMhn2hiQ5QMuTPCdCLZ3wpVdE3SUB8Yp",
+      "symbol": "trees",
+      "name": "Forest Trees",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/forest/tree.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "polkadot",
+        "description": "Living Tree Accountancy Coin --@cryptolake2",
+        "imageUrl": "https://bafybeieoh4lkabcaenwb255hmvuvqzec6rql5khnzb3xyn43jjozftynwu.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/forest/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmYGRYVdvxxfL7B2jjHWss1FyU9fhQNFLihsWENCK6n5YP/whitepaper.pdf"
+      }
     }
   ],
   "version": {
