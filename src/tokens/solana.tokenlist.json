@@ -172607,6 +172607,82 @@
         "twitter": "https://twitter.com/AncestorNFT",
         "website": "https://ancestors.digital/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2HXfRTmmCEUZJDbqySfvETewMUxujod1ZwUHJMrHGCEf",
+      "symbol": "$FRAIS",
+      "name": "Miss Frais",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2HXfRTmmCEUZJDbqySfvETewMUxujod1ZwUHJMrHGCEf/logo.png",
+      "tags": [
+        "utility-token",
+        "dao",
+        "staking-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/rJjeXWYxwk",
+        "twitter": "https://twitter.com/MissFrais",
+        "website": "https://missfrais.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2rTsbuDKMxnvZ3zH3MbUF1mdnhRkCBjFjPPFEzLiVuEA",
+      "symbol": "LANG",
+      "name": "LangueCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/thiagoDMDiniz/coin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4VvPCvcU7QDQK3exQ1BDPVUVMwR2SEhsi5Qr64Yat3am",
+      "symbol": "Phoo",
+      "name": "aHPhooey Coins",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MasterPhooey/crypto/main/logo2.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BL94oogdyQ9S8K7JyAUXSPZxZ8S4w28vQGELZppCXxqS",
+      "symbol": "ReHa",
+      "name": "RetroHacked",
+      "decimals": 0,
+      "logoURI": "https://retrohacked.com/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://retrohacked.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "B8w5nikfJeyZ2npZVUKp92pui7DsvsX5P9UWtTitd8yM",
+      "symbol": "SIGS",
+      "name": "Sig Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SigTL/SigCrypto/main/Sig.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Ax2MkQAaS722tzToaoHQe16GVWVJvofWp1tFTdsTJhk",
+      "symbol": "RALMOND",
+      "name": "ROASTED ALMOND",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/STARSCREAM-SAYS/almond/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
