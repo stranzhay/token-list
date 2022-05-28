@@ -172367,6 +172367,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2kujJrETYrfimaL8BSXwrms9oqt9pdRPnjDWdRTySuXi",
+      "symbol": "INTI",
+      "name": "Inti",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2kujJrETYrfimaL8BSXwrms9oqt9pdRPnjDWdRTySuXi/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
