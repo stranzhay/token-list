@@ -172661,6 +172661,17 @@
       "extensions": {
         "website": "https://retrohacked.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B8w5nikfJeyZ2npZVUKp92pui7DsvsX5P9UWtTitd8yM",
+      "symbol": "SIGS",
+      "name": "Sig Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SigTL/SigCrypto/main/Sig.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
