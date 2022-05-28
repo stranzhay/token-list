@@ -172607,6 +172607,24 @@
         "twitter": "https://twitter.com/AncestorNFT",
         "website": "https://ancestors.digital/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2HXfRTmmCEUZJDbqySfvETewMUxujod1ZwUHJMrHGCEf",
+      "symbol": "$FRAIS",
+      "name": "Miss Frais",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2HXfRTmmCEUZJDbqySfvETewMUxujod1ZwUHJMrHGCEf/logo.png",
+      "tags": [
+        "utility-token",
+        "dao",
+        "staking-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/rJjeXWYxwk",
+        "twitter": "https://twitter.com/MissFrais",
+        "website": "https://missfrais.io/"
+      }
     }
   ],
   "version": {
