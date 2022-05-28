@@ -172523,6 +172523,14 @@
         "twitter": "https://twitter.com/metasigns_app",
         "website": "https://metasigns.app"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9XxqhRpiNQJ4dViBY1A6nSaUoUgQ9m9JZjCwj3oVu3We",
+      "symbol": "BAGZ",
+      "name": "Hidden BAGZ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/HiddenBoyz/BAGZ/main/BAGZ%20Logo.png"
     }
   ],
   "version": {
