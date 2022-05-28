@@ -172625,6 +172625,17 @@
         "twitter": "https://twitter.com/MissFrais",
         "website": "https://missfrais.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2rTsbuDKMxnvZ3zH3MbUF1mdnhRkCBjFjPPFEzLiVuEA",
+      "symbol": "LANG",
+      "name": "LangueCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/thiagoDMDiniz/coin/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
