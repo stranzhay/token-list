@@ -172583,6 +172583,17 @@
         "twitter": "https://twitter.com/DoodleKoalas",
         "website": "https://doodlekoalas.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9z54BqRBCiYGn6rHKc3LRgLqmLM5Y2PmBs65RnmxdueG",
+      "symbol": "RWT",
+      "name": "Robillionare Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/farhan067/RWT/main/logo.jpg",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
