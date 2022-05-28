@@ -172410,6 +172410,23 @@
       "extensions": {
         "website": "https://dimenxion.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "61XKqkU4eBvE7u7dV9e59Ln8UzWBQqbXoemXPqL14iXe",
+      "symbol": "$MIGO",
+      "name": "TheAmigos",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/TheAmigosOfficial/theamigos/main/amigos.png",
+      "tags": [
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/theamigosnft",
+        "twitter": "https://twitter.com/theamigosnft",
+        "website": "https://theamigos.io/"
+      }
     }
   ],
   "version": {
