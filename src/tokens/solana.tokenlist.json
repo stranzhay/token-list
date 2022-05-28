@@ -172594,6 +172594,19 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DNAdXVQZjBa77jHoqij52RDhkDkBq6iCLsJwCRfhzYz2",
+      "symbol": "DNA",
+      "name": "DNA",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DNAdXVQZjBa77jHoqij52RDhkDkBq6iCLsJwCRfhzYz2/logo.jpg",
+      "extensions": {
+        "discord": "https://discord.gg/g4u6QCPk3S",
+        "twitter": "https://twitter.com/AncestorNFT",
+        "website": "https://ancestors.digital/"
+      }
     }
   ],
   "version": {
