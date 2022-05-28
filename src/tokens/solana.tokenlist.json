@@ -172478,6 +172478,17 @@
         "website": "https://PurpleZone.github.io/NFTs/forest/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmYGRYVdvxxfL7B2jjHWss1FyU9fhQNFLihsWENCK6n5YP/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "9pio5iDDvov4PtdmZHjWV4zmkA5zTFVbh4eDBYKr5Ywz",
+      "symbol": "SUBLI",
+      "name": "SUBLIME P",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9pio5iDDvov4PtdmZHjWV4zmkA5zTFVbh4eDBYKr5Ywz/espsubl.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
