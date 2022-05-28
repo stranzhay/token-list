@@ -172343,6 +172343,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AgxJ2YykLYcFmK1mbzPJ2F98bnv4h3DpF1juGjC9yoTj",
+      "symbol": "FATCOIN",
+      "name": "Fatma token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AgxJ2YykLYcFmK1mbzPJ2F98bnv4h3DpF1juGjC9yoTj/logo.png",
+      "tags": [
+        "school-token",
+        "IA",
+        "Fatma"
+      ]
     }
   ],
   "version": {
