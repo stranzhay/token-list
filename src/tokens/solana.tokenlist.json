@@ -172315,6 +172315,34 @@
         "twitter": "https://twitter.com/The_Incentive",
         "website": "https://www.theincentive.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MLKmUCaj1dpBY881aFsrBwR9RUMoKic8SWT3u1q5Nkj",
+      "symbol": "MILK",
+      "name": "MILK",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MLKmUCaj1dpBY881aFsrBwR9RUMoKic8SWT3u1q5Nkj/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/udderchaos",
+        "twitter": "https://twitter.com/udderchaossol",
+        "website": "https://udderchaos.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EXC3Fw3H2FNeiPuo5c5SQk9VSEM3gfFi6QmqSTizZ9zW",
+      "symbol": "KOCO",
+      "name": "KokoCoin ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EXC3Fw3H2FNeiPuo5c5SQk9VSEM3gfFi6QmqSTizZ9zW/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
