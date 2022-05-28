@@ -172562,6 +172562,27 @@
         "discord": "https://discord.gg/6YVFUE5wjN",
         "twitter": "https://twitter.com/SolBotsDAO"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AwoT6gj8cpadFabDfNKsUrrsvQTX1iAtkNiPUw2mmhsV",
+      "symbol": "DKCOIN",
+      "name": "DoodleKoalas Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AwoT6gj8cpadFabDfNKsUrrsvQTX1iAtkNiPUw2mmhsV/logo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "nft",
+        "charity",
+        "dao"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fFEvtKCZtm",
+        "instagram": "https://www.instagram.com/doodlekoalas",
+        "twitter": "https://twitter.com/DoodleKoalas",
+        "website": "https://doodlekoalas.com"
+      }
     }
   ],
   "version": {
