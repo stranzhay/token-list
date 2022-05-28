@@ -172523,6 +172523,45 @@
         "twitter": "https://twitter.com/metasigns_app",
         "website": "https://metasigns.app"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9XxqhRpiNQJ4dViBY1A6nSaUoUgQ9m9JZjCwj3oVu3We",
+      "symbol": "BAGZ",
+      "name": "Hidden BAGZ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/HiddenBoyz/BAGZ/main/BAGZ%20Logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2SJduTt8KtPLEtz53fRKtVAsPaxcod4UeKvnodwz2CPD",
+      "symbol": "$KAGE",
+      "name": "KAGE Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2SJduTt8KtPLEtz53fRKtVAsPaxcod4UeKvnodwz2CPD/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://city-savior-scratch.netlify.app"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4YnWvpPRFypDAjzDbTegBivy6hbDp8UAMRKrCkmvAhdP",
+      "symbol": "$OIL",
+      "name": "SolBots OIL",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4YnWvpPRFypDAjzDbTegBivy6hbDp8UAMRKrCkmvAhdP/logo.png",
+      "tags": [
+        "utility-token",
+        "dao",
+        "staking-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/6YVFUE5wjN",
+        "twitter": "https://twitter.com/SolBotsDAO"
+      }
     }
   ],
   "version": {
