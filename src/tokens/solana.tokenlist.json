@@ -172356,6 +172356,17 @@
         "IA",
         "Fatma"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Aq7HPu6zCFQ1zD5KWQGJF1CC8DxCsYJM2gfcu3NxUbtB",
+      "symbol": "TSZC",
+      "name": "The Share Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MasterPhooey/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
