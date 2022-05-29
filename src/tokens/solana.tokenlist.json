@@ -172849,6 +172849,17 @@
       "extensions": {
         "website": "https://sponsor.me/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J9QoYEwtScVwQRv4YztM5i799ubovW7xaFfCuiuKjegn",
+      "symbol": "QK",
+      "name": "Quak Quak",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARX4567/crypto-1/main/crypto1.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
