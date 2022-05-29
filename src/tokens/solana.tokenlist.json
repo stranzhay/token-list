@@ -173054,6 +173054,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D6iruuWMixNyMKvqyLNTyFEHyc8EhuKfW2dzsde7Jar7",
+      "symbol": "ITC",
+      "name": "Smarttttt Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D6iruuWMixNyMKvqyLNTyFEHyc8EhuKfW2dzsde7Jar7/logo.png"
     }
   ],
   "version": {
