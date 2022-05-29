@@ -172963,6 +172963,17 @@
       "tags": [
         "OG-Tier-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HeJvBuBjpeP8SNyipv5rr2FkyH7dWAUhVvfk9KFBUV5c",
+      "symbol": "ASTC",
+      "name": "AstorCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/AstorLabka/crypto/main/AstorCOIN.png",
+      "tags": [
+        "payment-token"
+      ]
     }
   ],
   "version": {
