@@ -172933,6 +172933,58 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CWhr7vJ1rCSgSMCcwMxdLVWdCf4KkSjZEeSmmh1poVXb",
+      "symbol": "CBR",
+      "name": "Community Beer Run Token",
+      "decimals": 2,
+      "logoURI": "https://i.imgur.com/Jd2MCtj.png",
+      "tags": [
+        "bridgesplit-fraction",
+        "daao",
+        "barrel-dao",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fjrFpbweAP",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/vault/CWhr7vJ1rCSgSMCcwMxdLVWdCf4KkSjZEeSmmh1poVXb"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GHJxwtgZcjNBXQJ5bAcByvnxN1BX6kKk5wndq9nVuJCE",
+      "symbol": "OGBNNA",
+      "name": "OG Token",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/TheMoonkeesNFT/TheMoonkees_logo/main/assets/imgs/og%20token%20img.png",
+      "tags": [
+        "OG-Tier-Token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HeJvBuBjpeP8SNyipv5rr2FkyH7dWAUhVvfk9KFBUV5c",
+      "symbol": "ASTC",
+      "name": "AstorCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/AstorLabka/crypto/main/AstorCOIN.png",
+      "tags": [
+        "payment-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HWo5NmPfNJ1LjdHTMZcXwPDrNQXX54TPySFbm2CWcZBj",
+      "symbol": "NALA",
+      "name": "Nala",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/geneva-crypto/crypto/main/Nala.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
