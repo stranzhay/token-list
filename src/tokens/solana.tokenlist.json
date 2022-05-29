@@ -173043,6 +173043,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CN2sduoDjPQqUeGmtiaEqrxXVGacVZt69oA91zAKuW4o",
+      "symbol": "JAVI",
+      "name": "Javi Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Telvy/javitoken/main/javitokenlogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
