@@ -172952,6 +172952,17 @@
         "twitter": "https://twitter.com/bridgesplit",
         "vault": "https://app.bridgesplit.com/vault/CWhr7vJ1rCSgSMCcwMxdLVWdCf4KkSjZEeSmmh1poVXb"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GHJxwtgZcjNBXQJ5bAcByvnxN1BX6kKk5wndq9nVuJCE",
+      "symbol": "OGBNNA",
+      "name": "OG Token",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/TheMoonkeesNFT/TheMoonkees_logo/main/assets/imgs/og%20token%20img.png",
+      "tags": [
+        "OG-Tier-Token"
+      ]
     }
   ],
   "version": {
