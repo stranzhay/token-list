@@ -172773,6 +172773,20 @@
         "NFT",
         "Staking"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "GYWjRN1ZBNpHzW6KaiKa9F1tSWyJjyNS8r1VugLyeNky",
+      "symbol": "ProRe",
+      "name": "Manly Marine Pde",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rflawn/prorelogo/main/prorelogo.png",
+      "tags": [
+        "security-token"
+      ],
+      "extensions": {
+        "website": "https://prore.io"
+      }
     }
   ],
   "version": {
