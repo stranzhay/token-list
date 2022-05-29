@@ -172898,6 +172898,41 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8Xve8emm4jeZq6xzxPQfwNKz77gkxYZQHKKGT3YBVuCe",
+      "symbol": "KeithJulie",
+      "name": "Keith and Julie Stewart",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/YellowLittleTurtle/JnK/main/JnK.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CAVrUnfJ1mZB4252hsBBATowtoWEe2yECAYJZBuQRUAU",
+      "symbol": "BRNDA",
+      "name": "Bernd Alpha",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CAVrUnfJ1mZB4252hsBBATowtoWEe2yECAYJZBuQRUAU/logo.png",
+      "tags": [
+        "community-token",
+        "memes-token",
+        "coin"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8wpUGC6mQ7CSVYvQxxPKJA6a2Qu3JJtGMc8MNDFRsHsm",
+      "symbol": "FFCN",
+      "name": "Fede Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Fedef01/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
