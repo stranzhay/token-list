@@ -172898,6 +172898,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8Xve8emm4jeZq6xzxPQfwNKz77gkxYZQHKKGT3YBVuCe",
+      "symbol": "KeithJulie",
+      "name": "Keith and Julie Stewart",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/YellowLittleTurtle/JnK/main/JnK.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
