@@ -172833,6 +172833,22 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CcHazxxuN1UG86ubpRWZhrpF8vNvY1kqxAevtwvFc34t",
+      "symbol": "SPZ",
+      "name": "Sponscoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CcHazxxuN1UG86ubpRWZhrpF8vNvY1kqxAevtwvFc34t/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://sponsor.me/"
+      }
     }
   ],
   "version": {
