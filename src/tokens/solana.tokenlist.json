@@ -172985,6 +172985,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8jjZtvDQ2WTX4gbHdNBu5XbhoAJt6bD2FQHp2JsZ7atb",
+      "symbol": "AC",
+      "name": "AstronomicCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/philipmaciag/Crypto/main/D.T.S.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
