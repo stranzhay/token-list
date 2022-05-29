@@ -172876,6 +172876,28 @@
         "twitter": "https://twitter.com/degenespace",
         "website": "https://degenerative.space/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3JyJDoZJywcje4kGSWni822NsXeMNz8UXAMFdWN6Gf41",
+      "symbol": "WL_BNNA",
+      "name": "WL tier Moonkee",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/TheMoonkeesNFT/TheMoonkees_logo/main/assets/imgs/wl%20token%20img.png",
+      "tags": [
+        "wl-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7s4xD49kUHGpXcbZzCWx65GvL7a5pCCji9bGFpgzq1Wn",
+      "symbol": "DROB",
+      "name": "Drake Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/drakesbigday/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
