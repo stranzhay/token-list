@@ -172761,6 +172761,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CqgizwKk9957rhLkM5oZTmcGZGwTRauYB4HgvAxhG1Fq",
+      "symbol": "NAMI",
+      "name": "NAMI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/nkmatoken.png",
+      "tags": [
+        "NFT",
+        "Staking"
+      ]
     }
   ],
   "version": {
