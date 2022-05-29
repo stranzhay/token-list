@@ -173032,6 +173032,47 @@
       "extensions": {
         "twitter": "https://twitter.com/ZankokuLabz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CUBSiWEwRnyEvtbYv3ZgRUL5tqrDjXHUwiGdzcpfTud8",
+      "symbol": "WAGEH",
+      "name": "Okay Cubs Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CUBSiWEwRnyEvtbYv3ZgRUL5tqrDjXHUwiGdzcpfTud8/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CN2sduoDjPQqUeGmtiaEqrxXVGacVZt69oA91zAKuW4o",
+      "symbol": "JAVI",
+      "name": "Javi Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Telvy/javitoken/main/javitokenlogo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "D6iruuWMixNyMKvqyLNTyFEHyc8EhuKfW2dzsde7Jar7",
+      "symbol": "ITC",
+      "name": "Smarttttt Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D6iruuWMixNyMKvqyLNTyFEHyc8EhuKfW2dzsde7Jar7/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "HhgxwkVVHVoYCib3EpWyXTnbmrNfusvLmEhXkXcFf3ft",
+      "symbol": "TSCM",
+      "name": "The Shady Class Mint",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/flipthetip/test-tsc/main/coin2_ccexpress%20(1)_adobe_express.png",
+      "tags": [
+        "minting-token"
+      ]
     }
   ],
   "version": {
