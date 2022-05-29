@@ -172974,6 +172974,17 @@
       "tags": [
         "payment-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HWo5NmPfNJ1LjdHTMZcXwPDrNQXX54TPySFbm2CWcZBj",
+      "symbol": "NALA",
+      "name": "Nala",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/geneva-crypto/crypto/main/Nala.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
