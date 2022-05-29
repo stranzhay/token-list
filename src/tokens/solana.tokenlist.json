@@ -172876,6 +172876,17 @@
         "twitter": "https://twitter.com/degenespace",
         "website": "https://degenerative.space/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3JyJDoZJywcje4kGSWni822NsXeMNz8UXAMFdWN6Gf41",
+      "symbol": "WL_BNNA",
+      "name": "WL tier Moonkee",
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/TheMoonkeesNFT/TheMoonkees_logo/main/assets/imgs/wl%20token%20img.png",
+      "tags": [
+        "wl-token"
+      ]
     }
   ],
   "version": {
