@@ -172787,6 +172787,30 @@
       "extensions": {
         "website": "https://prore.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fkf2WbzRuULKsDv4WK2T4VGFNNjfziUAHZ3Z3tB8oFnS",
+      "symbol": "MNLY1",
+      "name": "Manly 1",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/rflawn/PreReTokensList/main/mnly1.png",
+      "tags": [
+        "security-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5DYkrfkZ9SG9NqBq2yYqRbUWAibK4E5QaNwV4aqpDb6K",
+      "symbol": "SBYC",
+      "name": "Solana Bored Yacht Club Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5DYkrfkZ9SG9NqBq2yYqRbUWAibK4E5QaNwV4aqpDb6K/SBYC.png",
+      "tags": [
+        "utility-token",
+        "nft",
+        "community-token"
+      ]
     }
   ],
   "version": {
