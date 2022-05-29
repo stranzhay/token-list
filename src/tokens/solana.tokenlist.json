@@ -172909,6 +172909,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CAVrUnfJ1mZB4252hsBBATowtoWEe2yECAYJZBuQRUAU",
+      "symbol": "BRNDA",
+      "name": "Bernd Alpha",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CAVrUnfJ1mZB4252hsBBATowtoWEe2yECAYJZBuQRUAU/logo.png",
+      "tags": [
+        "community-token",
+        "memes-token",
+        "coin"
+      ]
     }
   ],
   "version": {
