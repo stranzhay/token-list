@@ -172887,6 +172887,17 @@
       "tags": [
         "wl-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7s4xD49kUHGpXcbZzCWx65GvL7a5pCCji9bGFpgzq1Wn",
+      "symbol": "DROB",
+      "name": "Drake Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/drakesbigday/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
