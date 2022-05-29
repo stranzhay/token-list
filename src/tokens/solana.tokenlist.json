@@ -172933,6 +172933,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CWhr7vJ1rCSgSMCcwMxdLVWdCf4KkSjZEeSmmh1poVXb",
+      "symbol": "CBR",
+      "name": "Community Beer Run Token",
+      "decimals": 2,
+      "logoURI": "https://i.imgur.com/Jd2MCtj.png",
+      "tags": [
+        "bridgesplit-fraction",
+        "daao",
+        "barrel-dao",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/fjrFpbweAP",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/vault/CWhr7vJ1rCSgSMCcwMxdLVWdCf4KkSjZEeSmmh1poVXb"
+      }
     }
   ],
   "version": {
