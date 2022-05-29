@@ -172787,6 +172787,17 @@
       "extensions": {
         "website": "https://prore.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fkf2WbzRuULKsDv4WK2T4VGFNNjfziUAHZ3Z3tB8oFnS",
+      "symbol": "MNLY1",
+      "name": "Manly 1",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/rflawn/PreReTokensList/main/mnly1.png",
+      "tags": [
+        "security-token"
+      ]
     }
   ],
   "version": {
