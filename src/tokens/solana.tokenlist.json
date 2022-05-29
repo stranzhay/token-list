@@ -172811,6 +172811,71 @@
         "nft",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SB5Vr6EFRqeLws4eg6LVMXJg9dFrfowEqiknAcYvoAY",
+      "symbol": "SOLBARSWL1",
+      "name": "SOLBars Tier 1 Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SB5Vr6EFRqeLws4eg6LVMXJg9dFrfowEqiknAcYvoAY/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "SB2KhzJb2kqhkYC6J5DKw449wiHf7gEbGtKA9NEnbaN",
+      "symbol": "SOLBARSWL2",
+      "name": "SOLBars Tier 2 Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SB2KhzJb2kqhkYC6J5DKw449wiHf7gEbGtKA9NEnbaN/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CcHazxxuN1UG86ubpRWZhrpF8vNvY1kqxAevtwvFc34t",
+      "symbol": "SPZ",
+      "name": "Sponscoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CcHazxxuN1UG86ubpRWZhrpF8vNvY1kqxAevtwvFc34t/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://sponsor.me/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J9QoYEwtScVwQRv4YztM5i799ubovW7xaFfCuiuKjegn",
+      "symbol": "QK",
+      "name": "Quak Quak",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ARX4567/crypto-1/main/crypto1.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "DGPw3zcZuMxoVmnEQA9uhZDn9Tg2ynyaBrbULRQ8y1Gh",
+      "symbol": "DEGEPASS",
+      "name": "DEGEPASS",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DGPw3zcZuMxoVmnEQA9uhZDn9Tg2ynyaBrbULRQ8y1Gh/logo.png",
+      "tags": [
+        "security-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/A3PeauVFTr",
+        "twitter": "https://twitter.com/degenespace",
+        "website": "https://degenerative.space/"
+      }
     }
   ],
   "version": {
