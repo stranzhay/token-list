@@ -173004,6 +173004,34 @@
       "name": "T Zero Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/SergoKalandadze/t-zero/main/logo.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "GooNRf7PTVSMDkkiEtXWsoMaTHf3W5oaeWgmvQBduH3q",
+      "symbol": "Goons",
+      "name": "Galactic Goons Gen 2 Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GooNRf7PTVSMDkkiEtXWsoMaTHf3W5oaeWgmvQBduH3q/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/galacticgoonsio"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Arca7FdReYC8hRhKzeuKSp79dWn6qGSd2t5MPvPHAT2T",
+      "symbol": "Arcanist",
+      "name": "Zankoku labs gen 2 Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Arca7FdReYC8hRhKzeuKSp79dWn6qGSd2t5MPvPHAT2T/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZankokuLabz"
+      }
     }
   ],
   "version": {
