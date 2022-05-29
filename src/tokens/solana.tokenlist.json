@@ -172731,6 +172731,14 @@
       "tags": [
         "mint-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "61QYeabDU9sb9UmFJjcApznWigRxLyFjKD3dpD7xHPUL",
+      "symbol": "YOU",
+      "name": "Youtube",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/61QYeabDU9sb9UmFJjcApznWigRxLyFjKD3dpD7xHPUL/logo.png"
     }
   ],
   "version": {
