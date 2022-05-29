@@ -173032,6 +173032,17 @@
       "extensions": {
         "twitter": "https://twitter.com/ZankokuLabz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CUBSiWEwRnyEvtbYv3ZgRUL5tqrDjXHUwiGdzcpfTud8",
+      "symbol": "WAGEH",
+      "name": "Okay Cubs Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CUBSiWEwRnyEvtbYv3ZgRUL5tqrDjXHUwiGdzcpfTud8/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
