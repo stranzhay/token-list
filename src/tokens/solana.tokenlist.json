@@ -172709,6 +172709,17 @@
       "tags": [
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BJkKpQ1tE81msuAxguGSmL47KnxXsNjFG9EJE1e2Sixk",
+      "symbol": "ANUS",
+      "name": "Uranus Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/realbuckroberts/uranustoken/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
