@@ -172698,6 +172698,17 @@
       "extensions": {
         "twitter": "https://twitter.com/BossBullsClub"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "queLNbM3wSpS2eYwDe2VdAvPLpaVDE3QNiRs2i8S3bp",
+      "symbol": "QUELLEN",
+      "name": "Quellen Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/queLNbM3wSpS2eYwDe2VdAvPLpaVDE3QNiRs2i8S3bp/logo.png",
+      "tags": [
+        "meme-token"
+      ]
     }
   ],
   "version": {
