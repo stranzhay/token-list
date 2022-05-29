@@ -172731,6 +172731,36 @@
       "tags": [
         "mint-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "61QYeabDU9sb9UmFJjcApznWigRxLyFjKD3dpD7xHPUL",
+      "symbol": "YOU",
+      "name": "Youtube",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/61QYeabDU9sb9UmFJjcApznWigRxLyFjKD3dpD7xHPUL/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "BuSqnbU8HMyDrzmBzh9wC33gyKMp2EPpDbhcNu6FL2Un",
+      "symbol": "DGUST",
+      "name": "DGUST Rest",
+      "decimals": 1,
+      "logoURI": "https://ipfs.io/ipfs/Qmf6kHuQKsahHx6vmoHG6TTv5i5YsNXhiF2ZffghbTvfzE",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "634PuhuzcE3JoF5nurbBwQKn6ehYD2fwD4nr38uhQB12",
+      "symbol": "BOCA",
+      "name": "EnBoca Rest",
+      "decimals": 1,
+      "logoURI": "https://ipfs.io/ipfs/QmSEVTzh7a9Q3iMr5Rzt8779FhfefBvhD4JkjGnJc3yc8z",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
