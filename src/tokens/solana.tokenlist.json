@@ -172811,6 +172811,28 @@
         "nft",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SB5Vr6EFRqeLws4eg6LVMXJg9dFrfowEqiknAcYvoAY",
+      "symbol": "SOLBARSWL1",
+      "name": "SOLBars Tier 1 Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SB5Vr6EFRqeLws4eg6LVMXJg9dFrfowEqiknAcYvoAY/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "SB2KhzJb2kqhkYC6J5DKw449wiHf7gEbGtKA9NEnbaN",
+      "symbol": "SOLBARSWL2",
+      "name": "SOLBars Tier 2 Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SB2KhzJb2kqhkYC6J5DKw449wiHf7gEbGtKA9NEnbaN/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
