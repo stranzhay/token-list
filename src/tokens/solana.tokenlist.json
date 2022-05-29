@@ -172922,6 +172922,17 @@
         "memes-token",
         "coin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8wpUGC6mQ7CSVYvQxxPKJA6a2Qu3JJtGMc8MNDFRsHsm",
+      "symbol": "FFCN",
+      "name": "Fede Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Fedef01/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
