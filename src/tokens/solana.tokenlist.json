@@ -173637,6 +173637,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "mon58485x1UPPuE38MCuLbK8dYBz48PSwYudmvyPKJc",
+      "symbol": "MONMINT",
+      "name": "Mondays Mint Token",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/oSYcdW4EN3z2L0dtoNzC9paXQ-GXbMyF-XrsCLRqf4M",
+      "tags": [
+        "Whitelist-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/GrmUcQkEgk",
+        "twitter": "https://twitter.com/MondaysNFT",
+        "website": "https://mondaysnft.com"
+      }
     }
   ],
   "version": {
