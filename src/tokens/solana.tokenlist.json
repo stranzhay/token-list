@@ -173207,6 +173207,49 @@
         "twitter": "https://twitter.com/solpuffss",
         "website": "https://solpuffs.art"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6AdBHQwRxcU3LMWpR9HFkwindpeBu6z1wFyP4E8mk4Ge",
+      "symbol": "$IRON",
+      "name": "Mindfolk Iron",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6AdBHQwRxcU3LMWpR9HFkwindpeBu6z1wFyP4E8mk4Ge/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/mindfolk",
+        "twitter": "https://twitter.com/mindfolkART",
+        "website": "https://www.mindfolk.art/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DbBJEc1NhBQhHJrVoXYyaTmqHbekiz6DhZ8H5T4KY5fQ",
+      "symbol": "$STONE",
+      "name": "Mindfolk Stone",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DbBJEc1NhBQhHJrVoXYyaTmqHbekiz6DhZ8H5T4KY5fQ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/mindfolk",
+        "twitter": "https://twitter.com/mindfolkART",
+        "website": "https://www.mindfolk.art/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "Bwe9F8rUtcPAUmgxXFatJVe7pWxTaHumwj5opnGvSXKf",
+      "symbol": "SWGT",
+      "name": "SWG token",
+      "decimals": 9,
+      "logoURI": "https://i.postimg.cc/zvFKYFMz/SWGT.png",
+      "tags": [
+        "coin"
+      ]
     }
   ],
   "version": {
