@@ -173450,6 +173450,182 @@
       "tags": [
         "Utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5NRMCHoJtq5vNgxmNgDzAqroKxDWM6mmE8HQnt7p4yLM",
+      "symbol": "gg_SOL",
+      "name": "gg_SOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5NRMCHoJtq5vNgxmNgDzAqroKxDWM6mmE8HQnt7p4yLM/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HAYwz6cHGuGAvLNifqGypH4mzv8fF5wv9SvcYLRGd18Q",
+      "symbol": "gg_USDC",
+      "name": "gg_USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HAYwz6cHGuGAvLNifqGypH4mzv8fF5wv9SvcYLRGd18Q/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7V3hgNMhVHwLPsyD5ujG248PV1hwnsvpBrAMeWXWboRZ",
+      "symbol": "gg_mSOL",
+      "name": "gg_mSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7V3hgNMhVHwLPsyD5ujG248PV1hwnsvpBrAMeWXWboRZ/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9oLbMFr1AedcbXjqNge4QkrQMw5Jeae3eTbPQ94Zp1aD",
+      "symbol": "ggUSDT",
+      "name": "ggUSDT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9oLbMFr1AedcbXjqNge4QkrQMw5Jeae3eTbPQ94Zp1aD/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Er1sCVW55YH6gMTc8HdvZwZ9YrWksLAso6HtA3knXBKU",
+      "symbol": "ggBTC",
+      "name": "ggBTC",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Er1sCVW55YH6gMTc8HdvZwZ9YrWksLAso6HtA3knXBKU/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AEag8CEYbzNRE1cLkNmQdBzF5dNpWrhv5zfZMR5xWhpA",
+      "symbol": "ggsoETH",
+      "name": "ggsoETH",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AEag8CEYbzNRE1cLkNmQdBzF5dNpWrhv5zfZMR5xWhpA/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Fn4Nz4G6fbK7556XUJQxovYgRjEXgWQYTVj5yCLx2pyv",
+      "symbol": "ggstSOL",
+      "name": "ggstSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fn4Nz4G6fbK7556XUJQxovYgRjEXgWQYTVj5yCLx2pyv/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "82NfNroRav4h4ecRwcTz46oufQBLRhtvWMJNx9WrzuKd",
+      "symbol": "ggscnSOL",
+      "name": "ggscnSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/82NfNroRav4h4ecRwcTz46oufQBLRhtvWMJNx9WrzuKd/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CA3oB8EiByQ4yrcexSJDbfGvk1CJrPRcZf2UE14ZRvtx",
+      "symbol": "ggSRM",
+      "name": "ggSRM",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CA3oB8EiByQ4yrcexSJDbfGvk1CJrPRcZf2UE14ZRvtx/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AJd15mm73d86ny8worSc8aoLLF6EM1DGPSvi4GscaoQt",
+      "symbol": "ggFTT",
+      "name": "ggFTT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AJd15mm73d86ny8worSc8aoLLF6EM1DGPSvi4GscaoQt/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GfSggsLj9ZcYcHxanX85d7nas7s1GJPMuDgMCWDhoi7Z",
+      "symbol": "ggMNGO",
+      "name": "ggMNGO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfSggsLj9ZcYcHxanX85d7nas7s1GJPMuDgMCWDhoi7Z/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
     }
   ],
   "version": {
