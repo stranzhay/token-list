@@ -173158,6 +173158,55 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "894Kdz8jCFeBfhDBm4VSRypvTgcRTdtAWxNyFQb2y5Ug",
+      "symbol": "boUSDC",
+      "name": "Boson USDC",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/894Kdz8jCFeBfhDBm4VSRypvTgcRTdtAWxNyFQb2y5Ug/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://boson.so"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6xw18ELzvZqmSvKVPwPgrNxL4tBTqDw52WSdk9FH6aEq",
+      "symbol": "HLM",
+      "name": "HEALIUM",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6xw18ELzvZqmSvKVPwPgrNxL4tBTqDw52WSdk9FH6aEq/logo.png",
+      "tags": [
+        "utility-token",
+        "metaverse-token",
+        "metaverse-currency",
+        "healthcare-token"
+      ],
+      "extensions": {
+        "description": "The Healium project is a blockchain-based token network that safely and reliably stores and manages high-value personal information such as individual's genetic data.",
+        "facebook": "https://www.facebook.com/Healium-101849422353501/",
+        "instagram": "https://www.instagram.com/healium_global/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "22Pqy9aTRXLN9oe9yEbdpJtmqf5m9mhDj7hqY7TSd2ks",
+      "symbol": "PUFFWL",
+      "name": "Solpuff WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Wcworker/Wcdonalds/main/puff.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solpuffss",
+        "website": "https://solpuffs.art"
+      }
     }
   ],
   "version": {
