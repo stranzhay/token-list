@@ -173391,6 +173391,17 @@
         "twitter": "https://twitter.com/FunGuyzNFT",
         "website": "https://funguyz.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3p2LXnEDQvMGLE7wVz49ys79E2UceihCANh26wwQxmt5",
+      "symbol": "UM",
+      "name": "Um Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ethan-new/cryptoimage/main/start.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
