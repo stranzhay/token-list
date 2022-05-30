@@ -173128,6 +173128,14 @@
         "twitter": "https://twitter.com/FunGuyzNFT",
         "website": "https://funguyz.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ENdCXVtcFEzpVCbsedLinVWbwEbR3yfWwdKVBn1hirhk",
+      "symbol": "ONE",
+      "name": "One Cash",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ENdCXVtcFEzpVCbsedLinVWbwEbR3yfWwdKVBn1hirhk/logo.png"
     }
   ],
   "version": {
