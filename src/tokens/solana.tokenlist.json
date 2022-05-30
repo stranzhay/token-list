@@ -173095,6 +173095,22 @@
       "tags": [
         "security-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "PigobSSPVECtDpdo1wv7Nzvvq7jKY9KfcsQWqFSitME",
+      "symbol": "PIGLETS",
+      "name": "Pixel Piglets Adoption Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PigobSSPVECtDpdo1wv7Nzvvq7jKY9KfcsQWqFSitME/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "pWLbnNUQGrWB5Y94QaRGpxQPv8j7PhzSqj6SWTRjSoM",
+      "symbol": "PIGLETSWL",
+      "name": "Pixel Piglets Mint Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/pWLbnNUQGrWB5Y94QaRGpxQPv8j7PhzSqj6SWTRjSoM/logo.png"
     }
   ],
   "version": {
