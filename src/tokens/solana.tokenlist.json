@@ -173136,6 +173136,17 @@
       "name": "One Cash",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ENdCXVtcFEzpVCbsedLinVWbwEbR3yfWwdKVBn1hirhk/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "SakcBPcSQtSXxuxLGXhz9nJnmR4Z4HFY9Qbja8mvQib",
+      "symbol": "ORNG",
+      "name": "Orangefarm",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/XCHFOREVER/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
