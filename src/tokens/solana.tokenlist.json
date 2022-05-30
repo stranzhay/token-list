@@ -173402,6 +173402,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CHtRriqEcMCg9A48neeWEH31gMMagf3VrGudYe1Jp3Tb",
+      "symbol": "CCC",
+      "name": "Conspiracy Crypto Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Abhi-bot-dot/ConpiracyCrypto/main/CCC.png",
+      "tags": [
+        "Not-So-True-token",
+        "Social-Token"
+      ]
     }
   ],
   "version": {
