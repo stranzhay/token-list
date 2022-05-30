@@ -173191,6 +173191,22 @@
         "facebook": "https://www.facebook.com/Healium-101849422353501/",
         "instagram": "https://www.instagram.com/healium_global/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "22Pqy9aTRXLN9oe9yEbdpJtmqf5m9mhDj7hqY7TSd2ks",
+      "symbol": "PUFFWL",
+      "name": "Solpuff WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Wcworker/Wcdonalds/main/puff.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solpuffss",
+        "website": "https://solpuffs.art"
+      }
     }
   ],
   "version": {
