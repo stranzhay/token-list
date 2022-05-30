@@ -173147,6 +173147,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5DttD6HS352t5ZwKM7gRAYB8suXErif4DrYgbRr6nbgY",
+      "symbol": "LCT",
+      "name": "Linea Codice Token",
+      "decimals": 0,
+      "logoURI": "https://github.com/ddeabreu/cryptoSolanaLineaCoinTokenPicture/blob/main/logo_LTC_lite.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
