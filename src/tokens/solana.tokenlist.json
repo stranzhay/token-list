@@ -173414,6 +173414,20 @@
         "Not-So-True-token",
         "Social-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AFvt4EhTybpRHJpU5X9kYTWDqsgwD9gxittNtSsqMQxX",
+      "symbol": "bUSDC",
+      "name": "Bosonso USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFvt4EhTybpRHJpU5X9kYTWDqsgwD9gxittNtSsqMQxX/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://boson.so"
+      }
     }
   ],
   "version": {
