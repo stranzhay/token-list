@@ -173314,6 +173314,39 @@
         "twitter": "https://twitter.com/HeavyDutyBuild",
         "website": "https://heavyduty.builders/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "oGZfELJgJfDe7gccD5Z4Xf5CDoLqEhSiKqyC36BrHpN",
+      "symbol": "OG",
+      "name": "Zi-Bots OG Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/oGZfELJgJfDe7gccD5Z4Xf5CDoLqEhSiKqyC36BrHpN/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "seoGAYDRW1TKHyojzZRkjBSjNuwPnsYSTUjDUXMNykg",
+      "symbol": "SEOG",
+      "name": "Zi-Bots SEOG Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/seoGAYDRW1TKHyojzZRkjBSjNuwPnsYSTUjDUXMNykg/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "WL43J7vzgyYRNNmDBvDK2CtuKHoQHdPoL1gL5XTpPeP",
+      "symbol": "WL",
+      "name": "Zi-Bots Whitelist Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WL43J7vzgyYRNNmDBvDK2CtuKHoQHdPoL1gL5XTpPeP/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
