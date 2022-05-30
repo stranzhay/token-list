@@ -173084,6 +173084,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AqneFjZurwRuHR9Kt67tXxvJ1Ki9hkPys7D336uMTRzN",
+      "symbol": "TANBAY",
+      "name": "Tanilba Bay",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rflawn/PreReTokensList/main/TanilbaBay1.png",
+      "tags": [
+        "security-token"
+      ]
     }
   ],
   "version": {
