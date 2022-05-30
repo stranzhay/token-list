@@ -173250,6 +173250,25 @@
       "tags": [
         "coin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DwbxvyYUTwmyLCQ8ozfTrTGkzbvk4uevr9ZawxVkGtNj",
+      "symbol": "RIDDLE",
+      "name": "RIDDLE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DwbxvyYUTwmyLCQ8ozfTrTGkzbvk4uevr9ZawxVkGtNj/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "metaverse-token",
+        "metaverse-currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/aYCQfQR2Js",
+        "twitter": "https://twitter.com/lorekeeperio",
+        "website": "https://lorekeeper.io/"
+      }
     }
   ],
   "version": {
