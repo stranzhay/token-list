@@ -173284,6 +173284,36 @@
       "extensions": {
         "twitter": "https://twitter.com/pnsc420"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BR1CK2GpuUqNUrS8Kk7WDXXiSMaAppKFPhkzbXxFZtVg",
+      "symbol": "BRICK",
+      "name": "Brick",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BR1CK2GpuUqNUrS8Kk7WDXXiSMaAppKFPhkzbXxFZtVg/logo.jpg",
+      "tags": [
+        "Utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HeavyDutyBuild",
+        "website": "https://heavyduty.builders/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "BR1CK2GpuUqNUrS8Kk7WDXXiSMaAppKFPhkzbXxFZtVg",
+      "symbol": "BRICK",
+      "name": "Brick",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BR1CK2GpuUqNUrS8Kk7WDXXiSMaAppKFPhkzbXxFZtVg/logo.jpg",
+      "tags": [
+        "Utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HeavyDutyBuild",
+        "website": "https://heavyduty.builders/"
+      }
     }
   ],
   "version": {
