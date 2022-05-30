@@ -173347,6 +173347,22 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "iAnJGaHwpDjqw4mDQ1b7PfyMnp41W8Xnqt4gD9kpjvF",
+      "symbol": "SVT",
+      "name": "SVT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/iAnJGaHwpDjqw4mDQ1b7PfyMnp41W8Xnqt4gD9kpjvF/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "97pNcyxA4d3vcAxra6co4AZkqxuJ7N1XqWWVbSaqEak",
+      "symbol": "GPT",
+      "name": "GPT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97pNcyxA4d3vcAxra6co4AZkqxuJ7N1XqWWVbSaqEak/logo.png"
     }
   ],
   "version": {
