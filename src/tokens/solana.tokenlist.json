@@ -173402,6 +173402,54 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CHtRriqEcMCg9A48neeWEH31gMMagf3VrGudYe1Jp3Tb",
+      "symbol": "CCC",
+      "name": "Conspiracy Crypto Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Abhi-bot-dot/ConpiracyCrypto/main/CCC.png",
+      "tags": [
+        "Not-So-True-token",
+        "Social-Token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AFvt4EhTybpRHJpU5X9kYTWDqsgwD9gxittNtSsqMQxX",
+      "symbol": "bUSDC",
+      "name": "Bosonso USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFvt4EhTybpRHJpU5X9kYTWDqsgwD9gxittNtSsqMQxX/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://boson.so"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AXY11ExJToaGPKp7BmGjkzitfs1ta7cmjJn58Pn2t3Z1",
+      "symbol": "AXY",
+      "name": "AXY Network",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AXY11ExJToaGPKp7BmGjkzitfs1ta7cmjJn58Pn2t3Z1/logo.jpg",
+      "tags": [
+        "Utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "AXY11ExJToaGPKp7BmGjkzitfs1ta7cmjJn58Pn2t3Z1",
+      "symbol": "AXY",
+      "name": "AXY Network",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AXY11ExJToaGPKp7BmGjkzitfs1ta7cmjJn58Pn2t3Z1/logo.jpg",
+      "tags": [
+        "Utility-token"
+      ]
     }
   ],
   "version": {
