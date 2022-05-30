@@ -173239,6 +173239,17 @@
         "twitter": "https://twitter.com/mindfolkART",
         "website": "https://www.mindfolk.art/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "Bwe9F8rUtcPAUmgxXFatJVe7pWxTaHumwj5opnGvSXKf",
+      "symbol": "SWGT",
+      "name": "SWG token",
+      "decimals": 9,
+      "logoURI": "https://i.postimg.cc/zvFKYFMz/SWGT.png",
+      "tags": [
+        "coin"
+      ]
     }
   ],
   "version": {
