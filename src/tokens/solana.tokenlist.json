@@ -173374,6 +173374,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3DWLgzpD6z9PrUY7Hk9CyHHTrGk28aHwcyPhgdQmExTt",
+      "symbol": "3DFGWL",
+      "name": "3DFunGuyz WL",
+      "decimals": 0,
+      "logoURI": "https://bafkreibp4wzfh5lrqr3gqlcduk4hk64qwmosyryhwrqjaa7qqcggyrylqe.ipfs.nftstorage.link/?ext=png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "description": "CONGRATS! You have received a WL token for the 3D FunGuyz Mint! Mint Price: 2.75 SOL, Total Supply: 4500",
+        "discord": "https://discord.gg/dEKxrxt8ac",
+        "twitter": "https://twitter.com/FunGuyzNFT",
+        "website": "https://funguyz.io/"
+      }
     }
   ],
   "version": {
