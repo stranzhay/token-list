@@ -173073,6 +173073,17 @@
       "tags": [
         "minting-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9AsPKqMkwrXr2EgN2rMM1Uaq31oNydwtPexCLQp2LWJE",
+      "symbol": "GROW",
+      "name": "Grow Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ecotoken123/icon/main/grow.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
