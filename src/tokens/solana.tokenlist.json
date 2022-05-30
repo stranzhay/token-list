@@ -173363,6 +173363,17 @@
       "name": "GPT",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97pNcyxA4d3vcAxra6co4AZkqxuJ7N1XqWWVbSaqEak/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Fg9CgaQFdnfzTs2N5szFTm85JGjgsVtqzVBrgcLQU6j",
+      "symbol": "SPRL",
+      "name": "SPIRAL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/willbov/SPIRAL/main/spirallogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
