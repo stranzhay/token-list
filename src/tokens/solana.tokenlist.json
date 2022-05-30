@@ -173158,6 +173158,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "894Kdz8jCFeBfhDBm4VSRypvTgcRTdtAWxNyFQb2y5Ug",
+      "symbol": "boUSDC",
+      "name": "Boson USDC",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/894Kdz8jCFeBfhDBm4VSRypvTgcRTdtAWxNyFQb2y5Ug/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://boson.so"
+      }
     }
   ],
   "version": {
