@@ -173111,6 +173111,23 @@
       "name": "Pixel Piglets Mint Pass",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/pWLbnNUQGrWB5Y94QaRGpxQPv8j7PhzSqj6SWTRjSoM/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3DFUNs4vDYJcq5suDoFEDGhpbhxFgFius5kgFXBfnNxK",
+      "symbol": "3DFUNGUYZ",
+      "name": "3DFunGuyz Discounted WL",
+      "decimals": 0,
+      "logoURI": "https://bafkreihebzouugjwf32gryfh7hqraxc5kue4rbsei3w57pks4phmpdfudq.ipfs.nftstorage.link/?ext=png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "description": "CONGRATS! You have received a discounted WL token for the 3D FunGuyz Mint for having 2 or more FunGuyz in your wallet! Mint Price: 2.5 SOL, Total Supply: 4500",
+        "discord": "https://discord.gg/dEKxrxt8ac",
+        "twitter": "https://twitter.com/FunGuyzNFT",
+        "website": "https://funguyz.io/"
+      }
     }
   ],
   "version": {
