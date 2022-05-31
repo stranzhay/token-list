@@ -173902,6 +173902,40 @@
       "name": "Inventors Coin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8MbxiaDynCMXbkpBYDS69BKz6p5uWJn5djYK6jvz88UA/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "ToJfCKXhxRoAjtXkYdcrRuL6L9cAy2iMpnHx1Kvm91j",
+      "symbol": "SRVWL",
+      "name": "Sardines Revolt WL Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToJfCKXhxRoAjtXkYdcrRuL6L9cAy2iMpnHx1Kvm91j/logo.jpg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/sardinesrevolt",
+        "twitter": "https://twitter.com/SardinesRevolt",
+        "website": "https://sardinesrevolt.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Fma1X1sawXiwdi5nNLbA6AABmr8mvKFM2AzrxMFastyM",
+      "symbol": "SRVFM",
+      "name": "Sardines Revolt Free Mint",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fma1X1sawXiwdi5nNLbA6AABmr8mvKFM2AzrxMFastyM/logo.jpg",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/sardinesrevolt",
+        "twitter": "https://twitter.com/SardinesRevolt",
+        "website": "https://sardinesrevolt.com"
+      }
     }
   ],
   "version": {
