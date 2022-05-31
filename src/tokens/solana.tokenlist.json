@@ -173721,6 +173721,24 @@
       "name": "NELOY",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/neloy21/neloy21/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "A2TNE7FPEHNxb1VANCzzCEC2LaZqvB3KJtW9wtFEo6d6",
+      "symbol": "CCQ",
+      "name": "Crypto Conquer",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A2TNE7FPEHNxb1VANCzzCEC2LaZqvB3KJtW9wtFEo6d6/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Crypto Conquer is a browser-based strategy P2E game. And CCQ is the utility token of the game.",
+        "discord": "https://discord.gg/x8mC3VjqMD",
+        "medium": "https://crypto-conquer.medium.com/",
+        "twitter": "https://twitter.com/CryptoConquer1",
+        "website": "https://crypto-conquer.com/"
+      }
     }
   ],
   "version": {
