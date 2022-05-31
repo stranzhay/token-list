@@ -173691,6 +173691,20 @@
         "twitter": "https://twitter.com/dionysus3301",
         "website": "https://linktr.ee/Zues369"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Edc86RmbY2qW4VpvKa8kAxNYoVPGfZ6wfCowojbnfo3",
+      "symbol": "BNANAS",
+      "name": "Bananas Protocol",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Edc86RmbY2qW4VpvKa8kAxNYoVPGfZ6wfCowojbnfo3/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/apefoodnft"
+      }
     }
   ],
   "version": {
