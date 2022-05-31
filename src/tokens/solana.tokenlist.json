@@ -173894,6 +173894,14 @@
       "name": "OST",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7mrnhJzpriLSBLe8Ku35MniLg2AUKhPKxv4H7qXAUy1x/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8MbxiaDynCMXbkpBYDS69BKz6p5uWJn5djYK6jvz88UA",
+      "symbol": "ITC",
+      "name": "Inventors Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8MbxiaDynCMXbkpBYDS69BKz6p5uWJn5djYK6jvz88UA/logo.png"
     }
   ],
   "version": {
