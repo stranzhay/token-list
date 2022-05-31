@@ -173936,6 +173936,29 @@
         "twitter": "https://twitter.com/SardinesRevolt",
         "website": "https://sardinesrevolt.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HH6g9wQrYfxTeywuwm2WiMwqs1RDGqXXDSXb1mPjyquv",
+      "symbol": "LIGMAWL",
+      "name": "LIGMABULLS WL TOKEN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HH6g9wQrYfxTeywuwm2WiMwqs1RDGqXXDSXb1mPjyquv/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4ATAC6sV9JdDBXn6VMuAUKEuVxuT19nhKMuAoFv1rpGm",
+      "symbol": "AP",
+      "name": "AP COIN",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/amanprak/hello-world/master/logo.png",
+      "tags": [
+        "social-token",
+        "ap"
+      ]
     }
   ],
   "version": {
