@@ -173713,6 +173713,14 @@
       "name": "Bad Dog Syndicate",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AzrvVcNiVhDaJKMsPTtwC4iYdAGNSqnw4VurVULU1Non/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FLSBhSdzujtrTtuwufuGSDdTZ5iywwXQizyqfmW3igmG",
+      "symbol": "NLY",
+      "name": "NELOY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/neloy21/neloy21/main/logo.png"
     }
   ],
   "version": {
