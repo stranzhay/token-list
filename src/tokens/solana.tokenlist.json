@@ -173653,6 +173653,14 @@
         "twitter": "https://twitter.com/MondaysNFT",
         "website": "https://mondaysnft.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B33DfL1MDvXF2bLGaVyWsqvJEJ17NRHpBrCeQJpjLWBd",
+      "symbol": "SKY",
+      "name": "SKY CASH",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B33DfL1MDvXF2bLGaVyWsqvJEJ17NRHpBrCeQJpjLWBd/logo.png"
     }
   ],
   "version": {
