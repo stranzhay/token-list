@@ -173808,6 +173808,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6UH4W2kPZp2Zij4uZiqQo47QkB1mToThvyVKrFE6JpZD",
+      "symbol": "ODWL",
+      "name": "ODKings WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6UH4W2kPZp2Zij4uZiqQo47QkB1mToThvyVKrFE6JpZD/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
