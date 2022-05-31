@@ -173758,6 +173758,21 @@
         "github": "https://github.com/hiw-app/",
         "website": "https://hiw.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5NT5tfMvwr9cnyRHcHZJHFxuDeW2YAoJVU5dATCNVvta",
+      "symbol": "ZONA",
+      "name": "AriZONA Stablecoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5NT5tfMvwr9cnyRHcHZJHFxuDeW2YAoJVU5dATCNVvta/logo.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/arizonastable",
+        "website": "https://arizonastablecoin.org"
+      }
     }
   ],
   "version": {
