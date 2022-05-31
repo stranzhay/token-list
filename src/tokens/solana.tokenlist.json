@@ -173859,6 +173859,17 @@
         "twitter": "https://twitter.com/perseusfintech",
         "website": "https://perseustoken.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9uwH7hinGD2kSc9PE9cXG3hc3aAAEBbpgzZvEQEWd8yU",
+      "symbol": "TRGD",
+      "name": "GhostDragon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TRGhostDragon/crypto/main/TRGhostdragon.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
