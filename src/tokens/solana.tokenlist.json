@@ -173626,6 +173626,17 @@
         "twitter": "https://twitter.com/goblingold_fi",
         "website": "https://goblin.gold"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7NF4QChyNo7knUAe5YAXt8JUKLEuHRDgtC5aoVhZyUGx",
+      "symbol": "CHEDDAR",
+      "name": "Cheddar token ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7NF4QChyNo7knUAe5YAXt8JUKLEuHRDgtC5aoVhZyUGx/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
