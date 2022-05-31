@@ -173947,6 +173947,18 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4ATAC6sV9JdDBXn6VMuAUKEuVxuT19nhKMuAoFv1rpGm",
+      "symbol": "AP",
+      "name": "AP COIN",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/amanprak/hello-world/master/logo.png",
+      "tags": [
+        "social-token",
+        "ap"
+      ]
     }
   ],
   "version": {
