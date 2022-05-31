@@ -173870,6 +173870,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GFdambb9r51DMu6Hmiz85pupX1o1P5okScgcem7KC5Tp",
+      "symbol": "SSLT",
+      "name": "Legacy Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GFdambb9r51DMu6Hmiz85pupX1o1P5okScgcem7KC5Tp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/solanascouts",
+        "twitter": "https://twitter.com/SolanaScouts",
+        "website": "https://solanascouts.io/"
+      }
     }
   ],
   "version": {
