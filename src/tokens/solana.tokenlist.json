@@ -173773,6 +173773,30 @@
         "twitter": "https://twitter.com/arizonastable",
         "website": "https://arizonastablecoin.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "898Vy3qq3pMRbAXpznFkYSDv5tK4hrN8ufAUuKkZHMXa",
+      "symbol": "ggORCA",
+      "name": "ggORCA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/898Vy3qq3pMRbAXpznFkYSDv5tK4hrN8ufAUuKkZHMXa/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "hVjPJDPnHT1FuujEyoj77Y42J9R95P9ePaQCfuhUH1Q",
+      "symbol": "MAWL",
+      "name": "MrAeyko WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/hVjPJDPnHT1FuujEyoj77Y42J9R95P9ePaQCfuhUH1Q/logo.png"
     }
   ],
   "version": {
