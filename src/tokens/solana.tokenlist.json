@@ -173705,6 +173705,14 @@
       "extensions": {
         "twitter": "https://twitter.com/apefoodnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AzrvVcNiVhDaJKMsPTtwC4iYdAGNSqnw4VurVULU1Non",
+      "symbol": "BADS",
+      "name": "Bad Dog Syndicate",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AzrvVcNiVhDaJKMsPTtwC4iYdAGNSqnw4VurVULU1Non/logo.png"
     }
   ],
   "version": {
