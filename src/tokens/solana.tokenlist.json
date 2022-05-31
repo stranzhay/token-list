@@ -173739,6 +173739,25 @@
         "twitter": "https://twitter.com/CryptoConquer1",
         "website": "https://crypto-conquer.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ADjyVvJWLds8dEr3c4cXJi642QSFsxr4vzHjpKYv6cJT",
+      "symbol": "hiw",
+      "name": "hiw",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ADjyVvJWLds8dEr3c4cXJi642QSFsxr4vzHjpKYv6cJT/logo.png",
+      "tags": [
+        "video-gamer",
+        "gamling-games",
+        "sol-token"
+      ],
+      "extensions": {
+        "description": "all the best!",
+        "discord": "https://discord.gg/UzVWbJcffY",
+        "github": "https://github.com/hiw-app/",
+        "website": "https://hiw.app/"
+      }
     }
   ],
   "version": {
