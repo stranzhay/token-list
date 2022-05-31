@@ -173959,6 +173959,14 @@
         "social-token",
         "ap"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7MSyMyUZPiuEVoZVE4uGBMHJTVfkJRnVasKxPA2F8qJJ",
+      "symbol": "TSB",
+      "name": "The TSB TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7MSyMyUZPiuEVoZVE4uGBMHJTVfkJRnVasKxPA2F8qJJ/logo.png"
     }
   ],
   "version": {
