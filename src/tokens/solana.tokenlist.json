@@ -173797,6 +173797,17 @@
       "name": "MrAeyko WL",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/hVjPJDPnHT1FuujEyoj77Y42J9R95P9ePaQCfuhUH1Q/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "2ntB5rMBVc3D1TUzeYhxXzXKLCrvkji23rSX6aaCaFyq",
+      "symbol": "DAN",
+      "name": "Dan Dxcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DanielDerefaka/dxcoin/main/dx3.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
