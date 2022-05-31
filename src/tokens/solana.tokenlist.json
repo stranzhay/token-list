@@ -173626,6 +173626,33 @@
         "twitter": "https://twitter.com/goblingold_fi",
         "website": "https://goblin.gold"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7NF4QChyNo7knUAe5YAXt8JUKLEuHRDgtC5aoVhZyUGx",
+      "symbol": "CHEDDAR",
+      "name": "Cheddar token ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7NF4QChyNo7knUAe5YAXt8JUKLEuHRDgtC5aoVhZyUGx/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "mon58485x1UPPuE38MCuLbK8dYBz48PSwYudmvyPKJc",
+      "symbol": "MONMINT",
+      "name": "Mondays Mint Token",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/oSYcdW4EN3z2L0dtoNzC9paXQ-GXbMyF-XrsCLRqf4M",
+      "tags": [
+        "Whitelist-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/GrmUcQkEgk",
+        "twitter": "https://twitter.com/MondaysNFT",
+        "website": "https://mondaysnft.com"
+      }
     }
   ],
   "version": {
