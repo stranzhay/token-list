@@ -173886,6 +173886,14 @@
         "twitter": "https://twitter.com/SolanaScouts",
         "website": "https://solanascouts.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7mrnhJzpriLSBLe8Ku35MniLg2AUKhPKxv4H7qXAUy1x",
+      "symbol": "OST",
+      "name": "OST",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7mrnhJzpriLSBLe8Ku35MniLg2AUKhPKxv4H7qXAUy1x/logo.png"
     }
   ],
   "version": {
