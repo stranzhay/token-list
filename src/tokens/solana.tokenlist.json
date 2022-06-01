@@ -174064,6 +174064,14 @@
       "extensions": {
         "website": "https://dbank.to/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EcY4RE86crAWjLbENWQbtnrP76jF4V6Gr9rf3MyuKAX4",
+      "symbol": "LB$",
+      "name": "Lightning Bolt",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Bhuvana1708/assets/main/images.png"
     }
   ],
   "version": {
