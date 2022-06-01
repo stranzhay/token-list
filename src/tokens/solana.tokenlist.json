@@ -174266,6 +174266,22 @@
         "twitter": "https://twitter.com/weyuofficial",
         "website": "https://weyu.io"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "FivPj9ujVaWoXvHenMMp193jKQzFztNUeDtHD6MW4DT",
+      "symbol": "SHEEP",
+      "name": "SHEEP Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FivPj9ujVaWoXvHenMMp193jKQzFztNUeDtHD6MW4DT/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/sleepagotchi",
+        "twitter": "https://twitter.com/sleepagotchi",
+        "website": "https://sleepagotchi.com"
+      }
     }
   ],
   "version": {
