@@ -174163,6 +174163,63 @@
         "twitter": "https://twitter.com/kattx_p2e",
         "website": "https://KattX.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "88YZ2fR3FdcAGri929QiKcvFLJ9357rYV1UKq8hSK4ca",
+      "symbol": "JADScoin",
+      "name": "JAD's Apple Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/JADO-artist/JAD-s-Apple-Coin/main/JADS%20Apples%20v2%20300x300%20PNG.png",
+      "tags": [
+        "utility-token",
+        "play-to-earn",
+        "game-token",
+        "charity-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "H5up2BhVFd34Q8jpPHcSUCromQGK5d7HXBSyCXZ8rwXQ",
+      "symbol": "RTNKV",
+      "name": "Ratunkov",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/rtnkv/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4pmhFQQYVEEe5y6UKSNwMta35LoU1A6MVmDTTZHoRbnE",
+      "symbol": "DEGG",
+      "name": "Ducky Egg",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4pmhFQQYVEEe5y6UKSNwMta35LoU1A6MVmDTTZHoRbnE/logo.png",
+      "extensions": {
+        "description": "Main currency in the Crypto Ducky Universe",
+        "twitter": "https://twitter.com/CryptoDuckyNFT",
+        "website": "https://cryptoducky.co/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "XwTZraiF1dVh69cZ2SpqyjDLmei2uVps5CYHD9vqK6d",
+      "symbol": "BURR",
+      "name": "Burrito Boyz Floor Index",
+      "decimals": 2,
+      "logoURI": "https://i.imgur.com/EKuyqK8.png",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "Burrito-Boyz",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/XwTZraiF1dVh69cZ2SpqyjDLmei2uVps5CYHD9vqK6d"
+      }
     }
   ],
   "version": {
