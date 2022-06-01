@@ -174033,6 +174033,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AoqPs243Hh5LrzVmRamz9pEyiemzTBi5N1b4uiVsfrgU",
+      "symbol": "IUX",
+      "name": "IUX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AoqPs243Hh5LrzVmRamz9pEyiemzTBi5N1b4uiVsfrgU/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3yVqA5Grz3F4cjm3hNPLGLUeYV9nNdK5m7nAyYG7hu6d",
+      "symbol": "IVY",
+      "name": "IVY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3yVqA5Grz3F4cjm3hNPLGLUeYV9nNdK5m7nAyYG7hu6d/logo.png"
     }
   ],
   "version": {
