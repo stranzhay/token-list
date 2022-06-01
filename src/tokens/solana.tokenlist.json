@@ -173992,6 +173992,36 @@
         "Lil-List-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8m9KkHduzyGFRVCpLZGqoHx39XgrxvWysePKucxS2Ccm",
+      "symbol": "XPEN",
+      "name": "Ned Peruvian Sol",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8m9KkHduzyGFRVCpLZGqoHx39XgrxvWysePKucxS2Ccm/logo.png",
+      "tags": [
+        "currency",
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://ned.finance/"
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "8m9KkHduzyGFRVCpLZGqoHx39XgrxvWysePKucxS2Ccm",
+      "symbol": "XPEN",
+      "name": "Ned Peruvian Sol",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8m9KkHduzyGFRVCpLZGqoHx39XgrxvWysePKucxS2Ccm/logo.png",
+      "tags": [
+        "currency",
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://ned.finance/"
+      }
     }
   ],
   "version": {
