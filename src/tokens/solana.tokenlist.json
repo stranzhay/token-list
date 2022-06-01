@@ -174220,6 +174220,52 @@
         "twitter": "https://twitter.com/bridgesplit",
         "vault": "https://app.bridgesplit.com/fractions/XwTZraiF1dVh69cZ2SpqyjDLmei2uVps5CYHD9vqK6d"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "HakC4nWpLTmQ6TBsR1X2xZmSgH4zA1j5d3GPHgHb3YiY",
+      "symbol": "SAPS",
+      "name": "SAPS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HakC4nWpLTmQ6TBsR1X2xZmSgH4zA1j5d3GPHgHb3YiY/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "CYqZ4FG2Jb5Z1CWgdojej9Svhvvo8ohKEAuDvzG3iQ3N",
+      "symbol": "DRIP",
+      "name": "DripCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Ashtar-Global-Solutions/spl-tokens/main/drip/dripcoin_small.gif",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://www.discord.gg/drippieverse",
+        "instagram": "https://www.instagram.com/drippieverse/",
+        "twitter": "https://twitter.com/drippieverse",
+        "website": "https://www.drippies.space/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EHaEBhYHWA7HSphorXXosysJem6qF4agccoqDqQKCUge",
+      "symbol": "WEYU",
+      "name": "WEYU",
+      "decimals": 8,
+      "logoURI": "https://weyu.io/img/WEYU.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "address": "0xFAfD4CB703B25CB22f43D017e7e0d75FEBc26743",
+        "assetContract": "https://bscscan.com/address/0xFAfD4CB703B25CB22f43D017e7e0d75FEBc26743",
+        "coingeckoId": "weyu",
+        "discord": "https://discord.com/invite/weyu",
+        "serumV3Usdc": "4hvgayPdWGdMeQREv4JGGfs83beV9d4biQV8AUhUMQmT",
+        "telegram": "https://t.me/WEYUchat",
+        "twitter": "https://twitter.com/weyuofficial",
+        "website": "https://weyu.io"
+      }
     }
   ],
   "version": {
