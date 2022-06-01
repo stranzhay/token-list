@@ -174022,6 +174022,17 @@
       "extensions": {
         "website": "https://ned.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8GXJkHvXM7vifVjpWqNaU2z3LSdLjbVGiGZ9P3XmvXPJ",
+      "symbol": "DDC",
+      "name": "Didine Coin",
+      "decimals": 0,
+      "logoURI": "https://i.postimg.cc/q7J0Jqz5/Sans-titre-removebg-preview-1.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
