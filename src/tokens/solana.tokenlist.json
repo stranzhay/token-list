@@ -174101,6 +174101,31 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "kidsxKYSqXg3P3ySuzuzXDRcZvEyA6h1D22vu9xSaqh",
+      "symbol": "GKWL",
+      "name": "Gooey Kids WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kidsxKYSqXg3P3ySuzuzXDRcZvEyA6h1D22vu9xSaqh/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GooeyKids"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "A88nzMeNHiaRKMMGU1Pzd1HgaBJUgzvGZYvDFzJvuTpi",
+      "symbol": "NERO",
+      "name": "Neronumis",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/xBlackrock/Neronumis/main/Logo.png",
+      "tags": [
+        "financial-token"
+      ]
     }
   ],
   "version": {
