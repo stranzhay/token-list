@@ -174049,6 +174049,21 @@
       "name": "IVY",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3yVqA5Grz3F4cjm3hNPLGLUeYV9nNdK5m7nAyYG7hu6d/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "6suwWxyex9tNBy5Pp8reczw6viRNHkQFQeTctXS5EQfo",
+      "symbol": "DBC",
+      "name": "DBank Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6suwWxyex9tNBy5Pp8reczw6viRNHkQFQeTctXS5EQfo/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://dbank.to/"
+      }
     }
   ],
   "version": {
