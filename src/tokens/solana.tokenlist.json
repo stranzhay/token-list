@@ -174177,6 +174177,17 @@
         "game-token",
         "charity-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H5up2BhVFd34Q8jpPHcSUCromQGK5d7HXBSyCXZ8rwXQ",
+      "symbol": "RTNKV",
+      "name": "Ratunkov",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/rtnkv/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
