@@ -174115,6 +174115,17 @@
       "extensions": {
         "twitter": "https://twitter.com/GooeyKids"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A88nzMeNHiaRKMMGU1Pzd1HgaBJUgzvGZYvDFzJvuTpi",
+      "symbol": "NERO",
+      "name": "Neronumis",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/xBlackrock/Neronumis/main/Logo.png",
+      "tags": [
+        "financial-token"
+      ]
     }
   ],
   "version": {
