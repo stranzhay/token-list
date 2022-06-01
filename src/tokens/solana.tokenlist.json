@@ -174228,6 +174228,23 @@
       "name": "SAPS",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HakC4nWpLTmQ6TBsR1X2xZmSgH4zA1j5d3GPHgHb3YiY/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "CYqZ4FG2Jb5Z1CWgdojej9Svhvvo8ohKEAuDvzG3iQ3N",
+      "symbol": "DRIP",
+      "name": "DripCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Ashtar-Global-Solutions/spl-tokens/main/drip/dripcoin_small.gif",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://www.discord.gg/drippieverse",
+        "instagram": "https://www.instagram.com/drippieverse/",
+        "twitter": "https://twitter.com/drippieverse",
+        "website": "https://www.drippies.space/"
+      }
     }
   ],
   "version": {
