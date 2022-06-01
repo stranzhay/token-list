@@ -174188,6 +174188,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4pmhFQQYVEEe5y6UKSNwMta35LoU1A6MVmDTTZHoRbnE",
+      "symbol": "DEGG",
+      "name": "Ducky Egg",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4pmhFQQYVEEe5y6UKSNwMta35LoU1A6MVmDTTZHoRbnE/logo.png",
+      "extensions": {
+        "description": "Main currency in the Crypto Ducky Universe",
+        "twitter": "https://twitter.com/CryptoDuckyNFT",
+        "website": "https://cryptoducky.co/"
+      }
     }
   ],
   "version": {
