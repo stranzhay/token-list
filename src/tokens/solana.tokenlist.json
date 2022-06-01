@@ -174148,6 +174148,21 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "KattxNYAhfvAMMNrSy1y3wbjojzBGGtv9xxfg1jz7pE",
+      "symbol": "KattX",
+      "name": "KattX",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KattxNYAhfvAMMNrSy1y3wbjojzBGGtv9xxfg1jz7pE/logo.png",
+      "tags": [
+        "P2E"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/kattx_p2e",
+        "website": "https://KattX.io"
+      }
     }
   ],
   "version": {
