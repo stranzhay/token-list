@@ -174282,6 +174282,24 @@
         "twitter": "https://twitter.com/sleepagotchi",
         "website": "https://sleepagotchi.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FeAzPEz5MBFJ2gZ8PgydstXr6bq6C9hHPYmKhVNZVps9",
+      "symbol": "3MOJIWL",
+      "name": "3moji Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeAzPEz5MBFJ2gZ8PgydstXr6bq6C9hHPYmKhVNZVps9/3moji-logo.png",
+      "tags": [
+        "whitelist-token",
+        "3moji"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/3Y9nVzwaBN",
+        "instagram": "https://instagram.com/3mojiHQ",
+        "twitter": "https://twitter.com/3mojiHQ",
+        "website": "https://3moji.app"
+      }
     }
   ],
   "version": {
