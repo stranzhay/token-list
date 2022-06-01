@@ -174220,6 +174220,14 @@
         "twitter": "https://twitter.com/bridgesplit",
         "vault": "https://app.bridgesplit.com/fractions/XwTZraiF1dVh69cZ2SpqyjDLmei2uVps5CYHD9vqK6d"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "HakC4nWpLTmQ6TBsR1X2xZmSgH4zA1j5d3GPHgHb3YiY",
+      "symbol": "SAPS",
+      "name": "SAPS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HakC4nWpLTmQ6TBsR1X2xZmSgH4zA1j5d3GPHgHb3YiY/logo.png"
     }
   ],
   "version": {
