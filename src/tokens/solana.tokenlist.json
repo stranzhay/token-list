@@ -174089,6 +174089,18 @@
         "twitter": "https://twitter.com/Starbots_game",
         "website": "https://starbots.net"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cerd5qB6jvMTW7YvswVVn3bDrUHWfGKYdUkgmn2M2WeM",
+      "symbol": "PHE",
+      "name": "PHENOMENON",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cerd5qB6jvMTW7YvswVVn3bDrUHWfGKYdUkgmn2M2WeM/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
