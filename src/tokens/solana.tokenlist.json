@@ -174126,6 +174126,28 @@
       "tags": [
         "financial-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BMDL7j4okArqyWYmEkpAdWy3HBviRbaz1M3WkrbGib2e",
+      "symbol": "BMVDIA",
+      "name": "BMV Diamond Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BMDL7j4okArqyWYmEkpAdWy3HBviRbaz1M3WkrbGib2e/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BMV5eEuMtpvNCKa2SHipxNxYMq3HWLWu6RrjaFYwpiRK",
+      "symbol": "BMVDEG",
+      "name": "BMV Degen Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BMV5eEuMtpvNCKa2SHipxNxYMq3HWLWu6RrjaFYwpiRK/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
