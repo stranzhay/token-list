@@ -174517,6 +174517,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SusHi7jkadUEmE7L4CvkNyZroXMDrx1saBFfDSpq6tx",
+      "symbol": "$USHI",
+      "name": "Suteki Sushi",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SusHi7jkadUEmE7L4CvkNyZroXMDrx1saBFfDSpq6tx/logo.png",
+      "tags": [
+        "Utility-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Suteki_NFT"
+      }
     }
   ],
   "version": {
