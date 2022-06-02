@@ -174348,6 +174348,14 @@
       "extensions": {
         "website": "https://communityproject.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4B49SgAWkVBUATcbj5BAV4WZJ3TUY1P2x4mFY5BpKzBP",
+      "symbol": "HL",
+      "name": "vials",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4B49SgAWkVBUATcbj5BAV4WZJ3TUY1P2x4mFY5BpKzBP/logo.png"
     }
   ],
   "version": {
