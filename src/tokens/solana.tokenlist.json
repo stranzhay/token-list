@@ -174773,6 +174773,51 @@
         "twitter": "https://twitter.com/TrippinApeNFT",
         "website": "https://www.trippinapetribe.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5Em52b2Q72hEpWAuJ44j9L79pQqrx4Ry9AGtziqTNsDi",
+      "symbol": "SANN",
+      "name": "Sand",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Em52b2Q72hEpWAuJ44j9L79pQqrx4Ry9AGtziqTNsDi/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BytiEsvJAzjaKsyFBVV5BuqowM6k41v6iKYnpx2YmPpa",
+      "symbol": "RANN",
+      "name": "Rain",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BytiEsvJAzjaKsyFBVV5BuqowM6k41v6iKYnpx2YmPpa/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CuwxGp35WX2fN4Q3QR9QYCf9upKxDNx94r2kErXtai9E",
+      "symbol": "WINN",
+      "name": "Wind",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CuwxGp35WX2fN4Q3QR9QYCf9upKxDNx94r2kErXtai9E/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
     }
   ],
   "version": {
