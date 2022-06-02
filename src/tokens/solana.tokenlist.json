@@ -174633,6 +174633,20 @@
         "community-token",
         "spl-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "2zyi3dXdL4JByspLTHui2wkfKfbtemoB1raMx5fFY8sj",
+      "symbol": "AMCK",
+      "name": "Amcuk Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2zyi3dXdL4JByspLTHui2wkfKfbtemoB1raMx5fFY8sj/logo.png",
+      "tags": [
+        "amcuk-token"
+      ],
+      "extensions": {
+        "website": "https://nextjssssss.vercel.app/"
+      }
     }
   ],
   "version": {
