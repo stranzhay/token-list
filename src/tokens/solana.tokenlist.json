@@ -174585,6 +174585,25 @@
         "twitter": "https://twitter.com/CyberlinxNFT",
         "website": "https://cyber-linx.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GGLDx4LZTgz3kMcRpWv3JN2BJkRaZnU8rwG5ANfU3rXw",
+      "symbol": "$GGLD",
+      "name": "Guild Saga Gold",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GGLDx4LZTgz3kMcRpWv3JN2BJkRaZnU8rwG5ANfU3rXw/guild-saga-gold-logo.png",
+      "tags": [
+        "play-to-earn",
+        "gameFi",
+        "metaverse"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/guildsaga",
+        "twitter": "https://twitter.com/GuildSaga",
+        "website": "https://www.guildsaga.com/",
+        "youtube": "https://www.youtube.com/channel/UCHGKEU8ojaRoGe3w_uUi_KQ"
+      }
     }
   ],
   "version": {
