@@ -174447,6 +174447,21 @@
         "website": "https://PurpleZone.github.io/NFTs/btcz/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmRwfstMcXG28Emuo9eHwvnkeAuQrWanaKx7YPT5YASYa1/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "pLtMXLgfyTsRfZyxnFkJpWqHBxMTvkr4tyMLgyj9wrY",
+      "symbol": "PLTMX",
+      "name": "PlutoniumX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/pLtMXLgfyTsRfZyxnFkJpWqHBxMTvkr4tyMLgyj9wrY/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/ttcc",
+        "twitter": "https://twitter.com/TimeTravelingCC"
+      }
     }
   ],
   "version": {
