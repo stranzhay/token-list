@@ -174498,6 +174498,14 @@
         "website": "https://shiphero.com/",
         "youtube": "https://www.youtube.com/c/ShipHero"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Aw57FecWU8RBvPXiLbp9oyKpjAeEcCtQHjqVsV2Ln2Bs",
+      "symbol": "KCDWL",
+      "name": "KUB CAPITAL DAO Whitelist token for Humanoid NFT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Aw57FecWU8RBvPXiLbp9oyKpjAeEcCtQHjqVsV2Ln2Bs/logo.png"
     }
   ],
   "version": {
