@@ -174542,6 +174542,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "WLtxyA4FdeCpMkZEXtr6FxasUyH4E5CEh5kwFmcYywt",
+      "symbol": "HGWL",
+      "name": "Haunted Goats Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLtxyA4FdeCpMkZEXtr6FxasUyH4E5CEh5kwFmcYywt/logo.png"
     }
   ],
   "version": {
