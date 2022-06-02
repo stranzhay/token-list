@@ -174668,6 +174668,22 @@
         "twitter": "https://twitter.com/CreatedByIO",
         "website": "https://createdby.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "roccqR8b2s7srXwWGNpoe31zhThcjeQPKy2ghq2ccn4",
+      "symbol": "ROCC",
+      "name": "Reels of Change Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/roccqR8b2s7srXwWGNpoe31zhThcjeQPKy2ghq2ccn4/ROCC.PNG",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/reelsofchange",
+        "twitter": "https://twitter.com/reelsofchange",
+        "website": "https://reelsofchange.com/"
+      }
     }
   ],
   "version": {
