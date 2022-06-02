@@ -174647,6 +174647,14 @@
       "extensions": {
         "website": "https://nextjssssss.vercel.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2ybz3ehQnePURs5tbxQDAo3TpKArqxdbB5yoABjC5TnP",
+      "symbol": "SUWL",
+      "name": "Solana Underdogs WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ybz3ehQnePURs5tbxQDAo3TpKArqxdbB5yoABjC5TnP/logo.png"
     }
   ],
   "version": {
