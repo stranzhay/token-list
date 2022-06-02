@@ -174476,6 +174476,28 @@
       "extensions": {
         "website": "https://www.domeinbergen.nl/coin/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8C8YZ1BqU2Lu4wQZcboc7znD6axPdLdU2iTi91nauVo4",
+      "symbol": "SHP",
+      "name": "ShipHero",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5XFJAEyKtGUruRnjwzKZzDVwjzyyBtLw5TUhyZKyqUbk/logo.png",
+      "tags": [
+        "corporate-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "ShipHero - shipping and logistics software for eCommerce",
+        "facebook": "https://www.facebook.com/shiphero",
+        "github": "https://github.com/ShipHero",
+        "instagram": "https://www.instagram.com/weareshiphero",
+        "linkedin": "https://www.linkedin.com/company/shiphero",
+        "twitter": "https://twitter.com/weareshiphero",
+        "website": "https://shiphero.com/",
+        "youtube": "https://www.youtube.com/c/ShipHero"
+      }
     }
   ],
   "version": {
