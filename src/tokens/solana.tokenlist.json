@@ -174412,6 +174412,18 @@
         "community-token",
         "spl-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "E4vVNGSNiD21XEvGuxXkgo2j24HBjLMjuswNqebrg6Xz",
+      "symbol": "JKCHA",
+      "name": "Jackie Chan Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MikeHawkeCF/Crypto/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
