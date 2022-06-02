@@ -174585,6 +174585,68 @@
         "twitter": "https://twitter.com/CyberlinxNFT",
         "website": "https://cyber-linx.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GGLDx4LZTgz3kMcRpWv3JN2BJkRaZnU8rwG5ANfU3rXw",
+      "symbol": "$GGLD",
+      "name": "Guild Saga Gold",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GGLDx4LZTgz3kMcRpWv3JN2BJkRaZnU8rwG5ANfU3rXw/guild-saga-gold-logo.png",
+      "tags": [
+        "play-to-earn",
+        "gameFi",
+        "metaverse"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/guildsaga",
+        "twitter": "https://twitter.com/GuildSaga",
+        "website": "https://www.guildsaga.com/",
+        "youtube": "https://www.youtube.com/channel/UCHGKEU8ojaRoGe3w_uUi_KQ"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HAriirKUY6fWN9gQrDUFSsAs7drF96rdK6ov8v2hvti1",
+      "symbol": "MONWL",
+      "name": "Mondays Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/M1r2Lpz4jiuXfqbiZkPwoYh6GP_HR2TU6KN2u5E-N2w",
+      "tags": [
+        "Whitelist-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/GrmUcQkEgk",
+        "twitter": "https://twitter.com/MondaysNFT",
+        "website": "https://mondaysnft.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2qYy33Gef6iwp4t33rtKAJe49v1MWGiPKrbZeiu5kYp7",
+      "symbol": "LDSP",
+      "name": "Lil DAOs Presale",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/defimill/logo/main/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "spl-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "2zyi3dXdL4JByspLTHui2wkfKfbtemoB1raMx5fFY8sj",
+      "symbol": "AMCK",
+      "name": "Amcuk Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2zyi3dXdL4JByspLTHui2wkfKfbtemoB1raMx5fFY8sj/logo.png",
+      "tags": [
+        "amcuk-token"
+      ],
+      "extensions": {
+        "website": "https://nextjssssss.vercel.app/"
+      }
     }
   ],
   "version": {
