@@ -174399,6 +174399,19 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3gscwUozHw4GTKVbJVkUJfmziFbMdtdSMQcnri352Vcc",
+      "symbol": "LILOG",
+      "name": "Lil OG Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/LilDAOs/lilthings/main/OG-HLDRS.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "spl-token"
+      ]
     }
   ],
   "version": {
