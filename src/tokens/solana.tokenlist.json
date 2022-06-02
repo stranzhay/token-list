@@ -174334,6 +174334,20 @@
         "twitter": "https://twitter.com/808section",
         "youtube": "https://www.youtube.com/channel/UCj7ye7sYS9Xa_wOoz-Om0qw"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CKdZ6N2NJynPm7E565ihKaxhW3fRLEGN2VW9Q9dbDe1j",
+      "symbol": "CTxWL",
+      "name": "Community WL",
+      "decimals": 0,
+      "logoURI": "https://communityproject.io/assets/images/logo-final.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://communityproject.io/"
+      }
     }
   ],
   "version": {
