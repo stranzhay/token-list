@@ -174356,6 +174356,21 @@
       "name": "vials",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4B49SgAWkVBUATcbj5BAV4WZJ3TUY1P2x4mFY5BpKzBP/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FKvSGUTY4UUkHRKoCFdVtvu7iTgjYuQCuppNMncNZt3q",
+      "symbol": "ALU",
+      "name": "The Smile syndicate",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FKvSGUTY4UUkHRKoCFdVtvu7iTgjYuQCuppNMncNZt3q/logo.png",
+      "tags": [
+        "nfts"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/808section",
+        "youtube": "https://www.youtube.com/channel/UCj7ye7sYS9Xa_wOoz-Om0qw"
+      }
     }
   ],
   "version": {
