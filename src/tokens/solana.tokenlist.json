@@ -174568,6 +174568,23 @@
         "facebook": "https://www.facebook.com/natisnif1",
         "youtube": "https://www.youtube.com/channel/UCmiLnG7aCFBD86Wpn0hJ30Q"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HqmEgqFheNVdXUkQirytWQ8VuvxnBJJDk1Ds6xp4dagU",
+      "symbol": "LINX",
+      "name": "LINX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HqmEgqFheNVdXUkQirytWQ8VuvxnBJJDk1Ds6xp4dagU/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "Cyber linx token",
+        "twitter": "https://twitter.com/CyberlinxNFT",
+        "website": "https://cyber-linx.io"
+      }
     }
   ],
   "version": {
