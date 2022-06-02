@@ -174655,6 +174655,19 @@
       "name": "Solana Underdogs WL Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ybz3ehQnePURs5tbxQDAo3TpKArqxdbB5yoABjC5TnP/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Bap2Xh2fef8F2u86LAH6LDABGukRMfcmuPoW6zAHH5ew",
+      "symbol": "CREATEDBY",
+      "name": "CreatedBy Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bap2Xh2fef8F2u86LAH6LDABGukRMfcmuPoW6zAHH5ew/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/CreatedByIO",
+        "twitter": "https://twitter.com/CreatedByIO",
+        "website": "https://createdby.io"
+      }
     }
   ],
   "version": {
