@@ -174647,6 +174647,89 @@
       "extensions": {
         "website": "https://nextjssssss.vercel.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2ybz3ehQnePURs5tbxQDAo3TpKArqxdbB5yoABjC5TnP",
+      "symbol": "SUWL",
+      "name": "Solana Underdogs WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ybz3ehQnePURs5tbxQDAo3TpKArqxdbB5yoABjC5TnP/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Bap2Xh2fef8F2u86LAH6LDABGukRMfcmuPoW6zAHH5ew",
+      "symbol": "CREATEDBY",
+      "name": "CreatedBy Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bap2Xh2fef8F2u86LAH6LDABGukRMfcmuPoW6zAHH5ew/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/CreatedByIO",
+        "twitter": "https://twitter.com/CreatedByIO",
+        "website": "https://createdby.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "roccqR8b2s7srXwWGNpoe31zhThcjeQPKy2ghq2ccn4",
+      "symbol": "ROCC",
+      "name": "Reels of Change Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/roccqR8b2s7srXwWGNpoe31zhThcjeQPKy2ghq2ccn4/ROCC.PNG",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/reelsofchange",
+        "twitter": "https://twitter.com/reelsofchange",
+        "website": "https://reelsofchange.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "USBrKQa3vh17XpqgLpJSxwGBBVMsBus47VRXbNAnE7R",
+      "symbol": "USBWL",
+      "name": "Ruggaz USB Key WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TreeBurgers/TokenIMGs/main/Token%20log.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AKHbkyPVJBQta31kd3AaFNP2vzNKCkAqa113DCi411tt",
+      "symbol": "HYWD",
+      "name": "YogaWorld Passport MintList",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AKHbkyPVJBQta31kd3AaFNP2vzNKCkAqa113DCi411tt/logo.PNG",
+      "tags": [
+        "utility-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/helloyogaworlddao",
+        "twitter": "https://twitter.com/helloyogaworld",
+        "website": "https://helloyogaworld.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EZYWh5RCBUTny3fVkiqJXfRC2eZ7H4iPTRJK8xEa4Dju",
+      "symbol": "HYWD",
+      "name": "New Moon 30 May 2022 POAP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EZYWh5RCBUTny3fVkiqJXfRC2eZ7H4iPTRJK8xEa4Dju/logo.png",
+      "tags": [
+        "utility-token",
+        "proof-of-attendance",
+        "30-May-2022"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/helloyogaworlddao",
+        "twitter": "https://twitter.com/helloyogaworld",
+        "website": "https://helloyogaworld.com/"
+      }
     }
   ],
   "version": {
