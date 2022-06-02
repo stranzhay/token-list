@@ -174387,6 +174387,18 @@
       "name": "ViVi",
       "decimals": 2,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/viviwYspWBiKrddggUrtwjJJkZnCLwkPDeE3aVkTGwV/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "6ybkEkMNv9NWC4GZMunCkwdFjMFNMcmehBcewYEW4eDh",
+      "symbol": "DPP",
+      "name": "PokeCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LindleyLentati/token-list/main/assets/mainnet/6ybkEkMNv9NWC4GZMunCkwdFjMFNMcmehBcewYEW4eDh/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
