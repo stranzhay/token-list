@@ -174506,6 +174506,17 @@
       "name": "KUB CAPITAL DAO Whitelist token for Humanoid NFT",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Aw57FecWU8RBvPXiLbp9oyKpjAeEcCtQHjqVsV2Ln2Bs/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7qTJKupfW63phMUH2YHNYQrvXu989n6URZs5wBFA2VFY",
+      "symbol": "ANSU",
+      "name": "AnsuKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7qTJKupfW63phMUH2YHNYQrvXu989n6URZs5wBFA2VFY/ansu-logo.svg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
