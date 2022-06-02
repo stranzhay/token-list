@@ -174531,6 +174531,17 @@
       "extensions": {
         "twitter": "https://twitter.com/Suteki_NFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J9pQtMVtsAQ2ZeeEApebC1G2WvRHEWdHCx4J8ZqR2EKx",
+      "symbol": "BROT",
+      "name": "Bronze Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/tokebronze/crypto/main/logo.png.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
