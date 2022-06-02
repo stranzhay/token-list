@@ -174695,6 +174695,41 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AKHbkyPVJBQta31kd3AaFNP2vzNKCkAqa113DCi411tt",
+      "symbol": "HYWD",
+      "name": "YogaWorld Passport MintList",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AKHbkyPVJBQta31kd3AaFNP2vzNKCkAqa113DCi411tt/logo.PNG",
+      "tags": [
+        "utility-token",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/helloyogaworlddao",
+        "twitter": "https://twitter.com/helloyogaworld",
+        "website": "https://helloyogaworld.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EZYWh5RCBUTny3fVkiqJXfRC2eZ7H4iPTRJK8xEa4Dju",
+      "symbol": "HYWD",
+      "name": "New Moon 30 May 2022 POAP",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EZYWh5RCBUTny3fVkiqJXfRC2eZ7H4iPTRJK8xEa4Dju/logo.png",
+      "tags": [
+        "utility-token",
+        "proof-of-attendance",
+        "30-May-2022"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/helloyogaworlddao",
+        "twitter": "https://twitter.com/helloyogaworld",
+        "website": "https://helloyogaworld.com/"
+      }
     }
   ],
   "version": {
