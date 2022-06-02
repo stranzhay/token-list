@@ -174379,6 +174379,14 @@
       "name": "lightning mcqueen",
       "decimals": 9,
       "logoURI": "https://github.com/Bhuvana1708/assets/blob/main/lightning-mcqueen-logo-115635113620szlbwmpry.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "viviwYspWBiKrddggUrtwjJJkZnCLwkPDeE3aVkTGwV",
+      "symbol": "ViVi",
+      "name": "ViVi",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/viviwYspWBiKrddggUrtwjJJkZnCLwkPDeE3aVkTGwV/logo.png"
     }
   ],
   "version": {
