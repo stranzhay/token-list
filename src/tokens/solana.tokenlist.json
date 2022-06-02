@@ -174684,6 +174684,17 @@
         "twitter": "https://twitter.com/reelsofchange",
         "website": "https://reelsofchange.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "USBrKQa3vh17XpqgLpJSxwGBBVMsBus47VRXbNAnE7R",
+      "symbol": "USBWL",
+      "name": "Ruggaz USB Key WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/TreeBurgers/TokenIMGs/main/Token%20log.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
