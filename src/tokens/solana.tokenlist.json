@@ -174311,6 +174311,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "2UQ2RTfaTnTXuT5mcUnNm4bgDnCUG6qJwwmPq6e49esP",
+      "symbol": "teste",
+      "name": "TESTANDO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/rtnkv/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
