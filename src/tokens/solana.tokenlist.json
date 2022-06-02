@@ -174550,6 +174550,24 @@
       "name": "Haunted Goats Whitelist Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLtxyA4FdeCpMkZEXtr6FxasUyH4E5CEh5kwFmcYywt/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "4d9PTJ3cV8MPHKtpgDctwbzqb9Fujznc6nw6jF56jtZm",
+      "symbol": "NF1",
+      "name": "Natisni F1 Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/pratcheth/crypto/main/logo1.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Natisni F1 - Decentralized Cryptocurrency Token going to be used in the new BNT reality",
+        "facebook": "https://www.facebook.com/natisnif1",
+        "youtube": "https://www.youtube.com/channel/UCmiLnG7aCFBD86Wpn0hJ30Q"
+      }
     }
   ],
   "version": {
