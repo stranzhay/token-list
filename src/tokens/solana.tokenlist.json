@@ -174604,6 +174604,22 @@
         "website": "https://www.guildsaga.com/",
         "youtube": "https://www.youtube.com/channel/UCHGKEU8ojaRoGe3w_uUi_KQ"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HAriirKUY6fWN9gQrDUFSsAs7drF96rdK6ov8v2hvti1",
+      "symbol": "MONWL",
+      "name": "Mondays Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/M1r2Lpz4jiuXfqbiZkPwoYh6GP_HR2TU6KN2u5E-N2w",
+      "tags": [
+        "Whitelist-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/GrmUcQkEgk",
+        "twitter": "https://twitter.com/MondaysNFT",
+        "website": "https://mondaysnft.com"
+      }
     }
   ],
   "version": {
