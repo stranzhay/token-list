@@ -174300,6 +174300,17 @@
         "twitter": "https://twitter.com/3mojiHQ",
         "website": "https://3moji.app"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BhevmzbDAVs4aPdBBhVZkA7ifQAQ2FwMEK7bW8ggGjiq",
+      "symbol": "ARSE",
+      "name": "Asses For The Masses",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/AssesForTheMasses/nfttoken/main/AFTM.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
