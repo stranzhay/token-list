@@ -175281,6 +175281,23 @@
       "tags": [
         "Whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FiRE67XRcLmVaHnxo46VAVEtvTto9XZMPCqUvC2JSLef",
+      "symbol": "FIRE",
+      "name": "Legion Fire",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/SolStonez/Legion-Key-Logo/main/fire-token-logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "A utility token for the Legion of Sol Collection",
+        "discord": "https://discord.gg/legionofsol",
+        "twitter": "https://twitter.com/legion_of_sol",
+        "website": "https://legionofsol.io/"
+      }
     }
   ],
   "version": {
