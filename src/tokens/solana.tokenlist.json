@@ -175190,6 +175190,25 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HDEqEpFgTrBawzDgTG1eyH8Go9PX84LCEC8Qjt8T4jFN",
+      "symbol": "BOTS",
+      "name": "Skullbots Biker Gang Floor Index",
+      "decimals": 2,
+      "logoURI": "https://i.imgur.com/HSn9q9n.jpg",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "skullbots-biker-gang",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/HDEqEpFgTrBawzDgTG1eyH8Go9PX84LCEC8Qjt8T4jFN"
+      }
     }
   ],
   "version": {
