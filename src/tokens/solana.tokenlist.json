@@ -174730,6 +174730,94 @@
         "twitter": "https://twitter.com/helloyogaworld",
         "website": "https://helloyogaworld.com/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "G1vquBd67oRH4UvVvadksCK4fNvqdHGgGzLGrXY4nJGA",
+      "symbol": "BADGE",
+      "name": "Badge Protocol",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G1vquBd67oRH4UvVvadksCK4fNvqdHGgGzLGrXY4nJGA/logo.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "This is a new token"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "SutepRbXHCCXLfPHpXWjTdXpdESWw5UL65gCK96KoLq",
+      "symbol": "Suteki",
+      "name": "SUTEKI WL l Mint 3 June",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SutepRbXHCCXLfPHpXWjTdXpdESWw5UL65gCK96KoLq/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Suteki_NFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3yeGqnYLXya7zPbTkEt2d84F489eV9mNia4WQHY3JefA",
+      "symbol": "TRB",
+      "name": "Trippin' Ape Tribe Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3yeGqnYLXya7zPbTkEt2d84F489eV9mNia4WQHY3JefA/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TrippinApeNFT",
+        "website": "https://www.trippinapetribe.xyz/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5Em52b2Q72hEpWAuJ44j9L79pQqrx4Ry9AGtziqTNsDi",
+      "symbol": "SANN",
+      "name": "Sand",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Em52b2Q72hEpWAuJ44j9L79pQqrx4Ry9AGtziqTNsDi/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BytiEsvJAzjaKsyFBVV5BuqowM6k41v6iKYnpx2YmPpa",
+      "symbol": "RANN",
+      "name": "Rain",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BytiEsvJAzjaKsyFBVV5BuqowM6k41v6iKYnpx2YmPpa/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CuwxGp35WX2fN4Q3QR9QYCf9upKxDNx94r2kErXtai9E",
+      "symbol": "WINN",
+      "name": "Wind",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CuwxGp35WX2fN4Q3QR9QYCf9upKxDNx94r2kErXtai9E/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LadderCaster",
+        "website": "https://laddercaster.com/"
+      }
     }
   ],
   "version": {
