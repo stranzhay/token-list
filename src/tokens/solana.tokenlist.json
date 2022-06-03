@@ -175246,6 +175246,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4MSLQ5EGQTg3KmwcxWaDZYM4vKMbQ7nZYz4FAEDCQdHN",
+      "symbol": "Fardin",
+      "name": "The King",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4MSLQ5EGQTg3KmwcxWaDZYM4vKMbQ7nZYz4FAEDCQdHN/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/solardexofficialchat",
+        "twitter": "https://twitter.com/solar_dex",
+        "website": "https://solardex.finance/"
+      }
     }
   ],
   "version": {
