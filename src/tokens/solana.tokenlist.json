@@ -174880,6 +174880,18 @@
       "extensions": {
         "description": "This is a test token by MapyS"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FeKpHboWsrVXUNkqXwVZjhMgibDX3aSrqRscCQa2PDuj",
+      "symbol": "GRAHAMS",
+      "name": "Graham Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/0xMill/uploads/main/logo.png",
+      "tags": [
+        "utlity-token",
+        "family-token"
+      ]
     }
   ],
   "version": {
