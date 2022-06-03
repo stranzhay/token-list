@@ -175270,6 +175270,17 @@
       "name": "KurumaNFT WL Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4TAratS4ST2QpEFqBvYMNAsA1ZS4WsDyZhawK9w6GkZw/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "WLQ7FjhxPnbJgomY5bXUYzFzvJi1qZj58yupo9HQDi5",
+      "symbol": "$ATP",
+      "name": "Atypical WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLQ7FjhxPnbJgomY5bXUYzFzvJi1qZj58yupo9HQDi5/logo.png",
+      "tags": [
+        "Whitelist-token"
+      ]
     }
   ],
   "version": {
