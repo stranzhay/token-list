@@ -175053,6 +175053,31 @@
         "utility-token",
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FRPN7LQDwFuxFsGBSxjLXftVBGFG1jNHYcAQYNLp6PDF",
+      "symbol": "LCC",
+      "name": "LCC Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FRPN7LQDwFuxFsGBSxjLXftVBGFG1jNHYcAQYNLp6PDF/logo512.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://lunarcalendarcelebrities.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "12mKpWXFrQrozv64KeFnXKKaYSH14JdmRiCVyHcWseB5",
+      "symbol": "Bird",
+      "name": "BlueBell",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Krisztian7/image/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
