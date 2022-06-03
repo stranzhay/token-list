@@ -174922,6 +174922,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4nhQdXfoHvCCVnyZQg3awXqPrKL89Ys7Rbe77oXM47GG",
+      "symbol": "AIO",
+      "name": "AIO Exchange Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/adminesc/AIO_EXCHANGE_Token/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
