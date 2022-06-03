@@ -175298,6 +175298,67 @@
         "twitter": "https://twitter.com/legion_of_sol",
         "website": "https://legionofsol.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BQgFm6S7jsmSzGjBZv2FADy4zzeieHoQiySNQRCosgaC",
+      "symbol": "ROY",
+      "name": "Fully Doxxed",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQgFm6S7jsmSzGjBZv2FADy4zzeieHoQiySNQRCosgaC/logos.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/solardexofficialchat",
+        "twitter": "https://twitter.com/solar_dex",
+        "website": "https://solardex.finance/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BYCn578MDW8JTSZ5EYeiTkcZNAxMLmhAVi21RMysUxiZ",
+      "symbol": "TLP",
+      "name": "The Lazy Panda",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYCn578MDW8JTSZ5EYeiTkcZNAxMLmhAVi21RMysUxiZ/logos.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/solardexofficialchat",
+        "twitter": "https://twitter.com/solar_dex",
+        "website": "https://solardex.finance/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "48ntzCLdm9apLbZ8JV5b2s3teMZ1ij1XqokJiqiRYmb3",
+      "symbol": "RESTACK",
+      "name": "Restack Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/48ntzCLdm9apLbZ8JV5b2s3teMZ1ij1XqokJiqiRYmb3/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://restack.ai"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BoBa5GSvGYDbjHe5FNGQ3dDhNES7z2T9aFG5Gr8qfGqe",
+      "symbol": "SUN",
+      "name": "NFTabs - SUNSHINE Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LinYu1992/nftabs_sunshine_token/main/Sunshine-Token.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nonfungibletabs"
+      }
     }
   ],
   "version": {
