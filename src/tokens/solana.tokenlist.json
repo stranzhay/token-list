@@ -175224,6 +175224,17 @@
         "facebook": "https://facebook.com/mineroschapines",
         "website": "https://mineroschapines.space"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ZAWLf8vbJBFxodpzjpARyfiKccxbYPBBsiuFropUD63",
+      "symbol": "JUNKY",
+      "name": "Junky Bears Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/FreshCats/wes/main/Junky.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
