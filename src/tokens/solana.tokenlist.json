@@ -175093,6 +175093,17 @@
       "extensions": {
         "twitter": "https://twitter.com/trippyworldlabs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HYE47nodTfX6HgG75XrgUEcaK2ezhvDVURmi5MTswe1J",
+      "symbol": "GNIX",
+      "name": "Gnixcoin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/grasberg/gnixcoin/main/coinlogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
