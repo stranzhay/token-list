@@ -175121,6 +175121,18 @@
         "discord": "https://discord.com/invite/presidentialpeanutsnft",
         "twitter": "https://twitter.com/Peanuts_NFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HSD3FWjqEbzEAdrWhP5cycjKapG3yVsEAFfAa7VUATTK",
+      "symbol": "TBCN",
+      "name": "Toros",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Copyrightsworld/cwcoin/main/torocoin-logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
