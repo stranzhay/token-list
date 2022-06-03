@@ -175008,6 +175008,22 @@
         "charity-token",
         "Farming-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AkeoLsFzjQ3ZtKXwrGVaa6MSuU7X5wiBX9L5AKAPoFzp",
+      "symbol": "AKEO",
+      "name": "Akeo Token",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AkeoLsFzjQ3ZtKXwrGVaa6MSuU7X5wiBX9L5AKAPoFzp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/teamakeo",
+        "twitter": "https://twitter.com/yournfts_co",
+        "website": "https://yournfts.co/team-akeo/"
+      }
     }
   ],
   "version": {
