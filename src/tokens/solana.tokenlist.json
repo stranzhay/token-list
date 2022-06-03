@@ -175209,6 +175209,21 @@
         "twitter": "https://twitter.com/bridgesplit",
         "vault": "https://app.bridgesplit.com/fractions/HDEqEpFgTrBawzDgTG1eyH8Go9PX84LCEC8Qjt8T4jFN"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8F2d7rKydG5V6bupdCNBQ1L8RVAYS6VGBHcCeu3C14bA",
+      "symbol": "MCHA",
+      "name": "Mineroschapines",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kalesha666/MCHA-COIN/main/1.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/mineroschapines",
+        "website": "https://mineroschapines.space"
+      }
     }
   ],
   "version": {
