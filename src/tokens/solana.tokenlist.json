@@ -174952,6 +174952,20 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3cwRkFarVySLQJF4yX2aB1EwkCKmtPGujt7Jn5PTRomc",
+      "symbol": "AMCUK",
+      "name": "Amcuk Token 2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3cwRkFarVySLQJF4yX2aB1EwkCKmtPGujt7Jn5PTRomc/logo.png",
+      "tags": [
+        "amcuk2-token"
+      ],
+      "extensions": {
+        "website": "https://nextjs123-iota.vercel.app/"
+      }
     }
   ],
   "version": {
