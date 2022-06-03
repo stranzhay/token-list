@@ -174911,6 +174911,17 @@
         "website": "https://www.guildsaga.com/",
         "youtube": "https://www.youtube.com/channel/UCHGKEU8ojaRoGe3w_uUi_KQ"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AkuJBEHVMceYm2n1rpxDAyzKW9Wr62hSEc2kR4AijvHg",
+      "symbol": "$BSC1",
+      "name": "BSC1 Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ben941/crpto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
