@@ -175298,6 +175298,38 @@
         "twitter": "https://twitter.com/legion_of_sol",
         "website": "https://legionofsol.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BQgFm6S7jsmSzGjBZv2FADy4zzeieHoQiySNQRCosgaC",
+      "symbol": "ROY",
+      "name": "Fully Doxxed",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQgFm6S7jsmSzGjBZv2FADy4zzeieHoQiySNQRCosgaC/logos.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/solardexofficialchat",
+        "twitter": "https://twitter.com/solar_dex",
+        "website": "https://solardex.finance/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BYCn578MDW8JTSZ5EYeiTkcZNAxMLmhAVi21RMysUxiZ",
+      "symbol": "TLP",
+      "name": "The Lazy Panda",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYCn578MDW8JTSZ5EYeiTkcZNAxMLmhAVi21RMysUxiZ/logos.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/solardexofficialchat",
+        "twitter": "https://twitter.com/solar_dex",
+        "website": "https://solardex.finance/"
+      }
     }
   ],
   "version": {
