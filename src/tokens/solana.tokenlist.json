@@ -175344,6 +175344,21 @@
       "extensions": {
         "website": "https://restack.ai"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BoBa5GSvGYDbjHe5FNGQ3dDhNES7z2T9aFG5Gr8qfGqe",
+      "symbol": "SUN",
+      "name": "NFTabs - SUNSHINE Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LinYu1992/nftabs_sunshine_token/main/Sunshine-Token.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nonfungibletabs"
+      }
     }
   ],
   "version": {
