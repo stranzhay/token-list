@@ -174858,6 +174858,14 @@
       "extensions": {
         "twitter": "https://twitter.com/BootstrapDao"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BSdaqrvjJZ7ekPKtyuhBZuhsGENiQSV4CRGs8Xt3nkDe",
+      "symbol": "DOODLE",
+      "name": "Doodle Bear Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SolanaDoodleBears/DOODLE/main/Doodle%20Coin%20Graphic.png"
     }
   ],
   "version": {
