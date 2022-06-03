@@ -174933,6 +174933,14 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hat4RZHuSdDGWAwYQkHRzQsKuhtdwJuqugcPz2W4yU5M",
+      "symbol": "LVSH",
+      "name": "LAVISH",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/PnW1/LavishToken/main/logo.png"
     }
   ],
   "version": {
