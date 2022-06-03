@@ -175389,6 +175389,21 @@
         "discord": "https://discord.gg/npuf3zk2uV",
         "twitter": "https://twitter.com/BanditBoysDAO"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BhetEMsWMyDMMgaYzXwGTnd5EyBnrjuPAQFmMzttJAG",
+      "symbol": "ONFR",
+      "name": "OnFire",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/streetU/streetU/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/DVZs9KsqDE",
+        "website": "https://travelstones.xyz"
+      }
     }
   ],
   "version": {
