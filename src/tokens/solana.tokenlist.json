@@ -175141,6 +175141,89 @@
       "name": "XMON",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/14UMe2amWfXj1CrM7C9kFkTQ6PtX5aT1fdsVGqBZaXCT/logo.jpg?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "DucksMNu1erAbMyLEpE8M1sJqjcjQEkyWZz5GfNhSGmK",
+      "symbol": "DCD",
+      "name": "Diamond (Ducks Casino)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DucksMNu1erAbMyLEpE8M1sJqjcjQEkyWZz5GfNhSGmK/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/DucksCasino",
+        "twitter": "https://twitter.com/BoosterDucks",
+        "website": "https://duckscasino.net"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "DucksMNu1erAbMyLEpE8M1sJqjcjQEkyWZz5GfNhSGmK",
+      "symbol": "DCD",
+      "name": "Diamond (Ducks Casino)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DucksMNu1erAbMyLEpE8M1sJqjcjQEkyWZz5GfNhSGmK/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://devnet.duckscasino.net"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ApRE8SyBaFAppCRHNJRCvjXzQQPnPAzGfYNd3ZgGkTF4",
+      "symbol": "CIZ",
+      "name": "Collective Investment Zone",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ApRE8SyBaFAppCRHNJRCvjXzQQPnPAzGfYNd3ZgGkTF4/logo.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "3Co1nhkhbEA6m5m2Db2gSYB7oZGJ18nnebWdxVCpbeDn",
+      "symbol": "BPWL",
+      "name": "Bad Penguins WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/BPLOGO.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HDEqEpFgTrBawzDgTG1eyH8Go9PX84LCEC8Qjt8T4jFN",
+      "symbol": "BOTS",
+      "name": "Skullbots Biker Gang Floor Index",
+      "decimals": 2,
+      "logoURI": "https://i.imgur.com/HSn9q9n.jpg",
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "skullbots-biker-gang",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/HDEqEpFgTrBawzDgTG1eyH8Go9PX84LCEC8Qjt8T4jFN"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8F2d7rKydG5V6bupdCNBQ1L8RVAYS6VGBHcCeu3C14bA",
+      "symbol": "MCHA",
+      "name": "Mineroschapines",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kalesha666/MCHA-COIN/main/1.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/mineroschapines",
+        "website": "https://mineroschapines.space"
+      }
     }
   ],
   "version": {
