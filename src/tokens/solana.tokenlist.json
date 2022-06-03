@@ -174758,6 +174758,21 @@
       "extensions": {
         "twitter": "https://twitter.com/Suteki_NFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3yeGqnYLXya7zPbTkEt2d84F489eV9mNia4WQHY3JefA",
+      "symbol": "TRB",
+      "name": "Trippin' Ape Tribe Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3yeGqnYLXya7zPbTkEt2d84F489eV9mNia4WQHY3JefA/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TrippinApeNFT",
+        "website": "https://www.trippinapetribe.xyz/"
+      }
     }
   ],
   "version": {
