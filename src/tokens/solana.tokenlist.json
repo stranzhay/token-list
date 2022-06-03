@@ -175262,6 +175262,14 @@
         "twitter": "https://twitter.com/solar_dex",
         "website": "https://solardex.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4TAratS4ST2QpEFqBvYMNAsA1ZS4WsDyZhawK9w6GkZw",
+      "symbol": "KWL",
+      "name": "KurumaNFT WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4TAratS4ST2QpEFqBvYMNAsA1ZS4WsDyZhawK9w6GkZw/logo.png"
     }
   ],
   "version": {
