@@ -175235,6 +175235,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HmKT2GJQsfmJU44Xyygzrkey8uzfmCmroFSCdZja8jRD",
+      "symbol": "LIS",
+      "name": "Lis",
+      "decimals": 9,
+      "logoURI": "https://github.com/MatheusWells/token-list/blob/main/assets/mainnet/HmKT2GJQsfmJU44Xyygzrkey8uzfmCmroFSCdZja8jRD/logo.png?raw=true",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
