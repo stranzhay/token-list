@@ -174866,6 +174866,20 @@
       "name": "Doodle Bear Token",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/SolanaDoodleBears/DOODLE/main/Doodle%20Coin%20Graphic.png"
+    },
+    {
+      "chainId": 103,
+      "address": "5sCMLzJVgCAj929oxSoegYxn9SDPaZ2sxEsP5barqktE",
+      "symbol": "BOSS",
+      "name": "Boss Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/mapys/cs-tokens/master/assets/boss/cs-boss-01.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "This is a test token by MapyS"
+      }
     }
   ],
   "version": {
