@@ -174730,6 +174730,20 @@
         "twitter": "https://twitter.com/helloyogaworld",
         "website": "https://helloyogaworld.com/"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "G1vquBd67oRH4UvVvadksCK4fNvqdHGgGzLGrXY4nJGA",
+      "symbol": "BADGE",
+      "name": "Badge Protocol",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G1vquBd67oRH4UvVvadksCK4fNvqdHGgGzLGrXY4nJGA/logo.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "This is a new token"
+      }
     }
   ],
   "version": {
