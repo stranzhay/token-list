@@ -175330,6 +175330,20 @@
         "twitter": "https://twitter.com/solar_dex",
         "website": "https://solardex.finance/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "48ntzCLdm9apLbZ8JV5b2s3teMZ1ij1XqokJiqiRYmb3",
+      "symbol": "RESTACK",
+      "name": "Restack Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/48ntzCLdm9apLbZ8JV5b2s3teMZ1ij1XqokJiqiRYmb3/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://restack.ai"
+      }
     }
   ],
   "version": {
