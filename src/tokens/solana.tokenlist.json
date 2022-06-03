@@ -174941,6 +174941,31 @@
       "name": "LAVISH",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/PnW1/LavishToken/main/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3iEcmKH1FXUGo29Cmt9BjAYWpZyiYDev9jWRcsfjQwiD",
+      "symbol": "MLT",
+      "name": "Möthlist Ticket",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3iEcmKH1FXUGo29Cmt9BjAYWpZyiYDev9jWRcsfjQwiD/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3cwRkFarVySLQJF4yX2aB1EwkCKmtPGujt7Jn5PTRomc",
+      "symbol": "AMCUK",
+      "name": "Amcuk Token 2",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3cwRkFarVySLQJF4yX2aB1EwkCKmtPGujt7Jn5PTRomc/logo.png",
+      "tags": [
+        "amcuk2-token"
+      ],
+      "extensions": {
+        "website": "https://nextjs123-iota.vercel.app/"
+      }
     }
   ],
   "version": {
