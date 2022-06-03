@@ -175024,6 +175024,18 @@
         "twitter": "https://twitter.com/yournfts_co",
         "website": "https://yournfts.co/team-akeo/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FcbeZknpxoaW48uNayNvEyHFJwhs7f4MMUy3DRDcYCC1",
+      "symbol": "CBMN",
+      "name": "Cyber Mine Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/cyber-mine/token/main/logo.svg",
+      "tags": [
+        "utility-token",
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
