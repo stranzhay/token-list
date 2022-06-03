@@ -174818,6 +174818,32 @@
         "twitter": "https://twitter.com/LadderCaster",
         "website": "https://laddercaster.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4gRMLjKu38oXEDRJ7zZiUu8hZ3NLEtZtfz5VwF7wdKQz",
+      "symbol": "POOCOIN",
+      "name": "Poo Coin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4gRMLjKu38oXEDRJ7zZiUu8hZ3NLEtZtfz5VwF7wdKQz/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HNohCm8oGNA2qY3MPLz16vEUNfLKV7UXhY2NrhwtJgP2",
+      "symbol": "PORTARI",
+      "name": "TRANSPORTARI",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/7Xq547eUy3PnpnxmnGIHSgjo281DoMPsZSwyDnWDEoo?ext=png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BohemiaArtFair"
+      }
     }
   ],
   "version": {
