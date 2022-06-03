@@ -174818,6 +174818,18 @@
         "twitter": "https://twitter.com/LadderCaster",
         "website": "https://laddercaster.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4gRMLjKu38oXEDRJ7zZiUu8hZ3NLEtZtfz5VwF7wdKQz",
+      "symbol": "POOCOIN",
+      "name": "Poo Coin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4gRMLjKu38oXEDRJ7zZiUu8hZ3NLEtZtfz5VwF7wdKQz/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token"
+      ]
     }
   ],
   "version": {
