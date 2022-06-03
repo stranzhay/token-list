@@ -174981,6 +174981,17 @@
         "facebook": "https://discord.gg/Doperoos",
         "twitter": "https://twitter.com/Doperoos"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dyusz2c5DhUSq17jp6uBCVHWwEHVDgk2hyUDSoaTqMxD",
+      "symbol": "WMA",
+      "name": "Whitelist Mini Arena",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dyusz2c5DhUSq17jp6uBCVHWwEHVDgk2hyUDSoaTqMxD/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
