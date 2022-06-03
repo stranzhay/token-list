@@ -174844,6 +174844,20 @@
       "extensions": {
         "twitter": "https://twitter.com/BohemiaArtFair"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dj7qHPhVGa4JTMETZwbrTY1hdfe4TVbk2b46mFpKqb6H",
+      "symbol": "BOOT",
+      "name": "Bootstrap DAO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dj7qHPhVGa4JTMETZwbrTY1hdfe4TVbk2b46mFpKqb6H/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BootstrapDao"
+      }
     }
   ],
   "version": {
