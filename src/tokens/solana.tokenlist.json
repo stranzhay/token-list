@@ -175133,6 +175133,14 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "14UMe2amWfXj1CrM7C9kFkTQ6PtX5aT1fdsVGqBZaXCT",
+      "symbol": "XMON",
+      "name": "XMON",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/14UMe2amWfXj1CrM7C9kFkTQ6PtX5aT1fdsVGqBZaXCT/logo.jpg?raw=true"
     }
   ],
   "version": {
