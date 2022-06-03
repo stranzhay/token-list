@@ -175104,6 +175104,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "SaLtectw2FsXhqdsV4fkAV2RCscFM9uBxmWA7R6L5ZS",
+      "symbol": "SALT",
+      "name": "Salt",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SaLtectw2FsXhqdsV4fkAV2RCscFM9uBxmWA7R6L5ZS/salt.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "currency"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/presidentialpeanutsnft",
+        "twitter": "https://twitter.com/Peanuts_NFT"
+      }
     }
   ],
   "version": {
