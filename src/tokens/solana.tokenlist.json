@@ -174966,6 +174966,21 @@
       "extensions": {
         "website": "https://nextjs123-iota.vercel.app/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Tozqsk9qvvNNeVN1SGEbm2VipDB28JHWrPfHorUjTCu",
+      "symbol": "DR",
+      "name": "Doperoos WL Token",
+      "decimals": 9,
+      "logoURI": "https://iili.io/XtcRyX.png",
+      "tags": [
+        "Whitelist-token"
+      ],
+      "extensions": {
+        "facebook": "https://discord.gg/Doperoos",
+        "twitter": "https://twitter.com/Doperoos"
+      }
     }
   ],
   "version": {
