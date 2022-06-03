@@ -174981,6 +174981,61 @@
         "facebook": "https://discord.gg/Doperoos",
         "twitter": "https://twitter.com/Doperoos"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dyusz2c5DhUSq17jp6uBCVHWwEHVDgk2hyUDSoaTqMxD",
+      "symbol": "WMA",
+      "name": "Whitelist Mini Arena",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dyusz2c5DhUSq17jp6uBCVHWwEHVDgk2hyUDSoaTqMxD/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7fDeF3F6FJQLFPmvs5ZGzqN34AohBtTRNXbpSiMk3s1f",
+      "symbol": "AMEC",
+      "name": "Ame Combine",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ame-Combine/AME-Token/main/AME.png",
+      "tags": [
+        "social-token",
+        "competition-token",
+        "gaming-token",
+        "science-token",
+        "charity-token",
+        "Farming-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AkeoLsFzjQ3ZtKXwrGVaa6MSuU7X5wiBX9L5AKAPoFzp",
+      "symbol": "AKEO",
+      "name": "Akeo Token",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AkeoLsFzjQ3ZtKXwrGVaa6MSuU7X5wiBX9L5AKAPoFzp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/teamakeo",
+        "twitter": "https://twitter.com/yournfts_co",
+        "website": "https://yournfts.co/team-akeo/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FcbeZknpxoaW48uNayNvEyHFJwhs7f4MMUy3DRDcYCC1",
+      "symbol": "CBMN",
+      "name": "Cyber Mine Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/cyber-mine/token/main/logo.svg",
+      "tags": [
+        "utility-token",
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
