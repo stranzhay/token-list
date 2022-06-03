@@ -174830,6 +174830,20 @@
         "community-token",
         "meme-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HNohCm8oGNA2qY3MPLz16vEUNfLKV7UXhY2NrhwtJgP2",
+      "symbol": "PORTARI",
+      "name": "TRANSPORTARI",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/7Xq547eUy3PnpnxmnGIHSgjo281DoMPsZSwyDnWDEoo?ext=png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BohemiaArtFair"
+      }
     }
   ],
   "version": {
