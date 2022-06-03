@@ -175141,6 +175141,36 @@
       "name": "XMON",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/14UMe2amWfXj1CrM7C9kFkTQ6PtX5aT1fdsVGqBZaXCT/logo.jpg?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "DucksMNu1erAbMyLEpE8M1sJqjcjQEkyWZz5GfNhSGmK",
+      "symbol": "DCD",
+      "name": "Diamond (Ducks Casino)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DucksMNu1erAbMyLEpE8M1sJqjcjQEkyWZz5GfNhSGmK/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/DucksCasino",
+        "twitter": "https://twitter.com/BoosterDucks",
+        "website": "https://duckscasino.net"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "DucksMNu1erAbMyLEpE8M1sJqjcjQEkyWZz5GfNhSGmK",
+      "symbol": "DCD",
+      "name": "Diamond (Ducks Casino)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DucksMNu1erAbMyLEpE8M1sJqjcjQEkyWZz5GfNhSGmK/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://devnet.duckscasino.net"
+      }
     }
   ],
   "version": {
