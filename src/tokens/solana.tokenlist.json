@@ -171884,10 +171884,10 @@
         "utility-token"
       ],
       "extensions": {
+        "description": "Emotion token is the l2eDAO protocol that revolutionizes the process of education. Learn, create, battle, build metaverse and make money with the new skills you learned from the community.",
         "discord": "https://discord.gg/RzMwkYEKJ9",
         "twitter": "https://twitter.com/l2eDAO",
-        "website": "https://learntoearn.xyz",
-        "description": "Emotion token is the l2eDAO protocol that revolutionizes the process of education. Learn, create, battle, build metaverse and make money with the new skills you learned from the community."
+        "website": "https://learntoearn.xyz"
       }
     },
     {
@@ -175075,6 +175075,32 @@
       "name": "BlueBell",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/Krisztian7/image/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "54WShMVn3GKf6xNLc55jidj4M8VW1jpmzdvV7MJPX5JK",
+      "symbol": "WRLD",
+      "name": "Trippy World",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/54WShMVn3GKf6xNLc55jidj4M8VW1jpmzdvV7MJPX5JK/logo.png",
+      "tags": [
+        "utlity-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/trippyworldlabs"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HYE47nodTfX6HgG75XrgUEcaK2ezhvDVURmi5MTswe1J",
+      "symbol": "GNIX",
+      "name": "Gnixcoin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/grasberg/gnixcoin/main/coinlogo.png",
       "tags": [
         "social-token"
       ]
