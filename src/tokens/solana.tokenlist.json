@@ -175179,6 +175179,17 @@
       "name": "Collective Investment Zone",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ApRE8SyBaFAppCRHNJRCvjXzQQPnPAzGfYNd3ZgGkTF4/logo.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "3Co1nhkhbEA6m5m2Db2gSYB7oZGJ18nnebWdxVCpbeDn",
+      "symbol": "BPWL",
+      "name": "Bad Penguins WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/BPLOGO.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
