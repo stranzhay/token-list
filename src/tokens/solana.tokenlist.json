@@ -175171,6 +175171,14 @@
       "extensions": {
         "website": "https://devnet.duckscasino.net"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ApRE8SyBaFAppCRHNJRCvjXzQQPnPAzGfYNd3ZgGkTF4",
+      "symbol": "CIZ",
+      "name": "Collective Investment Zone",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ApRE8SyBaFAppCRHNJRCvjXzQQPnPAzGfYNd3ZgGkTF4/logo.jpg"
     }
   ],
   "version": {
