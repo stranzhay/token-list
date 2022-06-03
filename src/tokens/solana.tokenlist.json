@@ -174992,6 +174992,22 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7fDeF3F6FJQLFPmvs5ZGzqN34AohBtTRNXbpSiMk3s1f",
+      "symbol": "AMEC",
+      "name": "Ame Combine",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Ame-Combine/AME-Token/main/AME.png",
+      "tags": [
+        "social-token",
+        "competition-token",
+        "gaming-token",
+        "science-token",
+        "charity-token",
+        "Farming-token"
+      ]
     }
   ],
   "version": {
