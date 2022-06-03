@@ -175036,6 +175036,20 @@
         "utility-token",
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FRPN7LQDwFuxFsGBSxjLXftVBGFG1jNHYcAQYNLp6PDF",
+      "symbol": "LCC",
+      "name": "LCC Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FRPN7LQDwFuxFsGBSxjLXftVBGFG1jNHYcAQYNLp6PDF/logo512.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://lunarcalendarcelebrities.com"
+      }
     }
   ],
   "version": {
