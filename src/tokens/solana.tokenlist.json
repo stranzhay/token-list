@@ -174892,6 +174892,25 @@
         "utlity-token",
         "family-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GGEMxCsqM74URiXdY46VcaSW73a4yfHfJKrJrUmDVpEF",
+      "symbol": "$GGEM",
+      "name": "Guild Saga Gems",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GGEMxCsqM74URiXdY46VcaSW73a4yfHfJKrJrUmDVpEF/guild-saga-gems-logo.png",
+      "tags": [
+        "play-to-earn",
+        "gameFi",
+        "metaverse"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/guildsaga",
+        "twitter": "https://twitter.com/GuildSaga",
+        "website": "https://www.guildsaga.com/",
+        "youtube": "https://www.youtube.com/channel/UCHGKEU8ojaRoGe3w_uUi_KQ"
+      }
     }
   ],
   "version": {
