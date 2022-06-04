@@ -175542,6 +175542,24 @@
         "twitter": "https://twitter.com/SOLFriends",
         "website": "https://solfriendsnft.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4qagvcSsN4ovsUsSs1hBh9Qzt5SZHsfNu9BtjQsJyK7W",
+      "symbol": "Trippin",
+      "name": "Fractionalized Trippin' Ape Tribe -7656",
+      "decimals": 2,
+      "logoURI": "https://bafybeiavcp2gzugzpl6rqgpynulbjpky4j4d7czugpl4x3prskifhlcc4q.ipfs.nftstorage.link/7656.png?ext=png",
+      "tags": [
+        "bridgesplit-fraction",
+        "trippin-ape-tribe",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/vault/4qagvcSsN4ovsUsSs1hBh9Qzt5SZHsfNu9BtjQsJyK7W"
+      }
     }
   ],
   "version": {
