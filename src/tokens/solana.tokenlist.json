@@ -175404,6 +175404,26 @@
         "discord": "https://discord.gg/DVZs9KsqDE",
         "website": "https://travelstones.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "xe6zfMp7qPNTZVogSy3w2Gg4SVfZjC69SFDcKf9zKyp",
+      "symbol": "RSB",
+      "name": "Renaissance sportive de Berkane",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/streetU/streetU/main/rsb-logo-min.png",
+      "tags": [
+        "social-token",
+        "RSB",
+        "Bekrane",
+        "fan-token",
+        "soccer",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/DVZs9KsqDE",
+        "instagram": "https://www.instagram.com/rsbfootball/"
+      }
     }
   ],
   "version": {
