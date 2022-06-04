@@ -175359,6 +175359,20 @@
       "extensions": {
         "twitter": "https://twitter.com/nonfungibletabs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5WCHkLyayksYDk2r8xVhKVie6QT7dv84cwtbCsvJ8gPY",
+      "symbol": "BRR",
+      "name": "Yik Yak Yetis",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5WCHkLyayksYDk2r8xVhKVie6QT7dv84cwtbCsvJ8gPY/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://yikyakyetis.com/"
+      }
     }
   ],
   "version": {
