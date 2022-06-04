@@ -175577,6 +175577,50 @@
         "twitter": "https://twitter.com/MoneyblockNFT",
         "website": "https://moneyblock.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "goatmBAgLyFoHTyyg9NNqGLV4LqTGyjAx1HBn3P1NkD",
+      "symbol": "$GOAT",
+      "name": "GOAT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/goatmBAgLyFoHTyyg9NNqGLV4LqTGyjAx1HBn3P1NkD/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GreatGoatsNFT",
+        "website": "https://greatgoats.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3WA8kxjyBTsfvxdTdmJeRtk1SKWCXYNp6QK4n4j5Zsbg",
+      "symbol": "$IMPACT",
+      "name": "IMPACT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LexyVolpe/token/main/60kb.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "54RrzWybeyfJUTYgMCifGepyq9PYFMoDqN5Q4spdw35o",
+      "symbol": "MECCA",
+      "name": "MECCA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/54RrzWybeyfJUTYgMCifGepyq9PYFMoDqN5Q4spdw35o/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/QHzmnNK7Cn",
+        "instagram": "https://www.instagram.com/primecyborgsociety/",
+        "twitter": "https://twitter.com/primecyborgnft",
+        "website": "https://primecyborgsociety.com/"
+      }
     }
   ],
   "version": {
