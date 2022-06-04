@@ -175359,6 +175359,51 @@
       "extensions": {
         "twitter": "https://twitter.com/nonfungibletabs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5WCHkLyayksYDk2r8xVhKVie6QT7dv84cwtbCsvJ8gPY",
+      "symbol": "BRR",
+      "name": "Yik Yak Yetis",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5WCHkLyayksYDk2r8xVhKVie6QT7dv84cwtbCsvJ8gPY/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://yikyakyetis.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5nHt8TrjJN9U37WKaCpWftGfsKV91nXwiphJRbMo299p",
+      "symbol": "BANDS",
+      "name": "BANDS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5nHt8TrjJN9U37WKaCpWftGfsKV91nXwiphJRbMo299p/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/npuf3zk2uV",
+        "twitter": "https://twitter.com/BanditBoysDAO"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BhetEMsWMyDMMgaYzXwGTnd5EyBnrjuPAQFmMzttJAG",
+      "symbol": "ONFR",
+      "name": "OnFire",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/streetU/streetU/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/DVZs9KsqDE",
+        "website": "https://travelstones.xyz"
+      }
     }
   ],
   "version": {
