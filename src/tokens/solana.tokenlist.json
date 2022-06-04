@@ -175503,6 +175503,17 @@
       "name": "Billionaire Bears Club",
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/DwightKurtS/Dwights-repository/main/logo.png.png"
+    },
+    {
+      "chainId": 101,
+      "address": "9eczmrsLTsA32QTjpNkKoDaFK573NqA4tA7DAgdDSJw9",
+      "symbol": "BIBS",
+      "name": "BibsCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/holder21/crplogo/main/biblogo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
