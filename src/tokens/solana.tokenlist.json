@@ -175577,6 +175577,21 @@
         "twitter": "https://twitter.com/MoneyblockNFT",
         "website": "https://moneyblock.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "goatmBAgLyFoHTyyg9NNqGLV4LqTGyjAx1HBn3P1NkD",
+      "symbol": "$GOAT",
+      "name": "GOAT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/goatmBAgLyFoHTyyg9NNqGLV4LqTGyjAx1HBn3P1NkD/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GreatGoatsNFT",
+        "website": "https://greatgoats.io/"
+      }
     }
   ],
   "version": {
