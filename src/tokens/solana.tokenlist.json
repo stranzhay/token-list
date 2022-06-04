@@ -175603,6 +175603,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "54RrzWybeyfJUTYgMCifGepyq9PYFMoDqN5Q4spdw35o",
+      "symbol": "MECCA",
+      "name": "MECCA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/54RrzWybeyfJUTYgMCifGepyq9PYFMoDqN5Q4spdw35o/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/QHzmnNK7Cn",
+        "instagram": "https://www.instagram.com/primecyborgsociety/",
+        "twitter": "https://twitter.com/primecyborgnft",
+        "website": "https://primecyborgsociety.com/"
+      }
     }
   ],
   "version": {
