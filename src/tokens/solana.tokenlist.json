@@ -175560,6 +175560,23 @@
         "twitter": "https://twitter.com/bridgesplit",
         "vault": "https://app.bridgesplit.com/vault/4qagvcSsN4ovsUsSs1hBh9Qzt5SZHsfNu9BtjQsJyK7W"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2UZg26rjTyz8fbZtxxXnuAhfGqc5qNnQ1esxGDuDTwC6",
+      "symbol": "MBLOCK",
+      "name": "Noneyblock Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/themopixel/moneyblock/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/3YcXhmc3eX",
+        "instagram": "https://www.instagram.com/MoneyblockNFT",
+        "twitter": "https://twitter.com/MoneyblockNFT",
+        "website": "https://moneyblock.org"
+      }
     }
   ],
   "version": {
