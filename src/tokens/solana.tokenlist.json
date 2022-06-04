@@ -175495,6 +175495,14 @@
       "name": "New Zealand Digital Dollar",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/CryptoShree/NZD/main/nzdd.png"
+    },
+    {
+      "chainId": 101,
+      "address": "AZKb6hEi98PtQTgs8vk7H2Ahhp6cTov7ayiTXJHLjQSa",
+      "symbol": "BBCS",
+      "name": "Billionaire Bears Club",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/DwightKurtS/Dwights-repository/main/logo.png.png"
     }
   ],
   "version": {
