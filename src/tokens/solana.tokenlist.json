@@ -175447,6 +175447,22 @@
         "twitter": "https://twitter.com/mizushiDC",
         "website": "https://www.mizushidc.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5H3EHgNgX6vCog2JQwv5LfkhTWLvcd1EP6CSMzym1QSF",
+      "symbol": "BLAZE",
+      "name": "Investoner Dragons Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/InvestonerD/BLAZE-Icon/main/assets/Blaze%20Icon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/d8R3MHrK7B",
+        "twitter": "https://twitter.com/InvstonerDragon",
+        "website": "https://investonerdragons.com"
+      }
     }
   ],
   "version": {
