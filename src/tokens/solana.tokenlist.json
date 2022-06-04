@@ -175514,6 +175514,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2xBa3dBS9rh2P16Piafx79miRB6XdCRrtCzvX1VCDF5K",
+      "symbol": "FOKK",
+      "name": "Fork You Kwon",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/whatelse114/tokenmoken/main/blackmoon.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
