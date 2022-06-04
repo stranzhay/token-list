@@ -175432,6 +175432,21 @@
       "name": "Xvegas Vip Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/672LxNFXwEwEniFhXQ2P2BMJpz9N54enUcsyJKz9uB3m/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7Rp4Esjx3y7ELQmaGSbzFL4cdgTRFaKmFpHfKbbuCXe2",
+      "symbol": "MIZU",
+      "name": "Mizushi Dragons Club Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/nintoku/picture/main/mizucoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/mizushiDC",
+        "website": "https://www.mizushidc.io"
+      }
     }
   ],
   "version": {
