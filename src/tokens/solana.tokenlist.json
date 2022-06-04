@@ -175447,6 +175447,54 @@
         "twitter": "https://twitter.com/mizushiDC",
         "website": "https://www.mizushidc.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5H3EHgNgX6vCog2JQwv5LfkhTWLvcd1EP6CSMzym1QSF",
+      "symbol": "BLAZE",
+      "name": "Investoner Dragons Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/InvestonerD/BLAZE-Icon/main/assets/Blaze%20Icon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/d8R3MHrK7B",
+        "twitter": "https://twitter.com/InvstonerDragon",
+        "website": "https://investonerdragons.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Ah78nhRGzsiNNBKfHzrEd9Y4Th5ASv145w8Bw2cJb6PB",
+      "symbol": "TGC",
+      "name": "Griffin Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/CryptoShree/FMC/main/family.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8C4thx6WC5doUYy7jbnD9Yq5i414ZtZnL9dCyc5jadB7",
+      "symbol": "JBZ",
+      "name": "Just Beatz Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/CryptoShree/ROYAL/main/royal.jpg"
+    },
+    {
+      "chainId": 101,
+      "address": "6AQkpGv2haWpHAnxWimZ2JZDJ8fmFFxq8YP1V2bSuEgn",
+      "symbol": "OG420",
+      "name": "BluntDAO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/CryptoShree/OG420/main/bluntdao.png"
+    },
+    {
+      "chainId": 101,
+      "address": "8jpi3f1ZCa3e4QciqjkrhHMGm2b6F6PHSJVuxW6nx2RG",
+      "symbol": "NZD",
+      "name": "New Zealand Digital Dollar",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/CryptoShree/NZD/main/nzdd.png"
     }
   ],
   "version": {
