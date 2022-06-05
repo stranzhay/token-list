@@ -175840,6 +175840,21 @@
         "twitter": "https://twitter.com/SaintSkullyNFT",
         "website": "https://saintskullynft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GKZ1pt5vbMfd3zGxpqfjku12Mw1gp7BaM9eGx9V2fc4b",
+      "symbol": "JUTSU",
+      "name": "JUTSU",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GKZ1pt5vbMfd3zGxpqfjku12Mw1gp7BaM9eGx9V2fc4b/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/susanoo50",
+        "website": "https://susanoo.io/"
+      }
     }
   ],
   "version": {
