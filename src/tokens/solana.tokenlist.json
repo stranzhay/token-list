@@ -175892,6 +175892,17 @@
         "utility-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "G1ZkHFuVCWtdzbWPcdHtNLgcpBT3ajSBNRefMXhDfpof",
+      "symbol": "DBT",
+      "name": "Dead Bear Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G1ZkHFuVCWtdzbWPcdHtNLgcpBT3ajSBNRefMXhDfpof/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
