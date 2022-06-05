@@ -175914,6 +175914,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AxKxDxkomutHSoj8Wper6KAvw35tmYtsaALBxLih9VfU",
+      "symbol": "SNAXY",
+      "name": "SNAXY Token",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/SNAXUS/crypto/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
