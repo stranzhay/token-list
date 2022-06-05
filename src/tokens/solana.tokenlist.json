@@ -175903,6 +175903,28 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EgGpJgeKbSV1pdDMZW69FvJW4jdvFC5nuMeJQvAYL7z6",
+      "symbol": "EGPLNT",
+      "name": "Eggplant",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ryisaac/cryptocubs/main/egplnt.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "AxKxDxkomutHSoj8Wper6KAvw35tmYtsaALBxLih9VfU",
+      "symbol": "SNAXY",
+      "name": "SNAXY Token",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/SNAXUS/crypto/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
