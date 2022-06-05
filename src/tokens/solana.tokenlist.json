@@ -176001,6 +176001,39 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HW3WVuUtkitLWUByL8TfgX5gvBZycfciWgJi3PGSWbfa",
+      "symbol": "DBWL",
+      "name": "ND Dominion Badges WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Kikser1214/Kikser-rep/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Zm5CvezwTE",
+        "twitter": "https://twitter.com/NezumiDominion",
+        "website": "https://www.nezumidominion.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5wUhVhUphHXVz6CKmAF7MUrFSwv95soo3WQz59ynotyM",
+      "symbol": "DCODE",
+      "name": "SOL Decoder Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5wUhVhUphHXVz6CKmAF7MUrFSwv95soo3WQz59ynotyM/logo.png",
+      "tags": [
+        "sol-decoder",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/sol-decoder",
+        "twitter": "https://twitter.com/SOL_Decoder",
+        "website": "https://soldecoder.app"
+      }
     }
   ],
   "version": {
