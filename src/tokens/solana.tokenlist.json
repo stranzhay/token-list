@@ -175778,6 +175778,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ChRdev5KUUaqySyttxDmfKUnXdcsCSCZhmaVTyL5Yn1q",
+      "symbol": "DREG",
+      "name": "Deelerz Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ChRdev5KUUaqySyttxDmfKUnXdcsCSCZhmaVTyL5Yn1q/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
