@@ -175719,6 +175719,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7ZzAUhzJkjtxVC2bS9JTJJiH9Xxn63arfpFWLuA6hjz1",
+      "symbol": "LPT",
+      "name": "LovePortionToken - SK",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/streetU/streetU/main/SPT/logo.png",
+      "tags": [
+        "love-token",
+        "KTR",
+        "LKRMN",
+        "SM",
+        "ZZRL"
+      ]
     }
   ],
   "version": {
