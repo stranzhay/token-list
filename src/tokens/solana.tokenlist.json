@@ -175866,6 +175866,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9j7TLzTcdH5UVTB1aSCsM4BvH6u34MmWZQtHxLJF4i4W",
+      "symbol": "GOO",
+      "name": "Gooey Kids Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Gooey-Kids/gootoken/main/GOOLOGO.png.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GooeyKids"
+      }
     }
   ],
   "version": {
