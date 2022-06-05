@@ -175789,6 +175789,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3mL97yd4B9hVFJzQfqXhy5NcgJdzYPhcSvAMCcNabmFF",
+      "symbol": "SHRUB",
+      "name": "Shrub Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ethankremerdojc/crypto/main/shrub.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
