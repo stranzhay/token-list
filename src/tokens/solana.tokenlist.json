@@ -175855,6 +175855,17 @@
         "twitter": "https://twitter.com/susanoo50",
         "website": "https://susanoo.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FidHzAe6A1mvjyX3Y9rSZTsp76bGhL7ii9UpdNiJ92Fm",
+      "symbol": "POCK",
+      "name": "Pocket Money",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/MEHColeman/solana-management/master/images/pocket.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
