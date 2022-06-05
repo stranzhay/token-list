@@ -175972,6 +175972,35 @@
         "website": "https://PurpleZone.github.io/NFTs/climfly/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmXha6AQpPas4VBnLT7VWX8k6FiQNbtRzz2nGz3aFh6g3r/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FcwjMNe8LJny6V6eN9wGD9fTK4BwjZpEYJVC2csreU8g",
+      "symbol": "CANDL",
+      "name": "Candle Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FcwjMNe8LJny6V6eN9wGD9fTK4BwjZpEYJVC2csreU8g/candle-coin.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token",
+        "rewards-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/chartsmaster1",
+        "website": "https://watchlist101.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "MeQt5kcmcUD1Zee7GHoHL25RRwP9FwzK6crfJ32Ec7X",
+      "symbol": "KUJO",
+      "name": "KujoCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/petern21kite/crypto/main/KUJO.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
