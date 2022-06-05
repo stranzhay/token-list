@@ -175767,6 +175767,28 @@
         "twitter": "https://twitter.com/SuperApeUniv",
         "website": "https://superape.university/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7j2uJRQKgh1z2wnjAZhrYZBqvBkAYZGG7Cu2ageavGem",
+      "symbol": "CKSH",
+      "name": "CurtKash",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/curtkellum/token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ChRdev5KUUaqySyttxDmfKUnXdcsCSCZhmaVTyL5Yn1q",
+      "symbol": "DREG",
+      "name": "Deelerz Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ChRdev5KUUaqySyttxDmfKUnXdcsCSCZhmaVTyL5Yn1q/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
