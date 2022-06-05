@@ -175647,6 +175647,29 @@
         "community-token",
         "NFT-Reward-Token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CXvk6rH2vKYcPrUrakQA3RxgUzaaEDTjUYxE7NvsqfuE",
+      "symbol": "$BSC2",
+      "name": "BSC2 Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ben941/dexlab/main/dexlablogo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "F4Jb7MHFNnuFqUFLWCkYgtJojNTuyKe6PTXp9SrLepmJ",
+      "symbol": "TBONE",
+      "name": "T-BONE Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mrcglyn/tbone/main/image%20(2).png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
