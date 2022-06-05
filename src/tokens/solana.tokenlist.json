@@ -175925,6 +175925,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FE4HfAPhoJbGXdQiEbimBZYipcMBJRjGWA5CRHsy8453",
+      "symbol": "WHTE",
+      "name": "WHITES ELIXIR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FE4HfAPhoJbGXdQiEbimBZYipcMBJRjGWA5CRHsy8453/logo.png",
+      "tags": [
+        "Utility-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/TtjGgkcMyq",
+        "twitter": "https://twitter.com/WinterWhitesNFT",
+        "website": "https://winterwhitesnft.com"
+      }
     }
   ],
   "version": {
