@@ -175880,6 +175880,18 @@
       "extensions": {
         "twitter": "https://twitter.com/GooeyKids"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BfBSte7UXbxNJpSsE2qB18KGq7ucYEYAsgt8bRB8aaKC",
+      "symbol": "HSE",
+      "name": "House Points",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MEHColeman/solana-management/master/images/house-points.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ]
     }
   ],
   "version": {
