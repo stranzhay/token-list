@@ -175949,6 +175949,29 @@
       "name": "DEGEN MONKE BUILDERS Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DMBo73NzTWGrLFFaYCy12h3zPD3zq4GZP4PEWMWBPvft/logo.png"
+    },
+    {
+      "chainId": 103,
+      "address": "cLimizHeLvuHKRrrRMpjnYKChycMA2C7FLRc8ArBtBn",
+      "symbol": "/",
+      "name": "Climate FireFly Community",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/climfly/climfly.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "polkadot",
+        "description": "Fireflies are shining in sync by parametric resonance, and so can we... we adopt the firefly model to coordonate our actions to restorative climate projects --@cryptolake2",
+        "imageUrl": "https://bafybeibicq2hau6ffvql2kpxz77jj4up5g2ho2exfhx5t22wgfd4fe5pi4.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/climfly/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmXha6AQpPas4VBnLT7VWX8k6FiQNbtRzz2nGz3aFh6g3r/whitepaper.pdf"
+      }
     }
   ],
   "version": {
