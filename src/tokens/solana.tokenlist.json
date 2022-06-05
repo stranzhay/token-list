@@ -176001,6 +176001,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HW3WVuUtkitLWUByL8TfgX5gvBZycfciWgJi3PGSWbfa",
+      "symbol": "DBWL",
+      "name": "ND Dominion Badges WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Kikser1214/Kikser-rep/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Zm5CvezwTE",
+        "twitter": "https://twitter.com/NezumiDominion",
+        "website": "https://www.nezumidominion.com/"
+      }
     }
   ],
   "version": {
