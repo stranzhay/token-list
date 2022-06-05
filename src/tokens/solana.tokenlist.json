@@ -175751,6 +175751,22 @@
         "twitter": "https://twitter.com/TrueDegenz",
         "website": "https://magiceden.io/marketplace/truedegenz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ATVMRCJ8CLpfFiQq1S95LPCXKB3XCKM1EdAVeq4zEPq1",
+      "symbol": "SAWT",
+      "name": "Super Apes Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATVMRCJ8CLpfFiQq1S95LPCXKB3XCKM1EdAVeq4zEPq1/Logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/superapeuniversity",
+        "twitter": "https://twitter.com/SuperApeUniv",
+        "website": "https://superape.university/"
+      }
     }
   ],
   "version": {
