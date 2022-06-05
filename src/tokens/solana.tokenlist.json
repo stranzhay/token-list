@@ -175823,6 +175823,23 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "NECTLWv5SsQDGbVgSzUA4p5hm4HXkQF8CWkwm9qtUsw",
+      "symbol": "NECTR",
+      "name": "Saint Skully NECTR",
+      "decimals": 9,
+      "logoURI": "https://saintskullynft.com/Resources/tokenlogo.png",
+      "tags": [
+        "utility-token",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/saintskully",
+        "twitter": "https://twitter.com/SaintSkullyNFT",
+        "website": "https://saintskullynft.com/"
+      }
     }
   ],
   "version": {
