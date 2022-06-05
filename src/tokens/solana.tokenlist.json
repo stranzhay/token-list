@@ -175688,6 +175688,37 @@
         "twitter": "https://twitter.com/CedarBNPL",
         "website": "https://www.ced.ar/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6EGvh2GsH2r4XxHVuHFVvodQGMo12jMSRHhm9L9ePSHG",
+      "symbol": "TLGT",
+      "name": "TalgotPay Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/jemccottry/talgotpaylogo/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9XEqMCMeteQNjeE4w1aCS2c4Ew2XRa1923YkeuC3Kg6q",
+      "symbol": "CORK",
+      "name": "CorkDAO Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9XEqMCMeteQNjeE4w1aCS2c4Ew2XRa1923YkeuC3Kg6q/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "EFErmuMPx6md1Y7u5sCrwyyPSLftLBbtuLspWs27jsuS",
+      "symbol": "CLESS",
+      "name": "Coinless",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CLEM-2/crypto/main/dark-rose-logo-illustration_13606-2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
