@@ -175941,6 +175941,14 @@
         "twitter": "https://twitter.com/WinterWhitesNFT",
         "website": "https://winterwhitesnft.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DMBo73NzTWGrLFFaYCy12h3zPD3zq4GZP4PEWMWBPvft",
+      "symbol": "DMB",
+      "name": "DEGEN MONKE BUILDERS Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DMBo73NzTWGrLFFaYCy12h3zPD3zq4GZP4PEWMWBPvft/logo.png"
     }
   ],
   "version": {
