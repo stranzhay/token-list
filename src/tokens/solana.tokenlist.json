@@ -175812,6 +175812,17 @@
         "discord": "https://discord.gg/8drenSfXde",
         "twitter": "https://twitter.com/TrippinStondeG"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2uHq9w2NnAfrVYWkmPiVx34L7q9AcfPKgFAHAJrPPXLr",
+      "symbol": "BRP",
+      "name": "Breeding Potion",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MentieMark/token-list/main/assets/mainnet/2uHq9w2NnAfrVYWkmPiVx34L7q9AcfPKgFAHAJrPPXLr/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
