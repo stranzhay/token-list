@@ -175621,6 +175621,32 @@
         "twitter": "https://twitter.com/primecyborgnft",
         "website": "https://primecyborgsociety.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CjozvA9tbGS6sL4EtcHJ2YN9mTjPs5NsW4EqND1b1UnU",
+      "symbol": "KEDO",
+      "name": "KING EDO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CjozvA9tbGS6sL4EtcHJ2YN9mTjPs5NsW4EqND1b1UnU/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "NFT-Reward-Token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "CjozvA9tbGS6sL4EtcHJ2YN9mTjPs5NsW4EqND1b1UnU",
+      "symbol": "KEDO",
+      "name": "KING EDO",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CjozvA9tbGS6sL4EtcHJ2YN9mTjPs5NsW4EqND1b1UnU/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "NFT-Reward-Token"
+      ]
     }
   ],
   "version": {
