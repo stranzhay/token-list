@@ -175658,6 +175658,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F4Jb7MHFNnuFqUFLWCkYgtJojNTuyKe6PTXp9SrLepmJ",
+      "symbol": "TBONE",
+      "name": "T-BONE Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/mrcglyn/tbone/main/image%20(2).png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
