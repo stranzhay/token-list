@@ -175708,6 +175708,17 @@
       "name": "CorkDAO Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9XEqMCMeteQNjeE4w1aCS2c4Ew2XRa1923YkeuC3Kg6q/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "EFErmuMPx6md1Y7u5sCrwyyPSLftLBbtuLspWs27jsuS",
+      "symbol": "CLESS",
+      "name": "Coinless",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/CLEM-2/crypto/main/dark-rose-logo-illustration_13606-2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
