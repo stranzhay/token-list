@@ -175670,6 +175670,24 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "hqYm3owx1dh1gSyJJmaV8niBMw7fVLg2ZJ6cnqJTSwS",
+      "symbol": "CEDAR",
+      "name": "CEDAR Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/hqYm3owx1dh1gSyJJmaV8niBMw7fVLg2ZJ6cnqJTSwS/logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "NFT-Reward-Token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/cedar",
+        "twitter": "https://twitter.com/CedarBNPL",
+        "website": "https://www.ced.ar/"
+      }
     }
   ],
   "version": {
