@@ -175990,6 +175990,17 @@
         "twitter": "https://twitter.com/chartsmaster1",
         "website": "https://watchlist101.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MeQt5kcmcUD1Zee7GHoHL25RRwP9FwzK6crfJ32Ec7X",
+      "symbol": "KUJO",
+      "name": "KujoCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/petern21kite/crypto/main/KUJO.PNG",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
