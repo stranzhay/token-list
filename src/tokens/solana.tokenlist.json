@@ -176034,6 +176034,17 @@
         "twitter": "https://twitter.com/SOL_Decoder",
         "website": "https://soldecoder.app"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GrRFEaihH1bKvG3QvuiA8nnbLz4oVwPbwbukwqot26Gr",
+      "symbol": "MAXC",
+      "name": "MaxCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Tensive8599/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
