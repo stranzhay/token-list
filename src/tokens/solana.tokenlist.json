@@ -175812,6 +175812,74 @@
         "discord": "https://discord.gg/8drenSfXde",
         "twitter": "https://twitter.com/TrippinStondeG"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2uHq9w2NnAfrVYWkmPiVx34L7q9AcfPKgFAHAJrPPXLr",
+      "symbol": "BRP",
+      "name": "Breeding Potion",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MentieMark/token-list/main/assets/mainnet/2uHq9w2NnAfrVYWkmPiVx34L7q9AcfPKgFAHAJrPPXLr/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "NECTLWv5SsQDGbVgSzUA4p5hm4HXkQF8CWkwm9qtUsw",
+      "symbol": "NECTR",
+      "name": "Saint Skully NECTR",
+      "decimals": 9,
+      "logoURI": "https://saintskullynft.com/Resources/tokenlogo.png",
+      "tags": [
+        "utility-token",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/saintskully",
+        "twitter": "https://twitter.com/SaintSkullyNFT",
+        "website": "https://saintskullynft.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GKZ1pt5vbMfd3zGxpqfjku12Mw1gp7BaM9eGx9V2fc4b",
+      "symbol": "JUTSU",
+      "name": "JUTSU",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GKZ1pt5vbMfd3zGxpqfjku12Mw1gp7BaM9eGx9V2fc4b/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/susanoo50",
+        "website": "https://susanoo.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FidHzAe6A1mvjyX3Y9rSZTsp76bGhL7ii9UpdNiJ92Fm",
+      "symbol": "POCK",
+      "name": "Pocket Money",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/MEHColeman/solana-management/master/images/pocket.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9j7TLzTcdH5UVTB1aSCsM4BvH6u34MmWZQtHxLJF4i4W",
+      "symbol": "GOO",
+      "name": "Gooey Kids Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Gooey-Kids/gootoken/main/GOOLOGO.png.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GooeyKids"
+      }
     }
   ],
   "version": {
