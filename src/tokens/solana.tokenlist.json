@@ -175789,6 +175789,29 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3mL97yd4B9hVFJzQfqXhy5NcgJdzYPhcSvAMCcNabmFF",
+      "symbol": "SHRUB",
+      "name": "Shrub Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ethankremerdojc/crypto/main/shrub.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DiRHqRqHK7ze2ffBDpLtzswuTYPmWDJh5t2J8bH9AoKr",
+      "symbol": "TSG",
+      "name": "Trippin Stoned Goats Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DiRHqRqHK7ze2ffBDpLtzswuTYPmWDJh5t2J8bH9AoKr/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/8drenSfXde",
+        "twitter": "https://twitter.com/TrippinStondeG"
+      }
     }
   ],
   "version": {
