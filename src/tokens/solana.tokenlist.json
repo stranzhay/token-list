@@ -175688,6 +175688,18 @@
         "twitter": "https://twitter.com/CedarBNPL",
         "website": "https://www.ced.ar/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6EGvh2GsH2r4XxHVuHFVvodQGMo12jMSRHhm9L9ePSHG",
+      "symbol": "TLGT",
+      "name": "TalgotPay Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/jemccottry/talgotpaylogo/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
