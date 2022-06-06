@@ -176139,6 +176139,29 @@
       "extensions": {
         "twitter": "https://twitter.com/SpeechlessDemo"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "cfpsVJTbr5hhnmjmRV9HDm8jWw4kxumgQu74S9USX78",
+      "symbol": "tons",
+      "name": "Carbon Footprint Standard (dev)",
+      "decimals": 12,
+      "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/CFS/cfprint.svg",
+      "tags": [
+        "green-coin",
+        "community-token",
+        "utility-token",
+        "colored-token"
+      ],
+      "extensions": {
+        "coingeckoId": "polkadot",
+        "description": "We want to define a standard for reporting emriession so we avoid double credits --@cryptolake2",
+        "imageUrl": "https://bafybeida3n3qqvzyuathjngiqaaepyqec6ex47ngac5to2uzwv7nyv327u.ipfs.nftstorage.link/?ext=svg",
+        "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+        "telegram": "https://t.me/cryptolake2",
+        "website": "https://PurpleZone.github.io/NFTs/CFS/",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmdpuWueP9Fv1C3FThRNTGxnWyM7orz8rHmQ8L8YvdUxJo/whitepaper.pdf"
+      }
     }
   ],
   "version": {
