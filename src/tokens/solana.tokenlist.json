@@ -176085,6 +176085,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2RKKXHZhaHhSLKKnfzoEu7LxrrZCgrMwFkJQQRaQDL2Y",
+      "symbol": "VyAu",
+      "name": "Vy Au LLC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/YellowLittleTurtle/vyau/main/Logo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/profile.php?id=100005127072098/"
+      }
     }
   ],
   "version": {
