@@ -176332,6 +176332,23 @@
         "description": "AK Shopping Contoso",
         "website": "https://damp-atoll-82810.herokuapp.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C1WBUPDDuNvFMdwfPRzAhum3HsLUpYEzV78LfZhd6WbJ",
+      "symbol": "Coop1",
+      "name": "Coop1",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop1.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
     }
   ],
   "version": {
