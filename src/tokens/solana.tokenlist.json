@@ -176215,6 +176215,18 @@
         "twitter": "https://twitter.com/glight_network",
         "website": "https://glight.network/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DeDUUQbkbpVWNMrS2djKrgZm8SjGKcH3YEVcE74yejgs",
+      "symbol": "AD",
+      "name": "AKVO DROP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AkvoDrop/Akvo_Drop/main/coin.png",
+      "tags": [
+        "stablecoin",
+        "utility-token"
+      ]
     }
   ],
   "version": {
