@@ -176191,6 +176191,14 @@
       "extensions": {
         "twitter": "https://twitter.com/SolanaLoops"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SMTyWUTw9gFr9MAs8nebGT7a2L65HzGimgB3Sha4Qwa",
+      "symbol": "SlMtsWL",
+      "name": "Soul Mates' White List",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SMTyWUTw9gFr9MAs8nebGT7a2L65HzGimgB3Sha4Qwa/logo.png"
     }
   ],
   "version": {
