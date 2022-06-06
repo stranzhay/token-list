@@ -176679,6 +176679,17 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3XR1TzVyt5iqQ8Aa3wmjUzSLy61HVnFGL44EVn23Tb9b",
+      "symbol": "VIRT",
+      "name": "Virtue",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Vince489/VIRT_Image/main/white-bg%2C-no-shadow-designify.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
