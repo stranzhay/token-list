@@ -176564,6 +176564,91 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "C3QuMRve5XZMfqJssLmbB4RbQ2tJ3HAcxaHLbWckBnXM",
+      "symbol": "Coop3",
+      "name": "Coop3",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop3.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C4ccMsGtaE8SStmphbPBRVLBS2KFfyE1prRYVHmwyxGJ",
+      "symbol": "Coop4",
+      "name": "Coop4",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop4.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C5f7KKzxw8x679eG4RTyDomQbpo7pp88ZtejPXtwVhXr",
+      "symbol": "Coop5",
+      "name": "Coop5",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop5.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C6HVur5XXfEyfV7T8zh72Qi72f119w3wDurXpQS3Ave7",
+      "symbol": "Coop6",
+      "name": "Coop6",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop6.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C7NWtjsboAMU4YjemGpkWT9p4HR6xg14y18A5yduoQGW",
+      "symbol": "Coop7",
+      "name": "Coop7",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop7.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
     }
   ],
   "version": {
