@@ -176162,6 +176162,20 @@
         "website": "https://PurpleZone.github.io/NFTs/CFS/",
         "whitepaper": "https://gateway.ipfs.io/ipns/QmdpuWueP9Fv1C3FThRNTGxnWyM7orz8rHmQ8L8YvdUxJo/whitepaper.pdf"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FhkAPgX25YZBVTR57HGSbMUVGTt2kMaBPZKRgKbte1Qs",
+      "symbol": "PORTARI",
+      "name": "TRANSPORTARI II",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/4FkQpGdO7i2uFuVg_BIt1rnMKoZ0pVvx_BqBzxE5whk?ext=png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BohemiaArtFair"
+      }
     }
   ],
   "version": {
