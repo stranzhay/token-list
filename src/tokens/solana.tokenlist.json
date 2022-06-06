@@ -176280,6 +176280,17 @@
         "twitter": "https://twitter.com/cannaverse_",
         "website": "https://cannaverse.gg"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Huay6iZ2RWmTnNo86vCKDM2FYeME3tgPq2hLUoymiGfg",
+      "symbol": "AAT",
+      "name": "ANON",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/alphaanons/assets/main/ANON%20TOKEN.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
