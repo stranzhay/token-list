@@ -176060,6 +176060,31 @@
         "discord": "https://discord.gg/cyberraccoonsclub",
         "twitter": "https://twitter.com/Cyber_Raccoons"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GosCFTFRVSry5EnGY5g2SXAfHhF5htLnuGWe6kcKHGCc",
+      "symbol": "SPRT",
+      "name": "GLC Spirit",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GosCFTFRVSry5EnGY5g2SXAfHhF5htLnuGWe6kcKHGCc/SPIRIT-LOGO.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://minter.ghostlifeclub.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BGXVW4XcsvsRw26m36sTX4dnUHRQidqHT5ruq8Vu7kdB",
+      "symbol": "TOOT",
+      "name": "Teaching Our Offspring Traits",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/PNCG1805/tokens/main/TOOTS.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
