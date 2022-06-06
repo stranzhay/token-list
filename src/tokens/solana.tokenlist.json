@@ -176191,6 +176191,42 @@
       "extensions": {
         "twitter": "https://twitter.com/SolanaLoops"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SMTyWUTw9gFr9MAs8nebGT7a2L65HzGimgB3Sha4Qwa",
+      "symbol": "SlMtsWL",
+      "name": "Soul Mates' White List",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SMTyWUTw9gFr9MAs8nebGT7a2L65HzGimgB3Sha4Qwa/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7e4c4hi81VBnEnmJyHBa6RaieiqmXzQJ2WWgqqFNe5wY",
+      "symbol": "GLI",
+      "name": "G Light Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/gintarastamosiunas/Assets/main/Gtokenlogo32x32.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "medium": "https://medium.com/@glight.network",
+        "twitter": "https://twitter.com/glight_network",
+        "website": "https://glight.network/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DeDUUQbkbpVWNMrS2djKrgZm8SjGKcH3YEVcE74yejgs",
+      "symbol": "AD",
+      "name": "AKVO DROP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AkvoDrop/Akvo_Drop/main/coin.png",
+      "tags": [
+        "stablecoin",
+        "utility-token"
+      ]
     }
   ],
   "version": {
