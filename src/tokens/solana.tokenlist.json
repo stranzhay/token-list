@@ -176259,6 +176259,27 @@
         "twitter": "https://twitter.com/Charactbit",
         "website": "https://raydium.io/liquidity/add/?coin0=YtfMZ4jg2ubdz4GasY86iuGjHdo5rCPJnFqgSf8gxAz\u0026coin1=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\u0026fixed=coin0\u0026ammId=a5sAFsEMzNWZMQViXZWQhg11Wp4QxMS8fCSEYr18Qxi"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DPU4yN7jSA6R4bHp4nMq61AWyXufXHhvvfQaNJnnnEST",
+      "symbol": "CANNAHEMP",
+      "name": "Cannaverse Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DPU4yN7jSA6R4bHp4nMq61AWyXufXHhvvfQaNJnnnEST/logo.png",
+      "tags": [
+        "utility-token",
+        "governance-token",
+        "gaming",
+        "NFTs"
+      ],
+      "extensions": {
+        "description": "Cannaverse. Never Smoke Alone!",
+        "discord": "https://discord.gg/cannaverse",
+        "instagram": "https://www.instagram.com/cannaversenft/",
+        "twitter": "https://twitter.com/cannaverse_",
+        "website": "https://cannaverse.gg"
+      }
     }
   ],
   "version": {
