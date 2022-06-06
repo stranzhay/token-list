@@ -176690,6 +176690,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F5B6zTXkTf332Qbzid6APVxf9Rj3kpoR5Z4LFwzTJ2q1",
+      "symbol": "Engine",
+      "name": "Engine",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F5B6zTXkTf332Qbzid6APVxf9Rj3kpoR5Z4LFwzTJ2q1/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
