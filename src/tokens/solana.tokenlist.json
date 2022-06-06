@@ -176349,6 +176349,182 @@
         "twitter": "https://twitter.com/Coopbitss",
         "website": "https://coopcrowd.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7w3wZGWQdEjj2WRj7HevG61rA4hKhTkuNsVusvUunRr4",
+      "symbol": "BLOOD",
+      "name": "HUM BLOOD",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/7w3wZGWQdEjj2WRj7HevG61rA4hKhTkuNsVusvUunRr4/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "EAv8t3gCJpZ2M45oZNtpURmiis1H9kgUgfod27fJGrxo",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - DappieGang Common",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTP-DappieGang-Common.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "258rJVdsxBBrtWRjUZqvJ4YZrL6byGbDhSKNkf94wwRA",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - DappieGang Common",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-DappieGang-Common.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "64gXuummCXmQpmCGyufc9zUShSaMgkjTbFyeKeXkBqu2",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - DappieGang LegendaryRobot",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTP-DappieGang-LegendaryRobot.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3wdg53Mxs4k82PSrq93yx953ACvB4CdvDwQpzcjxvk8p",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - DappieGang LegendaryRobot",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTP-DappieGang-LegendaryRobot.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "BF948N21VtSvhT8Vj1yQfm3xiNyf5Q94AF1ghbivaFMe",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - DappieGang LegendaryZombie",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTP-DappieGang-LegendaryZombie.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "J6TuGUWvpKUHU4EtKvtSdXvR9hSZFcPvV3YcPoeQgppt",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - DappieGang LegendaryZombie",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-DappieGang-LegendaryZombie.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GiLh8u8dsEkhy6ovZ4wNtgQucuMR1s1mYpkH36yjTMvt",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - DappieGang LegendaryPattern",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTP-DappieGang-LegendaryPattern.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HuKUZRierfye1R92g43jXFz2Ed3LjznnZMjRhPLg8u2F",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - DappieGang LegendaryPattern",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-DappieGang-LegendaryPattern.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ff1oW6cmB2JJoia8j3GgW5o3LfXgr19PYiEpfnfcrkum",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - DappieGang LegendaryAlien",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTP-DappieGang-LegendaryAlien.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EXUcCXy5LKjpCN1Hmy9u8hq7jP4k7Du6cKNtgMEAKYQN",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - DappieGang LegendaryAlien",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-DappieGang-LegendaryAlien.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FXFxM5wmEh34VNQHkwk2k57ExSB4J84imPxxPXp6dcpk",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - DappieGang Genesis",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTP-DappieGang-Genesis.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "7fjVDDR1HNHz4d38i7B29cPFfFPESNfAze7yU85EyPas",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - DappieGang Genesis",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-DappieGang-Genesis.png",
+      "tags": [
+        "utility-token",
+        "NFTU",
+        "DAPG",
+        "Dappio"
+      ]
     }
   ],
   "version": {
