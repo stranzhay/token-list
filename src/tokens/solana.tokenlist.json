@@ -176536,6 +176536,34 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "C2ugNeSLkydYYt79qXZA7jUEaiUCrNuQyeVMUHw56gPx",
+      "symbol": "Coop2",
+      "name": "Coop2",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop2.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C6qxybmG1gbWttHBXHgVvxhFnq4TjLm6TyAJT4MNR9pF",
+      "symbol": "SNWLP",
+      "name": "SolNut WL Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/solnutlogo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
