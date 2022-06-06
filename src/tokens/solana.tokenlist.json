@@ -176045,6 +176045,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "To7eo6cfLM4y24hRgKmb1ZyArrPCvb2NUa4kiTZGn1L",
+      "symbol": "CRCWL",
+      "name": "Cyber Raccoons Club WL Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/To7eo6cfLM4y24hRgKmb1ZyArrPCvb2NUa4kiTZGn1L/CRCWL.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/cyberraccoonsclub",
+        "twitter": "https://twitter.com/Cyber_Raccoons"
+      }
     }
   ],
   "version": {
