@@ -176668,6 +176668,17 @@
       "tags": [
         "Whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "boyeMJs9YsLhEYHHQHcnjHLUvm6ez8dxRMD9y3ttWR4",
+      "symbol": "BOFYWL",
+      "name": "Blood of Yakuza Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/boyeMJs9YsLhEYHHQHcnjHLUvm6ez8dxRMD9y3ttWR4/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
