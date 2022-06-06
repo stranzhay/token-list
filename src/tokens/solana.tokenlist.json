@@ -176649,6 +176649,14 @@
         "twitter": "https://twitter.com/Coopbitss",
         "website": "https://coopcrowd.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "CVj2x7ZfVtud4ZTdXJFkuynyu3EqqisexMymD9pzaaXb",
+      "symbol": "HOTT",
+      "name": "Test create new token",
+      "decimals": 0,
+      "logoURI": "https://github.com/Heorhii90/Surface/blob/master/static/basketbol.png"
     }
   ],
   "version": {
