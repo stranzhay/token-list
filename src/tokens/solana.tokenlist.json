@@ -176668,6 +176668,39 @@
       "tags": [
         "Whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "boyeMJs9YsLhEYHHQHcnjHLUvm6ez8dxRMD9y3ttWR4",
+      "symbol": "BOFYWL",
+      "name": "Blood of Yakuza Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/boyeMJs9YsLhEYHHQHcnjHLUvm6ez8dxRMD9y3ttWR4/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3XR1TzVyt5iqQ8Aa3wmjUzSLy61HVnFGL44EVn23Tb9b",
+      "symbol": "VIRT",
+      "name": "Virtue",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Vince489/VIRT_Image/main/white-bg%2C-no-shadow-designify.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "F5B6zTXkTf332Qbzid6APVxf9Rj3kpoR5Z4LFwzTJ2q1",
+      "symbol": "Engine",
+      "name": "Engine",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F5B6zTXkTf332Qbzid6APVxf9Rj3kpoR5Z4LFwzTJ2q1/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
