@@ -176101,6 +176101,18 @@
       "extensions": {
         "facebook": "https://www.facebook.com/profile.php?id=100005127072098/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "c3x8f2dh7Xgs4hUiusYcE7vsFC2CgKFYdeDkS6R5FL5",
+      "symbol": "BPWL",
+      "name": "Battlepunk Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/c3x8f2dh7Xgs4hUiusYcE7vsFC2CgKFYdeDkS6R5FL5/logo.png",
+      "tags": [
+        "nft",
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
