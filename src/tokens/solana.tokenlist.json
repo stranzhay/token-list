@@ -176657,6 +176657,17 @@
       "name": "Test create new token",
       "decimals": 0,
       "logoURI": "https://github.com/Heorhii90/Surface/blob/master/static/basketbol.png"
+    },
+    {
+      "chainId": 101,
+      "address": "wU6JU9RXyrMm8rLBcb8gQPmbaYFVU1xH91WmtqcUnvu",
+      "symbol": "$LGD",
+      "name": "Urban Legend WLCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/wU6JU9RXyrMm8rLBcb8gQPmbaYFVU1xH91WmtqcUnvu/logo.png",
+      "tags": [
+        "Whitelist-token"
+      ]
     }
   ],
   "version": {
