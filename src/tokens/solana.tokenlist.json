@@ -176315,6 +176315,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "BKCVqw8B2JhnXw1Nv7K8EMa37EeJRoJeyva14HTijUFb",
+      "symbol": "AKDC",
+      "name": "AK Digital Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/aadharshkannan/netsillyassets/main/ak-dc.png",
+      "tags": [
+        "community-token",
+        "trading-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "AK Shopping Contoso",
+        "website": "https://damp-atoll-82810.herokuapp.com"
+      }
     }
   ],
   "version": {
