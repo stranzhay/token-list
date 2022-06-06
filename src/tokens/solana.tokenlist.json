@@ -176074,6 +176074,17 @@
       "extensions": {
         "website": "https://minter.ghostlifeclub.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BGXVW4XcsvsRw26m36sTX4dnUHRQidqHT5ruq8Vu7kdB",
+      "symbol": "TOOT",
+      "name": "Teaching Our Offspring Traits",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/PNCG1805/tokens/main/TOOTS.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
