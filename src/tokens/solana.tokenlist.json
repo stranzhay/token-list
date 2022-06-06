@@ -176125,6 +176125,20 @@
         "nft",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AoUHZ5GC1oJo4usygkrvEb7izy6KBaHjRpzKfPv3WUn9",
+      "symbol": "SHHH",
+      "name": "Demon",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AoUHZ5GC1oJo4usygkrvEb7izy6KBaHjRpzKfPv3WUn9/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SpeechlessDemo"
+      }
     }
   ],
   "version": {
