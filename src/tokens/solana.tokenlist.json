@@ -176259,6 +176259,51 @@
         "twitter": "https://twitter.com/Charactbit",
         "website": "https://raydium.io/liquidity/add/?coin0=YtfMZ4jg2ubdz4GasY86iuGjHdo5rCPJnFqgSf8gxAz\u0026coin1=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\u0026fixed=coin0\u0026ammId=a5sAFsEMzNWZMQViXZWQhg11Wp4QxMS8fCSEYr18Qxi"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DPU4yN7jSA6R4bHp4nMq61AWyXufXHhvvfQaNJnnnEST",
+      "symbol": "CANNAHEMP",
+      "name": "Cannaverse Token",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DPU4yN7jSA6R4bHp4nMq61AWyXufXHhvvfQaNJnnnEST/logo.png",
+      "tags": [
+        "utility-token",
+        "governance-token",
+        "gaming",
+        "NFTs"
+      ],
+      "extensions": {
+        "description": "Cannaverse. Never Smoke Alone!",
+        "discord": "https://discord.gg/cannaverse",
+        "instagram": "https://www.instagram.com/cannaversenft/",
+        "twitter": "https://twitter.com/cannaverse_",
+        "website": "https://cannaverse.gg"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Huay6iZ2RWmTnNo86vCKDM2FYeME3tgPq2hLUoymiGfg",
+      "symbol": "AAT",
+      "name": "ANON",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/alphaanons/assets/main/ANON%20TOKEN.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6a44qufY3eSi6fjFSZix5nw1WxWxDC2gtAZWSj3eaRhE",
+      "symbol": "BPM",
+      "name": "Beats Per Minute",
+      "decimals": 9,
+      "logoURI": "https://static.wixstatic.com/media/1bf597_94cc05e168bc4ced8f3ac32c2d599779~mv2.png",
+      "tags": [
+        "community-token",
+        "trading-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
