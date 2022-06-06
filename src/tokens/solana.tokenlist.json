@@ -176227,6 +176227,23 @@
         "stablecoin",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CLDnSM5PyjHEHGndxt4WHqa2ehJsnWPcPc4BH5Y9aesB",
+      "symbol": "AVTUR",
+      "name": "PLANE-X AVTUR",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/HpdUi39S2ixPus6cU74LeoXaKwWcxezIUTQkvVV9XKs",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/93n7gXEhna",
+        "twitter": "https://twitter.com/PlaneX_io",
+        "website": "https://plane-x.io/"
+      }
     }
   ],
   "version": {
