@@ -176304,6 +176304,17 @@
         "trading-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9GnyJrLewtJqLRsotkgMpPs5y52jhyAp4L6CZ4fY39oi",
+      "symbol": "HEUR",
+      "name": "hEURault",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jeuxder4/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
