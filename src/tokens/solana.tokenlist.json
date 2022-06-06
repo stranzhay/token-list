@@ -176349,6 +176349,14 @@
         "twitter": "https://twitter.com/Coopbitss",
         "website": "https://coopcrowd.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7w3wZGWQdEjj2WRj7HevG61rA4hKhTkuNsVusvUunRr4",
+      "symbol": "BLOOD",
+      "name": "HUM BLOOD",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/7w3wZGWQdEjj2WRj7HevG61rA4hKhTkuNsVusvUunRr4/logo.png?raw=true"
     }
   ],
   "version": {
