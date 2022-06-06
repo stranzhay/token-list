@@ -176176,6 +176176,21 @@
       "extensions": {
         "twitter": "https://twitter.com/BohemiaArtFair"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6RSzbYemvP6GbiECfVP2QmN9E7ZYjtCKQ9kEfyDWk67f",
+      "symbol": "GORE",
+      "name": "Read2Earn",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/c2fXCZV/gore-logo.png",
+      "tags": [
+        "Read2Earn",
+        "GORE"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolanaLoops"
+      }
     }
   ],
   "version": {
