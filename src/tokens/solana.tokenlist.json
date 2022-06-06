@@ -176553,6 +176553,17 @@
         "twitter": "https://twitter.com/Coopbitss",
         "website": "https://coopcrowd.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C6qxybmG1gbWttHBXHgVvxhFnq4TjLm6TyAJT4MNR9pF",
+      "symbol": "SNWLP",
+      "name": "SolNut WL Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/scarceproject/crypto/main/solnutlogo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
