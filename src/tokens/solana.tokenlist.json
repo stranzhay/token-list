@@ -176113,6 +176113,18 @@
         "nft",
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9TiijFqGLwPtfXpmfhD5nSmG6cZyxrDqiMqJtr4hTADH",
+      "symbol": "STNK",
+      "name": "Stink Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bentenavery/Stink-Logo/main/Stink.png",
+      "tags": [
+        "nft",
+        "social-token"
+      ]
     }
   ],
   "version": {
