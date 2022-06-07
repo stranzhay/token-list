@@ -177505,6 +177505,23 @@
         "twitter": "https://twitter.com/Coopbitss",
         "website": "https://coopcrowd.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5MBu3PwyitjSmwEJmjEJ2MezX899F3KeWVnc5FeKLPab",
+      "symbol": "MLAB",
+      "name": "MALUNGO LAB TOKEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5MBu3PwyitjSmwEJmjEJ2MezX899F3KeWVnc5FeKLPab/logo.png",
+      "tags": [
+        "community-token",
+        "Utility-token",
+        "NFT-Token",
+        "NFT"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MALUNGO_LAB"
+      }
     }
   ],
   "version": {
