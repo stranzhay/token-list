@@ -177900,6 +177900,22 @@
         "twitter": "https://twitter.com/dionysus3301",
         "website": "https://linktr.ee/Zues369"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4ihMnPfPCRqHiQHB1pjqX43ZUMoGow9GFobhWgjVa1Wm",
+      "symbol": "EYEZ",
+      "name": "EYEZ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ihMnPfPCRqHiQHB1pjqX43ZUMoGow9GFobhWgjVa1Wm/logoeyez.svg",
+      "tags": [
+        "eyez"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/solluminati",
+        "twitter": "https://twitter.com/SolluminatiNFT",
+        "website": "https://solluminati.io"
+      }
     }
   ],
   "version": {
