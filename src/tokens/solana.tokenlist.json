@@ -178018,6 +178018,68 @@
       "name": "Royal Leo Gold Coin",
       "decimals": 0,
       "logoURI": "https://www.royalleo.com/src/rlgcLogo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6dmkrp3XjSGyd2kWQCnKtvaufBR4ov7ZDAsrWbGbYTbX",
+      "symbol": "CANAR",
+      "name": "Canarcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/miguelgargallo/canarchain.org/main/logo/logo.png",
+      "tags": [
+        "handshake",
+        "bitcoin",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7hPH5U5TH4",
+        "medium": "https://penc.medium.com",
+        "twitter": "https://twitter.com/canarchain",
+        "website": "https://canarchain.org"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "wibinXNwn8TyWUfUTxCmknBQk1Dm7Jao3Fve3ptoJgB",
+      "symbol": "$WIBIN",
+      "name": "WIBIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/wibinXNwn8TyWUfUTxCmknBQk1Dm7Jao3Fve3ptoJgB/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/WibinWolves"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "knowbYbddMYPNYPNDERbqk1Kw8VUGpuNWYSQv7RCMSj",
+      "symbol": "$KNOW",
+      "name": "Knowledge Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/knowbYbddMYPNYPNDERbqk1Kw8VUGpuNWYSQv7RCMSj/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/PassroomNFT"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8PFGtQdP6CHeSmMS9mCWgqCAhfQzXWSSTrk5TL8sVLaY",
+      "symbol": "SHWL",
+      "name": "Silver Hands WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8PFGtQdP6CHeSmMS9mCWgqCAhfQzXWSSTrk5TL8sVLaY/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SilverHandsNFT"
+      }
     }
   ],
   "version": {
