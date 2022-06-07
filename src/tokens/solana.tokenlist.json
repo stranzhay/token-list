@@ -177722,6 +177722,20 @@
       "name": "SOUL",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "YEDif6VtDyJMV3ue4cWSN1f8baZVCScedtXiPoroZFC",
+      "symbol": "ITMAFIA",
+      "name": "Italian Mafia Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/YEDif6VtDyJMV3ue4cWSN1f8baZVCScedtXiPoroZFC/italianmafiatoken.jpg",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Funny italian mafia token, nothing serious, nothing special."
+      }
     }
   ],
   "version": {
