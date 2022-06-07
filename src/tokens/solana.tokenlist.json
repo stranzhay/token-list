@@ -176871,6 +176871,17 @@
       "extensions": {
         "website": "https://www.domeinbergen.nl/coin/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HvYf1hTdD177smRDqfFWGByyaa3Cm5viUH3eUyHwDNxg",
+      "symbol": "SUSSY",
+      "name": "Sussy Cat Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HvYf1hTdD177smRDqfFWGByyaa3Cm5viUH3eUyHwDNxg/logosussy.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
