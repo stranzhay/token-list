@@ -176857,6 +176857,20 @@
         "utility-token",
         "NFTU"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6XVqqSjq2WPH1hUpP7X52bhdriPob1m9KZgG2REMhZGa",
+      "symbol": "DBC",
+      "name": "Domein Bergen Coin ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/domeinbergen/dbc/main/logo.png",
+      "tags": [
+        "community-coin"
+      ],
+      "extensions": {
+        "website": "https://www.domeinbergen.nl/coin/"
+      }
     }
   ],
   "version": {
