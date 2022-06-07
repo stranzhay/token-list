@@ -178037,6 +178037,20 @@
         "twitter": "https://twitter.com/canarchain",
         "website": "https://canarchain.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "wibinXNwn8TyWUfUTxCmknBQk1Dm7Jao3Fve3ptoJgB",
+      "symbol": "$WIBIN",
+      "name": "WIBIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/wibinXNwn8TyWUfUTxCmknBQk1Dm7Jao3Fve3ptoJgB/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/WibinWolves"
+      }
     }
   ],
   "version": {
