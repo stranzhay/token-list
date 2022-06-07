@@ -178051,6 +178051,20 @@
       "extensions": {
         "twitter": "https://twitter.com/WibinWolves"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "knowbYbddMYPNYPNDERbqk1Kw8VUGpuNWYSQv7RCMSj",
+      "symbol": "$KNOW",
+      "name": "Knowledge Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/knowbYbddMYPNYPNDERbqk1Kw8VUGpuNWYSQv7RCMSj/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/PassroomNFT"
+      }
     }
   ],
   "version": {
