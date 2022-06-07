@@ -177980,6 +177980,17 @@
         "twitter": "https://twitter.com/luminarydao",
         "website": "https://luminarydao.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EKdr6jB38NkDYTM5Gk7aLQLsPXiivj6cc1MzzYNeBfzo",
+      "symbol": "IDOL",
+      "name": "High-Dol",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/WeedoVerse/IDOL-logo/main/High-Dol.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
