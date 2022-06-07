@@ -177736,6 +177736,31 @@
       "extensions": {
         "description": "Funny italian mafia token, nothing serious, nothing special."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2XdP7FPDZa6RM6j96VbjxBfzKh2QkKDfENZDd7gocxjG",
+      "symbol": "BLOOD",
+      "name": "HOM BLOOD",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/2XdP7FPDZa6RM6j96VbjxBfzKh2QkKDfENZDd7gocxjG/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "9d12fy7zmCrhixEXrt4j22yydmAENVPBcr5ZGb3QWSuM",
+      "symbol": "LNC",
+      "name": "LINCOIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/khairfa/lincoin-logo/main/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "NFT",
+        "Meta"
+      ],
+      "extensions": {
+        "website": "https://lincoin.org"
+      }
     }
   ],
   "version": {
