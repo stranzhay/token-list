@@ -177838,6 +177838,20 @@
       "name": "EXCAL",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EXCALQoRV4ABi29qJN43G1yCkZKHX9Q6oLN2StFc1vX/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "kshrEkxuc7zPAvLxvabxoERKxK6BfariPcjBoiHvM7B",
+      "symbol": "SCROLL",
+      "name": "StepN Scroll",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kshrEkxuc7zPAvLxvabxoERKxK6BfariPcjBoiHvM7B/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://stepn.guide/"
+      }
     }
   ],
   "version": {
