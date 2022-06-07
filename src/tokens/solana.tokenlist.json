@@ -177963,6 +177963,23 @@
       "name": "Insurance Protocol Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bcjd9NYXTfxUoArVc1Pzu6FyXrNCM9nzg2nzdk9Gd9qb/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "C4Vt9yF3G1vLBr1kWH8f4bFZJYTfmDND4sStXERWkT4F",
+      "symbol": "LUMDAO",
+      "name": "Luminary DAO",
+      "decimals": 3,
+      "logoURI": "https://github.com/ConsciousEnergy/token-list/tree/main/assets/mainnet/C4Vt9yF3G1vLBr1kWH8f4bFZJYTfmDND4sStXERWkT4F/logo.png",
+      "tags": [
+        "utility-token",
+        "WL-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/AHy4BCAy5C",
+        "twitter": "https://twitter.com/luminarydao",
+        "website": "https://luminarydao.com"
+      }
     }
   ],
   "version": {
