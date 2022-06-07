@@ -176882,6 +176882,23 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DGXtHxKMFhb82RsqihyEHksgWWe3DXBXEvKjz24JruAP",
+      "symbol": "WOB",
+      "name": "WOB Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/tradefortendies/tokens/master/wobtoken-small.gif",
+      "tags": [
+        "utlity-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/wobbleverse",
+        "twitter": "https://twitter.com/Wobblebug",
+        "website": "https://www.wobblebug.info"
+      }
     }
   ],
   "version": {
