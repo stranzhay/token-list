@@ -177699,6 +177699,43 @@
       "name": "Bow Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A3VPCwZxKUu1KFLBiJqspPyqUTBCEAajoTxMd2tURFtd/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "wBUGLCwGFqrP5z8CzKuqcmZtzJdbzni2JckyKQsS4Jz",
+      "symbol": "wBUG",
+      "name": "Wobblebug WL Token l Mint 9 June",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/wBUGLCwGFqrP5z8CzKuqcmZtzJdbzni2JckyKQsS4Jz/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Wobblebug",
+        "website": "https://www.wobblebug.info/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd",
+      "symbol": "SOUL",
+      "name": "SOUL",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "YEDif6VtDyJMV3ue4cWSN1f8baZVCScedtXiPoroZFC",
+      "symbol": "ITMAFIA",
+      "name": "Italian Mafia Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/YEDif6VtDyJMV3ue4cWSN1f8baZVCScedtXiPoroZFC/italianmafiatoken.jpg",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "Funny italian mafia token, nothing serious, nothing special."
+      }
     }
   ],
   "version": {
