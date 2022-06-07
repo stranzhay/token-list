@@ -177955,6 +177955,14 @@
       "name": "CubeHead Punks WL",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9bS5zhzUEhRKdMS1XReGWQQgwqa9ifPW35qRjnAuidgV/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Bcjd9NYXTfxUoArVc1Pzu6FyXrNCM9nzg2nzdk9Gd9qb",
+      "symbol": "IPT",
+      "name": "Insurance Protocol Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bcjd9NYXTfxUoArVc1Pzu6FyXrNCM9nzg2nzdk9Gd9qb/logo.png"
     }
   ],
   "version": {
