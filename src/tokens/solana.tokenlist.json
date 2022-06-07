@@ -178018,6 +178018,25 @@
       "name": "Royal Leo Gold Coin",
       "decimals": 0,
       "logoURI": "https://www.royalleo.com/src/rlgcLogo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "6dmkrp3XjSGyd2kWQCnKtvaufBR4ov7ZDAsrWbGbYTbX",
+      "symbol": "CANAR",
+      "name": "Canarcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/miguelgargallo/canarchain.org/main/logo/logo.png",
+      "tags": [
+        "handshake",
+        "bitcoin",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/7hPH5U5TH4",
+        "medium": "https://penc.medium.com",
+        "twitter": "https://twitter.com/canarchain",
+        "website": "https://canarchain.org"
+      }
     }
   ],
   "version": {
