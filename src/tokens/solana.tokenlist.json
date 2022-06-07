@@ -177577,6 +177577,80 @@
         "twitter": "https://twitter.com/nftfts",
         "website": "https://ftsolana.com"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "HmitieGZtQ7LRmiFBAA66Yd9uv1Wv1B4qkyLWiK2EeJ5",
+      "symbol": "WOOD",
+      "name": "WOOD - Metaversium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/5Ns2m2oBWyj7Kz4VgGgenHZA5dUTJ224AbtjUjaDB651/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metaversiumgame",
+        "website": "https://metaversium.io/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "3jczzBwwGB8EMjWLi5DKRatFLtFYCSXBKY46NpqX2fPv",
+      "symbol": "STONE",
+      "name": "STONE - Metaversium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/2NzAWwLj8GcW3wT9LHSdsyeMTMPCdNp23EAg2YwrLjCz/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metaversiumgame",
+        "website": "https://metaversium.io/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "6dZH7pLMqyKPMvgh8zCxPgbrK5kv2EJyqwDFn2tw5i7t",
+      "symbol": "IRON",
+      "name": "IRON - Metaversium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/ExKEMV2Z9dSHdRg6AkcFMXLPUqzta7zcyK2UQk3a4soy/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metaversiumgame",
+        "website": "https://metaversium.io/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "2VRRsGmeEBp4LyqWqMVtjq9F1yGoQ4SGsrjd4kP49tUQ",
+      "symbol": "GRAIN",
+      "name": "GRAIN - Metaversium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/2VRRsGmeEBp4LyqWqMVtjq9F1yGoQ4SGsrjd4kP49tUQ/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metaversiumgame",
+        "website": "https://metaversium.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8Mu5tLNnDvkZgyZVpD4h3SLvxbptHwKBMMLuHRQmsjPP",
+      "symbol": "RNG",
+      "name": "Renegade",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Mu5tLNnDvkZgyZVpD4h3SLvxbptHwKBMMLuHRQmsjPP/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://myrenegade.net"
+      }
     }
   ],
   "version": {
