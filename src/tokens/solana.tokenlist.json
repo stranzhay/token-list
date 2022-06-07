@@ -177813,6 +177813,23 @@
       "name": "Sereyboth",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3FGQFHTXCQ2LcqXMJRzHeU1gUwJfQLvXmv9YNXiqbA4h/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "C1oKvxgmSFZauwK4s7Y3ohAwQyYsa2qmGkMGvgJdf8TP",
+      "symbol": "Coop10",
+      "name": "Coop10",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop10.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
     }
   ],
   "version": {
