@@ -177791,6 +177791,53 @@
         "twitter": "https://twitter.com/TRECO_XTR",
         "website": "https://tradecoin.space/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7fporwTn4bFPmFptdWtJKbKWf8FXWBMRwwB8maTJJTw4",
+      "symbol": "CRYGT",
+      "name": "Crypto Guru Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7fporwTn4bFPmFptdWtJKbKWf8FXWBMRwwB8maTJJTw4/logo.png",
+      "tags": [
+        "social-token",
+        "underground-economy",
+        "fun-token",
+        "digital-coin"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3FGQFHTXCQ2LcqXMJRzHeU1gUwJfQLvXmv9YNXiqbA4h",
+      "symbol": "BOTH",
+      "name": "Sereyboth",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3FGQFHTXCQ2LcqXMJRzHeU1gUwJfQLvXmv9YNXiqbA4h/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "C1oKvxgmSFZauwK4s7Y3ohAwQyYsa2qmGkMGvgJdf8TP",
+      "symbol": "Coop10",
+      "name": "Coop10",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop10.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EXCALQoRV4ABi29qJN43G1yCkZKHX9Q6oLN2StFc1vX",
+      "symbol": "EXCAL",
+      "name": "EXCAL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EXCALQoRV4ABi29qJN43G1yCkZKHX9Q6oLN2StFc1vX/logo.png"
     }
   ],
   "version": {
