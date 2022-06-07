@@ -177522,6 +177522,14 @@
       "extensions": {
         "twitter": "https://twitter.com/MALUNGO_LAB"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ExLjCck16LmtH87hhCAmTk4RWv7getYQeGhLvoEfDLrH",
+      "symbol": "SWRD",
+      "name": "SWRD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ExLjCck16LmtH87hhCAmTk4RWv7getYQeGhLvoEfDLrH/logo.png"
     }
   ],
   "version": {
