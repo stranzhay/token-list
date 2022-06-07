@@ -177736,6 +177736,14 @@
       "extensions": {
         "description": "Funny italian mafia token, nothing serious, nothing special."
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2XdP7FPDZa6RM6j96VbjxBfzKh2QkKDfENZDd7gocxjG",
+      "symbol": "BLOOD",
+      "name": "HOM BLOOD",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/2XdP7FPDZa6RM6j96VbjxBfzKh2QkKDfENZDd7gocxjG/logo.png?raw=true"
     }
   ],
   "version": {
