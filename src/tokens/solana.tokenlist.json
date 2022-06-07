@@ -177776,6 +177776,21 @@
       "extensions": {
         "website": "https://blockduelers.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6ABQdaTwRvmacto7aeRBGghS6Pxctd6cFGL8gDdwV1dd",
+      "symbol": "XTR",
+      "name": "Extra Reality",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ABQdaTwRvmacto7aeRBGghS6Pxctd6cFGL8gDdwV1dd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TRECO_XTR",
+        "website": "https://tradecoin.space/"
+      }
     }
   ],
   "version": {
