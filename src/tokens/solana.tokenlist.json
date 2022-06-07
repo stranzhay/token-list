@@ -177530,6 +177530,22 @@
       "name": "SWRD",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ExLjCck16LmtH87hhCAmTk4RWv7getYQeGhLvoEfDLrH/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Bz9Sk66n3SqfEUNwJWMFAbdmDz3CXBbS9RWbk9qECyFu",
+      "symbol": "SPECTRE",
+      "name": "SPECTRE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bz9Sk66n3SqfEUNwJWMFAbdmDz3CXBbS9RWbk9qECyFu/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/KGEA8YsH8A",
+        "twitter": "https://twitter.com/ghoulies_souls"
+      }
     }
   ],
   "version": {
