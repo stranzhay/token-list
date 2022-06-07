@@ -177714,6 +177714,14 @@
         "twitter": "https://twitter.com/Wobblebug",
         "website": "https://www.wobblebug.info/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd",
+      "symbol": "SOUL",
+      "name": "SOUL",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd/logo.png?raw=true"
     }
   ],
   "version": {
