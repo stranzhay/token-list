@@ -177830,6 +177830,14 @@
         "twitter": "https://twitter.com/Coopbitss",
         "website": "https://coopcrowd.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EXCALQoRV4ABi29qJN43G1yCkZKHX9Q6oLN2StFc1vX",
+      "symbol": "EXCAL",
+      "name": "EXCAL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EXCALQoRV4ABi29qJN43G1yCkZKHX9Q6oLN2StFc1vX/logo.png"
     }
   ],
   "version": {
