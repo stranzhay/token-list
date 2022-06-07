@@ -177935,6 +177935,18 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3v8wVJo4yPqnyKmv44JKYps7ZiBp4CCSwnfSzznEMA1D",
+      "symbol": "POINT",
+      "name": "Bandwagon NFTs Point Tokens",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3v8wVJo4yPqnyKmv44JKYps7ZiBp4CCSwnfSzznEMA1D/logo.png",
+      "tags": [
+        "community-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
