@@ -176701,6 +176701,18 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8xZsRrhcrEFzhW2o9hYGfVbJA9HV6reTgdzc5TeAXVXn",
+      "symbol": "NMC",
+      "name": "NemeCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/alexneme/NemeCoin/main/nmc.png",
+      "tags": [
+        "social-token",
+        "newera-token"
+      ]
     }
   ],
   "version": {
