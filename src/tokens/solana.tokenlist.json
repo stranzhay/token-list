@@ -178002,6 +178002,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "47d1wFpmfYLFxkMJfNkx1Q1yU7TP1pyu3CtEBENvK7xE",
+      "symbol": "RLSC",
+      "name": "Royal Leo Silver Coin",
+      "decimals": 0,
+      "logoURI": "https://www.royalleo.com/src/rlscLogo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "3Bcpkr5GGceFDDRGxi6Te6oUhAejfbeheb8v1DVPBpQc",
+      "symbol": "RLGC",
+      "name": "Royal Leo Gold Coin",
+      "decimals": 0,
+      "logoURI": "https://www.royalleo.com/src/rlgcLogo.png"
     }
   ],
   "version": {
