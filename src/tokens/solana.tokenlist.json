@@ -176899,6 +176899,17 @@
         "twitter": "https://twitter.com/Wobblebug",
         "website": "https://www.wobblebug.info"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J3mhAVvPLqGWnnPqxqacpjdXHMvw8W9xTQLGDVXsvXWk",
+      "symbol": "SLC",
+      "name": "Solaris Coin ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Walanm/solaris-token/main/naodaprasaberainda.png",
+      "tags": [
+        "community-coin"
+      ]
     }
   ],
   "version": {
