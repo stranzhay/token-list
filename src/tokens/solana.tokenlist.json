@@ -177562,6 +177562,21 @@
       "name": "Monaco Protocol",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8rTEdhm9EPtmgwkePgqnguNNRGyiGkHYvgeAnEE7k1jk/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "EG55kTkxsmpJFb6p2qafVC35XJ8Xd1kyJ53xhBNGzeyn",
+      "symbol": "FUCK",
+      "name": "For Then Solana",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EG55kTkxsmpJFb6p2qafVC35XJ8Xd1kyJ53xhBNGzeyn/logo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nftfts",
+        "website": "https://ftsolana.com"
+      }
     }
   ],
   "version": {
