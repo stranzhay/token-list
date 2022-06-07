@@ -177980,6 +177980,28 @@
         "twitter": "https://twitter.com/luminarydao",
         "website": "https://luminarydao.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EKdr6jB38NkDYTM5Gk7aLQLsPXiivj6cc1MzzYNeBfzo",
+      "symbol": "IDOL",
+      "name": "High-Dol",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/WeedoVerse/IDOL-logo/main/High-Dol.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hzt7PPmaRJsyh7VLksPMdQDCee32W1Bngp7NYRdMHSkb",
+      "symbol": "ACIDAS",
+      "name": "ACIDAS Token",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/kargoshi/assets/main/Acid_cap20.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
