@@ -177791,6 +177791,20 @@
         "twitter": "https://twitter.com/TRECO_XTR",
         "website": "https://tradecoin.space/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7fporwTn4bFPmFptdWtJKbKWf8FXWBMRwwB8maTJJTw4",
+      "symbol": "CRYGT",
+      "name": "Crypto Guru Token",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7fporwTn4bFPmFptdWtJKbKWf8FXWBMRwwB8maTJJTw4/logo.png",
+      "tags": [
+        "social-token",
+        "underground-economy",
+        "fun-token",
+        "digital-coin"
+      ]
     }
   ],
   "version": {
