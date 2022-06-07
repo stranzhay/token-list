@@ -177991,6 +177991,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Hzt7PPmaRJsyh7VLksPMdQDCee32W1Bngp7NYRdMHSkb",
+      "symbol": "ACIDAS",
+      "name": "ACIDAS Token",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/kargoshi/assets/main/Acid_cap20.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
