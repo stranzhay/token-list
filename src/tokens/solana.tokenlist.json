@@ -177947,6 +177947,14 @@
         "community-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9bS5zhzUEhRKdMS1XReGWQQgwqa9ifPW35qRjnAuidgV",
+      "symbol": "CUBEWL",
+      "name": "CubeHead Punks WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9bS5zhzUEhRKdMS1XReGWQQgwqa9ifPW35qRjnAuidgV/logo.png"
     }
   ],
   "version": {
