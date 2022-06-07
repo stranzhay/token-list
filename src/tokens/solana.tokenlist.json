@@ -176713,6 +176713,150 @@
         "social-token",
         "newera-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3UP1fR9NRPYidmSRaryMwo1wLR2ntaT19kiExbVvA7dP",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - SovanaEggs Legendary",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DappioWonderland/nftu-metadata/main/images/logos/NFTP-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "C9ib14i581Pmm3Axfk8cmh2mVrv43X1W7QRgt5GF6JA2",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - SovanaEggs NonLegendary",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DappioWonderland/nftu-metadata/main/images/logos/NFTP-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "GxvcVeGGPpCnZMskYXmq7JoEvEheP9brayJMMj7HPEZk",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - MonkeyKingdom NormDiamondBaepe",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DappioWonderland/nftu-metadata/main/images/logos/NFTP-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5CBrWhoqPEGJGGsxE3ciAYmXiKZhFhg4BYC75vyb668X",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - MonkeyKingdom NormWukong",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DappioWonderland/nftu-metadata/main/images/logos/NFTP-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HkSSKQZhisy2ojxrxURsLgj4sbCMwSPfRwe9iCjRta5j",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - MonkeyKingdom RareDiamondBaepe",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DappioWonderland/nftu-metadata/main/images/logos/NFTP-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FVAJCnSRVSXoRfZVAXYtVFUEHtupzxJKMEGNscwHhVPG",
+      "symbol": "NFTP",
+      "name": "NFTU Prove Token - MonkeyKingdom RareWukong",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DappioWonderland/nftu-metadata/main/images/logos/NFTP-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "J3ffpVHxQJCgDWBxH5p9rRh4EcDMEdSWziKiJ1poyWJB",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - SovanaEggs Legendary",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CAtPAw22tx8pTq5H1C4ZDbKvpzTKg9b1t7C8Bv4uJikr",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - SovanaEggs NonLegendary",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HyGK4XbxhQC3mw2Sub6XcGvDNQYp3o2PkqPMqSTxTifU",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - MonkeyKingdom NormDiamondBaepe",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "HtDhfAivJjNECiYjXQ7Ae15ap15HjkpHsmTFKabkRCCF",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - MonkeyKingdom NormWukong",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "CKFnaPcANz7Qy7ayoifVYystg4CJQBPH4CF9eQDfNs83",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - MonkeyKingdom RareDiamondBaepe",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "YyVqftwUkPCdr7c5mZJxzLv4UPTtWsGT3EvtxvvoU4f",
+      "symbol": "NFTF",
+      "name": "NFTU Farm Token - MonkeyKingdom RareWukong",
+      "decimals": 0,
+      "logoURI": "https://github.com/DappioWonderland/nftu-metadata/raw/main/images/logos/NFTF-General-Small.png",
+      "tags": [
+        "utility-token",
+        "NFTU"
+      ]
     }
   ],
   "version": {
