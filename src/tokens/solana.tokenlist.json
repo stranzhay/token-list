@@ -177852,6 +177852,23 @@
       "extensions": {
         "website": "https://stepn.guide/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G9sWx5Mm1dxJr2Sx34CCrwxJi9CBfKZki1Lkm7V1zHnV",
+      "symbol": "Noiz",
+      "name": "Noiz",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ruginc/token-list/main/assets/mainnet/G9sWx5Mm1dxJr2Sx34CCrwxJi9CBfKZki1Lkm7V1zHnV/noiz.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CorruptedDogs",
+        "website": "https://corrupted.dog"
+      }
     }
   ],
   "version": {
