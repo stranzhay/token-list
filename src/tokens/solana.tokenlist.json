@@ -177651,6 +177651,22 @@
       "extensions": {
         "website": "https://myrenegade.net"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "YztUyLrMBQLmQSQAcmxG1B6VKq1JPkzWGcH6ueDFeFp",
+      "symbol": "TVS",
+      "name": "TheVisionariesWL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/YztUyLrMBQLmQSQAcmxG1B6VKq1JPkzWGcH6ueDFeFp/logo.png",
+      "tags": [
+        "nfts"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/WFd3tCV48v",
+        "twitter": "https://twitter.com/Visionaries_SOL",
+        "website": "https://thevisionaries-solana.com/"
+      }
     }
   ],
   "version": {
