@@ -178065,6 +178065,21 @@
       "extensions": {
         "twitter": "https://twitter.com/PassroomNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8PFGtQdP6CHeSmMS9mCWgqCAhfQzXWSSTrk5TL8sVLaY",
+      "symbol": "SHWL",
+      "name": "Silver Hands WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8PFGtQdP6CHeSmMS9mCWgqCAhfQzXWSSTrk5TL8sVLaY/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SilverHandsNFT"
+      }
     }
   ],
   "version": {
