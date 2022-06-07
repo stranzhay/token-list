@@ -177761,6 +177761,36 @@
       "extensions": {
         "website": "https://lincoin.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2mTCc7PKM5Sm999ogLUzbxyaKbwrMsGofSZNSk1XdE1h",
+      "symbol": "BDTX",
+      "name": "Block Duelers",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2mTCc7PKM5Sm999ogLUzbxyaKbwrMsGofSZNSk1XdE1h/logo.png",
+      "tags": [
+        "Gaming",
+        "NFTs"
+      ],
+      "extensions": {
+        "website": "https://blockduelers.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6ABQdaTwRvmacto7aeRBGghS6Pxctd6cFGL8gDdwV1dd",
+      "symbol": "XTR",
+      "name": "Extra Reality",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ABQdaTwRvmacto7aeRBGghS6Pxctd6cFGL8gDdwV1dd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TRECO_XTR",
+        "website": "https://tradecoin.space/"
+      }
     }
   ],
   "version": {
