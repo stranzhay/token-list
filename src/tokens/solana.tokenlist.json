@@ -177546,6 +177546,22 @@
         "discord": "https://discord.gg/KGEA8YsH8A",
         "twitter": "https://twitter.com/ghoulies_souls"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8rTEdhm9EPtmgwkePgqnguNNRGyiGkHYvgeAnEE7k1jk",
+      "symbol": "MONA",
+      "name": "Monaco Protocol Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8rTEdhm9EPtmgwkePgqnguNNRGyiGkHYvgeAnEE7k1jk/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "FmAugjcE35w4mLbj6i2e3aSnsWSwb5G8ZTPjwVKreSba",
+      "symbol": "MONACO",
+      "name": "Monaco Protocol",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8rTEdhm9EPtmgwkePgqnguNNRGyiGkHYvgeAnEE7k1jk/logo.png"
     }
   ],
   "version": {
