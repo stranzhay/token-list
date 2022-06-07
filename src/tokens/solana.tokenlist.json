@@ -176910,6 +176910,601 @@
       "tags": [
         "community-coin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "C8heG3mgqJD9intRmmHW2TdrRzq7bpY6C8rdAFTvDs92",
+      "symbol": "Coop8",
+      "name": "Coop8",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop8.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C9AzQsLHL5ZaiAKbA6NUSkHBLNb39D728XyhXPAsdX9i",
+      "symbol": "Coop9",
+      "name": "Coop9",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop9.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C7711kBpo4GUigL4gPEkzzMoAFWQ7tseyi7vrNn7TkpU",
+      "symbol": "Coop77",
+      "name": "Coop77",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop77.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C88ZBBwdwGfN1BmMdGuNpCUrtS8Uh1i2zVFyhctP1j13",
+      "symbol": "Coop88",
+      "name": "Coop88",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/Coop88.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CAXHfpDjvMMNMBNkQJtRGKhy8rRik7rWVpkjPMwEhb8Z",
+      "symbol": "CoopA",
+      "name": "CoopA",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopA.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CBZTD4NipeyTmUE1iUSAqXEohvQgoWvxAedgdJRCCYUz",
+      "symbol": "CoopB",
+      "name": "CoopB",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopB.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CCiQgNvzgB58CB8drzXnS2BeYGFFatLiCnpNra2VY3CD",
+      "symbol": "CoopC",
+      "name": "CoopC",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopC.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CDJmSZQSADF26A7mZwWXXPr54FP4At67Hnd6GDYfHdpN",
+      "symbol": "CoopD",
+      "name": "CoopD",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopD.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CEwTat9GvXK5VQR7Wsua86xZapRfftqEZdpDEDedEeRT",
+      "symbol": "CoopE",
+      "name": "CoopE",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopE.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CFcAr92YJ7v1adUxrM9RuD9JeuuAdECByUuQbU8Jqrkm",
+      "symbol": "CoopF",
+      "name": "CoopF",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopF.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CGBQmtuJx66qPY6J7LivCjzAouGXSrdAD5Rni1wGnfCa",
+      "symbol": "CoopG",
+      "name": "CoopG",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopG.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CHk83wcWWrkRDSvAQMqrGBAg53jzzf51er7VUALR6d6o",
+      "symbol": "CoopH",
+      "name": "CoopH",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopH.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Ciwo8LtuTLRoYcVP9YiQFLSaRVu3CLKfdWWygNXPGKex",
+      "symbol": "CoopI",
+      "name": "CoopI",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopI.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CJXVyMT9TTr79bktNijBFBLGvWroZqz6Xjq9jr3CgFss",
+      "symbol": "CoopJ",
+      "name": "CoopJ",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopJ.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CKyYdbJsJ1gMJCkX3v6TUV5yeQD6q8UjKgV4gxTmhYY",
+      "symbol": "CoopK",
+      "name": "CoopK",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopK.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CLF375njKDsP4AZLavDTVciHoJdHnjp25k3TU64vF3QU",
+      "symbol": "CoopL",
+      "name": "CoopL",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopL.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CMWK3ogBj3bevy3cyf8bzFrSmm7uC2oYSA7Dm9vns7Ux",
+      "symbol": "CoopM",
+      "name": "CoopM",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopM.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CNYQBfnQeM79yDmtNoEuUBo44HAuu7tjY7Y9X8GG7M6d",
+      "symbol": "CoopN",
+      "name": "CoopN",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopN.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CowyWJ6tH1N15Ta6uxh26iGrSwxvenXEiVbdT8imcg8w",
+      "symbol": "CoopO",
+      "name": "CoopO",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopO.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CPY2RV4zetHSW9riP84zo7tE36QKeQvfKikhzzfpCUbw",
+      "symbol": "CoopP",
+      "name": "CoopP",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopP.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CQykKhnPGSWTs8UYnzxj5o43fQp8m7DXYNCD7NPVuQzv",
+      "symbol": "CoopQ",
+      "name": "CoopQ",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopQ.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CRmsDWECgdLPzWXPJcfcadCopYbWmPGqJEGsYjwy1yAu",
+      "symbol": "CoopR",
+      "name": "CoopR",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopR.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CSYTyzJipx1PxtTHkyZvhZurJgdZZgy3oNsHvtXf3mSd",
+      "symbol": "CoopS",
+      "name": "CoopS",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopS.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CTTUQUdARq51Tzb3SdcGrdM6tA95HRnCHjU7FWuMtnTq",
+      "symbol": "CoopT",
+      "name": "CoopT",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopT.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CUpT1zW1Ri8xNbSKyxkU46E82k3TKdpRqAy3hGgkQ21D",
+      "symbol": "CoopU",
+      "name": "CoopU",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopU.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CVi6UYVRbsVuiNzs5CTZfMwbcDWYKrBDRSVnFN4s4KTc",
+      "symbol": "CoopV",
+      "name": "CoopV",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopV.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CWJj2JNANtpka6RcTSDgitLaKgajcjT4d8tBKiNhYsDn",
+      "symbol": "CoopW",
+      "name": "CoopW",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopW.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CXS8SG1uokQXriMzFjBD1XEyQBf4Ev56etDX5yMmLxXa",
+      "symbol": "CoopX",
+      "name": "CoopX",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopX.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CYWjFKVhMCNH3bYKr9461X15DuxpNHsTuQmoY3csp7Gk",
+      "symbol": "CoopY",
+      "name": "CoopY",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopY.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CZy33ScavvvsRL7Tr6wBwB17zuBYHx8bbQUn7pJhD5wQ",
+      "symbol": "CoopZ",
+      "name": "CoopZ",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopZ.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CBitZh1j9sh3eo9wrEdAD3Zvd25poENGZryghmTWGoNf",
+      "symbol": "CoopBit",
+      "name": "CoopBit",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopBit.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Coopxohj8JUx8D7tk4wE9yVtmmHTqofbTscNN8pThbhX",
+      "symbol": "CoopCrowd",
+      "name": "CoopCrowd",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopCrowd.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CoopRfrqrYzhKo8h9KdhZZ8bkzBfVRMd7YZW5XL2BYiV",
+      "symbol": "CoopLife",
+      "name": "CoopLife",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopLife.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CpAYxMwTkvbDLnN1uxFCMRCsNN4UMraUrpbM6qiSz3UN",
+      "symbol": "CoopPay",
+      "name": "CoopPay",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopPay.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CWLTpcfrBnmn4KfWMuSRRhxJax8pdX4fn7dhooARvhLb",
+      "symbol": "CoopWallet",
+      "name": "CoopWallet",
+      "decimals": 6,
+      "logoURI": "https://cooplife.biz/images/CoopWallet.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "facebook": "https://facebook.com/Coopbit",
+        "instagram": "https://www.instagram.com/CoopBits",
+        "twitter": "https://twitter.com/Coopbitss",
+        "website": "https://coopcrowd.com"
+      }
     }
   ],
   "version": {
