@@ -178299,6 +178299,26 @@
       "name": "WAGMIMEOW",
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/BreezyBabieMint/crypto/main/ObBIQopK_400x400.png"
+    },
+    {
+      "chainId": 101,
+      "address": "CcCWaUcVVN9qDN6YR4rH9uJa6K22qo1zCLQZxPgcK2fP",
+      "symbol": "MOVEFI",
+      "name": "Move-n-Earn Governance Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CcCWaUcVVN9qDN6YR4rH9uJa6K22qo1zCLQZxPgcK2fP/logo.png",
+      "tags": [
+        "governance-token",
+        "movefi",
+        "move-n-earn"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/profile.php?id=100081109356224",
+        "linkedin": "https://www.linkedin.com/company/move-n-earn/",
+        "telegram": "https://t.me/movenearn",
+        "twitter": "https://twitter.com/move_nearn",
+        "website": "https://www.movenearn.com/"
+      }
     }
   ],
   "version": {
