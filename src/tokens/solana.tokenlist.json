@@ -178378,6 +178378,23 @@
       "tags": [
         "shopping"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "62hW2YrTn73no9WTYjg3Us9BdiFguNwzrhNNLyCEpZV9",
+      "symbol": "CTS",
+      "name": "CTS Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/wfp2002/solana-Token/main/logo.png",
+      "tags": [
+        "governance-token",
+        "cts",
+        "ctsnew"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com",
+        "linkedin": "https://www.linkedin.com"
+      }
     }
   ],
   "version": {
