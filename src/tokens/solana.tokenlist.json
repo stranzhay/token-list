@@ -178250,6 +178250,32 @@
         "twitter": "https://twitter.com/ProjectX_sol",
         "website": "https://xtcejorp.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5zJ9buoFkmBQBAiE8cnWrtyhAftdGT8ecKzz1LY1ApGV",
+      "symbol": "DON$",
+      "name": "DONNIEBAGZ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/DonatelloDaDon/OGDONS/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MetaLoDons",
+        "website": "https://metalodons-ogs.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7R4pJpJdzapj2hEfzQR5bp2ApDjqXNRUA5GTngC6xRZX",
+      "symbol": "GB",
+      "name": "GameBeef",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7R4pJpJdzapj2hEfzQR5bp2ApDjqXNRUA5GTngC6xRZX/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
