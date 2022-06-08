@@ -178367,6 +178367,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DkH9gvzRCZzCfYynHgPhk1sbeSATTds81UfRJUvqBC3F",
+      "symbol": "SHOP",
+      "name": "ShopToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DkH9gvzRCZzCfYynHgPhk1sbeSATTds81UfRJUvqBC3F/logo.png",
+      "tags": [
+        "shopping"
+      ]
     }
   ],
   "version": {
