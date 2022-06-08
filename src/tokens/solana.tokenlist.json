@@ -178158,6 +178158,17 @@
       "extensions": {
         "website": "http://rimot.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DUnH17nSFDxvvpTUVLnVMACypDNQ299T4KH61LRfPotz",
+      "symbol": "BUSD",
+      "name": "Blackrock USD",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/xBlackrock/Blackrock_USD/main/LOGO.png",
+      "tags": [
+        "financial-token"
+      ]
     }
   ],
   "version": {
