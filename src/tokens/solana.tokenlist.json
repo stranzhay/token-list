@@ -178265,6 +178265,17 @@
         "twitter": "https://twitter.com/MetaLoDons",
         "website": "https://metalodons-ogs.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7R4pJpJdzapj2hEfzQR5bp2ApDjqXNRUA5GTngC6xRZX",
+      "symbol": "GB",
+      "name": "GameBeef",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7R4pJpJdzapj2hEfzQR5bp2ApDjqXNRUA5GTngC6xRZX/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
