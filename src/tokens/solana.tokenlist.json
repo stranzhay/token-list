@@ -178144,6 +178144,20 @@
         "website": "https://www.famecoin.com/",
         "youtube": "https://www.youtube.com/user/famecoin"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "JEC53jV7dDCd5xVNh28EgK6GjHa1UforPBDMQr6s2fY1",
+      "symbol": "RIMOT",
+      "name": "RiMoT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/crcnum4/rm-asset/main/assets/logo.png",
+      "tags": [
+        "beta-token"
+      ],
+      "extensions": {
+        "website": "http://rimot.com"
+      }
     }
   ],
   "version": {
