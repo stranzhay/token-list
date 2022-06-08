@@ -178345,6 +178345,67 @@
         "twitter": "https://twitter.com/MEKAMOUNTS",
         "website": "https://discord.gg/mekamounts"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "86dwHw2kRkfXWddAJ94zuWvhnKN66tN8nkvZ8LWYNp9g",
+      "symbol": "MCLAB",
+      "name": "MAD CAT LAB",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/madcatlab01/MAD-CAT-LAB/main/test11.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9EmR4ZiZfSRKxWXEUik6dtyGJ47dXzgDZcq2TinAf2Fy",
+      "symbol": "JSC",
+      "name": "JUEGA COIN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/juegaseguro/juega-coin/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "DkH9gvzRCZzCfYynHgPhk1sbeSATTds81UfRJUvqBC3F",
+      "symbol": "SHOP",
+      "name": "ShopToken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DkH9gvzRCZzCfYynHgPhk1sbeSATTds81UfRJUvqBC3F/logo.png",
+      "tags": [
+        "shopping"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "62hW2YrTn73no9WTYjg3Us9BdiFguNwzrhNNLyCEpZV9",
+      "symbol": "CTS",
+      "name": "CTS Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/wfp2002/solana-Token/main/logo.png",
+      "tags": [
+        "governance-token",
+        "cts",
+        "ctsnew"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com",
+        "linkedin": "https://www.linkedin.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "63x2LRcTKVKkZmgq9sse6CytHAjYrEKFVfdMGYRC6QW9",
+      "symbol": "HDCN",
+      "name": "HDCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/dhorvath333/hdcoin-logo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
