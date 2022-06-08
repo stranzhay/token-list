@@ -178479,6 +178479,28 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5TuPwHGENJ8ZyvYZB28taMyh1uFUZH4bdFQfTbSxF1vj",
+      "symbol": "$CACTI",
+      "name": "CACTI TOKEN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5TuPwHGENJ8ZyvYZB28taMyh1uFUZH4bdFQfTbSxF1vj/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FeVooZDV8ihVhwuHVbagriw6rtonLdysXQ52VwqTaVAd",
+      "symbol": "$RYO",
+      "name": "Shin Sengoku RYO",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/shinsengoku-assets-public/ryo-coin.png",
+      "extensions": {
+        "twitter": "https://twitter.com/shinsengokuNFT"
+      }
     }
   ],
   "version": {
