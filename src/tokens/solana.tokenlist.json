@@ -178442,6 +178442,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "47R68vQesdgEAjJN84x7KCHVhabiNenAFfypudyPyemd",
+      "symbol": "GREED",
+      "name": "Greed Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/47R68vQesdgEAjJN84x7KCHVhabiNenAFfypudyPyemd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GreedyGhostsDAO",
+        "website": "https://greedyghosts.io"
+      }
     }
   ],
   "version": {
