@@ -178431,6 +178431,17 @@
         "twitter": "https://twitter.com/tokrlabs",
         "website": "https://www.tokrlabs.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Db93jCqGGjXXywN4rVAgW1uWdQ4bNAW3qzeyfscv23pK",
+      "symbol": "ASR",
+      "name": "Asterisk",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/hotdogofcoldwar/asterisk/main/logo_800_wh.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
