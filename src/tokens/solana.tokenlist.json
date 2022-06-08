@@ -178276,6 +178276,29 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FUgHqdgCrahWJJVUYLy1wJLj1x6nXNqrLzt5YCcWjibc",
+      "symbol": "D0N$",
+      "name": "D0NNIE-BAGZ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/DonatelloDaDon/OGDONS/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MetaLoDons",
+        "website": "https://metalodons-ogs.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5wA3agdxtgddRoM17iCBPbcdS3KwfL7XQ4NxdV7FvusU",
+      "symbol": "WMEOW",
+      "name": "WAGMIMEOW",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/BreezyBabieMint/crypto/main/ObBIQopK_400x400.png"
     }
   ],
   "version": {
