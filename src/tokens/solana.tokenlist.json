@@ -178395,6 +178395,17 @@
         "facebook": "https://www.facebook.com",
         "linkedin": "https://www.linkedin.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "63x2LRcTKVKkZmgq9sse6CytHAjYrEKFVfdMGYRC6QW9",
+      "symbol": "HDCN",
+      "name": "HDCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/dhorvath333/hdcoin-logo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
