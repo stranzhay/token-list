@@ -178417,6 +178417,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "DjrL2ATiHzTg5Rg2EFD24gbV3vLBkeX9Hw29u1KyF15r",
+      "symbol": "tUSDC",
+      "name": "Tokr USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DjrL2ATiHzTg5Rg2EFD24gbV3vLBkeX9Hw29u1KyF15r/logo.png",
+      "extensions": {
+        "github": "https://github.com/Tokr-Labs",
+        "linkedin": "https://www.linkedin.com/company/tokrlabs/",
+        "twitter": "https://twitter.com/tokrlabs",
+        "website": "https://www.tokrlabs.xyz/"
+      }
     }
   ],
   "version": {
