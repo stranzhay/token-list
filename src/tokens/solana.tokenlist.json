@@ -178319,6 +178319,17 @@
         "twitter": "https://twitter.com/move_nearn",
         "website": "https://www.movenearn.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7vVRYg24HvVmgxV4neAog66GjW6aCUwnArvjDn6bgrX5",
+      "symbol": "NECTAR2",
+      "name": "NECTAR2 Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/agave-com/nectar-token/main/logo-sq.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
