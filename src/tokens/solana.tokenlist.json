@@ -178192,6 +178192,14 @@
         "nft",
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "2EVBNgp4JbqZ7iPUbJDu6sgPaxEzUhQo17YB7Vo3s7vG",
+      "symbol": "$TENKA",
+      "name": "TestTenka",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2EVBNgp4JbqZ7iPUbJDu6sgPaxEzUhQo17YB7Vo3s7vG/logo.png"
     }
   ],
   "version": {
