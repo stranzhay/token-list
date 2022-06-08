@@ -178431,6 +178431,54 @@
         "twitter": "https://twitter.com/tokrlabs",
         "website": "https://www.tokrlabs.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Db93jCqGGjXXywN4rVAgW1uWdQ4bNAW3qzeyfscv23pK",
+      "symbol": "ASR",
+      "name": "Asterisk",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/hotdogofcoldwar/asterisk/main/logo_800_wh.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "47R68vQesdgEAjJN84x7KCHVhabiNenAFfypudyPyemd",
+      "symbol": "GREED",
+      "name": "Greed Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/47R68vQesdgEAjJN84x7KCHVhabiNenAFfypudyPyemd/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GreedyGhostsDAO",
+        "website": "https://greedyghosts.io"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4TbrD8U64HHJPJW7QXvGPUuRc4ekmbXHwF3CcZjxZLLL",
+      "symbol": "Fresh",
+      "name": "Fresh Fruit Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Palthe/Freshfruit/main/FreshFruit.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5JsuZkXobxwRhtaGH7KNE3yv2RLZuDkExx7q5ypXyKAD",
+      "symbol": "CHAC",
+      "name": "CHAIR-Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Chair-Guy/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
