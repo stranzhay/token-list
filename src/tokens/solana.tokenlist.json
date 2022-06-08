@@ -178116,6 +178116,34 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Byz39E31u7vyLX2JJD9mANUVrdTkmPgfks2RsivtS1H",
+      "symbol": "Fame",
+      "name": "Famecoin_",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Byz39E31u7vyLX2JJD9mANUVrdTkmPgfks2RsivtS1H/logo.png",
+      "tags": [
+        "Talent-Token",
+        "Sports-Token",
+        "Artists-Token",
+        "Athletes-Token",
+        "Performers-Token",
+        "Personalities-Token",
+        "Personality-Token",
+        "Utility-Tokens",
+        "Gaming",
+        "NFT"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/profile.php?id=100061613650712",
+        "instagram": "https://www.instagram.com/famecoin_",
+        "linkedin": "https://www.linkedin.com/in/famecoin-788a4721b/",
+        "twitter": "https://twitter.com/famecoin_",
+        "website": "https://www.famecoin.com/",
+        "youtube": "https://www.youtube.com/user/famecoin"
+      }
     }
   ],
   "version": {
