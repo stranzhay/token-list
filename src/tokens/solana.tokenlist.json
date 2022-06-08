@@ -178406,6 +178406,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GuLM1PRgJzFGuumTKT7Nkk531R9LXKkbau6bmmZrRZ94",
+      "symbol": "MKS",
+      "name": "Milkshake",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GuLM1PRgJzFGuumTKT7Nkk531R9LXKkbau6bmmZrRZ94/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
