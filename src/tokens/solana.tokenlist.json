@@ -178330,6 +178330,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DEVJp3frkYy9D8oSYcgAapHGAD9pLv4c9ssfBFyNZyJ8",
+      "symbol": "MKM",
+      "name": "MEKAMOUNTS WL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DEVJp3frkYy9D8oSYcgAapHGAD9pLv4c9ssfBFyNZyJ8/mkm747-wl.png",
+      "tags": [
+        "wl-coin-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MEKAMOUNTS",
+        "website": "https://discord.gg/mekamounts"
+      }
     }
   ],
   "version": {
