@@ -178080,6 +178080,20 @@
       "extensions": {
         "twitter": "https://twitter.com/SilverHandsNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8phLV3YLRwud8QohZQnAdKvhjUbte2V75M4wB5uYwPjs",
+      "symbol": "SSGWL",
+      "name": "Shin Sengoku WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8phLV3YLRwud8QohZQnAdKvhjUbte2V75M4wB5uYwPjs/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/shinsengokuNFT"
+      }
     }
   ],
   "version": {
