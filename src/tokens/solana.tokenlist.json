@@ -178490,6 +178490,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FeVooZDV8ihVhwuHVbagriw6rtonLdysXQ52VwqTaVAd",
+      "symbol": "$RYO",
+      "name": "Shin Sengoku RYO",
+      "decimals": 9,
+      "logoURI": "https://storage.googleapis.com/shinsengoku-assets-public/ryo-coin.png",
+      "extensions": {
+        "twitter": "https://twitter.com/shinsengokuNFT"
+      }
     }
   ],
   "version": {
