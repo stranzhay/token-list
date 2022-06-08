@@ -178094,6 +178094,17 @@
       "extensions": {
         "twitter": "https://twitter.com/shinsengokuNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5aYEpMuqNAqwtkKNc475JgFkN1pSgt5MkTjYJRZNQjek",
+      "symbol": "HDCO",
+      "name": "HARDCORES",
+      "decimals": 4,
+      "logoURI": "http://hardcores.tech/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
