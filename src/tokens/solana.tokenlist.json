@@ -178457,6 +178457,17 @@
         "twitter": "https://twitter.com/GreedyGhostsDAO",
         "website": "https://greedyghosts.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4TbrD8U64HHJPJW7QXvGPUuRc4ekmbXHwF3CcZjxZLLL",
+      "symbol": "Fresh",
+      "name": "Fresh Fruit Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Palthe/Freshfruit/main/FreshFruit.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
