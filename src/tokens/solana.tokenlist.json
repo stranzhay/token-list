@@ -178169,6 +178169,17 @@
       "tags": [
         "financial-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2qyNVSZhh7byyhuxBjoLfcQqNDDVv7PK93UVWQQt88Dc",
+      "symbol": "GHGC",
+      "name": "GameingHubGameCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/prijak/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
