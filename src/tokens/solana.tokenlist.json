@@ -178345,6 +178345,17 @@
         "twitter": "https://twitter.com/MEKAMOUNTS",
         "website": "https://discord.gg/mekamounts"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "86dwHw2kRkfXWddAJ94zuWvhnKN66tN8nkvZ8LWYNp9g",
+      "symbol": "MCLAB",
+      "name": "MAD CAT LAB",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/madcatlab01/MAD-CAT-LAB/main/test11.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
