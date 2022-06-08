@@ -178406,6 +178406,31 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GuLM1PRgJzFGuumTKT7Nkk531R9LXKkbau6bmmZrRZ94",
+      "symbol": "MKS",
+      "name": "Milkshake",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GuLM1PRgJzFGuumTKT7Nkk531R9LXKkbau6bmmZrRZ94/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "DjrL2ATiHzTg5Rg2EFD24gbV3vLBkeX9Hw29u1KyF15r",
+      "symbol": "tUSDC",
+      "name": "Tokr USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DjrL2ATiHzTg5Rg2EFD24gbV3vLBkeX9Hw29u1KyF15r/logo.png",
+      "extensions": {
+        "github": "https://github.com/Tokr-Labs",
+        "linkedin": "https://www.linkedin.com/company/tokrlabs/",
+        "twitter": "https://twitter.com/tokrlabs",
+        "website": "https://www.tokrlabs.xyz/"
+      }
     }
   ],
   "version": {
