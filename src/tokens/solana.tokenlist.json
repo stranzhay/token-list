@@ -178532,6 +178532,20 @@
         "twitter": "https://twitter.com/NezumiDominion",
         "website": "https://www.nezumidominion.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9UQJAKB8F1A2Gcz4RsnothGx5aFSvpRzLCNuGdBF2EPQ",
+      "symbol": "SOX",
+      "name": "Socks",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Vasil789/crypto/main/Logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/OkaySocksNFT"
+      }
     }
   ],
   "version": {
