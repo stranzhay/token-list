@@ -178829,6 +178829,40 @@
         "twitter": "https://twitter.com/SugarRealmNFT",
         "website": "https://sugarrealm.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2KLRorQP7aWRGFnKfWQK7yS9cAcJVZPSmMdMpqPkivFY",
+      "symbol": "BJBC",
+      "name": "Brandon Jacobson Business Card",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/IvaldiS6/image/main/BJBC_Logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "linkedin": "https://www.linkedin.com/in/brandon-jacobson-89588617b/",
+        "twitter": "https://twitter.com/SecurePy",
+        "website": "https://github.com/IvaldiS6"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "woLFbe6J43ZPdb2nZ3GRzVEV5153HsZB1kgZYf2ePwF",
+      "symbol": "LWWL",
+      "name": "Lost Wolves WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/woLFbe6J43ZPdb2nZ3GRzVEV5153HsZB1kgZYf2ePwF/logo.png",
+      "tags": [
+        "nft",
+        "WL-token",
+        "LostWolves"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/lostwolves",
+        "twitter": "https://twitter.com/LostWolvesNFT",
+        "website": "https://lostwolves.io/"
+      }
     }
   ],
   "version": {
