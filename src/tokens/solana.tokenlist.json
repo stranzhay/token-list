@@ -178739,6 +178739,17 @@
         "twitter": "https://twitter.com/DeFrameOfficial",
         "website": "https://www.deframe.xyz/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GavGtgnCW8XnsVDbczD9BNo41iaUdqaMKZTbriCnZ2Xa",
+      "symbol": "$CTT",
+      "name": "Caspian Tiger",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArifMammadov/ctt-logo/main/logo%20(1).png",
+      "tags": [
+        "CaspianTiger"
+      ]
     }
   ],
   "version": {
