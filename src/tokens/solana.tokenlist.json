@@ -178707,6 +178707,22 @@
         "twitter": "https://twitter.com/MoneyblockNFT",
         "website": "https://moneyblock.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "fV4L2AkdDDzBGMhMHUJWgXNx5EnEVoUKnAsLfZvHLzp",
+      "symbol": "KHRYSOS",
+      "name": "Khrysos coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/fV4L2AkdDDzBGMhMHUJWgXNx5EnEVoUKnAsLfZvHLzp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/solinos",
+        "twitter": "https://twitter.com/SolinosEC",
+        "website": "https://solinos.xyz"
+      }
     }
   ],
   "version": {
