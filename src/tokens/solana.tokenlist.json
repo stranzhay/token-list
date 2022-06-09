@@ -178605,6 +178605,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4aYNkmdnNzsbTSkMSVpG28zfWwnqS4GxnY9bcq5BH2km",
+      "symbol": "TA",
+      "name": "The Assembly - Mayans",
+      "decimals": 0,
+      "logoURI": "https://cdn.theassembly.gg/mayans/images/985.png?ext=png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/theassembly",
+        "twitter": "https://twitter.com/theassemblynft"
+      }
     }
   ],
   "version": {
