@@ -178605,6 +178605,32 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4aYNkmdnNzsbTSkMSVpG28zfWwnqS4GxnY9bcq5BH2km",
+      "symbol": "TA",
+      "name": "The Assembly - Mayans",
+      "decimals": 0,
+      "logoURI": "https://cdn.theassembly.gg/mayans/images/985.png?ext=png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/theassembly",
+        "twitter": "https://twitter.com/theassemblynft"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "B3EyMsa3LfS68e7mDT3PGH7eAPCoHikXxeqQtgBm8tri",
+      "symbol": "CMC",
+      "name": "ChromosomeCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/vihaan-s1ngla/ChromosomeCoinLogo/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
