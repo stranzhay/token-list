@@ -178679,6 +178679,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ingaAW6YRGVFa4NASZFi9TEhxQcuRfGumGLMVxRSav9",
+      "symbol": "IGTY",
+      "name": "Ingenuity Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ingaAW6YRGVFa4NASZFi9TEhxQcuRfGumGLMVxRSav9/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
