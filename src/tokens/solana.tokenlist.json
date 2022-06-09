@@ -178645,6 +178645,21 @@
       "extensions": {
         "website": "https://www.enrake.com/RAKE/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "64fe4pZcmwZ776F9az8aUGpxrA4MomFwFava8gE9ZqTh",
+      "symbol": "ROCW",
+      "name": "ROCW",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/apecrew/assets/main/Grey.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/9e8R48zMUC",
+        "twitter": "https://twitter.com/robotcrewnft"
+      }
     }
   ],
   "version": {
