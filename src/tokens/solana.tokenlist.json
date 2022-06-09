@@ -178767,6 +178767,20 @@
         "twitter": "https://twitter.com/MoneyblockNFT",
         "website": "https://moneyblock.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HwtcNv5rE6djJUw35FzMUWPSALhC54XGDriwyMxjEUDB",
+      "symbol": "SKEY",
+      "name": "Skey",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SkeyGitHub/skey/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/ZpWDwytKxT"
+      }
     }
   ],
   "version": {
