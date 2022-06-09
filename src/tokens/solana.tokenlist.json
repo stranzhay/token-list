@@ -178516,6 +178516,22 @@
         "description": "http://boredapeyachtclubsol.com/. Enter the link and retrieve your Free Ape from Ethereum, now on Solana!",
         "imageUrl": "https://i.imgur.com/zQebtI8.png"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4ECiWwt2g7TB623UAkyKVWBmcGHGzSTg8pxxknVqhz3X",
+      "symbol": "NDQF",
+      "name": "ND Queen's Favour",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Kikser1214/queen/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/Zm5CvezwTE",
+        "twitter": "https://twitter.com/NezumiDominion",
+        "website": "https://www.nezumidominion.com/"
+      }
     }
   ],
   "version": {
