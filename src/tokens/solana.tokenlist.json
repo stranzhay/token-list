@@ -178557,6 +178557,20 @@
       "tags": [
         "Utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "75EjBJtt2To6ThGyzpJor3mrieXHUvRyATvTKdkuMmuH",
+      "symbol": "RTRO",
+      "name": "Retro",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/josh2212/Retro/main/retro.png",
+      "tags": [
+        "NFTs",
+        "utility-token",
+        "currency-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
