@@ -178668,6 +178668,61 @@
       "name": "Alien Planet",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/FxbkaJPXVJNBz5MGLyPPnAAsZeAHyj6FvvrM2wq3gQfb/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "CTcpr3ZmdSkPp5nqZb7uPUu4RRUzoEgtpFjTFVWrYLGq",
+      "symbol": "$NERC",
+      "name": "NERCOIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jacktheminter/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ingaAW6YRGVFa4NASZFi9TEhxQcuRfGumGLMVxRSav9",
+      "symbol": "IGTY",
+      "name": "Ingenuity Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ingaAW6YRGVFa4NASZFi9TEhxQcuRfGumGLMVxRSav9/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "5hWAkBVZoMq7pGc4k9HsDhfe8cp3WJmTj7iFTqBdv5sv",
+      "symbol": "MONEY",
+      "name": "Moneyblock's Official Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Camelspit/cryptocoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/3YcXhmc3eX",
+        "instagram": "https://instagram.com/MoneyblockNFT",
+        "twitter": "https://twitter.com/MoneyblockNFT",
+        "website": "https://moneyblock.org"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "fV4L2AkdDDzBGMhMHUJWgXNx5EnEVoUKnAsLfZvHLzp",
+      "symbol": "KHRYSOS",
+      "name": "Khrysos coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/fV4L2AkdDDzBGMhMHUJWgXNx5EnEVoUKnAsLfZvHLzp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/solinos",
+        "twitter": "https://twitter.com/SolinosEC",
+        "website": "https://solinos.xyz"
+      }
     }
   ],
   "version": {
