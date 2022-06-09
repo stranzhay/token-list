@@ -178829,6 +178829,22 @@
         "twitter": "https://twitter.com/SugarRealmNFT",
         "website": "https://sugarrealm.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2KLRorQP7aWRGFnKfWQK7yS9cAcJVZPSmMdMpqPkivFY",
+      "symbol": "BJBC",
+      "name": "Brandon Jacobson Business Card",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/IvaldiS6/image/main/BJBC_Logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "linkedin": "https://www.linkedin.com/in/brandon-jacobson-89588617b/",
+        "twitter": "https://twitter.com/SecurePy",
+        "website": "https://github.com/IvaldiS6"
+      }
     }
   ],
   "version": {
