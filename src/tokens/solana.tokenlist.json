@@ -178781,6 +178781,36 @@
       "extensions": {
         "discord": "https://discord.gg/ZpWDwytKxT"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "95scnhfHszv2e1yxtnNuLi9CGi1BvtdpcgLeymdDQRP",
+      "symbol": "FLOUR",
+      "name": "FLOUR - Metaversium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/95scnhfHszv2e1yxtnNuLi9CGi1BvtdpcgLeymdDQRP/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metaversiumgame",
+        "website": "https://metaversium.io/"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "E8ikFWZAo6kiGrsHghUTn3ysfpKVJqyGJfXC2q75fa1C",
+      "symbol": "BREAD",
+      "name": "BREAD - Metaversium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/E8ikFWZAo6kiGrsHghUTn3ysfpKVJqyGJfXC2q75fa1C/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metaversiumgame",
+        "website": "https://metaversium.io/"
+      }
     }
   ],
   "version": {
