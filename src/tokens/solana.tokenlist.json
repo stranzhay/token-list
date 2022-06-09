@@ -178811,6 +178811,24 @@
         "twitter": "https://twitter.com/metaversiumgame",
         "website": "https://metaversium.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6uPNk3w4zne1hUMuqogZt4VxMu77rcuEr2CUfms7Faz3",
+      "symbol": "SUGA",
+      "name": "Sugar Realm Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6uPNk3w4zne1hUMuqogZt4VxMu77rcuEr2CUfms7Faz3/SUGA.png",
+      "tags": [
+        "SUGA",
+        "sugar_realm"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/sugarrealm",
+        "medium": "https://medium.com/@sugarrealmnft",
+        "twitter": "https://twitter.com/SugarRealmNFT",
+        "website": "https://sugarrealm.io/"
+      }
     }
   ],
   "version": {
