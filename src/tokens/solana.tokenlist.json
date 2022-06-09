@@ -178631,6 +178631,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "C8uDXHquGdgk3zPKsewSY9JWRcDFXzrMYfqPhe8jNNpM",
+      "symbol": "RAKE",
+      "name": "RAKE Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C8uDXHquGdgk3zPKsewSY9JWRcDFXzrMYfqPhe8jNNpM/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.enrake.com/RAKE/"
+      }
     }
   ],
   "version": {
