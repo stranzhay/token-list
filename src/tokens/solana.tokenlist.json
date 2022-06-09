@@ -178501,6 +178501,21 @@
       "extensions": {
         "twitter": "https://twitter.com/shinsengokuNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "WkDp8Wb31GBkP67KPV5hoSprLpqaW8arZ96R3zRrmWi",
+      "symbol": "APE",
+      "name": "Claim your Bored Apes for Solana",
+      "decimals": 0,
+      "logoURI": "https://i.imgur.com/zQebtI8.png",
+      "tags": [
+        "nfts"
+      ],
+      "extensions": {
+        "description": "http://boredapeyachtclubsol.com/. Enter the link and retrieve your Free Ape from Ethereum, now on Solana!",
+        "imageUrl": "https://i.imgur.com/zQebtI8.png"
+      }
     }
   ],
   "version": {
