@@ -178546,6 +178546,17 @@
       "extensions": {
         "twitter": "https://twitter.com/OkaySocksNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "76WzDF99CQZoBjh5wz9WD3LQxVd5Mg2GMENcHRh6wih4",
+      "symbol": "MTY",
+      "name": "MTY Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SaviourProject/Mighty-Token-logo/main/logo.png",
+      "tags": [
+        "Utility-token"
+      ]
     }
   ],
   "version": {
