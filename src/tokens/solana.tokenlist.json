@@ -178690,6 +178690,23 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5hWAkBVZoMq7pGc4k9HsDhfe8cp3WJmTj7iFTqBdv5sv",
+      "symbol": "MONEY",
+      "name": "Moneyblock's Official Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Camelspit/cryptocoin/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/3YcXhmc3eX",
+        "instagram": "https://instagram.com/MoneyblockNFT",
+        "twitter": "https://twitter.com/MoneyblockNFT",
+        "website": "https://moneyblock.org"
+      }
     }
   ],
   "version": {
