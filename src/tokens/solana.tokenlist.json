@@ -178571,6 +178571,17 @@
         "currency-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EB3BkQScKDHvBXhoiRJoaYTQLovCExt6sQs8dJBTDgQh",
+      "symbol": "ETRK",
+      "name": "Entrik",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Huffy519/Entrik-Logo/main/elogo.png",
+      "tags": [
+        "Utility-token"
+      ]
     }
   ],
   "version": {
