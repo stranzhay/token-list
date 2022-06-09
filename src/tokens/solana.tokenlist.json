@@ -178845,6 +178845,24 @@
         "twitter": "https://twitter.com/SecurePy",
         "website": "https://github.com/IvaldiS6"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "woLFbe6J43ZPdb2nZ3GRzVEV5153HsZB1kgZYf2ePwF",
+      "symbol": "LWWL",
+      "name": "Lost Wolves WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/woLFbe6J43ZPdb2nZ3GRzVEV5153HsZB1kgZYf2ePwF/logo.png",
+      "tags": [
+        "nft",
+        "WL-token",
+        "LostWolves"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/lostwolves",
+        "twitter": "https://twitter.com/LostWolvesNFT",
+        "website": "https://lostwolves.io/"
+      }
     }
   ],
   "version": {
