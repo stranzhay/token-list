@@ -178863,6 +178863,22 @@
         "twitter": "https://twitter.com/LostWolvesNFT",
         "website": "https://lostwolves.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GAsp3xeG4LQLjyJnT7ochh9gKaF17c7ssTjjPS8B1mQv",
+      "symbol": "ggRAY",
+      "name": "ggRAY",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GAsp3xeG4LQLjyJnT7ochh9gKaF17c7ssTjjPS8B1mQv/logo.png",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/SgKffK9X76",
+        "twitter": "https://twitter.com/goblingold_fi",
+        "website": "https://goblin.gold"
+      }
     }
   ],
   "version": {
