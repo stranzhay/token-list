@@ -178723,6 +178723,22 @@
         "twitter": "https://twitter.com/SolinosEC",
         "website": "https://solinos.xyz"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EZANpsohLdDWTT8xrQbYBwrVSz6bg31qRycMw6TTr3bp",
+      "symbol": "DWT",
+      "name": "DeFrame WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EZANpsohLdDWTT8xrQbYBwrVSz6bg31qRycMw6TTr3bp/logo.png",
+      "tags": [
+        "NFT",
+        "wl-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DeFrameOfficial",
+        "website": "https://www.deframe.xyz/"
+      }
     }
   ],
   "version": {
