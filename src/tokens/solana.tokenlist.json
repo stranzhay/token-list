@@ -178594,6 +178594,17 @@
         "eighthcoin",
         "eight"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "C4VgdQfLjMr2oWoFygk3KY6uM8kbPEgGvTgj7FPWZjCy",
+      "symbol": "BAAN",
+      "name": "BAAN Token",
+      "decimals": 9,
+      "logoURI": "https://i.postimg.cc/FzTd0ccs/48342a315c92449483b0f4d6e69c177a.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
