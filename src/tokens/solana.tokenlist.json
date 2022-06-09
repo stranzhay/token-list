@@ -178668,6 +178668,17 @@
       "name": "Alien Planet",
       "decimals": 9,
       "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/FxbkaJPXVJNBz5MGLyPPnAAsZeAHyj6FvvrM2wq3gQfb/logo.png?raw=true"
+    },
+    {
+      "chainId": 101,
+      "address": "CTcpr3ZmdSkPp5nqZb7uPUu4RRUzoEgtpFjTFVWrYLGq",
+      "symbol": "$NERC",
+      "name": "NERCOIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jacktheminter/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
