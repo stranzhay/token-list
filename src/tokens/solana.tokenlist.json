@@ -178660,6 +178660,14 @@
         "discord": "https://discord.com/invite/9e8R48zMUC",
         "twitter": "https://twitter.com/robotcrewnft"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FxbkaJPXVJNBz5MGLyPPnAAsZeAHyj6FvvrM2wq3gQfb",
+      "symbol": "TAP",
+      "name": "Alien Planet",
+      "decimals": 9,
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/FxbkaJPXVJNBz5MGLyPPnAAsZeAHyj6FvvrM2wq3gQfb/logo.png?raw=true"
     }
   ],
   "version": {
