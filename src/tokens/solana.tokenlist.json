@@ -133276,11 +133276,11 @@
     },
     {
       "chainId": 101,
-      "address": "7ZZXDHWUZgJKDybfPwo2Y2cJQuTeFCAmTFnGaiAFGy4j",
+      "address": "CcaKx6adqp8wDeksiR15x8HMgBzjz8QY6pJCmRZQPXAB",
       "symbol": "HAY",
       "name": "SLA Hay Token",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ZZXDHWUZgJKDybfPwo2Y2cJQuTeFCAmTFnGaiAFGy4j/Hay.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CcaKx6adqp8wDeksiR15x8HMgBzjz8QY6pJCmRZQPXAB/Hay.png",
       "tags": [
         "utility-token"
       ],
