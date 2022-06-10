@@ -179074,6 +179074,18 @@
         "twitter": "https://twitter.com/Wowswap_io",
         "website": "https://wowswap.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3TsqAMYmuRX1ct14GQbN5Unu3J1UUJawHFDtEu8notMe",
+      "symbol": "NOTME",
+      "name": "Notme Or You",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Wcworker/Wcdonalds/main/server.png",
+      "tags": [
+        "whitelist-token",
+        "utility-token"
+      ]
     }
   ],
   "version": {
