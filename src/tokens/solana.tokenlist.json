@@ -179114,6 +179114,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ELo1g1ZxbYenka1dKgn9Hr4TWY7UZVw4iPb4BaYu64Ve",
+      "symbol": "QANON",
+      "name": "QAnon Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ELo1g1ZxbYenka1dKgn9Hr4TWY7UZVw4iPb4BaYu64Ve/logo.svg"
     }
   ],
   "version": {
