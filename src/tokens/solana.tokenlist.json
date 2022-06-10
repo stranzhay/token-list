@@ -179008,6 +179008,21 @@
       "extensions": {
         "twitter": "https://twitter.com/KozyKoalasNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ReEfAp8QkiW3J7JaRJpNWvrJKWY77t4f4UuBKQ5Kpvu",
+      "symbol": "$REEFER",
+      "name": "REEFER",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ReEfAp8QkiW3J7JaRJpNWvrJKWY77t4f4UuBKQ5Kpvu/logo.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MadOnReefer",
+        "website": "https://madonreefer.com/"
+      }
     }
   ],
   "version": {
