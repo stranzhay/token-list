@@ -179147,6 +179147,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DGPw3zcZuMxoVmnEQA9uhZDn9Tg2ynyaBrbULRQ8y1Gh",
+      "symbol": "DEGEPASS",
+      "name": "degenerative multipass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DGPw3zcZuMxoVmnEQA9uhZDn9Tg2ynyaBrbULRQ8y1Gh/logo.png",
+      "tags": [
+        "security-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/A3PeauVFTr",
+        "twitter": "https://twitter.com/degenespace",
+        "website": "https://degenerative.space/"
+      }
     }
   ],
   "version": {
