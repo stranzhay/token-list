@@ -179147,6 +179147,38 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DGPw3zcZuMxoVmnEQA9uhZDn9Tg2ynyaBrbULRQ8y1Gh",
+      "symbol": "DEGEPASS",
+      "name": "degenerative multipass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DGPw3zcZuMxoVmnEQA9uhZDn9Tg2ynyaBrbULRQ8y1Gh/logo.png",
+      "tags": [
+        "security-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/A3PeauVFTr",
+        "twitter": "https://twitter.com/degenespace",
+        "website": "https://degenerative.space/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "kGFcaA8Xcyr9BtusTMHXJHvsBe6mU5yTb4hbhA6EnXA",
+      "symbol": "$NATU",
+      "name": "NATU Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kGFcaA8Xcyr9BtusTMHXJHvsBe6mU5yTb4hbhA6EnXA/logo_natu.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/nahavi",
+        "twitter": "https://twitter.com/WanderingNahavi",
+        "website": "https://nahavi.io/"
+      }
     }
   ],
   "version": {
