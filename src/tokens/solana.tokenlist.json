@@ -179086,6 +179086,23 @@
         "whitelist-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6LetM1yRt8zPtyZdsRfdy7EPYPhZhs1ojzDqgPPPv3Wa",
+      "symbol": "MONEY",
+      "name": "Moneyblock",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Kryptoknife/crypto/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/3YcXhmc3eX",
+        "instagram": "https://instagram.com/MoneyblockNFT",
+        "twitter": "https://twitter.com/MoneyblockNFT",
+        "website": "https://moneyblock.org"
+      }
     }
   ],
   "version": {
