@@ -178965,6 +178965,17 @@
         "discord": "https://discord.gg/wxe2vRaVZp",
         "twitter": "https://twitter.com/solotmachinehd"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5VgCcY21XsrCgAPqdKtii3ryFcoyyaARuFcSkF5mEi4j",
+      "symbol": "RL",
+      "name": "Red Lion",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/redhorn1991/RedHornCrypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
