@@ -178895,6 +178895,22 @@
         "twitter": "https://twitter.com/DegenTrashPanda",
         "website": "https://degentrashpandas.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "rogue3qZEABqmjpL9orMosdBh2a1rfmpoDKfPrztG1K",
+      "symbol": "ROGUE",
+      "name": "ROGUE Token",
+      "decimals": 7,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rogue3qZEABqmjpL9orMosdBh2a1rfmpoDKfPrztG1K/logo.svg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/roguesharks",
+        "twitter": "https://twitter.com/RogueSharks",
+        "website": "https://www.roguesharks.org/"
+      }
     }
   ],
   "version": {
