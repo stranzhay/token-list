@@ -178911,6 +178911,14 @@
         "twitter": "https://twitter.com/RogueSharks",
         "website": "https://www.roguesharks.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "To6JP3WdnzttxLJzjE3dtxEQ7V5j67tffRPW6UYngZn",
+      "symbol": "TG",
+      "name": "Tokyo Glitch Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/To6JP3WdnzttxLJzjE3dtxEQ7V5j67tffRPW6UYngZn/logo.png"
     }
   ],
   "version": {
