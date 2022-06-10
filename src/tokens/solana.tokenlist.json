@@ -178919,6 +178919,14 @@
       "name": "Tokyo Glitch Whitelist Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/To6JP3WdnzttxLJzjE3dtxEQ7V5j67tffRPW6UYngZn/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "MARKh1FM3eWqtuAzUytgoLaVcKNo5iRJLK7kvvfmwY6",
+      "symbol": "$MARK",
+      "name": "Mark Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MARKh1FM3eWqtuAzUytgoLaVcKNo5iRJLK7kvvfmwY6/logo.png"
     }
   ],
   "version": {
