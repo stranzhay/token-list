@@ -178927,6 +178927,14 @@
       "name": "Mark Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MARKh1FM3eWqtuAzUytgoLaVcKNo5iRJLK7kvvfmwY6/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "BEERyhYPMdofQP4dLrw3LN5DtU536KzWonhHbYSr7Fbp",
+      "symbol": "$BEER",
+      "name": "Red Panda Party Club Beer Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEERyhYPMdofQP4dLrw3LN5DtU536KzWonhHbYSr7Fbp/logo.png"
     }
   ],
   "version": {
