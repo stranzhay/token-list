@@ -179103,6 +179103,39 @@
         "twitter": "https://twitter.com/MoneyblockNFT",
         "website": "https://moneyblock.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CZxkoQ6rjc7bAm3ZZekaRmtbtb5bDNLc67HCbe4zHKT3",
+      "symbol": "CONGA",
+      "name": "CONGA COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/congaFX/token/main/CongaFX%20Icon.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ELo1g1ZxbYenka1dKgn9Hr4TWY7UZVw4iPb4BaYu64Ve",
+      "symbol": "QANON",
+      "name": "QAnon Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ELo1g1ZxbYenka1dKgn9Hr4TWY7UZVw4iPb4BaYu64Ve/logo.svg"
+    },
+    {
+      "chainId": 101,
+      "address": "3wBnQPk4CgaCXWDSGxKFYiKhRznzyCBnsLNeoLmMkVwk",
+      "symbol": "SHOE",
+      "name": "Horsemen Society",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Horsemen369/shoelog/main/shoelogo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HorsemenNft"
+      }
     }
   ],
   "version": {
