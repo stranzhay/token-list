@@ -179122,6 +179122,20 @@
       "name": "QAnon Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ELo1g1ZxbYenka1dKgn9Hr4TWY7UZVw4iPb4BaYu64Ve/logo.svg"
+    },
+    {
+      "chainId": 101,
+      "address": "3wBnQPk4CgaCXWDSGxKFYiKhRznzyCBnsLNeoLmMkVwk",
+      "symbol": "SHOE",
+      "name": "Horsemen Society",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Horsemen369/shoelog/main/shoelogo.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HorsemenNft"
+      }
     }
   ],
   "version": {
