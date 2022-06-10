@@ -179048,6 +179048,61 @@
       "extensions": {
         "website": "https://precious.capital/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6CKXpW4KAiAJt9Exj9nneqS2vyFqj8ABRMvXyYhoa2M9",
+      "symbol": "WOW",
+      "name": "WOWswap Token (Portal)",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6CKXpW4KAiAJt9Exj9nneqS2vyFqj8ABRMvXyYhoa2M9/logo.png",
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "address": "0x4da996c5fe84755c80e108cf96fe705174c5e36a",
+        "assetContract": "https://bscscan.com/address/0x4da996c5fe84755c80e108cf96fe705174c5e36a",
+        "bridgeContract": "https://bscscan.com/address/0xb6f6d86a8f9879a9c87f643768d9efc38c1da6e7",
+        "coingeckoId": "wowswap",
+        "coinmarketcap": "https://coinmarketcap.com/ru/currencies/wowswap/",
+        "description": "WOWswap is decentralized leverage trading \u0026 lending protocol that runs on Ethereum, BNB Chain, Avalanche, IoTeX, Solana and Polygon.",
+        "discord": "https://discord.gg/KFQa6pECmY",
+        "medium": "https://wowswap-io.medium.com/",
+        "reddit": "https://www.reddit.com/r/Wowswap_io/",
+        "telegram": "https://t.me/wowswap",
+        "twitter": "https://twitter.com/Wowswap_io",
+        "website": "https://wowswap.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3TsqAMYmuRX1ct14GQbN5Unu3J1UUJawHFDtEu8notMe",
+      "symbol": "NOTME",
+      "name": "Notme Or You",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Wcworker/Wcdonalds/main/server.png",
+      "tags": [
+        "whitelist-token",
+        "utility-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6LetM1yRt8zPtyZdsRfdy7EPYPhZhs1ojzDqgPPPv3Wa",
+      "symbol": "MONEY",
+      "name": "Moneyblock",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Kryptoknife/crypto/main/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/3YcXhmc3eX",
+        "instagram": "https://instagram.com/MoneyblockNFT",
+        "twitter": "https://twitter.com/MoneyblockNFT",
+        "website": "https://moneyblock.org"
+      }
     }
   ],
   "version": {
