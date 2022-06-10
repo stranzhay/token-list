@@ -178976,6 +178976,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "K1EFss6frvERxWBF3qBmuApG1qFBA8GVXyi2viXGqXK",
+      "symbol": "$KIEF",
+      "name": "KIEF",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/K1EFss6frvERxWBF3qBmuApG1qFBA8GVXyi2viXGqXK/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/tstonedfrogz",
+        "twitter": "https://twitter.com/TStonedFrogz",
+        "website": "https://tstonedfrogz.com/"
+      }
     }
   ],
   "version": {
