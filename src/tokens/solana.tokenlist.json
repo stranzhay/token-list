@@ -178879,6 +178879,22 @@
         "twitter": "https://twitter.com/goblingold_fi",
         "website": "https://goblin.gold"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DTPMARh15YSqggNbMLECj8RxVoxfhtobyyCLiwEeVwZu",
+      "symbol": "DTPM",
+      "name": "Degen Trash Panda Merch Token",
+      "decimals": 0,
+      "logoURI": "https://arweave.net/jEVnuhOv79oTVfksVmlJhc7E1GsLgeXM8_7aAp1TjiY",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/4wH2dZbDH2",
+        "twitter": "https://twitter.com/DegenTrashPanda",
+        "website": "https://degentrashpandas.com"
+      }
     }
   ],
   "version": {
