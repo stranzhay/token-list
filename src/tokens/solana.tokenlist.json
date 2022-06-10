@@ -179204,6 +179204,42 @@
       "extensions": {
         "discord": "https://discord.gg/communi3"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J5kquaWo4zCzfwtiec8ZCyW9XjpzqgD5cPV4A7KLCNRh",
+      "symbol": "HYWDFB",
+      "name": "First Breath",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J5kquaWo4zCzfwtiec8ZCyW9XjpzqgD5cPV4A7KLCNRh/logo.png",
+      "tags": [
+        "utility-token",
+        "proof-of-attendance"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/helloyogaworld",
+        "instagram": "https://www.instagram.com/helloyogaworlddao",
+        "twitter": "https://twitter.com/helloyogaworld",
+        "website": "https://helloyogaworld.com/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "77WM3FzFJKMAzgGptDK2dFSmBKfSDjt6fFAeFZZqgHUd",
+      "symbol": "HYWDKA",
+      "name": "22 06 11 Global Flow 001 Kenya Africa",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/77WM3FzFJKMAzgGptDK2dFSmBKfSDjt6fFAeFZZqgHUd/logo.png",
+      "tags": [
+        "utility-token",
+        "proof-of-attendance"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/helloyogaworld",
+        "instagram": "https://www.instagram.com/helloyogaworlddao",
+        "twitter": "https://twitter.com/helloyogaworld",
+        "website": "https://helloyogaworld.com/"
+      }
     }
   ],
   "version": {
