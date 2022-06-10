@@ -178935,6 +178935,21 @@
       "name": "Red Panda Party Club Beer Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEERyhYPMdofQP4dLrw3LN5DtU536KzWonhHbYSr7Fbp/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "541xHAw1xSH6aCUBDJR3zcgBBbedBm2LU3yoqqhGvVA",
+      "symbol": "SLVR",
+      "name": "Silver Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/541xHAw1xSH6aCUBDJR3zcgBBbedBm2LU3yoqqhGvVA/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SilverHandsNFT"
+      }
     }
   ],
   "version": {
