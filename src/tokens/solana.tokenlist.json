@@ -179034,6 +179034,20 @@
       "tags": [
         "stepogram-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6nyiZ7uHKPHRhZa6nw2eBS4njxStM6kmEUr6uLFhJz9Z",
+      "symbol": "PCS",
+      "name": "Precious Jewelry",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6nyiZ7uHKPHRhZa6nw2eBS4njxStM6kmEUr6uLFhJz9Z/pcs_ico.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://precious.capital/"
+      }
     }
   ],
   "version": {
