@@ -179556,6 +179556,22 @@
         "twitter": "https://twitter.com/mahjongdogs",
         "website": "https://www.mahjongdogs.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "wofMXpfx7RrbPUsUbUmcYGFsbCX8drjtgP6siXQDPhN",
+      "symbol": "PFWL",
+      "name": "Private Foxes Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/wofMXpfx7RrbPUsUbUmcYGFsbCX8drjtgP6siXQDPhN/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/privatefoxes",
+        "twitter": "https://twitter.com/privatefoxes",
+        "website": "https://www.privatefoxes.com/"
+      }
     }
   ],
   "version": {
