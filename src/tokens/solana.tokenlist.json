@@ -179275,6 +179275,60 @@
       "name": "MechaCats WL Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MciwQ8uyfRYZMGauY6HdvkoUtuZVfLQqq5wcwBLGFEJ/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "CEJEdxUY67GLg5MJoagzgDhJ9LmuZYjr7styRX4tz4pk",
+      "symbol": "LDF",
+      "name": "LO DEI FONG",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CEJEdxUY67GLg5MJoagzgDhJ9LmuZYjr7styRX4tz4pk/logo.png",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "3G23ehQ6puSm6e29q7CN6uA1kMVpwiTsMWJb3KrE5RwC",
+      "symbol": "SNY",
+      "name": "SUN NAM YUEN",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3G23ehQ6puSm6e29q7CN6uA1kMVpwiTsMWJb3KrE5RwC/logo.png",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "8kEmKXTR36G96QUk6m5y4MeRNCg7Z3HjtUJSahWedPos",
+      "symbol": "WWH",
+      "name": "WaitWaitHea",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8kEmKXTR36G96QUk6m5y4MeRNCg7Z3HjtUJSahWedPos/logo.png",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4JWktLr39ZbyutVnym7wKxV1RDoJz7ifDYxMUHDmAbPB",
+      "symbol": "DMV",
+      "name": "DARK COIN",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Shaik-Sirajuddin/RepoForUploadsNeverDelete/master/Images/darkcoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/dh3gWTFj",
+        "facebook": "https://www.facebook.com/darkcoindmv",
+        "github": "https://github.com/darkcoindmv",
+        "instagram": "https://www.instagram.com/helloyogaworlddao",
+        "reddit": "https://www.reddit.com/user/darkcoindmv",
+        "telegram": "https://t.me/darkcoindmv",
+        "twitter": "https://twitter.com/darkcoindmv",
+        "website": "https://www.darktoken.org"
+      }
     }
   ],
   "version": {
