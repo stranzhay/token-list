@@ -179368,6 +179368,17 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "FUonikhC5D3WBU7zkVoYWYTKMwarxFbyfuC54Hd29UPw",
+      "symbol": "TBDG1",
+      "name": "T_BDG_1",
+      "decimals": 1,
+      "logoURI": "https://ipfs.io/ipfs/QmVAs4Bi62kYkUku2HJ7aRnmuCLCQpXoRd7PCHZJxjXTze",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
