@@ -179267,6 +179267,14 @@
         "instagram": "https://www.instagram.com/angkorcrypto",
         "twitter": "https://twitter.com/angkorcrypto"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "MciwQ8uyfRYZMGauY6HdvkoUtuZVfLQqq5wcwBLGFEJ",
+      "symbol": "MC",
+      "name": "MechaCats WL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MciwQ8uyfRYZMGauY6HdvkoUtuZVfLQqq5wcwBLGFEJ/logo.png"
     }
   ],
   "version": {
