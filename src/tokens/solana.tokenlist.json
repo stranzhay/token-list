@@ -179464,6 +179464,21 @@
         "description": "The FOOD \u0026 Backbone to the Kuma Kingdom",
         "website": "https://okaykumas.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9LDkpLUuETkmYd7KrdPXgzMdKs5hMSKt177UepRW66x6",
+      "symbol": "STRYS",
+      "name": "Strays Fish Bone",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9LDkpLUuETkmYd7KrdPXgzMdKs5hMSKt177UepRW66x6/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/jn5athqc",
+        "twitter": "https://twitter.com/modcatsclub"
+      }
     }
   ],
   "version": {
