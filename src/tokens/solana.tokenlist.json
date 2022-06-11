@@ -179507,6 +179507,55 @@
       "extensions": {
         "website": "https://policeacademynft.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "943NSd9g9t71hZcw3AR3qbHMVCxy6sXWwYKELbzJjVms",
+      "symbol": "NATU",
+      "name": "NATU",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/943NSd9g9t71hZcw3AR3qbHMVCxy6sXWwYKELbzJjVms/natu.png",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "http://discord.gg/nahavi",
+        "twitter": "https://twitter.com/WanderingNahavi",
+        "website": "https://nahavi.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4tejdaGTug9xWg58f92zmFMrsoWqCnvt8WaVuCiP3uUy",
+      "symbol": "ICHIGO",
+      "name": "ICHIGO",
+      "decimals": 8,
+      "logoURI": "https://ichigo.network/logos/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ichigonetwork",
+        "website": "https://ichigo.network/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "MJfiLqG26ysMHqzg6quVoUERBh3hHo41JJwtg7crmU2",
+      "symbol": "MJDOG",
+      "name": "Mahjong Dogs OG Whitelist Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MahjongDogs/assets/main/MJDOG%20Token.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/F7qWPFD5z6",
+        "twitter": "https://twitter.com/mahjongdogs",
+        "website": "https://www.mahjongdogs.com/"
+      }
     }
   ],
   "version": {
