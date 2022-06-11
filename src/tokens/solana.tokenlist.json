@@ -179341,6 +179341,22 @@
         "utility-token",
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BRKZbe8hFPmiJeBa94yARQ2RQ8KJQgRdnGMo7o6Wu1DC",
+      "symbol": "BRICKZ",
+      "name": "BRICKZ",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/thomasbuck810/BRICKZ/main/BRICKZ-2.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/metafigz",
+        "twitter": "https://twitter.com/metafigznft",
+        "website": "https://metafigz.com"
+      }
     }
   ],
   "version": {
