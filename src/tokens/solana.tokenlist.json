@@ -179572,6 +179572,17 @@
         "twitter": "https://twitter.com/privatefoxes",
         "website": "https://www.privatefoxes.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C7wDAivGdaVHtLJqiSfjgZWUwy1c53YNsDWtf8iKWCJj",
+      "symbol": "PNL",
+      "name": "CRYPTOPNL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/R-MiN/PNL/main/LOGO.jpg",
+      "tags": [
+        "NFT"
+      ]
     }
   ],
   "version": {
