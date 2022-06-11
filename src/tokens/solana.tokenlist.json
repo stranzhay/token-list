@@ -179610,6 +179610,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "223Zo5YTCawWQ3AQcwJCKoxrvPHu6L6Wb5QC7nCvWLQ2",
+      "symbol": "$GABY",
+      "name": "GABY CORNWALL Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/223Zo5YTCawWQ3AQcwJCKoxrvPHu6L6Wb5QC7nCvWLQ2/logo.png"
     }
   ],
   "version": {
