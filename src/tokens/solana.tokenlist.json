@@ -179179,6 +179179,17 @@
         "twitter": "https://twitter.com/WanderingNahavi",
         "website": "https://nahavi.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2TyHNzQQqoytGnznVnFbFvg8qQf9ASeaPW9TzNxhC3GF",
+      "symbol": "DRACCOIN",
+      "name": "Draconic",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/furfibre/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
