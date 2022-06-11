@@ -179395,6 +179395,17 @@
         "twitter": "https://twitter.com/mahjongdogs",
         "website": "https://www.mahjongdogs.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3t1VbGif4EuuUyxjqCeTnzWBAeSxBVTJTuPZRgchC16B",
+      "symbol": "CUPT",
+      "name": "Champions Uniting Programme Token",
+      "decimals": 0,
+      "logoURI": "https://github.dev/Shent/token-list/assets/3t1VbGif4EuuUyxjqCeTnzWBAeSxBVTJTuPZRgchC16B/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
