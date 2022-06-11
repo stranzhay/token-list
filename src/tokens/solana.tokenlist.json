@@ -179190,6 +179190,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "B8WQQJ5uBXqGFYbdHhX6Y4YWxXHBtAFEL7YriKtyHH8o",
+      "symbol": "MANI",
+      "name": "Mania Token",
+      "decimals": 9,
+      "logoURI": "https://resource-branding-assets.s3.us-west-2.amazonaws.com/sponsor_communi3/nft_mint_token_img.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/communi3"
+      }
     }
   ],
   "version": {
