@@ -179438,6 +179438,17 @@
         "twitter": "https://twitter.com/SolanaWagmiBros",
         "website": "https://wagmibros.club/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AgMRXkwzXk8BwUs8e58wF5LhvLfCieL2tEG9ASdueA52",
+      "symbol": "4LC",
+      "name": "Four Leaf Clovers",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kevinyuhk/crypto/main/Logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
