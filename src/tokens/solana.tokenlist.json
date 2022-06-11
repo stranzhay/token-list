@@ -179632,6 +179632,17 @@
       "extensions": {
         "twitter": "https://twitter.com/ShroudedNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "En1DhX7z4vAYxLu74AHXaL8DRhJ1Trwr4ShbsTf8SVz",
+      "symbol": "KRMC",
+      "name": "Karen R M Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dakender/Karen-Coin/main/logo-karen.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
