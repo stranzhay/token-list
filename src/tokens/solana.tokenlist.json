@@ -179395,6 +179395,32 @@
         "twitter": "https://twitter.com/mahjongdogs",
         "website": "https://www.mahjongdogs.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3t1VbGif4EuuUyxjqCeTnzWBAeSxBVTJTuPZRgchC16B",
+      "symbol": "CUPT",
+      "name": "Champions Uniting Programme Token",
+      "decimals": 0,
+      "logoURI": "https://github.dev/Shent/token-list/assets/3t1VbGif4EuuUyxjqCeTnzWBAeSxBVTJTuPZRgchC16B/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh",
+      "symbol": "ARB",
+      "name": "ARB Protocol",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ARBProtocol/arbprotocol/main/IMG_3600.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/M4F8RKqgce",
+        "twitter": "https://twitter.com/arbprotocol"
+      }
     }
   ],
   "version": {
