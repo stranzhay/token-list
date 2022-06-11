@@ -179524,6 +179524,22 @@
         "twitter": "https://twitter.com/WanderingNahavi",
         "website": "https://nahavi.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4tejdaGTug9xWg58f92zmFMrsoWqCnvt8WaVuCiP3uUy",
+      "symbol": "ICHIGO",
+      "name": "ICHIGO",
+      "decimals": 8,
+      "logoURI": "https://ichigo.network/logos/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ichigonetwork",
+        "website": "https://ichigo.network/"
+      }
     }
   ],
   "version": {
