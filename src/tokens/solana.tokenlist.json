@@ -179618,6 +179618,20 @@
       "name": "GABY CORNWALL Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/223Zo5YTCawWQ3AQcwJCKoxrvPHu6L6Wb5QC7nCvWLQ2/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "PLaYysuBswgDZB2vXCz89pukmkcd5QjvBoSxfVwBaKZ",
+      "symbol": "SHrouded",
+      "name": "Shrouded Playground Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PLaYysuBswgDZB2vXCz89pukmkcd5QjvBoSxfVwBaKZ/logo.png",
+      "tags": [
+        "Whitelist-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ShroudedNFT"
+      }
     }
   ],
   "version": {
