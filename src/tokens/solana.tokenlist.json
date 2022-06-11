@@ -179583,6 +179583,22 @@
       "tags": [
         "NFT"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5s2qavsSBLHuoyiNY394t81FtE2YU6PkDdqy39a2mXdk",
+      "symbol": "KUMA",
+      "name": "Official Kuma Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5s2qavsSBLHuoyiNY394t81FtE2YU6PkDdqy39a2mXdk/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/krT4seXKcV",
+        "twitter": "https://twitter.com/okaykumasdao",
+        "website": "https://okaykumas.com"
+      }
     }
   ],
   "version": {
