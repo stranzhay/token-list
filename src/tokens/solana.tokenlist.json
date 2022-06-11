@@ -179491,6 +179491,22 @@
         "twitter": "https://twitter.com/HeroesOfAstron",
         "website": "https://heroesofastron.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FxcEpasqzkwo5YzZLADLwL9ySLQnpwFCzzxuc9GP5ytu",
+      "symbol": "$PANFT",
+      "name": "PA NFT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FxcEpasqzkwo5YzZLADLwL9ySLQnpwFCzzxuc9GP5ytu/logo.png",
+      "tags": [
+        "utility-token",
+        "social-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://policeacademynft.com"
+      }
     }
   ],
   "version": {
