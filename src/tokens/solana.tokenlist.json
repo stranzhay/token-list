@@ -179479,6 +179479,18 @@
         "discord": "https://discord.gg/jn5athqc",
         "twitter": "https://twitter.com/modcatsclub"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DUM5J59yrYGukU52i1hC6YGZQ8Bfg7ppVpsYwJDF41f6",
+      "symbol": "NKL",
+      "name": "Nickel",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUM5J59yrYGukU52i1hC6YGZQ8Bfg7ppVpsYwJDF41f6/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/HeroesOfAstron",
+        "website": "https://heroesofastron.com"
+      }
     }
   ],
   "version": {
