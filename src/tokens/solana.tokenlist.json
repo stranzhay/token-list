@@ -179240,6 +179240,17 @@
         "twitter": "https://twitter.com/helloyogaworld",
         "website": "https://helloyogaworld.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GLRD5VsCsKr4E1h22PFgfgP6pYaxv3o1doRnSeTWtw1v",
+      "symbol": "RGTT",
+      "name": "Rug-Tug Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/RandomHorizon/Rug-Tug-logo/main/rugtuglogo.png",
+      "tags": [
+        "Social-token"
+      ]
     }
   ],
   "version": {
