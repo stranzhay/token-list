@@ -179449,6 +179449,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EqCgGcBmRKo6sP3T84oKZBmH19bSGK4Npi5ySGCeHF23",
+      "symbol": "OKE",
+      "name": "Kuma Coin",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EqCgGcBmRKo6sP3T84oKZBmH19bSGK4Npi5ySGCeHF23/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "The FOOD \u0026 Backbone to the Kuma Kingdom",
+        "website": "https://okaykumas.com"
+      }
     }
   ],
   "version": {
