@@ -179651,6 +179651,18 @@
       "name": "Nan Feng Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GvmTHnBcj6t9uRShDggjJfAFEWs3wJpEpNYAAAPwuu8N/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "DyYPwCYLNrxKyBS53xhEN3PPD8GECbkVUwRqWU6Shru3",
+      "symbol": "BSPCP",
+      "name": "Brainstorm Capital Investment",
+      "decimals": 0,
+      "logoURI": "https://github.com/seanklee0810/bchain/blob/main/logo.png",
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
