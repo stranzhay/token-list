@@ -179892,6 +179892,40 @@
         "twitter": "https://twitter.com/TakeoNFT",
         "website": "https://www.takeo.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BdWjY3KPmr5KjrXRyaWr3K7gA9KFdjugcEodjpTDSxx",
+      "symbol": "TakeoCatsWL",
+      "name": "Takeo Whitelist",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh/samuKatana/WL_LOGO_TOKEN/wllogo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TakeoNFT",
+        "website": "https://www.takeo.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6PA4dYYF654sfUK1eDd2RCihbF6L71JyGoyAfcUb9V5u",
+      "symbol": "BECCA",
+      "name": "Becca Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dakender/Becca-Coin/main/logo-becca.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "ESVGBqewDDcmY9WYX9LekSy8E1v8Q8sXXK5WkQAtCWRM",
+      "symbol": "ITC",
+      "name": "InventorsCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ESVGBqewDDcmY9WYX9LekSy8E1v8Q8sXXK5WkQAtCWRM/logo.png"
     }
   ],
   "version": {
