@@ -179926,6 +179926,22 @@
       "name": "InventorsCoin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ESVGBqewDDcmY9WYX9LekSy8E1v8Q8sXXK5WkQAtCWRM/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "neoSCa3b4HJR6TF3pVQzph3yrcd97ZMovCVaRC8bRss",
+      "symbol": "$NEO",
+      "name": "Neo Hunters Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/neoSCa3b4HJR6TF3pVQzph3yrcd97ZMovCVaRC8bRss/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/neohunters",
+        "twitter": "https://twitter.com/neo_hunters",
+        "website": "https://neohunters.io/"
+      }
     }
   ],
   "version": {
