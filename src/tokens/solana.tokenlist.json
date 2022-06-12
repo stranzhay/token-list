@@ -179681,6 +179681,20 @@
       "extensions": {
         "website": "http://theaffordablerentproject.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9Cu2sChBnfCJGKUXXXhuvHbTDiEv9Y7KZqPAtLtVeof3",
+      "symbol": "DS",
+      "name": "Duck Skull",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9Cu2sChBnfCJGKUXXXhuvHbTDiEv9Y7KZqPAtLtVeof3/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/xbDCUaJUgh"
+      }
     }
   ],
   "version": {
