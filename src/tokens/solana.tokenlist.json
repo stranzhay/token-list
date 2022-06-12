@@ -179708,6 +179708,22 @@
         "economic-token",
         "kulturecoin-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "3ev8N5p8jGw1yF6uQkR5zDWWpo6fsAev23RyNwvqzHv3",
+      "symbol": "$TENKA",
+      "name": "Ignite Tournament",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3ev8N5p8jGw1yF6uQkR5zDWWpo6fsAev23RyNwvqzHv3/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "7ctmggF48CzBq6L6JvmcM5KrjfRm4zMir1ycVoFfkd31",
+      "symbol": "CDG",
+      "name": "Crypto Digging Gem",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/quachthanhhmd/token-store/master/assets/cdg.png"
     }
   ],
   "version": {
