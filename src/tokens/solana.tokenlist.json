@@ -179866,6 +179866,17 @@
       "tags": [
         "whitelist-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HQ2YfjamQg5y5utHrhC3ERgJfFFHy7N6nRQeW4WD8F4X",
+      "symbol": "INVC",
+      "name": "INVERSO COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/INVERSOCoin/CryptoLOGO/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
