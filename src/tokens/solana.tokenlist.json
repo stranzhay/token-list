@@ -179877,6 +179877,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2AovdGs88UWaLgjyzxUepQMGHP8CPHyrXg2hSHpePRen",
+      "symbol": "TakeoWL",
+      "name": "Takeo Cats Whitelist",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/samuKatana/WL_LOGO_TOKEN/wllogo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TakeoNFT",
+        "website": "https://www.takeo.io/"
+      }
     }
   ],
   "version": {
