@@ -179942,6 +179942,17 @@
         "twitter": "https://twitter.com/neo_hunters",
         "website": "https://neohunters.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7zuDvbyjckburc6hASJ7TtXzPFoe9ps4bgq39Zvs4hPg",
+      "symbol": "ICNT",
+      "name": "iConnectandmore Token",
+      "decimals": 0,
+      "logoURI": "https://github.com/iconnectandmore/tokens/blob/main/logo-image-iconn-200x200.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
