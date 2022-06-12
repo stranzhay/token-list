@@ -179663,6 +179663,24 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "27Rd4SZ75RkFDdf2PVX79Z23hzMuZyEBWABkt4Pa3qDB",
+      "symbol": "TARP",
+      "name": "THE AFFORDABLE RENT PROJECT",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/SGTCHIKO/TARP/main/TARP_LOGO.png?token=GHSAT0AAAAAABVCIKZJ2OZXTZ5LTUQ7BWMEYVFOUFQ",
+      "tags": [
+        "Rent",
+        "Apartments",
+        "Home",
+        "Real-Estate",
+        "Rent-is-to-high"
+      ],
+      "extensions": {
+        "website": "http://theaffordablerentproject.com"
+      }
     }
   ],
   "version": {
