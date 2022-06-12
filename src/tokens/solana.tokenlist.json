@@ -179735,6 +179735,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3aKHn2FYrTx2A9vFQwGoeAugcWsA1SJfp44g3AVReRJe",
+      "symbol": "CAST",
+      "name": "The Castle",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3aKHn2FYrTx2A9vFQwGoeAugcWsA1SJfp44g3AVReRJe/logo.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CastleTheKings"
+      }
     }
   ],
   "version": {
