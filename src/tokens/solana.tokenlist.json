@@ -179801,6 +179801,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6wAsMDoZo7oPpvh5wyqmEaQ3PSCsZj3X45LqBUh8myZv",
+      "symbol": "OrbitWL",
+      "name": "Unfrgtn Orbit Whitelist",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6wAsMDoZo7oPpvh5wyqmEaQ3PSCsZj3X45LqBUh8myZv/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/UnfrgtnOrbit",
+        "website": "https://unfrgtn.space"
+      }
     }
   ],
   "version": {
