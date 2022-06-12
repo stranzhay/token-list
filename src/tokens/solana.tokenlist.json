@@ -179816,6 +179816,17 @@
         "twitter": "https://twitter.com/UnfrgtnOrbit",
         "website": "https://unfrgtn.space"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HFtQgjTJPs88q3JBhHrmWYoj985k2eSD3Dsx5RsBRSvc",
+      "symbol": "TAZ",
+      "name": "Taz Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/antar4/TazCoin/main/TazCoin-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
