@@ -179695,6 +179695,19 @@
       "extensions": {
         "discord": "https://discord.gg/xbDCUaJUgh"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "81buE3LLcsURUSR3KG4mJkYTvpGVeyrSES3txNtXgKem",
+      "symbol": "FTKC",
+      "name": "KULTURE Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/micusmedia/MMGCrypto/main/KULTURE_COIN_200.png",
+      "tags": [
+        "social-token",
+        "economic-token",
+        "kulturecoin-token"
+      ]
     }
   ],
   "version": {
