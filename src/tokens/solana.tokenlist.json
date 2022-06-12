@@ -179779,6 +179779,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "odfLnBGecR5jmzd2aLvqRP1BHAQybAwCK2bCtbQbmZ5",
+      "symbol": "$LTE",
+      "name": "Listen to Earn",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/gthiktm/-LTE/main/tokenicon.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
