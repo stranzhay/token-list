@@ -179827,6 +179827,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8Tjjm9zB8sLJNFNALq7MRrnL9ygY354XX7dV4zkcb4Tj",
+      "symbol": "Rev-WL",
+      "name": "Re-Evolution Whitelist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Tjjm9zB8sLJNFNALq7MRrnL9ygY354XX7dV4zkcb4Tj/RevWLIcon.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Re_EvolutionNFT"
+      }
     }
   ],
   "version": {
