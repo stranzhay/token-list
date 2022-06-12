@@ -179735,6 +179735,31 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3aKHn2FYrTx2A9vFQwGoeAugcWsA1SJfp44g3AVReRJe",
+      "symbol": "CAST",
+      "name": "The Castle",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3aKHn2FYrTx2A9vFQwGoeAugcWsA1SJfp44g3AVReRJe/logo.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CastleTheKings"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BWMkZUCaG23uHUTEUC9S32cimW9p8qaKMHj2vEfskHtr",
+      "symbol": "$points",
+      "name": "Mammadhuseynov",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jaknve/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
