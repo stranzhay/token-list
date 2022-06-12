@@ -179643,6 +179643,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GvmTHnBcj6t9uRShDggjJfAFEWs3wJpEpNYAAAPwuu8N",
+      "symbol": "SNOW",
+      "name": "Nan Feng Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GvmTHnBcj6t9uRShDggjJfAFEWs3wJpEpNYAAAPwuu8N/logo.png"
     }
   ],
   "version": {
