@@ -179855,6 +179855,17 @@
       "extensions": {
         "website": "https://musicq.club/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FWzbsdoXocZHiDAUhtC3ur3kMusnWMjJYye29R4GuxcQ",
+      "symbol": "SXWT",
+      "name": "SolExpress Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SEPAD12/Logo/main/SE-Logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
     }
   ],
   "version": {
