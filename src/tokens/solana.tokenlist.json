@@ -179749,6 +179749,17 @@
       "extensions": {
         "twitter": "https://twitter.com/CastleTheKings"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BWMkZUCaG23uHUTEUC9S32cimW9p8qaKMHj2vEfskHtr",
+      "symbol": "$points",
+      "name": "Mammadhuseynov",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/jaknve/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
