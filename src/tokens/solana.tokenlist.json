@@ -179907,6 +179907,17 @@
         "twitter": "https://twitter.com/TakeoNFT",
         "website": "https://www.takeo.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6PA4dYYF654sfUK1eDd2RCihbF6L71JyGoyAfcUb9V5u",
+      "symbol": "BECCA",
+      "name": "Becca Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Dakender/Becca-Coin/main/logo-becca.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
