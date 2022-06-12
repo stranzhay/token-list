@@ -179841,6 +179841,20 @@
       "extensions": {
         "twitter": "https://twitter.com/Re_EvolutionNFT"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HCpyiCXvziKByTGoQMLUmooAWBkCLvZmzB9D6TyPdACR",
+      "symbol": "qdot",
+      "name": "qdot",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/CleverChuk/qdot@main/assets/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://musicq.club/"
+      }
     }
   ],
   "version": {
