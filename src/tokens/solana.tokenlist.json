@@ -179918,6 +179918,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ESVGBqewDDcmY9WYX9LekSy8E1v8Q8sXXK5WkQAtCWRM",
+      "symbol": "ITC",
+      "name": "InventorsCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ESVGBqewDDcmY9WYX9LekSy8E1v8Q8sXXK5WkQAtCWRM/logo.png"
     }
   ],
   "version": {
