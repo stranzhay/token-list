@@ -179892,6 +179892,21 @@
         "twitter": "https://twitter.com/TakeoNFT",
         "website": "https://www.takeo.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BdWjY3KPmr5KjrXRyaWr3K7gA9KFdjugcEodjpTDSxx",
+      "symbol": "TakeoCatsWL",
+      "name": "Takeo Whitelist",
+      "decimals": 0,
+      "logoURI": "https://cdn.jsdelivr.net/gh/samuKatana/WL_LOGO_TOKEN/wllogo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TakeoNFT",
+        "website": "https://www.takeo.io/"
+      }
     }
   ],
   "version": {
