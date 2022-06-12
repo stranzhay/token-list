@@ -179790,6 +179790,17 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ExH7L93cNaB1jJcExTf8anwGQ7VbBg6zGvAowQ85Hcu7",
+      "symbol": "HCHI",
+      "name": "HaechiCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/yuujinhwng/crypto/main/haechilogos.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
