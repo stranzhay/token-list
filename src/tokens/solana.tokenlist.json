@@ -177717,6 +177717,36 @@
     },
     {
       "chainId": 101,
+      "address": "2nmwnHy3mg7sVdKszSYfgT1hdAMEv168oYgEimSufwdW",
+      "symbol": "PZHDOG",
+      "name": "Pizza Headz OG Pielist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2nmwnHy3mg7sVdKszSYfgT1hdAMEv168oYgEimSufwdW/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/PizzaHeadzNFT",
+        "website": "https://www.pizzaheadz.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FsHfCRt4A5aiVEgY2Daxqf24vuMCQepJvydkb4Yc8QAd",
+      "symbol": "PZHDPL",
+      "name": "Pizza Headz Pielist",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FsHfCRt4A5aiVEgY2Daxqf24vuMCQepJvydkb4Yc8QAd/logo.png",
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/PizzaHeadzNFT",
+        "website": "https://www.pizzaheadz.io/"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "DDthcF7L3ALPZGk3WKbKEBxhXceTtVXZshD9qSFJKfGd",
       "symbol": "SOUL",
       "name": "SOUL",
